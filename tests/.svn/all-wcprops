@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/79/trunk/aigo/AIGO-1.0/tests
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/79/trunk/aigo/AIGO-1.0/tests/__init__.py
+END
+testAIGO.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/79/trunk/aigo/AIGO-1.0/tests/testAIGO.py
+END
+platypus.refSet
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/79/trunk/aigo/AIGO-1.0/tests/platypus.refSet
+END
+platypus.gaf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/79/trunk/aigo/AIGO-1.0/tests/platypus.gaf
+END
+go_daily-termdb.obo-xml.gz
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/79/trunk/aigo/AIGO-1.0/tests/go_daily-termdb.obo-xml.gz
+END

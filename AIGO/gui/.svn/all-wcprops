@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/79/trunk/aigo/AIGO-1.0/AIGO/gui
+END
+gui.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/79/trunk/aigo/AIGO-1.0/AIGO/gui/gui.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/79/trunk/aigo/AIGO-1.0/AIGO/gui/main.py
+END
+cross.png
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/79/trunk/aigo/AIGO-1.0/AIGO/gui/cross.png
+END
+grid.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/64/trunk/aigo/AIGO-1.0/AIGO/gui/grid.py
+END
+popups.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/64/trunk/aigo/AIGO-1.0/AIGO/gui/popups.py
+END
+debug.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/45/trunk/aigo/AIGO-1.0/AIGO/gui/debug.py
+END
+project.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/70/trunk/aigo/AIGO-1.0/AIGO/gui/project.py
+END
+check.png
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/79/trunk/aigo/AIGO-1.0/AIGO/gui/check.png
+END
+AIGO.png
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/79/trunk/aigo/AIGO-1.0/AIGO/gui/AIGO.png
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/aigo/AIGO-1.0/AIGO/gui/__init__.py
+END
+app.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/79/trunk/aigo/AIGO-1.0/AIGO/gui/app.py
+END
+gui.wxg
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/65/trunk/aigo/AIGO-1.0/AIGO/gui/gui.wxg
+END

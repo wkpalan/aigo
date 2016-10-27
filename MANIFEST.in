@@ -1,0 +1,4 @@
+include *.txt *.png
+recursive-include docs *.txt 
+recursive-include AIGO *.png
+recursive-include tests *.*

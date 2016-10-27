@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/72/trunk/aigo/AIGO-1.0/AIGO/examples
+END
+compareWheatPipelines.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/71/trunk/aigo/AIGO-1.0/AIGO/examples/compareWheatPipelines.py
+END
+compareRiceAffymetrixReleases.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/71/trunk/aigo/AIGO-1.0/AIGO/examples/compareRiceAffymetrixReleases.py
+END
+compareSimilarity.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/71/trunk/aigo/AIGO-1.0/AIGO/examples/compareSimilarity.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12/trunk/aigo/AIGO-1.0/AIGO/examples/__init__.py
+END
+testAIGO.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/68/trunk/aigo/AIGO-1.0/AIGO/examples/testAIGO.py
+END
+compareBovinePipelines.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/72/trunk/aigo/AIGO-1.0/AIGO/examples/compareBovinePipelines.py
+END
+testSCOP.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/60/trunk/aigo/AIGO-1.0/AIGO/examples/testSCOP.py
+END
+compareEvidenceCode.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/71/trunk/aigo/AIGO-1.0/AIGO/examples/compareEvidenceCode.py
+END
