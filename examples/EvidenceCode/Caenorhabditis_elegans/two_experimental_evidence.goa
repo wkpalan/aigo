@@ -1,0 +1,504 @@
+!gaf-version: 2.0
+UniProtKB	Q9BMN8	ptp-3		GO:0005912	PMID:11959824	IMP		C	Tyrosine-protein phosphatase Lar-like	ptp-3|C09D8.1/C09D8.2|LAR_CAEEL|Q09434|Q17859|Q20137|Q9BMN7	protein	taxon:6239	20020516	UniProtKB		
+UniProtKB	Q9BMN8	ptp-3		GO:0005912	PMID:11959824	IDA		C	Tyrosine-protein phosphatase Lar-like	ptp-3|C09D8.1/C09D8.2|LAR_CAEEL|Q09434|Q17859|Q20137|Q9BMN7	protein	taxon:6239	20060718	WormBase		
+UniProtKB	Q93646	stn-1		GO:0016010	PMID:12234669	IMP		C	Syntrophin-1	stn-1|F30A10.8|SNT1_CAEEL|Q9XVP8	protein	taxon:6239	20041001	UniProtKB		
+UniProtKB	Q93646	stn-1		GO:0016010	PMID:14499607	IPI		C	Syntrophin-1	stn-1|F30A10.8|SNT1_CAEEL|Q9XVP8	protein	taxon:6239	20100316	WormBase		
+UniProtKB	Q27487	ctl-2		GO:0004096	PMID:10335847	IMP		F	Peroxisomal catalase 1	ctl-2|Y54G11A.5|cat|cat-1|CATA1_CAEEL|O18192|Q9XVZ5	protein	taxon:6239	20020624	UniProtKB		
+UniProtKB	Q27487	ctl-2		GO:0004096	PMID:10691967	IDA		F	Peroxisomal catalase 1	ctl-2|Y54G11A.5|cat|cat-1|CATA1_CAEEL|O18192|Q9XVZ5	protein	taxon:6239	20060519	WormBase		
+UniProtKB	Q27487	ctl-2		GO:0004096	PMID:14996832	IMP		F	Peroxisomal catalase 1	ctl-2|Y54G11A.5|cat|cat-1|CATA1_CAEEL|O18192|Q9XVZ5	protein	taxon:6239	20080415	WormBase		
+UniProtKB	Q17941	akt-1		GO:0005516	PMID:17580302	IDA		F	Serine/threonine-protein kinase akt-1	akt-1|C12D8.10|AKT1_CAEEL|Q17942|Q8MQE0	protein	taxon:6239	20071030	WormBase		
+UniProtKB	Q17941	akt-1		GO:0005516	PMID:17854888	IPI	UniProtKB:P62157	F	Serine/threonine-protein kinase akt-1	akt-1|C12D8.10|AKT1_CAEEL|Q17942|Q8MQE0	protein	taxon:6239	20100504	WormBase		
+UniProtKB	P38433	ace-1		GO:0003990	PMID:10438595	IMP		F	Acetylcholinesterase 1	ace-1|W09B12.1|ACE1_CAEEL	protein	taxon:6239	20060925	WormBase		
+UniProtKB	P38433	ace-1		GO:0003990	PMID:8144590	IDA		F	Acetylcholinesterase 1	ace-1|W09B12.1|ACE1_CAEEL	protein	taxon:6239	20061016	WormBase		
+UniProtKB	P38433	ace-1		GO:0003990	PMID:10891266	IDA		F	Acetylcholinesterase 1	ace-1|W09B12.1|ACE1_CAEEL	protein	taxon:6239	20061016	WormBase		
+UniProtKB	Q22036	tra-3		GO:0004197	PMID:10783162	IMP		F	Calpain-5	tra-3|LLC1.1|clp-5|CAN5_CAEEL	protein	taxon:6239	20040916	UniProtKB		
+UniProtKB	Q22036	tra-3		GO:0004197	PMID:10783162	IDA		F	Calpain-5	tra-3|LLC1.1|clp-5|CAN5_CAEEL	protein	taxon:6239	20070409	WormBase		
+UniProtKB	Q27487	ctl-2		GO:0004601	PMID:10691967	IDA		F	Peroxisomal catalase 1	ctl-2|Y54G11A.5|cat|cat-1|CATA1_CAEEL|O18192|Q9XVZ5	protein	taxon:6239	20060519	WormBase		
+UniProtKB	Q27487	ctl-2		GO:0004601	PMID:10335847	IMP		F	Peroxisomal catalase 1	ctl-2|Y54G11A.5|cat|cat-1|CATA1_CAEEL|O18192|Q9XVZ5	protein	taxon:6239	20020624	UniProtKB		
+UniProtKB	O44740	mei-2		GO:0005515	PMID:14704431	IPI	UniProtKB:P34808	F	Meiotic spindle formation protein 2	mei-2|F57B10.12|MEI2_CAEEL	protein	taxon:6239	20101116	IntAct		
+UniProtKB	O44740	mei-2		GO:0005515	PMID:10809666	IDA		F	Meiotic spindle formation protein 2	mei-2|F57B10.12|MEI2_CAEEL	protein	taxon:6239	20061026	WormBase		
+UniProtKB	O44740	mei-2		GO:0005515	PMID:14704431	IPI	UniProtKB:O02053	F	Meiotic spindle formation protein 2	mei-2|F57B10.12|MEI2_CAEEL	protein	taxon:6239	20101116	IntAct		
+UniProtKB	O44740	mei-2		GO:0005515	PMID:14704431	IPI	UniProtKB:Q21648	F	Meiotic spindle formation protein 2	mei-2|F57B10.12|MEI2_CAEEL	protein	taxon:6239	20101116	IntAct		
+UniProtKB	O44740	mei-2		GO:0005515	PMID:14704431	IPI	UniProtKB:O18191	F	Meiotic spindle formation protein 2	mei-2|F57B10.12|MEI2_CAEEL	protein	taxon:6239	20101116	IntAct		
+UniProtKB	O61371	ace-2		GO:0003990	PMID:10438595	IMP		F	Abnormal acetylcholinesterase protein 2	ace-2|Y44E3A.2|O61371_CAEEL|Q9TXY7	protein	taxon:6239	20060925	WormBase		
+UniProtKB	O61371	ace-2		GO:0003990	PMID:10891266	IDA		F	Abnormal acetylcholinesterase protein 2	ace-2|Y44E3A.2|O61371_CAEEL|Q9TXY7	protein	taxon:6239	20061016	WormBase		
+UniProtKB	Q9U3C6	hpl-2		GO:0000003	PMID:11850401	IMP		P	Protein K01G5.2c, confirmed by transcript evidence	hpl-2|K01G5.2|K01G5.2c|Q9U3C6_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9U3C6	hpl-2		GO:0000003	PMID:16905130	IGI		P	Protein K01G5.2c, confirmed by transcript evidence	hpl-2|K01G5.2|K01G5.2c|Q9U3C6_CAEEL	protein	taxon:6239	20070510	WormBase		
+UniProtKB	Q9U3C6	hpl-2		GO:0000003	PMID:16890929	IMP		P	Protein K01G5.2c, confirmed by transcript evidence	hpl-2|K01G5.2|K01G5.2c|Q9U3C6_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q21591	atg-7		GO:0008340	PMID:17204841	IMP		P	Protein M7.5, confirmed by transcript evidence	atg-7|M7.5|atgr-7|Q21591_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q21591	atg-7		GO:0008340	PMID:17912023	IGI		P	Protein M7.5, confirmed by transcript evidence	atg-7|M7.5|atgr-7|Q21591_CAEEL	protein	taxon:6239	20080214	WormBase		
+UniProtKB	P38433	ace-1		GO:0006581	PMID:7835425	IDA		P	Acetylcholinesterase 1	ace-1|W09B12.1|ACE1_CAEEL	protein	taxon:6239	20100201	WormBase		
+UniProtKB	P38433	ace-1		GO:0006581	PMID:10438595	IMP		P	Acetylcholinesterase 1	ace-1|W09B12.1|ACE1_CAEEL	protein	taxon:6239	20060925	WormBase		
+UniProtKB	P38433	ace-1		GO:0006581	PMID:10891266	IDA		P	Acetylcholinesterase 1	ace-1|W09B12.1|ACE1_CAEEL	protein	taxon:6239	20061016	WormBase		
+UniProtKB	Q09432	nhx-2		GO:0040010	PMID:12939266	IGI		P	Sodium/hydrogen exchanger	nhx-2|B0495.4|Q09432_CAEEL	protein	taxon:6239	20060203	WormBase		
+UniProtKB	Q09432	nhx-2		GO:0040010	PMID:12529635	IMP		P	Sodium/hydrogen exchanger	nhx-2|B0495.4|Q09432_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q03206	ced-10		GO:0016477	PMID:16204220	IGI		P	Ras-related protein ced-10	ced-10|rac-1|C09G12.8|RAC1_CAEEL|O44463|O44464	protein	taxon:6239	20080324	WormBase		
+UniProtKB	Q03206	ced-10		GO:0016477	PMID:11784116	IMP		P	Ras-related protein ced-10	ced-10|rac-1|C09G12.8|RAC1_CAEEL|O44463|O44464	protein	taxon:6239	20060606	WormBase		
+UniProtKB	Q03206	ced-10		GO:0016477	PMID:10707082	IMP		P	Ras-related protein ced-10	ced-10|rac-1|C09G12.8|RAC1_CAEEL|O44463|O44464	protein	taxon:6239	20060606	WormBase		
+UniProtKB	Q21219	pept-1		GO:0008340	PMID:12845331	IMP		P	Peptide transporter family 1	pept-1|cptb|K04E7.2|pep-2|PEPT1_CAEEL|O76186	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q21219	pept-1		GO:0008340	PMID:12939266	IMP		P	Peptide transporter family 1	pept-1|cptb|K04E7.2|pep-2|PEPT1_CAEEL|O76186	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q21219	pept-1		GO:0008340	PMID:15155758	IGI		P	Peptide transporter family 1	pept-1|cptb|K04E7.2|pep-2|PEPT1_CAEEL|O76186	protein	taxon:6239	20071012	WormBase		
+UniProtKB	Q10929	abi-1		GO:0043652	PMID:18938151	IMP		P	Abl interactor homolog protein 1	abi-1|B0336.6|Q10929_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q10929	abi-1		GO:0043652	PMID:19402756	IGI		P	Abl interactor homolog protein 1	abi-1|B0336.6|Q10929_CAEEL	protein	taxon:6239	20090608	WormBase		
+UniProtKB	O61528	unc-73		GO:0001764	PMID:16204220	IMP		P	Guanine nucleotide exchange factor UNC-73A	unc-73|F55C7.7|O61528_CAEEL|O61529|P91339	protein	taxon:6239	20080324	WormBase		
+UniProtKB	O61528	unc-73		GO:0001764	PMID:9475729	IPI		P	Guanine nucleotide exchange factor UNC-73A	unc-73|F55C7.7|O61528_CAEEL|O61529|P91339	protein	taxon:6239	20080618	WormBase		
+UniProtKB	Q9U3C6	hpl-2		GO:0002119	PMID:11850401	IMP		P	Protein K01G5.2c, confirmed by transcript evidence	hpl-2|K01G5.2|K01G5.2c|Q9U3C6_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9U3C6	hpl-2		GO:0002119	PMID:16905130	IGI		P	Protein K01G5.2c, confirmed by transcript evidence	hpl-2|K01G5.2|K01G5.2c|Q9U3C6_CAEEL	protein	taxon:6239	20070510	WormBase		
+UniProtKB	Q17386	egl-30		GO:0046662	PMID:14704167	IGI		P	EGL-30	egl-30|M01D7.7|Q17386_CAEEL|O02546	protein	taxon:6239	20061019	WormBase		
+UniProtKB	Q17386	egl-30		GO:0046662	PMID:11813735	IMP		P	EGL-30	egl-30|M01D7.7|Q17386_CAEEL|O02546	protein	taxon:6239	20050422	WormBase		
+UniProtKB	Q22311	brc-2		GO:0006302	PMID:15798199	IGI		P	Brca homolog (Tumor suppressor gene brca1) protein 2	brc-2|3H990|T07E3.5|Q22311_CAEEL	protein	taxon:6239	20070508	WormBase		
+UniProtKB	Q22311	brc-2		GO:0006302	PMID:16319925	IMP		P	Brca homolog (Tumor suppressor gene brca1) protein 2	brc-2|3H990|T07E3.5|Q22311_CAEEL	protein	taxon:6239	20070508	WormBase		
+UniProtKB	P22981	let-60		GO:0000003	PMID:11231151	IMP		P	Ras protein let-60	let-60|ZK792.6|lin-34|LET60_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P22981	let-60		GO:0000003	PMID:16845399	IMP		P	Ras protein let-60	let-60|ZK792.6|lin-34|LET60_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P22981	let-60		GO:0000003	PMID:11861555	IGI		P	Ras protein let-60	let-60|ZK792.6|lin-34|LET60_CAEEL	protein	taxon:6239	20070323	WormBase		
+UniProtKB	P22981	let-60		GO:0000003	PMID:17417969	IMP		P	Ras protein let-60	let-60|ZK792.6|lin-34|LET60_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	O02425	sma-1		GO:0040012	PMID:10811831	IGI		P	Protein R31.1a, partially confirmed by transcript evidence	sma-1|R31.1a|R31.1|O02425_CAEEL|O17952|O61612|Q22014	protein	taxon:6239	20070131	WormBase		
+UniProtKB	O02425	sma-1		GO:0040012	PMID:12717735	IMP		P	Protein R31.1a, partially confirmed by transcript evidence	sma-1|R31.1a|R31.1|O02425_CAEEL|O17952|O61612|Q22014	protein	taxon:6239	20061024	WormBase		
+UniProtKB	O02424	dbl-1		GO:0040018	PMID:12397107	IMP		P	Decapentaplegic protein homolog	dbl-1|T25F10.2|O02424_CAEEL|Q23047	protein	taxon:6239	20061024	WormBase		
+UniProtKB	O02424	dbl-1		GO:0040018	PMID:12051826	IGI		P	Decapentaplegic protein homolog	dbl-1|T25F10.2|O02424_CAEEL|Q23047	protein	taxon:6239	20071026	WormBase		
+UniProtKB	O02424	dbl-1		GO:0040018	PMID:15840165	IGI		P	Decapentaplegic protein homolog	dbl-1|T25F10.2|O02424_CAEEL|Q23047	protein	taxon:6239	20060927	WormBase		
+UniProtKB	O02424	dbl-1		GO:0040018	PMID:17240342	IGI		P	Decapentaplegic protein homolog	dbl-1|T25F10.2|O02424_CAEEL|Q23047	protein	taxon:6239	20071026	WormBase		
+UniProtKB	O02424	dbl-1		GO:0040018	PMID:12717735	IMP		P	Decapentaplegic protein homolog	dbl-1|T25F10.2|O02424_CAEEL|Q23047	protein	taxon:6239	20061024	WormBase		
+UniProtKB	O02424	dbl-1		GO:0040018	PMID:11784045	IMP		P	Decapentaplegic protein homolog	dbl-1|T25F10.2|O02424_CAEEL|Q23047	protein	taxon:6239	20060831	WormBase		
+UniProtKB	Q21219	pept-1		GO:0002119	PMID:14551910	IMP		P	Peptide transporter family 1	pept-1|cptb|K04E7.2|pep-2|PEPT1_CAEEL|O76186	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q21219	pept-1		GO:0002119	PMID:12939266	IMP		P	Peptide transporter family 1	pept-1|cptb|K04E7.2|pep-2|PEPT1_CAEEL|O76186	protein	taxon:6239	20060203	WormBase		
+UniProtKB	Q21219	pept-1		GO:0002119	PMID:15155758	IGI		P	Peptide transporter family 1	pept-1|cptb|K04E7.2|pep-2|PEPT1_CAEEL|O76186	protein	taxon:6239	20071012	WormBase		
+UniProtKB	P45897	sma-4		GO:0040018	PMID:12051826	IGI		P	Dwarfin sma-4	sma-4|cem-3|R12B2.1|SMA4_CAEEL	protein	taxon:6239	20061004	WormBase		
+UniProtKB	P45897	sma-4		GO:0040018	PMID:12717735	IMP		P	Dwarfin sma-4	sma-4|cem-3|R12B2.1|SMA4_CAEEL	protein	taxon:6239	20061024	WormBase		
+UniProtKB	P45897	sma-4		GO:0040018	PMID:12529635	IMP		P	Dwarfin sma-4	sma-4|cem-3|R12B2.1|SMA4_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P45897	sma-4		GO:0040018	PMID:12397107	IMP		P	Dwarfin sma-4	sma-4|cem-3|R12B2.1|SMA4_CAEEL	protein	taxon:6239	20061020	WormBase		
+UniProtKB	P45896	sma-3		GO:0040018	PMID:12717735	IMP		P	Dwarfin sma-3	sma-3|cem-2|R13F6.9|SMA3_CAEEL	protein	taxon:6239	20061024	WormBase		
+UniProtKB	P45896	sma-3		GO:0040018	PMID:12397107	IMP		P	Dwarfin sma-3	sma-3|cem-2|R13F6.9|SMA3_CAEEL	protein	taxon:6239	20061020	WormBase		
+UniProtKB	P45896	sma-3		GO:0040018	PMID:14551910	IMP		P	Dwarfin sma-3	sma-3|cem-2|R13F6.9|SMA3_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P45896	sma-3		GO:0040018	PMID:12051826	IGI		P	Dwarfin sma-3	sma-3|cem-2|R13F6.9|SMA3_CAEEL	protein	taxon:6239	20061004	WormBase		
+UniProtKB	P45896	sma-3		GO:0040018	PMID:12529635	IMP		P	Dwarfin sma-3	sma-3|cem-2|R13F6.9|SMA3_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q02330	sma-2		GO:0040018	PMID:12717735	IMP		P	Dwarfin sma-2	sma-2|cem-1|PAR2.2|ZK370.2/ZK370.1|SMA2_CAEEL|Q02329	protein	taxon:6239	20061024	WormBase		
+UniProtKB	Q02330	sma-2		GO:0040018	PMID:12051826	IGI		P	Dwarfin sma-2	sma-2|cem-1|PAR2.2|ZK370.2/ZK370.1|SMA2_CAEEL|Q02329	protein	taxon:6239	20061004	WormBase		
+UniProtKB	Q9GZC8	sid-1		GO:0016246	PMID:11834782	IMP		P	Systemic RNA interference defective protein 1	sid-1|C04F5.1|SID1_CAEEL	protein	taxon:6239	20041019	WormBase		
+UniProtKB	Q9GZC8	sid-1		GO:0016246	PMID:12970568	IDA		P	Systemic RNA interference defective protein 1	sid-1|C04F5.1|SID1_CAEEL	protein	taxon:6239	20080627	WormBase		
+UniProtKB	Q9GZC8	sid-1		GO:0016246	PMID:11834782	IEP		P	Systemic RNA interference defective protein 1	sid-1|C04F5.1|SID1_CAEEL	protein	taxon:6239	20040108	UniProtKB		
+UniProtKB	Q93356	ceh-37		GO:0048665	PMID:14536063	IMP		P	Homeobox protein ceh-37	ceh-37|C37E2.5|HM37_CAEEL|P90773	protein	taxon:6239	20081103	WormBase		
+UniProtKB	Q93356	ceh-37		GO:0048665	PMID:14536063	IEP		P	Homeobox protein ceh-37	ceh-37|C37E2.5|HM37_CAEEL|P90773	protein	taxon:6239	20090611	UniProtKB		
+UniProtKB	Q22227	mig-5		GO:0000132	PMID:16899238	IMP		P	Protein T05C12.6a, confirmed by transcript evidence	mig-5|T05C12.6a|T05C12.6|Q22227_CAEEL	protein	taxon:6239	20100311	WormBase		
+UniProtKB	Q22227	mig-5		GO:0000132	PMID:12110172	IGI		P	Protein T05C12.6a, confirmed by transcript evidence	mig-5|T05C12.6a|T05C12.6|Q22227_CAEEL	protein	taxon:6239	20100316	WormBase		
+UniProtKB	Q03206	ced-10		GO:0002119	PMID:17417969	IMP		P	Ras-related protein ced-10	ced-10|rac-1|C09G12.8|RAC1_CAEEL|O44463|O44464	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q03206	ced-10		GO:0002119	PMID:16204220	IGI		P	Ras-related protein ced-10	ced-10|rac-1|C09G12.8|RAC1_CAEEL|O44463|O44464	protein	taxon:6239	20080324	WormBase		
+UniProtKB	Q9U3A6	dab-1		GO:0009792	PMID:17417969	IMP		P	Protein M110.5b, confirmed by transcript evidence	dab-1|M110.5b|M110.5B|M110.5|Q9U3A6_CAEEL|Q9U3A5|Q9U3A7	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9U3A6	dab-1		GO:0009792	PMID:16481471	IMP		P	Protein M110.5b, confirmed by transcript evidence	dab-1|M110.5b|M110.5B|M110.5|Q9U3A6_CAEEL|Q9U3A5|Q9U3A7	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9U3A6	dab-1		GO:0009792	PMID:14551910	IMP		P	Protein M110.5b, confirmed by transcript evidence	dab-1|M110.5b|M110.5B|M110.5|Q9U3A6_CAEEL|Q9U3A5|Q9U3A7	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9U3A6	dab-1		GO:0009792	PMID:17636000	IGI		P	Protein M110.5b, confirmed by transcript evidence	dab-1|M110.5b|M110.5B|M110.5|Q9U3A6_CAEEL|Q9U3A5|Q9U3A7	protein	taxon:6239	20071130	WormBase		
+UniProtKB	Q9U3A6	dab-1		GO:0009792	PMID:12529635	IMP		P	Protein M110.5b, confirmed by transcript evidence	dab-1|M110.5b|M110.5B|M110.5|Q9U3A6_CAEEL|Q9U3A5|Q9U3A7	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q17551	rpm-1		GO:0050807	PMID:10839353	IMP		P	E3 ubiquitin-protein ligase rpm-1	rpm-1|syd-3|C01B7.6|RPM1_CAEEL	protein	taxon:6239	20071126	WormBase		
+UniProtKB	Q17551	rpm-1		GO:0050807	PMID:10839354	IMP		P	E3 ubiquitin-protein ligase rpm-1	rpm-1|syd-3|C01B7.6|RPM1_CAEEL	protein	taxon:6239	20071126	WormBase		
+UniProtKB	Q17551	rpm-1		GO:0050807	PMID:15707898	IGI		P	E3 ubiquitin-protein ligase rpm-1	rpm-1|syd-3|C01B7.6|RPM1_CAEEL	protein	taxon:6239	20061010	WormBase		
+UniProtKB	O01501	cye-1		GO:0000082	PMID:10952902	IMP		P	G1/S-specific cyclin-E	cye-1|C37A2.4|CCNE_CAEEL|O77098|Q86FL2	protein	taxon:6239	20060203	WormBase		
+UniProtKB	O01501	cye-1		GO:0000082	PMID:12606285	IDA		P	G1/S-specific cyclin-E	cye-1|C37A2.4|CCNE_CAEEL|O77098|Q86FL2	protein	taxon:6239	20030512	UniProtKB		
+UniProtKB	O61371	ace-2		GO:0006581	PMID:10891266	IDA		P	Abnormal acetylcholinesterase protein 2	ace-2|Y44E3A.2|O61371_CAEEL|Q9TXY7	protein	taxon:6239	20061016	WormBase		
+UniProtKB	O61371	ace-2		GO:0006581	PMID:10438595	IMP		P	Abnormal acetylcholinesterase protein 2	ace-2|Y44E3A.2|O61371_CAEEL|Q9TXY7	protein	taxon:6239	20060925	WormBase		
+UniProtKB	Q20578	alg-1		GO:0002119	PMID:11461699	IGI		P	Protein F48F7.1a, confirmed by transcript evidence	alg-1|F48F7.1|F48F7.1a|Q20578_CAEEL|Q21129	protein	taxon:6239	20060130	WormBase		
+UniProtKB	Q20578	alg-1		GO:0002119	PMID:14551910	IMP		P	Protein F48F7.1a, confirmed by transcript evidence	alg-1|F48F7.1|F48F7.1a|Q20578_CAEEL|Q21129	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q968Y9	daf-2		GO:0042992	PMID:11381260	IGI		P	Insulin-like receptor	daf-2|Y55D5A.5|INSR_CAEEL|B5QS63|O16131	protein	taxon:6239	20060203	WormBase		
+UniProtKB	Q968Y9	daf-2		GO:0042992	PMID:18358814	IMP		P	Insulin-like receptor	daf-2|Y55D5A.5|INSR_CAEEL|B5QS63|O16131	protein	taxon:6239	20080819	WormBase		
+UniProtKB	Q8I4N4	daf-11		GO:0040024	PMID:11677050	IGI		P	Protein B0240.3, partially confirmed by transcript evidence	daf-11|B0240.3|Q8I4N4_CAEEL	protein	taxon:6239	20060420	WormBase		
+UniProtKB	Q8I4N4	daf-11		GO:0040024	PMID:10625546	IGI		P	Protein B0240.3, partially confirmed by transcript evidence	daf-11|B0240.3|Q8I4N4_CAEEL	protein	taxon:6239	20061017	WormBase		
+UniProtKB	Q8I4N4	daf-11		GO:0040024	PMID:10790386	IMP		P	Protein B0240.3, partially confirmed by transcript evidence	daf-11|B0240.3|Q8I4N4_CAEEL	protein	taxon:6239	20071107	WormBase		
+UniProtKB	Q21017	kin-29		GO:0040024	PMID:15840165	IGI		P	Serine/threonine-protein kinase kin-29	kin-29|sma-11|F58H12.1|KIN29_CAEEL	protein	taxon:6239	20060927	WormBase		
+UniProtKB	Q21017	kin-29		GO:0040024	PMID:12717735	IMP		P	Serine/threonine-protein kinase kin-29	kin-29|sma-11|F58H12.1|KIN29_CAEEL	protein	taxon:6239	20061024	WormBase		
+UniProtKB	Q21017	kin-29		GO:0040018	PMID:15840165	IGI		P	Serine/threonine-protein kinase kin-29	kin-29|sma-11|F58H12.1|KIN29_CAEEL	protein	taxon:6239	20060927	WormBase		
+UniProtKB	Q21017	kin-29		GO:0040018	PMID:12717735	IMP		P	Serine/threonine-protein kinase kin-29	kin-29|sma-11|F58H12.1|KIN29_CAEEL	protein	taxon:6239	20061024	WormBase		
+UniProtKB	Q8MQ04	zen-4		GO:0031991	PMID:9693365	IMP		P	Zygotic epidermal enclosure defective protein 4, isoform c	M03D4.1|zen-4|Q8MQ04_CAEEL	protein	taxon:6239	20080304	WormBase		
+UniProtKB	Q8MQ04	zen-4		GO:0031991	PMID:11050384	IGI		P	Zygotic epidermal enclosure defective protein 4, isoform c	M03D4.1|zen-4|Q8MQ04_CAEEL	protein	taxon:6239	20080305	WormBase		
+UniProtKB	Q09624	lov-1		GO:0007617	PMID:15563610	IMP		P	Location of vulva defective 1	lov-1|pkd-1|ZK945.9/ZK945.10|LOV1_CAEEL|Q09625|Q969D4	protein	taxon:6239	20060804	WormBase		
+UniProtKB	Q09624	lov-1		GO:0007617	PMID:11553327	IGI		P	Location of vulva defective 1	lov-1|pkd-1|ZK945.9/ZK945.10|LOV1_CAEEL|Q09625|Q969D4	protein	taxon:6239	20070116	WormBase		
+UniProtKB	Q09624	lov-1		GO:0007617	PMID:10517638	IMP		P	Location of vulva defective 1	lov-1|pkd-1|ZK945.9/ZK945.10|LOV1_CAEEL|Q09625|Q969D4	protein	taxon:6239	20070116	WormBase		
+UniProtKB	Q27242	pha-1		GO:0000003	PMID:16507136	IMP		P	Pha-1 protein	pha-1|pha1|Y48A6C.5|Y48A6C.5a|Q27242_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q27242	pha-1		GO:0000003	PMID:16845399	IMP		P	Pha-1 protein	pha-1|pha1|Y48A6C.5|Y48A6C.5a|Q27242_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q27242	pha-1		GO:0000003	PMID:17417969	IMP		P	Pha-1 protein	pha-1|pha1|Y48A6C.5|Y48A6C.5a|Q27242_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q27242	pha-1		GO:0000003	PMID:15196946	IGI		P	Pha-1 protein	pha-1|pha1|Y48A6C.5|Y48A6C.5a|Q27242_CAEEL	protein	taxon:6239	20070702	WormBase		
+UniProtKB	Q9U298	eat-2		GO:0007274	PMID:15020415	IEP		P	Neuronal acetylcholine receptor subunit eat-2	eat-2|Y48B6A.4|ACH8_CAEEL	protein	taxon:6239	20060421	WormBase		
+UniProtKB	Q9U298	eat-2		GO:0007274	PMID:8462849	IMP		P	Neuronal acetylcholine receptor subunit eat-2	eat-2|Y48B6A.4|ACH8_CAEEL	protein	taxon:6239	20081125	UniProtKB		
+UniProtKB	Q9U3C6	hpl-2		GO:0040027	PMID:11850401	IMP		P	Protein K01G5.2c, confirmed by transcript evidence	hpl-2|K01G5.2|K01G5.2c|Q9U3C6_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9U3C6	hpl-2		GO:0040027	PMID:16905130	IGI		P	Protein K01G5.2c, confirmed by transcript evidence	hpl-2|K01G5.2|K01G5.2c|Q9U3C6_CAEEL	protein	taxon:6239	20070509	WormBase		
+UniProtKB	Q9U3C6	hpl-2		GO:0040010	PMID:16905130	IGI		P	Protein K01G5.2c, confirmed by transcript evidence	hpl-2|K01G5.2|K01G5.2c|Q9U3C6_CAEEL	protein	taxon:6239	20070511	WormBase		
+UniProtKB	Q9U3C6	hpl-2		GO:0040010	PMID:16890929	IMP		P	Protein K01G5.2c, confirmed by transcript evidence	hpl-2|K01G5.2|K01G5.2c|Q9U3C6_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9U3C6	hpl-2		GO:0040010	PMID:11850401	IMP		P	Protein K01G5.2c, confirmed by transcript evidence	hpl-2|K01G5.2|K01G5.2c|Q9U3C6_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P02513	hsp-16.48		GO:0008340	PMID:14668486	IGI		P	Heat shock protein Hsp-16.48/Hsp-16.49	hsp-16.48|hsp-16.49|hsp16-48b|T27E4.9|T27E4.3|hsp16-48|hsp16-48a|hsp16-49|HSP17_CAEEL|Q27922	protein	taxon:6239	20070727	WormBase		
+UniProtKB	P02513	hsp-16.48		GO:0008340	PMID:12845331	IMP		P	Heat shock protein Hsp-16.48/Hsp-16.49	hsp-16.48|hsp-16.49|hsp16-48b|T27E4.9|T27E4.3|hsp16-48|hsp16-48a|hsp16-49|HSP17_CAEEL|Q27922	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P50488	daf-4		GO:0040024	PMID:15254038	IMP		P	Cell surface receptor daf-4	daf-4|C05D2.1|DAF4_CAEEL|O45139	protein	taxon:6239	20061004	WormBase		
+UniProtKB	P50488	daf-4		GO:0040024	PMID:12717735	IMP		P	Cell surface receptor daf-4	daf-4|C05D2.1|DAF4_CAEEL|O45139	protein	taxon:6239	20061024	WormBase		
+UniProtKB	P50488	daf-4		GO:0040024	PMID:10625546	IMP		P	Cell surface receptor daf-4	daf-4|C05D2.1|DAF4_CAEEL|O45139	protein	taxon:6239	20061107	WormBase		
+UniProtKB	P50488	daf-4		GO:0040024	PMID:8413626	IMP		P	Cell surface receptor daf-4	daf-4|C05D2.1|DAF4_CAEEL|O45139	protein	taxon:6239	20061107	WormBase		
+UniProtKB	P50488	daf-4		GO:0040024	PMID:10887089	IGI		P	Cell surface receptor daf-4	daf-4|C05D2.1|DAF4_CAEEL|O45139	protein	taxon:6239	20061004	WormBase		
+UniProtKB	Q23541	rbr-2		GO:0034720	PMID:20555324	IMP		P	Lysine-specific demethylase rbr-2	rbr-2|ZK593.4|KDM5_CAEEL	protein	taxon:6239	20100921	WormBase		
+UniProtKB	Q23541	rbr-2		GO:0034720	PMID:17320161	IDA		P	Lysine-specific demethylase rbr-2	rbr-2|ZK593.4|KDM5_CAEEL	protein	taxon:6239	20100921	WormBase		
+UniProtKB	A5JYS0	pcs-1		GO:0071585	PMID:11313333	IGI		P	Protein F54D5.1a, confirmed by transcript evidence	pcs-1|F54D5.1|F54D5.1a|A5JYS0_CAEEL	protein	taxon:6239	20100312	WormBase		
+UniProtKB	A5JYS0	pcs-1		GO:0071585	PMID:20221439	IMP		P	Protein F54D5.1a, confirmed by transcript evidence	pcs-1|F54D5.1|F54D5.1a|A5JYS0_CAEEL	protein	taxon:6239	20100312	WormBase		
+UniProtKB	Q95QH7	snt-1		GO:0043051	PMID:17321753	IMP		P	Synaptotagmin protein 1, isoform b	snt-1|F31E8.2|Q95QH7_CAEEL	protein	taxon:6239	20070416	WormBase		
+UniProtKB	Q95QH7	snt-1		GO:0043051	PMID:15914662	IGI		P	Synaptotagmin protein 1, isoform b	snt-1|F31E8.2|Q95QH7_CAEEL	protein	taxon:6239	20061130	WormBase		
+UniProtKB	P30630	lin-9		GO:0040027	PMID:16905130	IGI		P	Protein lin-9	lin-9|ZK637.7|LIN9_CAEEL|Q9NB37|Q9NB38	protein	taxon:6239	20070510	WormBase		
+UniProtKB	P30630	lin-9		GO:0040027	PMID:15990876	IMP		P	Protein lin-9	lin-9|ZK637.7|LIN9_CAEEL|Q9NB37|Q9NB38	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P30630	lin-9		GO:0040027	PMID:7262539	IGI		P	Protein lin-9	lin-9|ZK637.7|LIN9_CAEEL|Q9NB37|Q9NB38	protein	taxon:6239	20060201	WormBase		
+UniProtKB	P30630	lin-9		GO:0040027	PMID:16890929	IMP		P	Protein lin-9	lin-9|ZK637.7|LIN9_CAEEL|Q9NB37|Q9NB38	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P48376	clk-1		GO:0008340	PMID:12709403	IMP		P	Ubiquinone biosynthesis protein COQ7 homolog	clk-1|ZC395.2|COQ7_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P48376	clk-1		GO:0008340	PMID:10202142	IMP		P	Ubiquinone biosynthesis protein COQ7 homolog	clk-1|ZC395.2|COQ7_CAEEL	protein	taxon:6239	20060731	WormBase		
+UniProtKB	P48376	clk-1		GO:0008340	PMID:14517217	IGI		P	Ubiquinone biosynthesis protein COQ7 homolog	clk-1|ZC395.2|COQ7_CAEEL	protein	taxon:6239	20070709	WormBase		
+UniProtKB	Q10574	lin-32		GO:0048666	PMID:11076762	IGI		P	Protein lin-32	lin-32|T14F9.5|LIN32_CAEEL	protein	taxon:6239	20070103	WormBase		
+UniProtKB	Q10574	lin-32		GO:0048666	PMID:8187641	IMP		P	Protein lin-32	lin-32|T14F9.5|LIN32_CAEEL	protein	taxon:6239	20050902	WormBase		
+UniProtKB	O16850	daf-16		GO:0008340	PMID:19103192	IDA		P	Forkhead box protein O	daf-16|R13H8.1|FOXO_CAEEL|O16849|O18676|Q86S42	protein	taxon:6239	20091014	UniProtKB		
+UniProtKB	O16850	daf-16		GO:0008340	PMID:11747821	IMP		P	Forkhead box protein O	daf-16|R13H8.1|FOXO_CAEEL|O16849|O18676|Q86S42	protein	taxon:6239	20091012	UniProtKB		
+UniProtKB	O16850	daf-16		GO:0008340	PMID:11381260	IMP		P	Forkhead box protein O	daf-16|R13H8.1|FOXO_CAEEL|O16849|O18676|Q86S42	protein	taxon:6239	20091012	UniProtKB		
+UniProtKB	Q17588	hlh-2		GO:0048666	PMID:11076762	IGI		P	Protein M05B5.5a, confirmed by transcript evidence	hlh-2|M05B5.5|M05B5.5a|Q17588_CAEEL|Q21519	protein	taxon:6239	20070104	WormBase		
+UniProtKB	Q17588	hlh-2		GO:0048666	PMID:14627726	IMP		P	Protein M05B5.5a, confirmed by transcript evidence	hlh-2|M05B5.5|M05B5.5a|Q17588_CAEEL|Q21519	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q18215	eff-1		GO:0000768	PMID:17229888	IMP		P	EFF-1A	eff-1|C26D10.5a|C26D10.5|Q18215_CAEEL	protein	taxon:6239	20070412	WormBase		
+UniProtKB	Q18215	eff-1		GO:0000768	PMID:15866168	IGI		P	EFF-1A	eff-1|C26D10.5a|C26D10.5|Q18215_CAEEL	protein	taxon:6239	20070914	WormBase		
+UniProtKB	O45718	apb-3		GO:0009792	PMID:17636000	IGI		P	Protein R11A5.1a, partially confirmed by transcript evidence	apb-3|R11A5.1a|R11A5.1|O45718_CAEEL	protein	taxon:6239	20071130	WormBase		
+UniProtKB	O45718	apb-3		GO:0009792	PMID:15995364	IMP		P	Protein R11A5.1a, partially confirmed by transcript evidence	apb-3|R11A5.1a|R11A5.1|O45718_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q94132	lin-17		GO:0009786	PMID:15649465	IGI		P	Abnormal cell lineage protein 17, isoform a, confirmed by transcript evidence	lin-17|Y71F9B.5|Q94132_CAEEL	protein	taxon:6239	20060203	WormBase		
+UniProtKB	Q94132	lin-17		GO:0009786	PMID:3181641	IMP		P	Abnormal cell lineage protein 17, isoform a, confirmed by transcript evidence	lin-17|Y71F9B.5|Q94132_CAEEL	protein	taxon:6239	20050804	WormBase		
+UniProtKB	P19626	mlc-2		GO:0002119	PMID:9799259	IGI		P	Myosin regulatory light chain 2	mlc-2|C36E6.5|MLR2_CAEEL	protein	taxon:6239	20061011	WormBase		
+UniProtKB	P19626	mlc-2		GO:0002119	PMID:14551910	IMP		P	Myosin regulatory light chain 2	mlc-2|C36E6.5|MLR2_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q965J5	lin-1		GO:0040025	PMID:7262539	IMP		P	Abnormal cell lineage protein 1	lin-1|C37F5.1|Q965J5_CAEEL|O61805|Q27378	protein	taxon:6239	20060201	WormBase		
+UniProtKB	Q965J5	lin-1		GO:0040025	PMID:11861555	IGI		P	Abnormal cell lineage protein 1	lin-1|C37F5.1|Q965J5_CAEEL|O61805|Q27378	protein	taxon:6239	20070323	WormBase		
+UniProtKB	Q965J5	lin-1		GO:0040025	PMID:9486792	IGI		P	Abnormal cell lineage protein 1	lin-1|C37F5.1|Q965J5_CAEEL|O61805|Q27378	protein	taxon:6239	20060201	WormBase		
+UniProtKB	Q10459	mom-2		GO:0001714	PMID:9288750	IGI		P	Protein mom-2	mom-2|F38E1.7|MOM2_CAEEL|O16146	protein	taxon:6239	20070201	WormBase		
+UniProtKB	Q10459	mom-2		GO:0001714	PMID:9288749	IMP		P	Protein mom-2	mom-2|F38E1.7|MOM2_CAEEL|O16146	protein	taxon:6239	20060203	WormBase		
+UniProtKB	O61213	bli-3		GO:0002119	PMID:14551910	IMP		P	Dual oxidase 1	bli-3|F56C11.1|DUOX1_CAEEL|Q9NH90	protein	taxon:6239	20101004	WormBase		
+UniProtKB	O61213	bli-3		GO:0002119	PMID:15489339	IMP		P	Dual oxidase 1	bli-3|F56C11.1|DUOX1_CAEEL|Q9NH90	protein	taxon:6239	20101004	WormBase		
+UniProtKB	O61213	bli-3		GO:0002119	PMID:11099033	IMP		P	Dual oxidase 1	bli-3|F56C11.1|DUOX1_CAEEL|Q9NH90	protein	taxon:6239	20101004	WormBase		
+UniProtKB	O61213	bli-3		GO:0002119	PMID:19406744	IGI		P	Dual oxidase 1	bli-3|F56C11.1|DUOX1_CAEEL|Q9NH90	protein	taxon:6239	20080820	WormBase		
+UniProtKB	Q9NEW6	rsp-3		GO:0009792	PMID:18945809	IMP		P	Probable splicing factor, arginine/serine-rich 3	Y111B2A.18|rsp-3|RSP3_CAEEL|Q9GQI7	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9NEW6	rsp-3		GO:0009792	PMID:17417969	IMP		P	Probable splicing factor, arginine/serine-rich 3	Y111B2A.18|rsp-3|RSP3_CAEEL|Q9GQI7	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9NEW6	rsp-3		GO:0009792	PMID:10747030	IMP		P	Probable splicing factor, arginine/serine-rich 3	Y111B2A.18|rsp-3|RSP3_CAEEL|Q9GQI7	protein	taxon:6239	20041109	UniProtKB		
+UniProtKB	Q9NEW6	rsp-3		GO:0009792	PMID:15489339	IMP		P	Probable splicing factor, arginine/serine-rich 3	Y111B2A.18|rsp-3|RSP3_CAEEL|Q9GQI7	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9NEW6	rsp-3		GO:0009792	PMID:11091073	IMP		P	Probable splicing factor, arginine/serine-rich 3	Y111B2A.18|rsp-3|RSP3_CAEEL|Q9GQI7	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9NEW6	rsp-3		GO:0009792	PMID:15791247	IMP		P	Probable splicing factor, arginine/serine-rich 3	Y111B2A.18|rsp-3|RSP3_CAEEL|Q9GQI7	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9NEW6	rsp-3		GO:0009792	PMID:12529635	IMP		P	Probable splicing factor, arginine/serine-rich 3	Y111B2A.18|rsp-3|RSP3_CAEEL|Q9GQI7	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9NEW6	rsp-3		GO:0009792	PMID:10747030	IMP		P	Probable splicing factor, arginine/serine-rich 3	Y111B2A.18|rsp-3|RSP3_CAEEL|Q9GQI7	protein	taxon:6239	20041019	WormBase		
+UniProtKB	Q9NEW6	rsp-3		GO:0009792	PMID:14551910	IMP		P	Probable splicing factor, arginine/serine-rich 3	Y111B2A.18|rsp-3|RSP3_CAEEL|Q9GQI7	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9NEW6	rsp-3		GO:0009792	PMID:11091073	IGI	UniProtKB:Q03563	P	Probable splicing factor, arginine/serine-rich 3	Y111B2A.18|rsp-3|RSP3_CAEEL|Q9GQI7	protein	taxon:6239	20041112	UniProtKB		
+UniProtKB	Q9N4Z9	osm-5		GO:0035058	PMID:14520415	IEP		P	OSM-5	osm-5|Y41G9A.1|Q9N4Z9_CAEEL|Q9BMP9	protein	taxon:6239	20080514	BHF-UCL		
+UniProtKB	Q9N4Z9	osm-5		GO:0035058	PMID:11290289	IMP		P	OSM-5	osm-5|Y41G9A.1|Q9N4Z9_CAEEL|Q9BMP9	protein	taxon:6239	20060919	WormBase		
+UniProtKB	Q27395	lin-15B		GO:0040027	PMID:11861555	IGI		P	Protein lin-15B	lin-15B|ZK662.4|LI15B_CAEEL|Q94409|Q94414	protein	taxon:6239	20070323	WormBase		
+UniProtKB	Q27395	lin-15B		GO:0040027	PMID:8054684	IMP		P	Protein lin-15B	lin-15B|ZK662.4|LI15B_CAEEL|Q94409|Q94414	protein	taxon:6239	20061025	UniProtKB		
+UniProtKB	Q27395	lin-15B		GO:0040027	PMID:15990876	IMP		P	Protein lin-15B	lin-15B|ZK662.4|LI15B_CAEEL|Q94409|Q94414	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q27395	lin-15B		GO:0040027	PMID:11850401	IMP		P	Protein lin-15B	lin-15B|ZK662.4|LI15B_CAEEL|Q94409|Q94414	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q10655	elt-2		GO:0045944	PMID:9659934	IMP		P	Transcription factor elt-2	elt-2|C33D3.1|ELT2_CAEEL|Q18371	protein	taxon:6239	20050301	WormBase		
+UniProtKB	Q10655	elt-2		GO:0045944	PMID:14573471	IDA		P	Transcription factor elt-2	elt-2|C33D3.1|ELT2_CAEEL|Q18371	protein	taxon:6239	20060203	WormBase		
+UniProtKB	Q09488	sma-6		GO:0040018	PMID:9847239	IMP		P	Serine/threonine-protein kinase sma-6	sma-6|C32D5.2|SMA6_CAEEL	protein	taxon:6239	20060926	WormBase		
+UniProtKB	Q09488	sma-6		GO:0040018	PMID:15840165	IGI		P	Serine/threonine-protein kinase sma-6	sma-6|C32D5.2|SMA6_CAEEL	protein	taxon:6239	20060927	WormBase		
+UniProtKB	Q09488	sma-6		GO:0040018	PMID:12051826	IGI		P	Serine/threonine-protein kinase sma-6	sma-6|C32D5.2|SMA6_CAEEL	protein	taxon:6239	20061004	WormBase		
+UniProtKB	Q09488	sma-6		GO:0040018	PMID:14551910	IMP		P	Serine/threonine-protein kinase sma-6	sma-6|C32D5.2|SMA6_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q09488	sma-6		GO:0040018	PMID:12717735	IMP		P	Serine/threonine-protein kinase sma-6	sma-6|C32D5.2|SMA6_CAEEL	protein	taxon:6239	20061024	WormBase		
+UniProtKB	Q09488	sma-6		GO:0040018	PMID:11784045	IMP		P	Serine/threonine-protein kinase sma-6	sma-6|C32D5.2|SMA6_CAEEL	protein	taxon:6239	20061004	WormBase		
+UniProtKB	O02100	hop-1		GO:0009792	PMID:11792846	IMP		P	Presenilin hop-1	hop-1|C18E3.8|HOP1_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	O02100	hop-1		GO:0009792	PMID:9342387	IGI		P	Presenilin hop-1	hop-1|C18E3.8|HOP1_CAEEL	protein	taxon:6239	20070831	WormBase		
+UniProtKB	O02100	hop-1		GO:0009792	PMID:10051671	IGI		P	Presenilin hop-1	hop-1|C18E3.8|HOP1_CAEEL	protein	taxon:6239	20080305	WormBase		
+UniProtKB	O01682	lin-35		GO:0000003	PMID:16845399	IMP		P	Abnormal cell lineage protein 35	lin-35|C32F10.2|O01682_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	O01682	lin-35		GO:0000003	PMID:15196946	IGI		P	Abnormal cell lineage protein 35	lin-35|C32F10.2|O01682_CAEEL	protein	taxon:6239	20070702	WormBase		
+UniProtKB	O01682	lin-35		GO:0000003	PMID:15280233	IGI		P	Abnormal cell lineage protein 35	lin-35|C32F10.2|O01682_CAEEL	protein	taxon:6239	20060427	WormBase		
+UniProtKB	Q10576	dpy-18		GO:0040018	PMID:17374156	IGI		P	Prolyl 4-hydroxylase subunit alpha-1	dpy-18|phy-1|Y47D3B.10|P4HA1_CAEEL|O18153	protein	taxon:6239	20071029	WormBase		
+UniProtKB	Q10576	dpy-18		GO:0040018	PMID:12529635	IMP		P	Prolyl 4-hydroxylase subunit alpha-1	dpy-18|phy-1|Y47D3B.10|P4HA1_CAEEL|O18153	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q23120	rsp-2		GO:0007283	PMID:10906451	IGI	UniProtKB:Q23121	P	Probable splicing factor, arginine/serine-rich 2	rsp-2|srp-4|W02B12.2|RSP2_CAEEL	protein	taxon:6239	20041112	UniProtKB		
+UniProtKB	Q23120	rsp-2		GO:0007283	PMID:10906451	IMP		P	Probable splicing factor, arginine/serine-rich 2	rsp-2|srp-4|W02B12.2|RSP2_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q17381	pha-4		GO:0008340	PMID:18804378	IGI		P	Defective pharyngeal development protein 4	pha-4|fkh-1|F38A6.1|PHA4_CAEEL|Q1HAZ5|Q1HAZ6	protein	taxon:6239	20091116	WormBase		
+UniProtKB	Q17381	pha-4		GO:0008340	PMID:19239417	IMP		P	Defective pharyngeal development protein 4	pha-4|fkh-1|F38A6.1|PHA4_CAEEL|Q1HAZ5|Q1HAZ6	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q17381	pha-4		GO:0008340	PMID:19461873	IMP		P	Defective pharyngeal development protein 4	pha-4|fkh-1|F38A6.1|PHA4_CAEEL|Q1HAZ5|Q1HAZ6	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q95XP4	mab-20		GO:0045138	PMID:12679110	IGI		P	Semaphorin-2A	mab-20|Y71G12B.20|SEM2A_CAEEL|Q86LT8|Q9NI38	protein	taxon:6239	20061016	WormBase		
+UniProtKB	Q95XP4	mab-20		GO:0045138	PMID:10648234	IMP		P	Semaphorin-2A	mab-20|Y71G12B.20|SEM2A_CAEEL|Q86LT8|Q9NI38	protein	taxon:6239	20080417	WormBase		
+UniProtKB	Q23121	rsp-1		GO:0007283	PMID:10906451	IMP		P	Probable splicing factor, arginine/serine-rich 1	rsp-1|srp-5|W02B12.3|RSP1_CAEEL|Q8I106|Q8I107	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q23121	rsp-1		GO:0007283	PMID:10906451	IGI	UniProtKB:Q23120	P	Probable splicing factor, arginine/serine-rich 1	rsp-1|srp-5|W02B12.3|RSP1_CAEEL|Q8I106|Q8I107	protein	taxon:6239	20041112	UniProtKB		
+UniProtKB	Q9TW41	avr-15		GO:0043051	PMID:12750328	IGI		P	Protein R11G10.1a, confirmed by transcript evidence	avr-15|R11G10.1a|R11G10.1|Q9TW41_CAEEL	protein	taxon:6239	20061219	WormBase		
+UniProtKB	Q9TW41	avr-15		GO:0043051	PMID:15238517	IMP		P	Protein R11G10.1a, confirmed by transcript evidence	avr-15|R11G10.1a|R11G10.1|Q9TW41_CAEEL	protein	taxon:6239	20061110	WormBase		
+UniProtKB	P48376	clk-1		GO:0006744	PMID:11244089	IDA		P	Ubiquinone biosynthesis protein COQ7 homolog	clk-1|ZC395.2|COQ7_CAEEL	protein	taxon:6239	20060731	WormBase		
+UniProtKB	P48376	clk-1		GO:0006744	PMID:12709403	IMP		P	Ubiquinone biosynthesis protein COQ7 homolog	clk-1|ZC395.2|COQ7_CAEEL	protein	taxon:6239	20060731	WormBase		
+UniProtKB	P48376	clk-1		GO:0006744	PMID:14517217	IMP		P	Ubiquinone biosynthesis protein COQ7 homolog	clk-1|ZC395.2|COQ7_CAEEL	protein	taxon:6239	20070709	WormBase		
+UniProtKB	Q9U2W6	psa-1		GO:0009792	PMID:11030341	IMP		P	Protein Y113G7B.23, confirmed by transcript evidence	psa-1|Y113G7B.23|Q9U2W6_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9U2W6	psa-1		GO:0009792	PMID:15280233	IGI		P	Protein Y113G7B.23, confirmed by transcript evidence	psa-1|Y113G7B.23|Q9U2W6_CAEEL	protein	taxon:6239	20060427	WormBase		
+UniProtKB	Q9U2W6	psa-1		GO:0009792	PMID:17417969	IMP		P	Protein Y113G7B.23, confirmed by transcript evidence	psa-1|Y113G7B.23|Q9U2W6_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	O17469	osm-9		GO:0006972	PMID:11879652	IGI		P	Olfactory channel	osm-9|B0212.5|O17469_CAEEL|O45065	protein	taxon:6239	20060915	WormBase		
+UniProtKB	O17469	osm-9		GO:0006972	PMID:7718242	IMP		P	Olfactory channel	osm-9|B0212.5|O17469_CAEEL|O45065	protein	taxon:6239	20071130	WormBase		
+UniProtKB	Q94132	lin-17		GO:0045167	PMID:15020416	IMP		P	Abnormal cell lineage protein 17, isoform a, confirmed by transcript evidence	lin-17|Y71F9B.5|Q94132_CAEEL	protein	taxon:6239	20051205	WormBase		
+UniProtKB	Q94132	lin-17		GO:0045167	PMID:15649465	IGI		P	Abnormal cell lineage protein 17, isoform a, confirmed by transcript evidence	lin-17|Y71F9B.5|Q94132_CAEEL	protein	taxon:6239	20060203	WormBase		
+UniProtKB	Q18667	trr-1		GO:0040027	PMID:15990876	IMP		P	Protein C47D12.1a, confirmed by transcript evidence	trr-1|C47D12.1|C47D12.1a|Q18667_CAEEL|Q6Q9H1	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q18667	trr-1		GO:0040027	PMID:15068795	IGI		P	Protein C47D12.1a, confirmed by transcript evidence	trr-1|C47D12.1|C47D12.1a|Q18667_CAEEL|Q6Q9H1	protein	taxon:6239	20070611	WormBase		
+UniProtKB	P13508	glp-1		GO:0002119	PMID:1769331	IGI		P	Protein glp-1	glp-1|F02A9.6|emb-33|GLP1_CAEEL	protein	taxon:6239	20060605	WormBase		
+UniProtKB	P13508	glp-1		GO:0002119	PMID:16845399	IMP		P	Protein glp-1	glp-1|F02A9.6|emb-33|GLP1_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P19626	mlc-2		GO:0040011	PMID:15990870	IMP		P	Myosin regulatory light chain 2	mlc-2|C36E6.5|MLR2_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P19626	mlc-2		GO:0040011	PMID:9799259	IGI		P	Myosin regulatory light chain 2	mlc-2|C36E6.5|MLR2_CAEEL	protein	taxon:6239	20061011	WormBase		
+UniProtKB	P19626	mlc-2		GO:0040011	PMID:14551910	IMP		P	Myosin regulatory light chain 2	mlc-2|C36E6.5|MLR2_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	O17695	hda-1		GO:0040027	PMID:10704416	IGI		P	Histone deacetylase 1	hda-1|C53A5.3|HDA1_CAEEL	protein	taxon:6239	20060407	WormBase		
+UniProtKB	O17695	hda-1		GO:0040027	PMID:15990876	IMP		P	Histone deacetylase 1	hda-1|C53A5.3|HDA1_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	O17695	hda-1		GO:0040027	PMID:11940660	IMP		P	Histone deacetylase 1	hda-1|C53A5.3|HDA1_CAEEL	protein	taxon:6239	20060407	WormBase		
+UniProtKB	O17695	hda-1		GO:0040027	PMID:9875852	IGI		P	Histone deacetylase 1	hda-1|C53A5.3|HDA1_CAEEL	protein	taxon:6239	20060407	WormBase		
+UniProtKB	P19625	mlc-1		GO:0040011	PMID:14551910	IMP		P	Myosin regulatory light chain 1	mlc-1|C36E6.3|MLR1_CAEEL|Q9BL98	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P19625	mlc-1		GO:0040011	PMID:9799259	IGI		P	Myosin regulatory light chain 1	mlc-1|C36E6.3|MLR1_CAEEL|Q9BL98	protein	taxon:6239	20061011	WormBase		
+UniProtKB	Q9NAN1	uba-2		GO:0002119	PMID:14551910	IMP		P	SUMO-activating enzyme subunit uba-2	uba-2|W02A11.4|SAE2_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9NAN1	uba-2		GO:0002119	PMID:15489339	IMP		P	SUMO-activating enzyme subunit uba-2	uba-2|W02A11.4|SAE2_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9NAN1	uba-2		GO:0002119	PMID:15107848	IGI		P	SUMO-activating enzyme subunit uba-2	uba-2|W02A11.4|SAE2_CAEEL	protein	taxon:6239	20080821	WormBase		
+UniProtKB	Q27242	pha-1		GO:0002119	PMID:15196946	IGI		P	Pha-1 protein	pha-1|pha1|Y48A6C.5|Y48A6C.5a|Q27242_CAEEL	protein	taxon:6239	20070702	WormBase		
+UniProtKB	Q27242	pha-1		GO:0002119	PMID:17417969	IMP		P	Pha-1 protein	pha-1|pha1|Y48A6C.5|Y48A6C.5a|Q27242_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P45897	sma-4		GO:0045138	PMID:9847239	IGI		P	Dwarfin sma-4	sma-4|cem-3|R12B2.1|SMA4_CAEEL	protein	taxon:6239	20060926	WormBase		
+UniProtKB	P45897	sma-4		GO:0045138	PMID:12717735	IMP		P	Dwarfin sma-4	sma-4|cem-3|R12B2.1|SMA4_CAEEL	protein	taxon:6239	20061024	WormBase		
+UniProtKB	P34766	pal-1		GO:0045944	PMID:8861906	IMP		P	Homeobox protein pal-1	pal-1|ceh-3|C38D4.6|PAL1_CAEEL|C9IY23|Q18513|Q65ZB9	protein	taxon:6239	20060501	WormBase		
+UniProtKB	P34766	pal-1		GO:0045944	PMID:19261701	IDA		P	Homeobox protein pal-1	pal-1|ceh-3|C38D4.6|PAL1_CAEEL|C9IY23|Q18513|Q65ZB9	protein	taxon:6239	20090427	WormBase		
+UniProtKB	O18688	tba-1		GO:0009792	PMID:11099033	IMP		P	Protein F26E4.8, confirmed by transcript evidence	tba-1|F26E4.8|O18688_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	O18688	tba-1		GO:0009792	PMID:14551910	IMP		P	Protein F26E4.8, confirmed by transcript evidence	tba-1|F26E4.8|O18688_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	O18688	tba-1		GO:0009792	PMID:15083533	IGI		P	Protein F26E4.8, confirmed by transcript evidence	tba-1|F26E4.8|O18688_CAEEL	protein	taxon:6239	20100322	WormBase		
+UniProtKB	Q10459	mom-2		GO:0000132	PMID:9288749	IGI		P	Protein mom-2	mom-2|F38E1.7|MOM2_CAEEL|O16146	protein	taxon:6239	20060203	WormBase		
+UniProtKB	Q10459	mom-2		GO:0000132	PMID:9288750	IMP		P	Protein mom-2	mom-2|F38E1.7|MOM2_CAEEL|O16146	protein	taxon:6239	20070201	WormBase		
+UniProtKB	Q9U2W6	psa-1		GO:0000003	PMID:17417969	IMP		P	Protein Y113G7B.23, confirmed by transcript evidence	psa-1|Y113G7B.23|Q9U2W6_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9U2W6	psa-1		GO:0000003	PMID:15489339	IMP		P	Protein Y113G7B.23, confirmed by transcript evidence	psa-1|Y113G7B.23|Q9U2W6_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9U2W6	psa-1		GO:0000003	PMID:15280233	IGI		P	Protein Y113G7B.23, confirmed by transcript evidence	psa-1|Y113G7B.23|Q9U2W6_CAEEL	protein	taxon:6239	20060427	WormBase		
+UniProtKB	Q6RYS9	dop-3		GO:0040012	PMID:15378064	IDA		P	Dopamine receptor 3	dop-3|T14E8.3|DOPR3_CAEEL|Q3HKC0|Q3HKC1|Q3HKC2	protein	taxon:6239	20061113	UniProtKB		
+UniProtKB	Q6RYS9	dop-3		GO:0040012	PMID:15378064	IGI		P	Dopamine receptor 3	dop-3|T14E8.3|DOPR3_CAEEL|Q3HKC0|Q3HKC1|Q3HKC2	protein	taxon:6239	20060526	WormBase		
+UniProtKB	P34278	knl-1		GO:0045184	PMID:18765790	IDA		P	Kinetochore null protein 1	knl-1|C02F5.1|KNL1_CAEEL	protein	taxon:6239	20090701	UniProtKB		
+UniProtKB	P34278	knl-1		GO:0045184	PMID:18936247	IMP		P	Kinetochore null protein 1	knl-1|C02F5.1|KNL1_CAEEL	protein	taxon:6239	20090701	UniProtKB		
+UniProtKB	Q9GYG3	gro-1		GO:0008340	PMID:8638122	IGI		P	Abnormal growth rate protein 1	gro-1|ZC395.6|Q9GYG3_CAEEL|Q95UF6	protein	taxon:6239	20100514	WormBase		
+UniProtKB	Q9GYG3	gro-1		GO:0008340	PMID:11560893	IMP		P	Abnormal growth rate protein 1	gro-1|ZC395.6|Q9GYG3_CAEEL|Q95UF6	protein	taxon:6239	20100514	WormBase		
+UniProtKB	Q9U3A6	dab-1		GO:0002119	PMID:17417969	IMP		P	Protein M110.5b, confirmed by transcript evidence	dab-1|M110.5b|M110.5B|M110.5|Q9U3A6_CAEEL|Q9U3A5|Q9U3A7	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9U3A6	dab-1		GO:0002119	PMID:17636000	IGI		P	Protein M110.5b, confirmed by transcript evidence	dab-1|M110.5b|M110.5B|M110.5|Q9U3A6_CAEEL|Q9U3A5|Q9U3A7	protein	taxon:6239	20071130	WormBase		
+UniProtKB	Q9XVI2	sys-1		GO:0010085	PMID:15020416	IGI		P	Protein T23D8.9a, partially confirmed by transcript evidence	sys-1|T23D8.9|T23D8.9a|Q9XVI2_CAEEL	protein	taxon:6239	20060501	WormBase		
+UniProtKB	Q9XVI2	sys-1		GO:0010085	PMID:15935762	IMP		P	Protein T23D8.9a, partially confirmed by transcript evidence	sys-1|T23D8.9|T23D8.9a|Q9XVI2_CAEEL	protein	taxon:6239	20051205	WormBase		
+UniProtKB	Q9NAN1	uba-2		GO:0009792	PMID:15489339	IMP		P	SUMO-activating enzyme subunit uba-2	uba-2|W02A11.4|SAE2_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9NAN1	uba-2		GO:0009792	PMID:15687288	IMP		P	SUMO-activating enzyme subunit uba-2	uba-2|W02A11.4|SAE2_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9NAN1	uba-2		GO:0009792	PMID:14551910	IMP		P	SUMO-activating enzyme subunit uba-2	uba-2|W02A11.4|SAE2_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9NAN1	uba-2		GO:0009792	PMID:15791247	IMP		P	SUMO-activating enzyme subunit uba-2	uba-2|W02A11.4|SAE2_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9NAN1	uba-2		GO:0009792	PMID:15107848	IGI		P	SUMO-activating enzyme subunit uba-2	uba-2|W02A11.4|SAE2_CAEEL	protein	taxon:6239	20080821	WormBase		
+UniProtKB	Q21302	xpa-1		GO:0009411	PMID:18053776	IGI		P	Protein K07G5.2, confirmed by transcript evidence	K07G5.2|xpa-1|Q21302_CAEEL	protein	taxon:6239	20080312	WormBase		
+UniProtKB	Q21302	xpa-1		GO:0009411	PMID:7152245	IMP		P	Protein K07G5.2, confirmed by transcript evidence	K07G5.2|xpa-1|Q21302_CAEEL	protein	taxon:6239	20080404	WormBase		
+UniProtKB	Q19018	mec-8		GO:0009792	PMID:8001796	IGI		P	Protein F46A9.6, confirmed by transcript evidence	mec-8|F46A9.6|Q19018_CAEEL|O02551|Q93237|Q93733	protein	taxon:6239	20070828	WormBase		
+UniProtKB	Q19018	mec-8		GO:0009792	PMID:16481471	IMP		P	Protein F46A9.6, confirmed by transcript evidence	mec-8|F46A9.6|Q19018_CAEEL|O02551|Q93237|Q93733	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P90851	sur-6		GO:0040026	PMID:10521400	IGI		P	PP2A-B regulatory subunit PR55/B	sur-6|F26E4.1|P90851_CAEEL|P90903	protein	taxon:6239	20080415	WormBase		
+UniProtKB	P90851	sur-6		GO:0040026	PMID:14724126	IMP		P	PP2A-B regulatory subunit PR55/B	sur-6|F26E4.1|P90851_CAEEL|P90903	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q94156	ttx-3		GO:0043052	PMID:9292724	IMP		P	Protein C40H5.5a, confirmed by transcript evidence	ttx-3|C40H5.5a|C40H5.5|Q94156_CAEEL|Q9U3M5	protein	taxon:6239	20060601	WormBase		
+UniProtKB	Q94156	ttx-3		GO:0043052	PMID:11879652	IGI		P	Protein C40H5.5a, confirmed by transcript evidence	ttx-3|C40H5.5a|C40H5.5|Q94156_CAEEL|Q9U3M5	protein	taxon:6239	20060915	WormBase		
+UniProtKB	O44128	lip-1		GO:0007219	PMID:11161219	IGI		P	Lateral-signal-induced phosphatase protein 1	lip-1|C05B10.1|O44128_CAEEL	protein	taxon:6239	20100203	WormBase		
+UniProtKB	O44128	lip-1		GO:0007219	PMID:16319922	IPI		P	Lateral-signal-induced phosphatase protein 1	lip-1|C05B10.1|O44128_CAEEL	protein	taxon:6239	20100203	WormBase		
+UniProtKB	Q18825	bar-1		GO:0045944	PMID:9716532	IMP		P	Beta-catenin/armadillo-related protein 1	bar-1|pvl-1|C54D1.6|spy-1|BAR1_CAEEL	protein	taxon:6239	20050802	WormBase		
+UniProtKB	Q18825	bar-1		GO:0045944	PMID:11560894	IDA		P	Beta-catenin/armadillo-related protein 1	bar-1|pvl-1|C54D1.6|spy-1|BAR1_CAEEL	protein	taxon:6239	20050802	WormBase		
+UniProtKB	Q21227	apr-1		GO:0030178	PMID:12023306	IMP		P	Adenomatous polyposis coli protein-related protein 1	apr-1|K04G2.8|APR1_CAEEL|O62302	protein	taxon:6239	20090107	UniProtKB		
+UniProtKB	Q21227	apr-1		GO:0030178	PMID:12023306	IGI		P	Adenomatous polyposis coli protein-related protein 1	apr-1|K04G2.8|APR1_CAEEL|O62302	protein	taxon:6239	20070130	WormBase		
+UniProtKB	O01682	lin-35		GO:0002119	PMID:12783801	IMP		P	Abnormal cell lineage protein 35	lin-35|C32F10.2|O01682_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	O01682	lin-35		GO:0002119	PMID:16890929	IMP		P	Abnormal cell lineage protein 35	lin-35|C32F10.2|O01682_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	O01682	lin-35		GO:0002119	PMID:15280233	IGI		P	Abnormal cell lineage protein 35	lin-35|C32F10.2|O01682_CAEEL	protein	taxon:6239	20060427	WormBase		
+UniProtKB	O01682	lin-35		GO:0002119	PMID:15196946	IGI		P	Abnormal cell lineage protein 35	lin-35|C32F10.2|O01682_CAEEL	protein	taxon:6239	20070702	WormBase		
+UniProtKB	O01682	lin-35		GO:0002119	PMID:16845399	IMP		P	Abnormal cell lineage protein 35	lin-35|C32F10.2|O01682_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9U298	eat-2		GO:0043051	PMID:15914662	IMP		P	Neuronal acetylcholine receptor subunit eat-2	eat-2|Y48B6A.4|ACH8_CAEEL	protein	taxon:6239	20061130	WormBase		
+UniProtKB	Q9U298	eat-2		GO:0043051	PMID:12750328	IGI		P	Neuronal acetylcholine receptor subunit eat-2	eat-2|Y48B6A.4|ACH8_CAEEL	protein	taxon:6239	20061219	WormBase		
+UniProtKB	Q9U298	eat-2		GO:0043051	PMID:15238517	IMP		P	Neuronal acetylcholine receptor subunit eat-2	eat-2|Y48B6A.4|ACH8_CAEEL	protein	taxon:6239	20061130	WormBase		
+UniProtKB	Q07292	lin-45		GO:0000003	PMID:11231151	IMP		P	Raf homolog serine/threonine-protein kinase	lin-45|Y73B6A.5|raf-1|KRAF1_CAEEL|Q6RT23|Q8MXT8|Q9N4E3	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q07292	lin-45		GO:0000003	PMID:15791247	IMP		P	Raf homolog serine/threonine-protein kinase	lin-45|Y73B6A.5|raf-1|KRAF1_CAEEL|Q6RT23|Q8MXT8|Q9N4E3	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q07292	lin-45		GO:0000003	PMID:11861555	IGI		P	Raf homolog serine/threonine-protein kinase	lin-45|Y73B6A.5|raf-1|KRAF1_CAEEL|Q6RT23|Q8MXT8|Q9N4E3	protein	taxon:6239	20070323	WormBase		
+UniProtKB	Q9XW45	hsf-1		GO:0008340	PMID:14551910	IMP		P	Heat shock transcription factor 1	hsf-1|Y53C10A.12|Q9XW45_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9XW45	hsf-1		GO:0008340	PMID:14668486	IGI		P	Heat shock transcription factor 1	hsf-1|Y53C10A.12|Q9XW45_CAEEL	protein	taxon:6239	20070727	WormBase		
+UniProtKB	Q9XW45	hsf-1		GO:0008340	PMID:18006689	IMP		P	Heat shock transcription factor 1	hsf-1|Y53C10A.12|Q9XW45_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9XW45	hsf-1		GO:0008340	PMID:12897069	IMP		P	Heat shock transcription factor 1	hsf-1|Y53C10A.12|Q9XW45_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	O44405	daf-18		GO:0008340	PMID:19249087	IMP		P	Abnormal dauer formation protein 18	daf-18|T07A9.6|O44405_CAEEL|Q9TVU8	protein	taxon:6239	20101004	WormBase		
+UniProtKB	O44405	daf-18		GO:0008340	PMID:11381260	IGI		P	Abnormal dauer formation protein 18	daf-18|T07A9.6|O44405_CAEEL|Q9TVU8	protein	taxon:6239	20060203	WormBase		
+UniProtKB	O44371	unc-129		GO:0033563	PMID:9685266	IMP		P	Protein C53D6.2, confirmed by transcript evidence	unc-129|C53D6.2|O44371_CAEEL	protein	taxon:6239	20090303	WormBase		
+UniProtKB	O44371	unc-129		GO:0033563	PMID:9473333	IGI		P	Protein C53D6.2, confirmed by transcript evidence	unc-129|C53D6.2|O44371_CAEEL	protein	taxon:6239	20090303	WormBase		
+UniProtKB	P34684	lin-39		GO:0040026	PMID:9486792	IGI		P	Homeobox protein lin-39	lin-39|C07H6.7|ceh-15|LIN39_CAEEL	protein	taxon:6239	20060203	WormBase		
+UniProtKB	P34684	lin-39		GO:0040026	PMID:12023306	IGI		P	Homeobox protein lin-39	lin-39|C07H6.7|ceh-15|LIN39_CAEEL	protein	taxon:6239	20070130	WormBase		
+UniProtKB	P34684	lin-39		GO:0040026	PMID:12529635	IMP		P	Homeobox protein lin-39	lin-39|C07H6.7|ceh-15|LIN39_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q10953	wrm-1		GO:0032880	PMID:10380924	IDA		P	Armadillo repeat-containing protein wrm-1	wrm-1|B0336.1|WRM1_CAEEL|O16145	protein	taxon:6239	20100726	WormBase		
+UniProtKB	Q10953	wrm-1		GO:0032880	PMID:9288750	IMP		P	Armadillo repeat-containing protein wrm-1	wrm-1|B0336.1|WRM1_CAEEL|O16145	protein	taxon:6239	20100726	WormBase		
+UniProtKB	Q94132	lin-17		GO:0040028	PMID:15649465	IGI		P	Abnormal cell lineage protein 17, isoform a, confirmed by transcript evidence	lin-17|Y71F9B.5|Q94132_CAEEL	protein	taxon:6239	20060203	WormBase		
+UniProtKB	Q94132	lin-17		GO:0040028	PMID:12074555	IMP		P	Abnormal cell lineage protein 17, isoform a, confirmed by transcript evidence	lin-17|Y71F9B.5|Q94132_CAEEL	protein	taxon:6239	20050804	WormBase		
+UniProtKB	Q94132	lin-17		GO:0040028	PMID:3181641	IMP		P	Abnormal cell lineage protein 17, isoform a, confirmed by transcript evidence	lin-17|Y71F9B.5|Q94132_CAEEL	protein	taxon:6239	20050804	WormBase		
+UniProtKB	O61667	egl-1		GO:0043068	PMID:12874127	IEP		P	Programmed cell death activator egl-1	egl-1|F23B12.9|EGL1_CAEEL|Q7JLC9	protein	taxon:6239	20070117	WormBase		
+UniProtKB	O61667	egl-1		GO:0043068	PMID:9604928	IMP		P	Programmed cell death activator egl-1	egl-1|F23B12.9|EGL1_CAEEL|Q7JLC9	protein	taxon:6239	20060421	WormBase		
+UniProtKB	B7FAS0	mcd-1		GO:0002119	PMID:17417969	IMP		P	Protein Y51H1A.6a, partially confirmed by transcript evidence	mcd-1|Y51H1A.6|Y51H1A.6a|B7FAS0_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	B7FAS0	mcd-1		GO:0002119	PMID:17237514	IGI		P	Protein Y51H1A.6a, partially confirmed by transcript evidence	mcd-1|Y51H1A.6|Y51H1A.6a|B7FAS0_CAEEL	protein	taxon:6239	20070717	WormBase		
+UniProtKB	B7FAS1	mcd-1		GO:0002119	PMID:17417969	IMP		P	Protein Y51H1A.6b, confirmed by transcript evidence	mcd-1|Y51H1A.6b|Y51H1A.6|Y51H1A.6B|B7FAS1_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	B7FAS1	mcd-1		GO:0002119	PMID:17237514	IGI		P	Protein Y51H1A.6b, confirmed by transcript evidence	mcd-1|Y51H1A.6b|Y51H1A.6|Y51H1A.6B|B7FAS1_CAEEL	protein	taxon:6239	20070717	WormBase		
+UniProtKB	Q19380	ksr-1		GO:0002119	PMID:8521514	IMP		P	KSR-1	ksr-1|F13B9.5|Q19380_CAEEL|Q27338	protein	taxon:6239	20100126	WormBase		
+UniProtKB	Q19380	ksr-1		GO:0002119	PMID:11882296	IGI		P	KSR-1	ksr-1|F13B9.5|Q19380_CAEEL|Q27338	protein	taxon:6239	20100125	WormBase		
+UniProtKB	O61213	bli-3		GO:0040002	PMID:18460651	IGI		P	Dual oxidase 1	bli-3|F56C11.1|DUOX1_CAEEL|Q9NH90	protein	taxon:6239	20090206	WormBase		
+UniProtKB	O61213	bli-3		GO:0040002	PMID:14551910	IMP		P	Dual oxidase 1	bli-3|F56C11.1|DUOX1_CAEEL|Q9NH90	protein	taxon:6239	20101004	WormBase		
+UniProtKB	O61213	bli-3		GO:0040002	PMID:11514595	IMP		P	Dual oxidase 1	bli-3|F56C11.1|DUOX1_CAEEL|Q9NH90	protein	taxon:6239	20101004	WormBase		
+UniProtKB	O61213	bli-3		GO:0040002	PMID:15489339	IMP		P	Dual oxidase 1	bli-3|F56C11.1|DUOX1_CAEEL|Q9NH90	protein	taxon:6239	20101004	WormBase		
+UniProtKB	O61213	bli-3		GO:0040002	PMID:11099033	IMP		P	Dual oxidase 1	bli-3|F56C11.1|DUOX1_CAEEL|Q9NH90	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q03611	tax-4		GO:0040040	PMID:8893027	IMP		P	Cyclic nucleotide-gated cation channel	tax-4|ZC84.2|CNG_CAEEL|P90800	protein	taxon:6239	20020625	UniProtKB		
+UniProtKB	Q03611	tax-4		GO:0040040	PMID:11879652	IGI		P	Cyclic nucleotide-gated cation channel	tax-4|ZC84.2|CNG_CAEEL|P90800	protein	taxon:6239	20060915	WormBase		
+UniProtKB	Q03611	tax-4		GO:0040040	PMID:14711416	IMP		P	Cyclic nucleotide-gated cation channel	tax-4|ZC84.2|CNG_CAEEL|P90800	protein	taxon:6239	20060811	WormBase		
+UniProtKB	Q09981	unc-45		GO:0040011	PMID:14551910	IMP		P	UNC-45	unc-45|F30H5.1|Q09981_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q09981	unc-45		GO:0040011	PMID:15294159	IGI		P	UNC-45	unc-45|F30H5.1|Q09981_CAEEL	protein	taxon:6239	20070418	WormBase		
+UniProtKB	Q09981	unc-45		GO:0040011	PMID:12529635	IMP		P	UNC-45	unc-45|F30H5.1|Q09981_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q18825	bar-1		GO:0040028	PMID:15935762	IMP		P	Beta-catenin/armadillo-related protein 1	bar-1|pvl-1|C54D1.6|spy-1|BAR1_CAEEL	protein	taxon:6239	20061205	WormBase		
+UniProtKB	Q18825	bar-1		GO:0040028	PMID:11560894	IMP		P	Beta-catenin/armadillo-related protein 1	bar-1|pvl-1|C54D1.6|spy-1|BAR1_CAEEL	protein	taxon:6239	20061205	WormBase		
+UniProtKB	Q18825	bar-1		GO:0040028	PMID:11063687	IGI		P	Beta-catenin/armadillo-related protein 1	bar-1|pvl-1|C54D1.6|spy-1|BAR1_CAEEL	protein	taxon:6239	20061205	WormBase		
+UniProtKB	Q11107	lin-13		GO:0000003	PMID:16890929	IMP		P	Zinc finger protein lin-13	lin-13|C03B8.4|LIN13_CAEEL|Q9NBV2	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q11107	lin-13		GO:0000003	PMID:16905130	IGI		P	Zinc finger protein lin-13	lin-13|C03B8.4|LIN13_CAEEL|Q9NBV2	protein	taxon:6239	20070510	WormBase		
+UniProtKB	Q11107	lin-13		GO:0000003	PMID:10880475	IMP		P	Zinc finger protein lin-13	lin-13|C03B8.4|LIN13_CAEEL|Q9NBV2	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P90851	sur-6		GO:0002119	PMID:11099033	IMP		P	PP2A-B regulatory subunit PR55/B	sur-6|F26E4.1|P90851_CAEEL|P90903	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P90851	sur-6		GO:0002119	PMID:10521400	IGI		P	PP2A-B regulatory subunit PR55/B	sur-6|F26E4.1|P90851_CAEEL|P90903	protein	taxon:6239	20080415	WormBase		
+UniProtKB	Q95Q17	let-49		GO:0009792	PMID:11099033	IMP		P	Mediator of RNA polymerase II transcription subunit 7	let-49|mdt-7|Y54E5B.3|med-7|MED7_CAEEL|Q9XWF7	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q95Q17	let-49		GO:0009792	PMID:15654100	IGI		P	Mediator of RNA polymerase II transcription subunit 7	let-49|mdt-7|Y54E5B.3|med-7|MED7_CAEEL|Q9XWF7	protein	taxon:6239	20100421	WormBase		
+UniProtKB	Q95Q17	let-49		GO:0009792	PMID:11728440	IMP		P	Mediator of RNA polymerase II transcription subunit 7	let-49|mdt-7|Y54E5B.3|med-7|MED7_CAEEL|Q9XWF7	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q95Q17	let-49		GO:0009792	PMID:15791247	IMP		P	Mediator of RNA polymerase II transcription subunit 7	let-49|mdt-7|Y54E5B.3|med-7|MED7_CAEEL|Q9XWF7	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q95Q17	let-49		GO:0009792	PMID:14551910	IMP		P	Mediator of RNA polymerase II transcription subunit 7	let-49|mdt-7|Y54E5B.3|med-7|MED7_CAEEL|Q9XWF7	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q94156	ttx-3		GO:0040040	PMID:11879652	IGI		P	Protein C40H5.5a, confirmed by transcript evidence	ttx-3|C40H5.5a|C40H5.5|Q94156_CAEEL|Q9U3M5	protein	taxon:6239	20060915	WormBase		
+UniProtKB	Q94156	ttx-3		GO:0040040	PMID:14711416	IMP		P	Protein C40H5.5a, confirmed by transcript evidence	ttx-3|C40H5.5a|C40H5.5|Q94156_CAEEL|Q9U3M5	protein	taxon:6239	20060811	WormBase		
+UniProtKB	O01682	lin-35		GO:0009792	PMID:15489339	IMP		P	Abnormal cell lineage protein 35	lin-35|C32F10.2|O01682_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	O01682	lin-35		GO:0009792	PMID:16845399	IMP		P	Abnormal cell lineage protein 35	lin-35|C32F10.2|O01682_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	O01682	lin-35		GO:0009792	PMID:15280233	IGI		P	Abnormal cell lineage protein 35	lin-35|C32F10.2|O01682_CAEEL	protein	taxon:6239	20060427	WormBase		
+UniProtKB	O44516	efn-4		GO:0009792	PMID:16845399	IMP		P	Ephrin-4	efn-4|F56A11.3|mab-26|EFN4_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	O44516	efn-4		GO:0009792	PMID:12403719	IGI		P	Ephrin-4	efn-4|F56A11.3|mab-26|EFN4_CAEEL	protein	taxon:6239	20080723	WormBase		
+UniProtKB	Q9XZD1	tph-1		GO:0043051	PMID:10676966	IMP		P	Tryptophan hydroxylase	tph-1|ZK1290.2|Q9XZD1_CAEEL	protein	taxon:6239	20061219	WormBase		
+UniProtKB	Q9XZD1	tph-1		GO:0043051	PMID:12750328	IGI		P	Tryptophan hydroxylase	tph-1|ZK1290.2|Q9XZD1_CAEEL	protein	taxon:6239	20061219	WormBase		
+UniProtKB	Q23120	rsp-2		GO:0002119	PMID:10906451	IGI	UniProtKB:Q18409	P	Probable splicing factor, arginine/serine-rich 2	rsp-2|srp-4|W02B12.2|RSP2_CAEEL	protein	taxon:6239	20041112	UniProtKB		
+UniProtKB	Q23120	rsp-2		GO:0002119	PMID:11747818	IMP		P	Probable splicing factor, arginine/serine-rich 2	rsp-2|srp-4|W02B12.2|RSP2_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q23120	rsp-2		GO:0002119	PMID:10906451	IMP		P	Probable splicing factor, arginine/serine-rich 2	rsp-2|srp-4|W02B12.2|RSP2_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9NAH6	rsks-1		GO:0002119	PMID:18804378	IGI		P	Protein Y47D3A.16, partially confirmed by transcript evidence	rsks-1|Y47D3A.16|Q9NAH6_CAEEL	protein	taxon:6239	20091116	WormBase		
+UniProtKB	Q9NAH6	rsks-1		GO:0002119	PMID:15489339	IMP		P	Protein Y47D3A.16, partially confirmed by transcript evidence	rsks-1|Y47D3A.16|Q9NAH6_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q06561	unc-52		GO:0009792	PMID:8001796	IGI		P	Basement membrane proteoglycan	unc-52|ZC101.2|UNC52_CAEEL|O18261|O18263|Q6BEQ6|Q9U7E8|Q9XTD2|Q9XTI5	protein	taxon:6239	20070828	WormBase		
+UniProtKB	Q06561	unc-52		GO:0009792	PMID:12529635	IMP		P	Basement membrane proteoglycan	unc-52|ZC101.2|UNC52_CAEEL|O18261|O18263|Q6BEQ6|Q9U7E8|Q9XTD2|Q9XTI5	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q06561	unc-52		GO:0009792	PMID:16845399	IMP		P	Basement membrane proteoglycan	unc-52|ZC101.2|UNC52_CAEEL|O18261|O18263|Q6BEQ6|Q9U7E8|Q9XTD2|Q9XTI5	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q06561	unc-52		GO:0009792	PMID:14551910	IMP		P	Basement membrane proteoglycan	unc-52|ZC101.2|UNC52_CAEEL|O18261|O18263|Q6BEQ6|Q9U7E8|Q9XTD2|Q9XTI5	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9U2W6	psa-1		GO:0002119	PMID:17417969	IMP		P	Protein Y113G7B.23, confirmed by transcript evidence	psa-1|Y113G7B.23|Q9U2W6_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9U2W6	psa-1		GO:0002119	PMID:15280233	IGI		P	Protein Y113G7B.23, confirmed by transcript evidence	psa-1|Y113G7B.23|Q9U2W6_CAEEL	protein	taxon:6239	20060427	WormBase		
+UniProtKB	P34690	tba-2		GO:0009792	PMID:15083533	IGI		P	Tubulin alpha-2 chain	tba-2|C47B2.3|TBA2_CAEEL|Q95QR1	protein	taxon:6239	20100322	WormBase		
+UniProtKB	P34690	tba-2		GO:0009792	PMID:15791247	IMP		P	Tubulin alpha-2 chain	tba-2|C47B2.3|TBA2_CAEEL|Q95QR1	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P34690	tba-2		GO:0009792	PMID:14551910	IMP		P	Tubulin alpha-2 chain	tba-2|C47B2.3|TBA2_CAEEL|Q95QR1	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P34690	tba-2		GO:0009792	PMID:11099033	IMP		P	Tubulin alpha-2 chain	tba-2|C47B2.3|TBA2_CAEEL|Q95QR1	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P34690	tba-2		GO:0009792	PMID:15166316	IMP		P	Tubulin alpha-2 chain	tba-2|C47B2.3|TBA2_CAEEL|Q95QR1	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P90979	mig-2		GO:0016477	PMID:11784116	IMP		P	Protein C35C5.4, partially confirmed by transcript evidence	mig-2|MIG-2|C35C5.4|P90979_CAEEL|Q93328	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P90979	mig-2		GO:0016477	PMID:16170304	IMP		P	Protein C35C5.4, partially confirmed by transcript evidence	mig-2|MIG-2|C35C5.4|P90979_CAEEL|Q93328	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P90979	mig-2		GO:0016477	PMID:16204220	IGI		P	Protein C35C5.4, partially confirmed by transcript evidence	mig-2|MIG-2|C35C5.4|P90979_CAEEL|Q93328	protein	taxon:6239	20080324	WormBase		
+UniProtKB	P90979	mig-2		GO:0016477	PMID:11967148	IMP		P	Protein C35C5.4, partially confirmed by transcript evidence	mig-2|MIG-2|C35C5.4|P90979_CAEEL|Q93328	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P90979	mig-2		GO:0016477	PMID:11687661	IMP		P	Protein C35C5.4, partially confirmed by transcript evidence	mig-2|MIG-2|C35C5.4|P90979_CAEEL|Q93328	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q20129	mus-101		GO:0009792	PMID:11231151	IMP		P	Protein F37D6.1, confirmed by transcript evidence	mus-101|F37D6.1|Q20129_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q20129	mus-101		GO:0009792	PMID:15654100	IGI		P	Protein F37D6.1, confirmed by transcript evidence	mus-101|F37D6.1|Q20129_CAEEL	protein	taxon:6239	20100421	WormBase		
+UniProtKB	Q09488	sma-6		GO:0045138	PMID:9847239	IGI		P	Serine/threonine-protein kinase sma-6	sma-6|C32D5.2|SMA6_CAEEL	protein	taxon:6239	20060926	WormBase		
+UniProtKB	Q09488	sma-6		GO:0045138	PMID:12717735	IMP		P	Serine/threonine-protein kinase sma-6	sma-6|C32D5.2|SMA6_CAEEL	protein	taxon:6239	20061024	WormBase		
+UniProtKB	Q09488	sma-6		GO:0045138	PMID:12679110	IMP		P	Serine/threonine-protein kinase sma-6	sma-6|C32D5.2|SMA6_CAEEL	protein	taxon:6239	20061016	WormBase		
+UniProtKB	Q20363	sip-1		GO:0008340	PMID:14668486	IGI		P	Stress-induced protein 1	sip-1|F43D9.4|SIP1_CAEEL	protein	taxon:6239	20070727	WormBase		
+UniProtKB	Q20363	sip-1		GO:0008340	PMID:12845331	IMP		P	Stress-induced protein 1	sip-1|F43D9.4|SIP1_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P34544	met-2		GO:0040027	PMID:15990876	IMP		P	Probable histone-lysine N-methyltransferase met-2	met-2|R05D3.11|MET2_CAEEL|Q8WTP5	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P34544	met-2		GO:0040027	PMID:17634190	IGI		P	Probable histone-lysine N-methyltransferase met-2	met-2|R05D3.11|MET2_CAEEL|Q8WTP5	protein	taxon:6239	20080401	WormBase		
+UniProtKB	Q21219	pept-1		GO:0000003	PMID:12939266	IMP		P	Peptide transporter family 1	pept-1|cptb|K04E7.2|pep-2|PEPT1_CAEEL|O76186	protein	taxon:6239	20060203	WormBase		
+UniProtKB	Q21219	pept-1		GO:0000003	PMID:15155758	IGI		P	Peptide transporter family 1	pept-1|cptb|K04E7.2|pep-2|PEPT1_CAEEL|O76186	protein	taxon:6239	20071012	WormBase		
+UniProtKB	Q20204	slt-1		GO:0033563	PMID:11604136	IMP		P	Protein F40E10.4, partially confirmed by transcript evidence	slt-1|F40E10.4|Q20204_CAEEL	protein	taxon:6239	20100216	WormBase		
+UniProtKB	Q20204	slt-1		GO:0033563	PMID:17901337	IGI		P	Protein F40E10.4, partially confirmed by transcript evidence	slt-1|F40E10.4|Q20204_CAEEL	protein	taxon:6239	20100216	WormBase		
+UniProtKB	Q20204	slt-1		GO:0033563	PMID:16563765	IGI		P	Protein F40E10.4, partially confirmed by transcript evidence	slt-1|F40E10.4|Q20204_CAEEL	protein	taxon:6239	20100216	WormBase		
+UniProtKB	Q95Q95	let-363		GO:0008340	PMID:15155758	IMP		P	Target of rapamycin homolog	let-363|B0261.2|tor|TOR_CAEEL|O01438	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q95Q95	let-363		GO:0008340	PMID:17266680	IMP		P	Target of rapamycin homolog	let-363|B0261.2|tor|TOR_CAEEL|O01438	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q95Q95	let-363		GO:0008340	PMID:14668850	IMP		P	Target of rapamycin homolog	let-363|B0261.2|tor|TOR_CAEEL|O01438	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q95Q95	let-363		GO:0008340	PMID:18804378	IGI		P	Target of rapamycin homolog	let-363|B0261.2|tor|TOR_CAEEL|O01438	protein	taxon:6239	20091116	WormBase		
+UniProtKB	Q95Q95	let-363		GO:0008340	PMID:17266679	IMP		P	Target of rapamycin homolog	let-363|B0261.2|tor|TOR_CAEEL|O01438	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9Y0A1	itr-1		GO:0030421	PMID:11553721	IGI		P	Inositol 1,4,5-trisphosphate receptor	itr-1|F33D4.2|Q9Y0A1_CAEEL	protein	taxon:6239	20080220	WormBase		
+UniProtKB	Q9Y0A1	itr-1		GO:0030421	PMID:10499793	IMP		P	Inositol 1,4,5-trisphosphate receptor	itr-1|F33D4.2|Q9Y0A1_CAEEL	protein	taxon:6239	20061019	WormBase		
+UniProtKB	Q9U2W6	psa-1		GO:0040018	PMID:17417969	IMP		P	Protein Y113G7B.23, confirmed by transcript evidence	psa-1|Y113G7B.23|Q9U2W6_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9U2W6	psa-1		GO:0040018	PMID:15280233	IGI		P	Protein Y113G7B.23, confirmed by transcript evidence	psa-1|Y113G7B.23|Q9U2W6_CAEEL	protein	taxon:6239	20060427	WormBase		
+UniProtKB	P34709	tra-2		GO:0042001	PMID:10783162	IGI		P	Sex-determining transformer protein 2	tra-2|C15F1.3|TRA2_CAEEL|Q8STA8|Q8STE2|Q8T5X5|Q8T5X6|Q8T5X7|Q8T5X8|Q8T5X9|Q8T5Y0|Q8T5Y1|Q8T5Y2|Q8T5Y3|Q8T5Y4|Q8T5Y5|Q9N5Y5	protein	taxon:6239	20100126	WormBase		
+UniProtKB	P34709	tra-2		GO:0042001	PMID:560330	IMP		P	Sex-determining transformer protein 2	tra-2|C15F1.3|TRA2_CAEEL|Q8STA8|Q8STE2|Q8T5X5|Q8T5X6|Q8T5X7|Q8T5X8|Q8T5X9|Q8T5Y0|Q8T5Y1|Q8T5Y2|Q8T5Y3|Q8T5Y4|Q8T5Y5|Q9N5Y5	protein	taxon:6239	20100126	WormBase		
+UniProtKB	Q07750	unc-60		GO:0030042	PMID:10379837	IDA		P	Actin-depolymerizing factor 1, isoforms a/b	unc-60|C38C3.5|ADF1_CAEEL|Q9UAU4	protein	taxon:6239	20100517	WormBase		
+UniProtKB	Q07750	unc-60		GO:0030042	PMID:8107682	IMP		P	Actin-depolymerizing factor 1, isoforms a/b	unc-60|C38C3.5|ADF1_CAEEL|Q9UAU4	protein	taxon:6239	20050519	WormBase		
+UniProtKB	Q07750	unc-60		GO:0030042	PMID:11901171	IDA		P	Actin-depolymerizing factor 1, isoforms a/b	unc-60|C38C3.5|ADF1_CAEEL|Q9UAU4	protein	taxon:6239	20080707	WormBase		
+UniProtKB	Q27365	lin-15A		GO:0040027	PMID:16905130	IGI		P	Protein lin-15A	lin-15A|ZK678.1|LI15A_CAEEL|Q21448	protein	taxon:6239	20070510	WormBase		
+UniProtKB	Q27365	lin-15A		GO:0040027	PMID:11850401	IMP		P	Protein lin-15A	lin-15A|ZK678.1|LI15A_CAEEL|Q21448	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q27365	lin-15A		GO:0040027	PMID:11076750	IMP		P	Protein lin-15A	lin-15A|ZK678.1|LI15A_CAEEL|Q21448	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q27365	lin-15A		GO:0040027	PMID:8054684	IMP		P	Protein lin-15A	lin-15A|ZK678.1|LI15A_CAEEL|Q21448	protein	taxon:6239	20061025	UniProtKB		
+UniProtKB	Q27365	lin-15A		GO:0040027	PMID:15196946	IMP		P	Protein lin-15A	lin-15A|ZK678.1|LI15A_CAEEL|Q21448	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q27365	lin-15A		GO:0040027	PMID:16890929	IMP		P	Protein lin-15A	lin-15A|ZK678.1|LI15A_CAEEL|Q21448	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q27365	lin-15A		GO:0040027	PMID:11861555	IGI		P	Protein lin-15A	lin-15A|ZK678.1|LI15A_CAEEL|Q21448	protein	taxon:6239	20070323	WormBase		
+UniProtKB	Q17386	egl-30		GO:0043051	PMID:14704167	IGI		P	EGL-30	egl-30|M01D7.7|Q17386_CAEEL|O02546	protein	taxon:6239	20061019	WormBase		
+UniProtKB	Q17386	egl-30		GO:0043051	PMID:12750328	IMP		P	EGL-30	egl-30|M01D7.7|Q17386_CAEEL|O02546	protein	taxon:6239	20061219	WormBase		
+UniProtKB	P54811	cdc-48.1		GO:0009792	PMID:16647269	IGI		P	Transitional endoplasmic reticulum ATPase homolog 1	cdc-48.1|C06A1.1|TERA1_CAEEL	protein	taxon:6239	20100715	WormBase		
+UniProtKB	P54811	cdc-48.1		GO:0009792	PMID:11137018	IMP		P	Transitional endoplasmic reticulum ATPase homolog 1	cdc-48.1|C06A1.1|TERA1_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P54811	cdc-48.1		GO:0009792	PMID:15716356	IMP		P	Transitional endoplasmic reticulum ATPase homolog 1	cdc-48.1|C06A1.1|TERA1_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P54811	cdc-48.1		GO:0009792	PMID:18854144	IMP		P	Transitional endoplasmic reticulum ATPase homolog 1	cdc-48.1|C06A1.1|TERA1_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P54811	cdc-48.1		GO:0009792	PMID:17512499	IMP		P	Transitional endoplasmic reticulum ATPase homolog 1	cdc-48.1|C06A1.1|TERA1_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P54811	cdc-48.1		GO:0009792	PMID:15037255	IMP		P	Transitional endoplasmic reticulum ATPase homolog 1	cdc-48.1|C06A1.1|TERA1_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P54812	cdc-48.2		GO:0009792	PMID:11137018	IMP		P	Transitional endoplasmic reticulum ATPase homolog 2	cdc-48.2|C41C4.8|TERA2_CAEEL|Q18560	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P54812	cdc-48.2		GO:0009792	PMID:15037255	IMP		P	Transitional endoplasmic reticulum ATPase homolog 2	cdc-48.2|C41C4.8|TERA2_CAEEL|Q18560	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P54812	cdc-48.2		GO:0009792	PMID:18854144	IMP		P	Transitional endoplasmic reticulum ATPase homolog 2	cdc-48.2|C41C4.8|TERA2_CAEEL|Q18560	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P54812	cdc-48.2		GO:0009792	PMID:17512499	IMP		P	Transitional endoplasmic reticulum ATPase homolog 2	cdc-48.2|C41C4.8|TERA2_CAEEL|Q18560	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P54812	cdc-48.2		GO:0009792	PMID:16647269	IGI		P	Transitional endoplasmic reticulum ATPase homolog 2	cdc-48.2|C41C4.8|TERA2_CAEEL|Q18560	protein	taxon:6239	20100715	WormBase		
+UniProtKB	P54812	cdc-48.2		GO:0009792	PMID:15716356	IMP		P	Transitional endoplasmic reticulum ATPase homolog 2	cdc-48.2|C41C4.8|TERA2_CAEEL|Q18560	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q18409	rsp-6		GO:0008406	PMID:10747030	IMP		P	Probable splicing factor, arginine/serine-rich 6	rsp-6|srp-1|C33H5.12|RSP6_CAEEL|Q8WSW0|Q8WSW1	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q18409	rsp-6		GO:0008406	PMID:10906451	IGI	UniProtKB:Q23120	P	Probable splicing factor, arginine/serine-rich 6	rsp-6|srp-1|C33H5.12|RSP6_CAEEL|Q8WSW0|Q8WSW1	protein	taxon:6239	20041112	UniProtKB		
+UniProtKB	Q22227	mig-5		GO:0048598	PMID:19298786	IGI		P	Protein T05C12.6a, confirmed by transcript evidence	mig-5|T05C12.6a|T05C12.6|Q22227_CAEEL	protein	taxon:6239	20100316	WormBase		
+UniProtKB	Q22227	mig-5		GO:0048598	PMID:16899238	IMP		P	Protein T05C12.6a, confirmed by transcript evidence	mig-5|T05C12.6a|T05C12.6|Q22227_CAEEL	protein	taxon:6239	20100311	WormBase		
+UniProtKB	Q11107	lin-13		GO:0040027	PMID:10880475	IMP		P	Zinc finger protein lin-13	lin-13|C03B8.4|LIN13_CAEEL|Q9NBV2	protein	taxon:6239	20020905	UniProtKB		
+UniProtKB	Q11107	lin-13		GO:0040027	PMID:10880475	IMP		P	Zinc finger protein lin-13	lin-13|C03B8.4|LIN13_CAEEL|Q9NBV2	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q11107	lin-13		GO:0040027	PMID:16905130	IGI		P	Zinc finger protein lin-13	lin-13|C03B8.4|LIN13_CAEEL|Q9NBV2	protein	taxon:6239	20070509	WormBase		
+UniProtKB	Q9XV66	unc-80		GO:0040017	PMID:14551910	IMP		P	Protein unc-80	F25C8.3|unc-80|UNC80_CAEEL|B5U8P2|Q7JKT8	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9XV66	unc-80		GO:0040017	PMID:18336069	IGI		P	Protein unc-80	F25C8.3|unc-80|UNC80_CAEEL|B5U8P2|Q7JKT8	protein	taxon:6239	20100622	WormBase		
+UniProtKB	P90892	fax-1		GO:0045944	PMID:18179707	IDA		P	Defective fasciculation of axons protein 1	fax-1|F56E3.4|P90892_CAEEL|Q9U4I0	protein	taxon:6239	20081107	WormBase		
+UniProtKB	P90892	fax-1		GO:0045944	PMID:16183052	IMP		P	Defective fasciculation of axons protein 1	fax-1|F56E3.4|P90892_CAEEL|Q9U4I0	protein	taxon:6239	20070425	WormBase		
+UniProtKB	Q23490	mlt-7		GO:0002119	PMID:14551910	IMP		P	Peroxidase mlt-7	mlt-7|ZK430.8|MLT7_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q23490	mlt-7		GO:0002119	PMID:15489339	IMP		P	Peroxidase mlt-7	mlt-7|ZK430.8|MLT7_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q23490	mlt-7		GO:0002119	PMID:19406744	IGI		P	Peroxidase mlt-7	mlt-7|ZK430.8|MLT7_CAEEL	protein	taxon:6239	20080820	WormBase		
+UniProtKB	Q23490	mlt-7		GO:0002119	PMID:11231151	IMP		P	Peroxidase mlt-7	mlt-7|ZK430.8|MLT7_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9BMU2	chn-1		GO:0040011	PMID:15294159	IGI		P	C-term of hsp70-interacting protein (Chip family) protein 1	chn-1|1G758|T09B4.10|Q9BMU2_CAEEL|O02162	protein	taxon:6239	20070418	WormBase		
+UniProtKB	Q9BMU2	chn-1		GO:0040011	PMID:16600994	IMP		P	C-term of hsp70-interacting protein (Chip family) protein 1	chn-1|1G758|T09B4.10|Q9BMU2_CAEEL|O02162	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q05062	cdc-42		GO:0007163	PMID:11412997	IMP		P	Cell division control protein 42 homolog	cdc-42|R07G3.1|CDC42_CAEEL|P91792	protein	taxon:6239	20041019	WormBase		
+UniProtKB	Q05062	cdc-42		GO:0007163	PMID:11412996	IGI		P	Cell division control protein 42 homolog	cdc-42|R07G3.1|CDC42_CAEEL|P91792	protein	taxon:6239	20040816	UniProtKB		
+UniProtKB	Q9XWD6	ced-1		GO:0043652	PMID:16912277	IMP		P	Cell death abnormality protein 1	ced-1|Y47H9C.4|CED1_CAEEL|Q0E7J9|Q8T3A6|Q8T3A7	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9XWD6	ced-1		GO:0043652	PMID:15744306	IDA		P	Cell death abnormality protein 1	ced-1|Y47H9C.4|CED1_CAEEL|Q0E7J9|Q8T3A6|Q8T3A7	protein	taxon:6239	20090619	UniProtKB		
+UniProtKB	Q9XWD6	ced-1		GO:0043652	PMID:18351800	IMP		P	Cell death abnormality protein 1	ced-1|Y47H9C.4|CED1_CAEEL|Q0E7J9|Q8T3A6|Q8T3A7	protein	taxon:6239	20090622	UniProtKB		
+UniProtKB	Q9XWD6	ced-1		GO:0043652	PMID:11163239	IMP		P	Cell death abnormality protein 1	ced-1|Y47H9C.4|CED1_CAEEL|Q0E7J9|Q8T3A6|Q8T3A7	protein	taxon:6239	20060605	WormBase		
+UniProtKB	Q9XWD6	ced-1		GO:0043652	PMID:1936965	IMP		P	Cell death abnormality protein 1	ced-1|Y47H9C.4|CED1_CAEEL|Q0E7J9|Q8T3A6|Q8T3A7	protein	taxon:6239	20090619	UniProtKB		
+UniProtKB	Q9XWD6	ced-1		GO:0043652	PMID:11163239	IDA		P	Cell death abnormality protein 1	ced-1|Y47H9C.4|CED1_CAEEL|Q0E7J9|Q8T3A6|Q8T3A7	protein	taxon:6239	20090619	UniProtKB		
+UniProtKB	P14585	lin-12		GO:0001708	PMID:1769331	IGI		P	Protein lin-12	lin-12|R107.8|LIN12_CAEEL	protein	taxon:6239	20060605	WormBase		
+UniProtKB	P14585	lin-12		GO:0001708	PMID:6616618	IMP		P	Protein lin-12	lin-12|R107.8|LIN12_CAEEL	protein	taxon:6239	20060605	WormBase		
+UniProtKB	P90979	mig-2		GO:0001764	PMID:2361334	IMP		P	Protein C35C5.4, partially confirmed by transcript evidence	mig-2|MIG-2|C35C5.4|P90979_CAEEL|Q93328	protein	taxon:6239	20060203	WormBase		
+UniProtKB	P90979	mig-2		GO:0001764	PMID:16204220	IGI		P	Protein C35C5.4, partially confirmed by transcript evidence	mig-2|MIG-2|C35C5.4|P90979_CAEEL|Q93328	protein	taxon:6239	20080324	WormBase		
+UniProtKB	Q21370	hpl-1		GO:0000003	PMID:16905130	IGI		P	Heterochromatin protein 1 homolog	hpl-1|K08H2.6|Q21370_CAEEL	protein	taxon:6239	20070510	WormBase		
+UniProtKB	Q21370	hpl-1		GO:0000003	PMID:11850401	IMP		P	Heterochromatin protein 1 homolog	hpl-1|K08H2.6|Q21370_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q21219	pept-1		GO:0040010	PMID:12939266	IGI		P	Peptide transporter family 1	pept-1|cptb|K04E7.2|pep-2|PEPT1_CAEEL|O76186	protein	taxon:6239	20060203	WormBase		
+UniProtKB	Q21219	pept-1		GO:0040010	PMID:15155758	IGI		P	Peptide transporter family 1	pept-1|cptb|K04E7.2|pep-2|PEPT1_CAEEL|O76186	protein	taxon:6239	20071012	WormBase		
+UniProtKB	Q21219	pept-1		GO:0040010	PMID:12529635	IMP		P	Peptide transporter family 1	pept-1|cptb|K04E7.2|pep-2|PEPT1_CAEEL|O76186	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q9XYD3	hbl-1		GO:0040034	PMID:12737800	IGI		P	Hunchback-like protein	hbl-1|F13D11.2|HBL1_CAEEL|Q19389	protein	taxon:6239	20100310	WormBase		
+UniProtKB	Q9XYD3	hbl-1		GO:0040034	PMID:12737799	IMP		P	Hunchback-like protein	hbl-1|F13D11.2|HBL1_CAEEL|Q19389	protein	taxon:6239	20100310	WormBase		
+UniProtKB	Q20646	cep-1		GO:0042771	PMID:17186023	IDA		P	Transcription factor cep-1	cep-1|F52B5.5|CEP1_CAEEL|Q564Z1|Q95V13	protein	taxon:6239	20090618	UniProtKB		
+UniProtKB	Q20646	cep-1		GO:0042771	PMID:15605074	IMP		P	Transcription factor cep-1	cep-1|F52B5.5|CEP1_CAEEL|Q564Z1|Q95V13	protein	taxon:6239	20090618	UniProtKB		
+UniProtKB	Q20646	cep-1		GO:0042771	PMID:11696333	IMP		P	Transcription factor cep-1	cep-1|F52B5.5|CEP1_CAEEL|Q564Z1|Q95V13	protein	taxon:6239	20060508	WormBase		
+UniProtKB	Q20646	cep-1		GO:0042771	PMID:11696333	IMP		P	Transcription factor cep-1	cep-1|F52B5.5|CEP1_CAEEL|Q564Z1|Q95V13	protein	taxon:6239	20090618	UniProtKB		
+UniProtKB	Q20646	cep-1		GO:0042771	PMID:12684824	IGI		P	Transcription factor cep-1	cep-1|F52B5.5|CEP1_CAEEL|Q564Z1|Q95V13	protein	taxon:6239	20060508	WormBase		
+UniProtKB	Q20646	cep-1		GO:0042771	PMID:12445383	IMP		P	Transcription factor cep-1	cep-1|F52B5.5|CEP1_CAEEL|Q564Z1|Q95V13	protein	taxon:6239	20090618	UniProtKB		
+UniProtKB	Q20646	cep-1		GO:0042771	PMID:18627611	IDA		P	Transcription factor cep-1	cep-1|F52B5.5|CEP1_CAEEL|Q564Z1|Q95V13	protein	taxon:6239	20090618	UniProtKB		
+UniProtKB	Q20646	cep-1		GO:0042771	PMID:17347667	IMP		P	Transcription factor cep-1	cep-1|F52B5.5|CEP1_CAEEL|Q564Z1|Q95V13	protein	taxon:6239	20090618	UniProtKB		
+UniProtKB	Q20646	cep-1		GO:0042771	PMID:11557844	IMP		P	Transcription factor cep-1	cep-1|F52B5.5|CEP1_CAEEL|Q564Z1|Q95V13	protein	taxon:6239	20090618	UniProtKB		
+UniProtKB	O16850	daf-16		GO:0007568	PMID:19103192	IDA		P	Forkhead box protein O	daf-16|R13H8.1|FOXO_CAEEL|O16849|O18676|Q86S42	protein	taxon:6239	20091014	UniProtKB		
+UniProtKB	O16850	daf-16		GO:0007568	PMID:11747825	IMP		P	Forkhead box protein O	daf-16|R13H8.1|FOXO_CAEEL|O16849|O18676|Q86S42	protein	taxon:6239	20091012	UniProtKB		
+UniProtKB	Q95XP4	mab-20		GO:0030155	PMID:12679110	IGI		P	Semaphorin-2A	mab-20|Y71G12B.20|SEM2A_CAEEL|Q86LT8|Q9NI38	protein	taxon:6239	20061016	WormBase		
+UniProtKB	Q95XP4	mab-20		GO:0030155	PMID:10648234	IMP		P	Semaphorin-2A	mab-20|Y71G12B.20|SEM2A_CAEEL|Q86LT8|Q9NI38	protein	taxon:6239	20080417	WormBase		
+UniProtKB	P22981	let-60		GO:0002119	PMID:17417969	IMP		P	Ras protein let-60	let-60|ZK792.6|lin-34|LET60_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P22981	let-60		GO:0002119	PMID:16845399	IMP		P	Ras protein let-60	let-60|ZK792.6|lin-34|LET60_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P22981	let-60		GO:0002119	PMID:11861555	IGI		P	Ras protein let-60	let-60|ZK792.6|lin-34|LET60_CAEEL	protein	taxon:6239	20070323	WormBase		
+UniProtKB	P22981	let-60		GO:0002119	PMID:14551910	IMP		P	Ras protein let-60	let-60|ZK792.6|lin-34|LET60_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P22981	let-60		GO:0002119	PMID:11231151	IMP		P	Ras protein let-60	let-60|ZK792.6|lin-34|LET60_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P39745	mpk-1		GO:0040025	PMID:8299935	IMP		P	Mitogen-activated protein kinase mpk-1	mpk-1|F43C1.2|sur-1|SUR1_CAEEL|Q9U3F3	protein	taxon:6239	20020819	UniProtKB		
+UniProtKB	P39745	mpk-1		GO:0040025	PMID:8299936	IMP		P	Mitogen-activated protein kinase mpk-1	mpk-1|F43C1.2|sur-1|SUR1_CAEEL|Q9U3F3	protein	taxon:6239	20020819	UniProtKB		
+UniProtKB	P39745	mpk-1		GO:0040025	PMID:11861555	IGI		P	Mitogen-activated protein kinase mpk-1	mpk-1|F43C1.2|sur-1|SUR1_CAEEL|Q9U3F3	protein	taxon:6239	20070323	WormBase		
+UniProtKB	Q18965	eat-3		GO:0002119	PMID:14551910	IMP		P	Protein D2013.5, partially confirmed by transcript evidence	eat-3|D2013.5|Q18965_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q18965	eat-3		GO:0002119	PMID:12529635	IMP		P	Protein D2013.5, partially confirmed by transcript evidence	eat-3|D2013.5|Q18965_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q18965	eat-3		GO:0002119	PMID:18454199	IGI		P	Protein D2013.5, partially confirmed by transcript evidence	eat-3|D2013.5|Q18965_CAEEL	protein	taxon:6239	20100105	WormBase		
+UniProtKB	P10038	mab-5		GO:0045138	PMID:11076762	IGI		P	Homeobox protein mab-5	mab-5|C08C3.3|MAB5_CAEEL|Q9GZ02	protein	taxon:6239	20070104	WormBase		
+UniProtKB	P10038	mab-5		GO:0045138	PMID:8625851	IMP		P	Homeobox protein mab-5	mab-5|C08C3.3|MAB5_CAEEL|Q9GZ02	protein	taxon:6239	20060124	WormBase		
+UniProtKB	O01682	lin-35		GO:0040027	PMID:15990876	IMP		P	Abnormal cell lineage protein 35	lin-35|C32F10.2|O01682_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	O01682	lin-35		GO:0040027	PMID:17417969	IMP		P	Abnormal cell lineage protein 35	lin-35|C32F10.2|O01682_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	O01682	lin-35		GO:0040027	PMID:16890929	IMP		P	Abnormal cell lineage protein 35	lin-35|C32F10.2|O01682_CAEEL	protein	taxon:6239	20101004	WormBase		
+UniProtKB	O01682	lin-35		GO:0040027	PMID:16905130	IGI		P	Abnormal cell lineage protein 35	lin-35|C32F10.2|O01682_CAEEL	protein	taxon:6239	20070510	WormBase		
+UniProtKB	O17386	ced-8		GO:0012501	PMID:1936965	IMP		P	Cell death abnormality protein 8	ced-8|F08F1.5|CED8_CAEEL	protein	taxon:6239	20090623	UniProtKB		
+UniProtKB	O17386	ced-8		GO:0012501	PMID:9927601	IMP		P	Cell death abnormality protein 8	ced-8|F08F1.5|CED8_CAEEL	protein	taxon:6239	20091023	UniProtKB		
+UniProtKB	O17386	ced-8		GO:0012501	PMID:10882128	IEP		P	Cell death abnormality protein 8	ced-8|F08F1.5|CED8_CAEEL	protein	taxon:6239	20090623	UniProtKB		
+UniProtKB	O17386	ced-8		GO:0012501	PMID:10882128	IMP		P	Cell death abnormality protein 8	ced-8|F08F1.5|CED8_CAEEL	protein	taxon:6239	20060425	WormBase		
+UniProtKB	Q18685	unc-112		GO:0007160	PMID:10893272	IDA		P	Protein unc-112	unc-112|C47E8.7|UN112_CAEEL	protein	taxon:6239	20040526	UniProtKB		
+UniProtKB	Q18685	unc-112		GO:0007160	PMID:10893272	IMP		P	Protein unc-112	unc-112|C47E8.7|UN112_CAEEL	protein	taxon:6239	20050523	WormBase		
+UniProtKB	Q17386	egl-30		GO:0040017	PMID:15489511	IMP		P	EGL-30	egl-30|M01D7.7|Q17386_CAEEL|O02546	protein	taxon:6239	20081107	WormBase		
+UniProtKB	Q17386	egl-30		GO:0040017	PMID:8630258	IMP		P	EGL-30	egl-30|M01D7.7|Q17386_CAEEL|O02546	protein	taxon:6239	20050422	WormBase		
+UniProtKB	Q17386	egl-30		GO:0040017	PMID:15378064	IMP		P	EGL-30	egl-30|M01D7.7|Q17386_CAEEL|O02546	protein	taxon:6239	20070525	WormBase		
+UniProtKB	Q17386	egl-30		GO:0040017	PMID:14704167	IGI		P	EGL-30	egl-30|M01D7.7|Q17386_CAEEL|O02546	protein	taxon:6239	20061019	WormBase		
+UniProtKB	A5JYS0	pcs-1		GO:0046938	PMID:20221439	IMP		P	Protein F54D5.1a, confirmed by transcript evidence	pcs-1|F54D5.1|F54D5.1a|A5JYS0_CAEEL	protein	taxon:6239	20100312	WormBase		
+UniProtKB	A5JYS0	pcs-1		GO:0046938	PMID:11313333	IDA		P	Protein F54D5.1a, confirmed by transcript evidence	pcs-1|F54D5.1|F54D5.1a|A5JYS0_CAEEL	protein	taxon:6239	20100312	WormBase		
+UniProtKB	Q03563	spk-1		GO:0009792	PMID:11099034	IMP		P	Serine/threonine-protein kinase spk-1	spk-1|B0464.5|rsk-1|srk-1|SPK1_CAEEL|Q9XVX9|Q9XVY0	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q03563	spk-1		GO:0009792	PMID:15791247	IMP		P	Serine/threonine-protein kinase spk-1	spk-1|B0464.5|rsk-1|srk-1|SPK1_CAEEL|Q9XVX9|Q9XVY0	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q03563	spk-1		GO:0009792	PMID:11091073	IMP		P	Serine/threonine-protein kinase spk-1	spk-1|B0464.5|rsk-1|srk-1|SPK1_CAEEL|Q9XVX9|Q9XVY0	protein	taxon:6239	20101004	WormBase		
+UniProtKB	Q03563	spk-1		GO:0009792	PMID:11091073	IGI	UniProtKB:Q9NEW6	P	Serine/threonine-protein kinase spk-1	spk-1|B0464.5|rsk-1|srk-1|SPK1_CAEEL|Q9XVX9|Q9XVY0	protein	taxon:6239	20041112	UniProtKB		
+UniProtKB	P10567	unc-15		GO:0040011	PMID:17417969	IMP		P	Paramyosin	unc-15|F07A5.7|MYSP_CAEEL|Q93214|Q93439	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P10567	unc-15		GO:0040011	PMID:16790495	IGI		P	Paramyosin	unc-15|F07A5.7|MYSP_CAEEL|Q93214|Q93439	protein	taxon:6239	20070731	WormBase		
+UniProtKB	P10567	unc-15		GO:0040011	PMID:14551910	IMP		P	Paramyosin	unc-15|F07A5.7|MYSP_CAEEL|Q93214|Q93439	protein	taxon:6239	20101004	WormBase		
+UniProtKB	P10567	unc-15		GO:0040011	PMID:11099033	IMP		P	Paramyosin	unc-15|F07A5.7|MYSP_CAEEL|Q93214|Q93439	protein	taxon:6239	20101004	WormBase		

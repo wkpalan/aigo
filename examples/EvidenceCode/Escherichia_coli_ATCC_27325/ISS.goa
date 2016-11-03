@@ -1,0 +1,3 @@
+!gaf-version: 2.0
+UniProtKB	P36553	hemF		GO:0042803	GO_REF:0000024	ISS	UniProtKB:P36551	F	Coproporphyrinogen-III oxidase, aerobic	hemF|b2436|JW2429|HEM6_ECOLI	protein	taxon:83333	20091105	UniProtKB		
+UniProtKB	P23909	mutS		GO:0006310	GO_REF:0000033	ISS	PANTHER:PTHR11361_AN24	P	DNA mismatch repair protein mutS	mutS|fdv|b2733|JW2703|MUTS_ECOLI|P71279|Q2MA96	protein	taxon:83333	20100719	RefGenome		

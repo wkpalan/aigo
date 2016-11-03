@@ -1,0 +1,670 @@
+!gaf-version: 2.0
+UniProtKB	P0A7V0	rpsB		GO:0022627	PMID:4587209	IDA		C	30S ribosomal protein S2	rpsB|b0169|JW0164|RS2_ECOLI|P02351|Q9R2E5	protein	taxon:83333	20080917	EcoliWiki		
+UniProtKB	P0A7V0	rpsB		GO:0022627	PMID:7023985	IPI		C	30S ribosomal protein S2	rpsB|b0169|JW0164|RS2_ECOLI|P02351|Q9R2E5	protein	taxon:83333	20080728	EcoCyc		
+UniProtKB	P22523	mukB		GO:0000796	PMID:16740950	IDA		C	Chromosome partition protein mukB	mukB|b0924|JW0907|MUKB_ECOLI|P71227|P77164|Q47398	protein	taxon:83333	20080522	EcoCyc		
+UniProtKB	P22523	mukB		GO:0000796	PMID:16740950	IMP		C	Chromosome partition protein mukB	mukB|b0924|JW0907|MUKB_ECOLI|P71227|P77164|Q47398	protein	taxon:83333	20081031	EcoliWiki		
+UniProtKB	P69428	tatA		GO:0016021	PMID:12427031	IDA		C	Sec-independent protein translocase protein tatA	tatA|b3836|mttA1|yigT|JW3813|TATA_ECOLI|O65938|P27856|Q2M8E1	protein	taxon:83333	20081103	EcoliWiki		
+UniProtKB	P69428	tatA		GO:0016021	PMID:16027357	IPI		C	Sec-independent protein translocase protein tatA	tatA|b3836|mttA1|yigT|JW3813|TATA_ECOLI|O65938|P27856|Q2M8E1	protein	taxon:83333	20080514	EcoCyc		
+UniProtKB	P0AG96	secE		GO:0016021	PMID:9180258	IDA		C	Preprotein translocase subunit SecE	secE|prlG|b3981|JW3944|SECE_ECOLI|P16920|Q2M8R7	protein	taxon:83333	20090724	EcoliWiki		
+UniProtKB	P0AG96	secE		GO:0016021	PMID:2673920	IMP		C	Preprotein translocase subunit SecE	secE|prlG|b3981|JW3944|SECE_ECOLI|P16920|Q2M8R7	protein	taxon:83333	20090724	EcoliWiki		
+UniProtKB	P69451	fadD		GO:0004467	PMID:7016858	IDA		F	Long-chain-fatty-acid--CoA ligase	fadD|oldD|b1805|JW1794|LCFA_ECOLI|P29212	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P69451	fadD		GO:0004467	PMID:7016858	IDA		F	Long-chain-fatty-acid--CoA ligase	fadD|oldD|b1805|JW1794|LCFA_ECOLI|P29212	protein	taxon:83333	20091214	EcoCyc		
+UniProtKB	P69451	fadD		GO:0004467	PMID:1460045	IMP		F	Long-chain-fatty-acid--CoA ligase	fadD|oldD|b1805|JW1794|LCFA_ECOLI|P29212	protein	taxon:83333	20090914	EcoliWiki		
+UniProtKB	P69451	fadD		GO:0004467	PMID:9030548	IMP		F	Long-chain-fatty-acid--CoA ligase	fadD|oldD|b1805|JW1794|LCFA_ECOLI|P29212	protein	taxon:83333	20090914	EcoliWiki		
+UniProtKB	P0ACF0	hupA		GO:0016564	PMID:11254141	IEP		F	DNA-binding protein HU-alpha	hupA|b4000|JW3964|DBHA_ECOLI|P02342|Q2M8T7	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P0ACF0	hupA		GO:0016564	PMID:9192630	IEP		F	DNA-binding protein HU-alpha	hupA|b4000|JW3964|DBHA_ECOLI|P02342|Q2M8T7	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P0ACF0	hupA		GO:0016564	PMID:3514923	IDA		F	DNA-binding protein HU-alpha	hupA|b4000|JW3964|DBHA_ECOLI|P02342|Q2M8T7	protein	taxon:83333	20061108	EcoCyc		
+UniProtKB	P0ACF0	hupA		GO:0016564	PMID:10982882	IEP		F	DNA-binding protein HU-alpha	hupA|b4000|JW3964|DBHA_ECOLI|P02342|Q2M8T7	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P0ACF0	hupA		GO:0016564	PMID:227733	IDA		F	DNA-binding protein HU-alpha	hupA|b4000|JW3964|DBHA_ECOLI|P02342|Q2M8T7	protein	taxon:83333	20061108	EcoCyc		
+UniProtKB	P0ACF0	hupA		GO:0016564	PMID:11601842	IEP		F	DNA-binding protein HU-alpha	hupA|b4000|JW3964|DBHA_ECOLI|P02342|Q2M8T7	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P0ACF0	hupA		GO:0016564	PMID:9218807	IDA		F	DNA-binding protein HU-alpha	hupA|b4000|JW3964|DBHA_ECOLI|P02342|Q2M8T7	protein	taxon:83333	20061108	EcoCyc		
+UniProtKB	P0ACF0	hupA		GO:0016563	PMID:11601842	IEP		F	DNA-binding protein HU-alpha	hupA|b4000|JW3964|DBHA_ECOLI|P02342|Q2M8T7	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P0ACF0	hupA		GO:0016563	PMID:9218807	IDA		F	DNA-binding protein HU-alpha	hupA|b4000|JW3964|DBHA_ECOLI|P02342|Q2M8T7	protein	taxon:83333	20061108	EcoCyc		
+UniProtKB	P0ACF0	hupA		GO:0016563	PMID:11254141	IEP		F	DNA-binding protein HU-alpha	hupA|b4000|JW3964|DBHA_ECOLI|P02342|Q2M8T7	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P0ACF0	hupA		GO:0016563	PMID:10982882	IEP		F	DNA-binding protein HU-alpha	hupA|b4000|JW3964|DBHA_ECOLI|P02342|Q2M8T7	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P0ACF0	hupA		GO:0016563	PMID:3514923	IDA		F	DNA-binding protein HU-alpha	hupA|b4000|JW3964|DBHA_ECOLI|P02342|Q2M8T7	protein	taxon:83333	20061108	EcoCyc		
+UniProtKB	P0ACF0	hupA		GO:0016563	PMID:227733	IDA		F	DNA-binding protein HU-alpha	hupA|b4000|JW3964|DBHA_ECOLI|P02342|Q2M8T7	protein	taxon:83333	20061108	EcoCyc		
+UniProtKB	P0ACF0	hupA		GO:0016563	PMID:9192630	IEP		F	DNA-binding protein HU-alpha	hupA|b4000|JW3964|DBHA_ECOLI|P02342|Q2M8T7	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P04693	tyrB		GO:0004838	PMID:236311	IDA		F	Aromatic-amino-acid aminotransferase	tyrB|b4054|JW4014|TYRB_ECOLI|Q2M6Q0	protein	taxon:83333	20080419	EcoliWiki		
+UniProtKB	P04693	tyrB		GO:0004838	PMID:15983	IMP		F	Aromatic-amino-acid aminotransferase	tyrB|b4054|JW4014|TYRB_ECOLI|Q2M6Q0	protein	taxon:83333	20080419	EcoliWiki		
+UniProtKB	P04693	tyrB		GO:0004838	PMID:236311	IDA		F	Aromatic-amino-acid aminotransferase	tyrB|b4054|JW4014|TYRB_ECOLI|Q2M6Q0	protein	taxon:83333	20070213	EcoCyc		
+UniProtKB	P04993	recD		GO:0005524	PMID:3298248	IDA		F	Exodeoxyribonuclease V alpha chain	recD|b2819|JW2787|EX5A_ECOLI|Q2MA18|Q59378	protein	taxon:83333	20090316	EcoliWiki		
+UniProtKB	P04993	recD		GO:0005524	PMID:1618858	IMP		F	Exodeoxyribonuclease V alpha chain	recD|b2819|JW2787|EX5A_ECOLI|Q2MA18|Q59378	protein	taxon:83333	20090316	EcoliWiki		
+UniProtKB	P04693	tyrB		GO:0005515	PMID:352693	IDA		F	Aromatic-amino-acid aminotransferase	tyrB|b4054|JW4014|TYRB_ECOLI|Q2M6Q0	protein	taxon:83333	20080725	EcoliWiki		
+UniProtKB	P04693	tyrB		GO:0005515	PMID:16606699	IPI	UniProtKB:P0A6F5	F	Aromatic-amino-acid aminotransferase	tyrB|b4054|JW4014|TYRB_ECOLI|Q2M6Q0	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P0AC41	sdhA		GO:0050660	PMID:2659351	IPI		F	Succinate dehydrogenase flavoprotein subunit	sdhA|b0723|JW0713|DHSA_ECOLI|P10444|P78282	protein	taxon:83333	20080423	EcoCyc		
+UniProtKB	P0AC41	sdhA		GO:0050660	PMID:12560550	IDA		F	Succinate dehydrogenase flavoprotein subunit	sdhA|b0723|JW0713|DHSA_ECOLI|P10444|P78282	protein	taxon:83333	20100409	EcoliWiki		
+UniProtKB	P11458	nadA		GO:0051539	PMID:15898769	IDA		F	Quinolinate synthase A	nadA|b0750|nicA|JW0733|NADA_ECOLI|P77373	protein	taxon:83333	20080729	EcoCyc		
+UniProtKB	P11458	nadA		GO:0051539	PMID:18674537	IMP		F	Quinolinate synthase A	nadA|b0750|nicA|JW0733|NADA_ECOLI|P77373	protein	taxon:83333	20080819	EcoCyc		
+UniProtKB	P22333	add		GO:0004000	PMID:765747	IMP		F	Adenosine deaminase	add|b1623|JW1615|ADD_ECOLI|P78163|P78240	protein	taxon:83333	20090305	EcoliWiki		
+UniProtKB	P22333	add		GO:0004000	PMID:5335916	IDA		F	Adenosine deaminase	add|b1623|JW1615|ADD_ECOLI|P78163|P78240	protein	taxon:83333	20090226	EcoliWiki		
+UniProtKB	P22333	add		GO:0004000	PMID:4874315	IDA		F	Adenosine deaminase	add|b1623|JW1615|ADD_ECOLI|P78163|P78240	protein	taxon:83333	20090217	EcoliWiki		
+UniProtKB	P36771	lrhA		GO:0016564	PMID:9882671	IEP		F	Probable HTH-type transcriptional regulator lrhA	lrhA|genR|b2289|JW2284|LRHA_ECOLI|P76490|P76934	protein	taxon:83333	20061101	EcoCyc		
+UniProtKB	P36771	lrhA		GO:0016564	PMID:12123461	IDA		F	Probable HTH-type transcriptional regulator lrhA	lrhA|genR|b2289|JW2284|LRHA_ECOLI|P76490|P76934	protein	taxon:83333	20061101	EcoCyc		
+UniProtKB	P36771	lrhA		GO:0016563	PMID:9882671	IEP		F	Probable HTH-type transcriptional regulator lrhA	lrhA|genR|b2289|JW2284|LRHA_ECOLI|P76490|P76934	protein	taxon:83333	20061101	EcoCyc		
+UniProtKB	P36771	lrhA		GO:0016563	PMID:12123461	IDA		F	Probable HTH-type transcriptional regulator lrhA	lrhA|genR|b2289|JW2284|LRHA_ECOLI|P76490|P76934	protein	taxon:83333	20061101	EcoCyc		
+UniProtKB	P0A6X7	ihfA		GO:0016564	PMID:8156991	IDA		F	Integration host factor subunit alpha	ihfA|b1712|hid|himA|JW1702|IHFA_ECOLI|P06984	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A6X7	ihfA		GO:0016564	PMID:8230206	IDA		F	Integration host factor subunit alpha	ihfA|b1712|hid|himA|JW1702|IHFA_ECOLI|P06984	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A6X7	ihfA		GO:0016564	PMID:7629095	IDA		F	Integration host factor subunit alpha	ihfA|b1712|hid|himA|JW1702|IHFA_ECOLI|P06984	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A6X7	ihfA		GO:0016564	PMID:8515442	IDA		F	Integration host factor subunit alpha	ihfA|b1712|hid|himA|JW1702|IHFA_ECOLI|P06984	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A6X7	ihfA		GO:0016564	PMID:7862094	IEP		F	Integration host factor subunit alpha	ihfA|b1712|hid|himA|JW1702|IHFA_ECOLI|P06984	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A6X7	ihfA		GO:0016563	PMID:8230206	IDA		F	Integration host factor subunit alpha	ihfA|b1712|hid|himA|JW1702|IHFA_ECOLI|P06984	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A6X7	ihfA		GO:0016563	PMID:8515442	IDA		F	Integration host factor subunit alpha	ihfA|b1712|hid|himA|JW1702|IHFA_ECOLI|P06984	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A6X7	ihfA		GO:0016563	PMID:7629095	IDA		F	Integration host factor subunit alpha	ihfA|b1712|hid|himA|JW1702|IHFA_ECOLI|P06984	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A6X7	ihfA		GO:0016563	PMID:8156991	IDA		F	Integration host factor subunit alpha	ihfA|b1712|hid|himA|JW1702|IHFA_ECOLI|P06984	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A6X7	ihfA		GO:0016563	PMID:7862094	IEP		F	Integration host factor subunit alpha	ihfA|b1712|hid|himA|JW1702|IHFA_ECOLI|P06984	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P77202	dsbG		GO:0003756	PMID:10075670	IGI		F	Thiol:disulfide interchange protein DsbG	dsbG|ybdP|b0604|JW0597|DSBG_ECOLI	protein	taxon:83333	20100119	EcoCyc		
+UniProtKB	P77202	dsbG		GO:0003756	PMID:9383195	IMP		F	Thiol:disulfide interchange protein DsbG	dsbG|ybdP|b0604|JW0597|DSBG_ECOLI	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P31663	panC		GO:0004592	PMID:7037743	IMP		F	Pantothenate synthetase	panC|b0133|JW0129|PANC_ECOLI|Q2MCG4	protein	taxon:83333	20071023	EcoCyc		
+UniProtKB	P31663	panC		GO:0004592	PMID:16990935	IDA		F	Pantothenate synthetase	panC|b0133|JW0129|PANC_ECOLI|Q2MCG4	protein	taxon:83333	20080325	EcoCyc		
+UniProtKB	P05052	appY		GO:0003700	PMID:15225322	IMP		F	HTH-type transcriptional regulator AppY	appY|b0564|JW0553|APPY_ECOLI|Q2MBL7	protein	taxon:83333	20091104	EcoCyc		
+UniProtKB	P05052	appY		GO:0003700	PMID:8626281	IDA		F	HTH-type transcriptional regulator AppY	appY|b0564|JW0553|APPY_ECOLI|Q2MBL7	protein	taxon:83333	20091104	EcoCyc		
+UniProtKB	P05052	appY		GO:0003700	PMID:8626281	IDA		F	HTH-type transcriptional regulator AppY	appY|b0564|JW0553|APPY_ECOLI|Q2MBL7	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P05052	appY		GO:0003700	PMID:15225322	IMP		F	HTH-type transcriptional regulator AppY	appY|b0564|JW0553|APPY_ECOLI|Q2MBL7	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P05052	appY		GO:0003700	PMID:9079897	IDA		F	HTH-type transcriptional regulator AppY	appY|b0564|JW0553|APPY_ECOLI|Q2MBL7	protein	taxon:83333	20091104	EcoCyc		
+UniProtKB	P05052	appY		GO:0003700	PMID:9079897	IDA		F	HTH-type transcriptional regulator AppY	appY|b0564|JW0553|APPY_ECOLI|Q2MBL7	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P36553	hemF		GO:0004109	PMID:12975365	IDA		F	Coproporphyrinogen-III oxidase, aerobic	hemF|b2436|JW2429|HEM6_ECOLI	protein	taxon:83333	20090709	EcoCyc		
+UniProtKB	P36553	hemF		GO:0004109	PMID:12975365	IMP		F	Coproporphyrinogen-III oxidase, aerobic	hemF|b2436|JW2429|HEM6_ECOLI	protein	taxon:83333	20100629	EcoliWiki		
+UniProtKB	P0AFG6	sucB		GO:0005515	PMID:5335915	IDA		F	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex	sucB|b0727|JW0716|ODO2_ECOLI|P07016	protein	taxon:83333	20091027	EcoliWiki		
+UniProtKB	P0AFG6	sucB		GO:0005515	PMID:15690043	IPI	UniProtKB:P77717	F	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex	sucB|b0727|JW0716|ODO2_ECOLI|P07016	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P0AFG6	sucB		GO:0005515	PMID:16606699	IPI	UniProtKB:P22525	F	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex	sucB|b0727|JW0716|ODO2_ECOLI|P07016	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P37639	gadX		GO:0016563	PMID:11976288	IDA		F	HTH-type transcriptional regulator gadX	gadX|yhiX|b3516|JW3484|GADX_ECOLI|Q2M7H8	protein	taxon:83333	20061101	EcoCyc		
+UniProtKB	P37639	gadX		GO:0016563	PMID:12446650	IEP		F	HTH-type transcriptional regulator gadX	gadX|yhiX|b3516|JW3484|GADX_ECOLI|Q2M7H8	protein	taxon:83333	20061101	EcoCyc		
+UniProtKB	P0AES6	gyrB		GO:0003677	PMID:10764756	IMP		F	DNA gyrase subunit B	gyrB|acrB|b3699|himB|JW5625|hisU|nalC|parA|pcbA|GYRB_ECOLI|O08438|P06982|Q2M811	protein	taxon:83333	20081203	EcoliWiki		
+UniProtKB	P0AES6	gyrB		GO:0003677	PMID:6294616	IDA		F	DNA gyrase subunit B	gyrB|acrB|b3699|himB|JW5625|hisU|nalC|parA|pcbA|GYRB_ECOLI|O08438|P06982|Q2M811	protein	taxon:83333	20081203	EcoliWiki		
+UniProtKB	P77173	zipA		GO:0005515	PMID:10880432	IPI	UniProtKB:P0A9A6	F	Cell division protein ZipA	zipA|b2412|JW2404|ZIPA_ECOLI	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P77173	zipA		GO:0005515	PMID:9008158	IDA		F	Cell division protein ZipA	zipA|b2412|JW2404|ZIPA_ECOLI	protein	taxon:83333	20090907	EcoliWiki		
+UniProtKB	P0AC41	sdhA		GO:0000104	PMID:6383359	IMP		F	Succinate dehydrogenase flavoprotein subunit	sdhA|b0723|JW0713|DHSA_ECOLI|P10444|P78282	protein	taxon:83333	20100409	EcoliWiki		
+UniProtKB	P0AC41	sdhA		GO:0000104	PMID:15543598	IGI		F	Succinate dehydrogenase flavoprotein subunit	sdhA|b0723|JW0713|DHSA_ECOLI|P10444|P78282	protein	taxon:83333	20090407	EcoliWiki		
+UniProtKB	P0A9K9	slyD		GO:0003755	PMID:9188461	IDA		F	FKBP-type peptidyl-prolyl cis-trans isomerase slyD	slyD|b3349|JW3311|SLYD_ECOLI|P30856|Q2M714	protein	taxon:83333	20070416	EcoCyc		
+UniProtKB	P0A9K9	slyD		GO:0003755	PMID:17720786	IMP		F	FKBP-type peptidyl-prolyl cis-trans isomerase slyD	slyD|b3349|JW3311|SLYD_ECOLI|P30856|Q2M714	protein	taxon:83333	20091009	EcoliWiki		
+UniProtKB	P0AEB2	dacA		GO:0009002	PMID:1740130	IDA		F	D-alanyl-D-alanine carboxypeptidase dacA	dacA|b0632|pfv|JW0627|DACA_ECOLI|P04287|P77106	protein	taxon:83333	20080709	EcoliWiki		
+UniProtKB	P0AEB2	dacA		GO:0009002	PMID:368033	IMP		F	D-alanyl-D-alanine carboxypeptidase dacA	dacA|b0632|pfv|JW0627|DACA_ECOLI|P04287|P77106	protein	taxon:83333	20080709	EcoliWiki		
+UniProtKB	P0AEB2	dacA		GO:0009002	PMID:14750804	IDA		F	D-alanyl-D-alanine carboxypeptidase dacA	dacA|b0632|pfv|JW0627|DACA_ECOLI|P04287|P77106	protein	taxon:83333	20081112	EcoCyc		
+UniProtKB	P0ACF4	hupB		GO:0016564	PMID:9192630	IEP		F	DNA-binding protein HU-beta	hupB|hopD|b0440|JW0430|DBHB_ECOLI|P02341|Q2MBY6	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P0ACF4	hupB		GO:0016564	PMID:3514923	IDA		F	DNA-binding protein HU-beta	hupB|hopD|b0440|JW0430|DBHB_ECOLI|P02341|Q2MBY6	protein	taxon:83333	20061108	EcoCyc		
+UniProtKB	P0ACF4	hupB		GO:0016564	PMID:9218807	IDA		F	DNA-binding protein HU-beta	hupB|hopD|b0440|JW0430|DBHB_ECOLI|P02341|Q2MBY6	protein	taxon:83333	20061108	EcoCyc		
+UniProtKB	P0ACF4	hupB		GO:0016564	PMID:10982882	IEP		F	DNA-binding protein HU-beta	hupB|hopD|b0440|JW0430|DBHB_ECOLI|P02341|Q2MBY6	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P0ACF4	hupB		GO:0016564	PMID:227733	IDA		F	DNA-binding protein HU-beta	hupB|hopD|b0440|JW0430|DBHB_ECOLI|P02341|Q2MBY6	protein	taxon:83333	20061108	EcoCyc		
+UniProtKB	P0ACF4	hupB		GO:0016564	PMID:11254141	IEP		F	DNA-binding protein HU-beta	hupB|hopD|b0440|JW0430|DBHB_ECOLI|P02341|Q2MBY6	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P0ACF4	hupB		GO:0016564	PMID:11601842	IEP		F	DNA-binding protein HU-beta	hupB|hopD|b0440|JW0430|DBHB_ECOLI|P02341|Q2MBY6	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P0ACF4	hupB		GO:0016563	PMID:227733	IDA		F	DNA-binding protein HU-beta	hupB|hopD|b0440|JW0430|DBHB_ECOLI|P02341|Q2MBY6	protein	taxon:83333	20061108	EcoCyc		
+UniProtKB	P0ACF4	hupB		GO:0016563	PMID:3514923	IDA		F	DNA-binding protein HU-beta	hupB|hopD|b0440|JW0430|DBHB_ECOLI|P02341|Q2MBY6	protein	taxon:83333	20061108	EcoCyc		
+UniProtKB	P0ACF4	hupB		GO:0016563	PMID:9218807	IDA		F	DNA-binding protein HU-beta	hupB|hopD|b0440|JW0430|DBHB_ECOLI|P02341|Q2MBY6	protein	taxon:83333	20061108	EcoCyc		
+UniProtKB	P0ACF4	hupB		GO:0016563	PMID:9192630	IEP		F	DNA-binding protein HU-beta	hupB|hopD|b0440|JW0430|DBHB_ECOLI|P02341|Q2MBY6	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P0ACF4	hupB		GO:0016563	PMID:11254141	IEP		F	DNA-binding protein HU-beta	hupB|hopD|b0440|JW0430|DBHB_ECOLI|P02341|Q2MBY6	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P0ACF4	hupB		GO:0016563	PMID:10982882	IEP		F	DNA-binding protein HU-beta	hupB|hopD|b0440|JW0430|DBHB_ECOLI|P02341|Q2MBY6	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P0ACF4	hupB		GO:0016563	PMID:11601842	IEP		F	DNA-binding protein HU-beta	hupB|hopD|b0440|JW0430|DBHB_ECOLI|P02341|Q2MBY6	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P23871	hemH		GO:0004325	PMID:8056770	IDA		F	Ferrochelatase	hemH|b0475|popA|visA|JW0464|HEMH_ECOLI|P78232|Q2MBV2	protein	taxon:83333	20090707	EcoCyc		
+UniProtKB	P23871	hemH		GO:0004325	PMID:1397280	IMP		F	Ferrochelatase	hemH|b0475|popA|visA|JW0464|HEMH_ECOLI|P78232|Q2MBV2	protein	taxon:83333	20100108	EcoliWiki		
+UniProtKB	P23871	hemH		GO:0004325	PMID:8458858	IDA		F	Ferrochelatase	hemH|b0475|popA|visA|JW0464|HEMH_ECOLI|P78232|Q2MBV2	protein	taxon:83333	20100108	EcoliWiki		
+UniProtKB	P0A6Y1	ihfB		GO:0016563	PMID:8156991	IDA		F	Integration host factor subunit beta	ihfB|b0912|himD|hip|JW0895|IHFB_ECOLI|P08756	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A6Y1	ihfB		GO:0016563	PMID:8230206	IDA		F	Integration host factor subunit beta	ihfB|b0912|himD|hip|JW0895|IHFB_ECOLI|P08756	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A6Y1	ihfB		GO:0016563	PMID:8515442	IDA		F	Integration host factor subunit beta	ihfB|b0912|himD|hip|JW0895|IHFB_ECOLI|P08756	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A6Y1	ihfB		GO:0016563	PMID:7862094	IEP		F	Integration host factor subunit beta	ihfB|b0912|himD|hip|JW0895|IHFB_ECOLI|P08756	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A6Y1	ihfB		GO:0016563	PMID:7629095	IDA		F	Integration host factor subunit beta	ihfB|b0912|himD|hip|JW0895|IHFB_ECOLI|P08756	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P43341	lpxH		GO:0008758	PMID:12000770	IDA		F	UDP-2,3-diacylglucosamine hydrolase	lpxH|b0524|ybbF|JW0513|LPXH_ECOLI|P77440|Q2MBQ5	protein	taxon:83333	20020725	UniProtKB		
+UniProtKB	P43341	lpxH		GO:0008758	PMID:12000771	IMP		F	UDP-2,3-diacylglucosamine hydrolase	lpxH|b0524|ybbF|JW0513|LPXH_ECOLI|P77440|Q2MBQ5	protein	taxon:83333	20081027	EcoliWiki		
+UniProtKB	P0AEG4	dsbA		GO:0015035	PMID:7487336	IMP		F	Thiol:disulfide interchange protein DsbA	dsbA|dsf|b3860|ppfA|JW3832|DSBA_ECOLI|P24991|Q2M8F8|Q46951|Q46952	protein	taxon:83333	20100202	EcoliWiki		
+UniProtKB	P0AEG4	dsbA		GO:0015035	PMID:1934062	IDA		F	Thiol:disulfide interchange protein DsbA	dsbA|dsf|b3860|ppfA|JW3832|DSBA_ECOLI|P24991|Q2M8F8|Q46951|Q46952	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0AEG4	dsbA		GO:0015035	PMID:1934062	IDA		F	Thiol:disulfide interchange protein DsbA	dsbA|dsf|b3860|ppfA|JW3832|DSBA_ECOLI|P24991|Q2M8F8|Q46951|Q46952	protein	taxon:83333	20090921	EcoCyc		
+UniProtKB	P0A6Y1	ihfB		GO:0016564	PMID:8230206	IDA		F	Integration host factor subunit beta	ihfB|b0912|himD|hip|JW0895|IHFB_ECOLI|P08756	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A6Y1	ihfB		GO:0016564	PMID:8515442	IDA		F	Integration host factor subunit beta	ihfB|b0912|himD|hip|JW0895|IHFB_ECOLI|P08756	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A6Y1	ihfB		GO:0016564	PMID:7629095	IDA		F	Integration host factor subunit beta	ihfB|b0912|himD|hip|JW0895|IHFB_ECOLI|P08756	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A6Y1	ihfB		GO:0016564	PMID:8156991	IDA		F	Integration host factor subunit beta	ihfB|b0912|himD|hip|JW0895|IHFB_ECOLI|P08756	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A6Y1	ihfB		GO:0016564	PMID:7862094	IEP		F	Integration host factor subunit beta	ihfB|b0912|himD|hip|JW0895|IHFB_ECOLI|P08756	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A910	ompA		GO:0005515	PMID:9701827	IDA		F	Outer membrane protein A	ompA|con|b0957|tolG|JW0940|tut|OMPA_ECOLI|P02934	protein	taxon:83333	20090811	EcoliWiki		
+UniProtKB	P0A910	ompA		GO:0005515	PMID:16606699	IPI	UniProtKB:P05847	F	Outer membrane protein A	ompA|con|b0957|tolG|JW0940|tut|OMPA_ECOLI|P02934	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P0A910	ompA		GO:0005515	PMID:19737520	IPI	UniProtKB:P0A850	F	Outer membrane protein A	ompA|con|b0957|tolG|JW0940|tut|OMPA_ECOLI|P02934	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P0A910	ompA		GO:0005515	PMID:12509434	IDA		F	Outer membrane protein A	ompA|con|b0957|tolG|JW0940|tut|OMPA_ECOLI|P02934	protein	taxon:83333	20090309	EcoliWiki		
+UniProtKB	P0A910	ompA		GO:0005515	PMID:16606699	IPI	UniProtKB:P78285	F	Outer membrane protein A	ompA|con|b0957|tolG|JW0940|tut|OMPA_ECOLI|P02934	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P28861	fpr		GO:0004324	PMID:8449868	IDA		F	Ferredoxin--NADP reductase	fpr|mvrA|b3924|JW3895|FENR_ECOLI|P11007|Q2M8M0	protein	taxon:83333	20071023	EcoCyc		
+UniProtKB	P28861	fpr		GO:0004324	PMID:3510127	IMP		F	Ferredoxin--NADP reductase	fpr|mvrA|b3924|JW3895|FENR_ECOLI|P11007|Q2M8M0	protein	taxon:83333	20081215	EcoliWiki		
+UniProtKB	P0A7C2	lexA		GO:0016564	PMID:7027255	IDA		F	LexA repressor	lexA|b4043|exrA|spr|JW4003|tsl|umuA|LEXA_ECOLI|P03033|Q2M6R1	protein	taxon:83333	20061108	EcoCyc		
+UniProtKB	P0A7C2	lexA		GO:0016564	PMID:7027256	IDA		F	LexA repressor	lexA|b4043|exrA|spr|JW4003|tsl|umuA|LEXA_ECOLI|P03033|Q2M6R1	protein	taxon:83333	20061108	EcoCyc		
+UniProtKB	P0A7C2	lexA		GO:0016564	PMID:10760155	IMP		F	LexA repressor	lexA|b4043|exrA|spr|JW4003|tsl|umuA|LEXA_ECOLI|P03033|Q2M6R1	protein	taxon:83333	20090911	EcoliWiki		
+UniProtKB	P0A7C2	lexA		GO:0016564	PMID:160562	IMP		F	LexA repressor	lexA|b4043|exrA|spr|JW4003|tsl|umuA|LEXA_ECOLI|P03033|Q2M6R1	protein	taxon:83333	20061108	EcoCyc		
+UniProtKB	P10902	nadB		GO:0008734	PMID:2841129	IMP		F	L-aspartate oxidase	nadB|nicB|b2574|JW2558|NADB_ECOLI|P78099|Q2MAF6	protein	taxon:83333	20080404	EcoliWiki		
+UniProtKB	P10902	nadB		GO:0008734	PMID:8706749	IDA		F	L-aspartate oxidase	nadB|nicB|b2574|JW2558|NADB_ECOLI|P78099|Q2MAF6	protein	taxon:83333	20080729	EcoCyc		
+UniProtKB	P27111	cynR		GO:0016563	PMID:8253686	IDA		F	HTH-type transcriptional regulator CynR	cynR|b0338|JW5894|CYNR_ECOLI|Q2MC86	protein	taxon:83333	20080717	EcoliWiki		
+UniProtKB	P27111	cynR		GO:0016563	PMID:1592818	IMP		F	HTH-type transcriptional regulator CynR	cynR|b0338|JW5894|CYNR_ECOLI|Q2MC86	protein	taxon:83333	20080717	EcoliWiki		
+UniProtKB	P23873	hipB		GO:0016564	PMID:8021189	IMP		F	HTH-type transcriptional regulator hipB	hipB|b1508|JW1501|HIPB_ECOLI	protein	taxon:83333	20080115	EcoliWiki		
+UniProtKB	P23873	hipB		GO:0016564	PMID:8021189	IDA		F	HTH-type transcriptional regulator hipB	hipB|b1508|JW1501|HIPB_ECOLI	protein	taxon:83333	20060914	EcoCyc		
+UniProtKB	P0A8P6	xerC		GO:0009009	PMID:2254268	IMP		F	Tyrosine recombinase xerC	xerC|b3811|JW3784|XERC_ECOLI|P22885|Q2M8B7	protein	taxon:83333	20080626	EcoliWiki		
+UniProtKB	P0A8P6	xerC		GO:0009009	PMID:11114887	IDA		F	Tyrosine recombinase xerC	xerC|b3811|JW3784|XERC_ECOLI|P22885|Q2M8B7	protein	taxon:83333	20100611	EcoliWiki		
+UniProtKB	P0ACL9	pdhR		GO:0016564	PMID:7783622	IDA		F	Pyruvate dehydrogenase complex repressor	pdhR|aceC|b0113|genA|JW0109|yacB|PDHR_ECOLI|P06957|Q53381|Q8KMZ5	protein	taxon:83333	20061101	EcoCyc		
+UniProtKB	P0ACL9	pdhR		GO:0016564	PMID:8262214	IEP		F	Pyruvate dehydrogenase complex repressor	pdhR|aceC|b0113|genA|JW0109|yacB|PDHR_ECOLI|P06957|Q53381|Q8KMZ5	protein	taxon:83333	20061101	EcoCyc		
+UniProtKB	P0ACL9	pdhR		GO:0016564	PMID:8057842	IDA		F	Pyruvate dehydrogenase complex repressor	pdhR|aceC|b0113|genA|JW0109|yacB|PDHR_ECOLI|P06957|Q53381|Q8KMZ5	protein	taxon:83333	20061101	EcoCyc		
+UniProtKB	P61889	mdh		GO:0016615	PMID:2993232	IDA		F	Malate dehydrogenase	mdh|b3236|JW3205|MDH_ECOLI|O30401|O30402|O30403|P06994|Q2M8X7|Q59343|Q59344|Q59345|Q59346|Q59347|Q59348|Q60133|Q60150|Q933J3|Q93R02|Q9FDQ3|Q9FDQ4|Q9FDQ5	protein	taxon:83333	20081217	EcoliWiki		
+UniProtKB	P61889	mdh		GO:0016615	PMID:4960671	IDA		F	Malate dehydrogenase	mdh|b3236|JW3205|MDH_ECOLI|O30401|O30402|O30403|P06994|Q2M8X7|Q59343|Q59344|Q59345|Q59346|Q59347|Q59348|Q60133|Q60150|Q933J3|Q93R02|Q9FDQ3|Q9FDQ4|Q9FDQ5	protein	taxon:83333	20081217	EcoliWiki		
+UniProtKB	P61889	mdh		GO:0016615	PMID:4914076	IMP		F	Malate dehydrogenase	mdh|b3236|JW3205|MDH_ECOLI|O30401|O30402|O30403|P06994|Q2M8X7|Q59343|Q59344|Q59345|Q59346|Q59347|Q59348|Q60133|Q60150|Q933J3|Q93R02|Q9FDQ3|Q9FDQ4|Q9FDQ5	protein	taxon:83333	20081124	EcoliWiki		
+UniProtKB	P37351	rpiB		GO:0008786	PMID:18640127	IDA		F	Ribose-5-phosphate isomerase B	rpiB|yjcA|b4090|JW4051|RPIB_ECOLI|O32564|Q2M6L3	protein	taxon:83333	20080819	EcoCyc		
+UniProtKB	P37351	rpiB		GO:0008786	PMID:10559180	IMP		F	Ribose-5-phosphate isomerase B	rpiB|yjcA|b4090|JW4051|RPIB_ECOLI|O32564|Q2M6L3	protein	taxon:83333	20080310	EcoCyc		
+UniProtKB	P0AFU4	yfhA		GO:0016563	PMID:15522865	IDA		F	Uncharacterized protein yfhA	yfhA|b2554|JW2538|YFHA_ECOLI|P21712|P77512	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0AFU4	yfhA		GO:0016563	PMID:19843219	IEP		F	Uncharacterized protein yfhA	yfhA|b2554|JW2538|YFHA_ECOLI|P21712|P77512	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0AFU4	yfhA		GO:0016563	PMID:15522865	IDA		F	Uncharacterized protein yfhA	yfhA|b2554|JW2538|YFHA_ECOLI|P21712|P77512	protein	taxon:83333	20060120	EcoCyc		
+UniProtKB	P0AFU4	yfhA		GO:0016563	PMID:19843219	IEP		F	Uncharacterized protein yfhA	yfhA|b2554|JW2538|YFHA_ECOLI|P21712|P77512	protein	taxon:83333	20091221	EcoCyc		
+UniProtKB	P0A6P9	eno		GO:0004634	PMID:4942326	IDA		F	Enolase	eno|b2779|JW2750|ENO_ECOLI|P08324|Q2MA53	protein	taxon:83333	20070926	EcoliWiki		
+UniProtKB	P0A6P9	eno		GO:0004634	PMID:12054465	IMP		F	Enolase	eno|b2779|JW2750|ENO_ECOLI|P08324|Q2MA53	protein	taxon:83333	20091106	EcoliWiki		
+UniProtKB	P11458	nadA		GO:0008987	PMID:15967443	IDA		F	Quinolinate synthase A	nadA|b0750|nicA|JW0733|NADA_ECOLI|P77373	protein	taxon:83333	20080729	EcoCyc		
+UniProtKB	P11458	nadA		GO:0008987	PMID:2841129	IMP		F	Quinolinate synthase A	nadA|b0750|nicA|JW0733|NADA_ECOLI|P77373	protein	taxon:83333	20080404	EcoliWiki		
+UniProtKB	P0A9A6	ftsZ		GO:0005515	PMID:8752322	IPI		F	Cell division protein ftsZ	ftsZ|sfiB|b0095|sulB|JW0093|FTSZ_ECOLI|P06138|P77857|P78047	protein	taxon:83333	20091027	EcoliWiki		
+UniProtKB	P0A9A6	ftsZ		GO:0005515	PMID:17307852	IPI	UniProtKB:P0A9R7	F	Cell division protein ftsZ	ftsZ|sfiB|b0095|sulB|JW0093|FTSZ_ECOLI|P06138|P77857|P78047	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P0A9A6	ftsZ		GO:0005515	PMID:10880432	IPI	UniProtKB:P77173	F	Cell division protein ftsZ	ftsZ|sfiB|b0095|sulB|JW0093|FTSZ_ECOLI|P06138|P77857|P78047	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P0A9A6	ftsZ		GO:0005515	PMID:9008158	IDA		F	Cell division protein ftsZ	ftsZ|sfiB|b0095|sulB|JW0093|FTSZ_ECOLI|P06138|P77857|P78047	protein	taxon:83333	20091027	EcoliWiki		
+UniProtKB	P0A9A6	ftsZ		GO:0005515	PMID:17307852	IDA		F	Cell division protein ftsZ	ftsZ|sfiB|b0095|sulB|JW0093|FTSZ_ECOLI|P06138|P77857|P78047	protein	taxon:83333	20091027	EcoliWiki		
+UniProtKB	P0A9A6	ftsZ		GO:0005515	PMID:8917533	IDA		F	Cell division protein ftsZ	ftsZ|sfiB|b0095|sulB|JW0093|FTSZ_ECOLI|P06138|P77857|P78047	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0A9A6	ftsZ		GO:0005515	PMID:16606699	IPI	UniProtKB:P45424	F	Cell division protein ftsZ	ftsZ|sfiB|b0095|sulB|JW0093|FTSZ_ECOLI|P06138|P77857|P78047	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P0A9R7	ftsE		GO:0005515	PMID:17307852	IDA		F	Cell division ATP-binding protein FtsE	ftsE|b3463|JW3428|FTSE_ECOLI|P10115|Q2M7C6	protein	taxon:83333	20091027	EcoliWiki		
+UniProtKB	P0A9R7	ftsE		GO:0005515	PMID:17307852	IPI	UniProtKB:P0A9A6	F	Cell division ATP-binding protein FtsE	ftsE|b3463|JW3428|FTSE_ECOLI|P10115|Q2M7C6	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P0A9R7	ftsE		GO:0005515	PMID:10048040	IDA		F	Cell division ATP-binding protein FtsE	ftsE|b3463|JW3428|FTSE_ECOLI|P10115|Q2M7C6	protein	taxon:83333	20091027	EcoliWiki		
+UniProtKB	P0AEU7	skp		GO:0005515	PMID:8730870	IPI	UniProtKB:P02931	F	Chaperone protein skp	skp|b0178|hlpA|ompH|JW0173|SKP_ECOLI|P11457	protein	taxon:83333	20090113	EcoCyc		
+UniProtKB	P0AEU7	skp		GO:0005515	PMID:17928002	IDA		F	Chaperone protein skp	skp|b0178|hlpA|ompH|JW0173|SKP_ECOLI|P11457	protein	taxon:83333	20091027	EcoliWiki		
+UniProtKB	P0A9J8	pheA		GO:0004664	PMID:7030214	IMP		F	P-protein	pheA|b2599|JW2580|PHEA_ECOLI|P07022|P78204	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0A9J8	pheA		GO:0004664	PMID:9497350	IDA		F	P-protein	pheA|b2599|JW2580|PHEA_ECOLI|P07022|P78204	protein	taxon:83333	20100121	EcoCyc		
+UniProtKB	P0A9J8	pheA		GO:0004664	PMID:9497350	IDA		F	P-protein	pheA|b2599|JW2580|PHEA_ECOLI|P07022|P78204	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0A9J8	pheA		GO:0004664	PMID:7030214	IMP		F	P-protein	pheA|b2599|JW2580|PHEA_ECOLI|P07022|P78204	protein	taxon:83333	20100121	EcoCyc		
+UniProtKB	P69405	rcsA		GO:0016563	PMID:91154130	IGI		F	Colanic acid capsular biosynthesis activation protein A	rcsA|b1951|JW1935|RCSA_ECOLI|P24210|Q47585	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P69405	rcsA		GO:0016563	PMID:9882673	IEP		F	Colanic acid capsular biosynthesis activation protein A	rcsA|b1951|JW1935|RCSA_ECOLI|P24210|Q47585	protein	taxon:83333	20061107	EcoCyc		
+UniProtKB	P69405	rcsA		GO:0016563	PMID:16000739	IEP		F	Colanic acid capsular biosynthesis activation protein A	rcsA|b1951|JW1935|RCSA_ECOLI|P24210|Q47585	protein	taxon:83333	20061107	EcoCyc		
+UniProtKB	P69405	rcsA		GO:0016563	PMID:12864862	IDA		F	Colanic acid capsular biosynthesis activation protein A	rcsA|b1951|JW1935|RCSA_ECOLI|P24210|Q47585	protein	taxon:83333	20061107	EcoCyc		
+UniProtKB	P69405	rcsA		GO:0016563	PMID:10702265	IDA		F	Colanic acid capsular biosynthesis activation protein A	rcsA|b1951|JW1935|RCSA_ECOLI|P24210|Q47585	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P69405	rcsA		GO:0016564	PMID:16000739	IEP		F	Colanic acid capsular biosynthesis activation protein A	rcsA|b1951|JW1935|RCSA_ECOLI|P24210|Q47585	protein	taxon:83333	20061107	EcoCyc		
+UniProtKB	P69405	rcsA		GO:0016564	PMID:10702265	IDA		F	Colanic acid capsular biosynthesis activation protein A	rcsA|b1951|JW1935|RCSA_ECOLI|P24210|Q47585	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P69405	rcsA		GO:0016564	PMID:12864862	IDA		F	Colanic acid capsular biosynthesis activation protein A	rcsA|b1951|JW1935|RCSA_ECOLI|P24210|Q47585	protein	taxon:83333	20061107	EcoCyc		
+UniProtKB	P69405	rcsA		GO:0016564	PMID:9882673	IEP		F	Colanic acid capsular biosynthesis activation protein A	rcsA|b1951|JW1935|RCSA_ECOLI|P24210|Q47585	protein	taxon:83333	20061107	EcoCyc		
+UniProtKB	P69405	rcsA		GO:0016564	PMID:91154130	IGI		F	Colanic acid capsular biosynthesis activation protein A	rcsA|b1951|JW1935|RCSA_ECOLI|P24210|Q47585	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P69407	rcsB		GO:0016563	PMID:16000739	IEP		F	Capsular synthesis regulator component B	rcsB|b2217|JW2205|RCSB_ECOLI|P14374	protein	taxon:83333	20061107	EcoCyc		
+UniProtKB	P69407	rcsB		GO:0016563	PMID:12864862	IDA		F	Capsular synthesis regulator component B	rcsB|b2217|JW2205|RCSB_ECOLI|P14374	protein	taxon:83333	20061107	EcoCyc		
+UniProtKB	P69407	rcsB		GO:0016563	PMID:10702265	IDA		F	Capsular synthesis regulator component B	rcsB|b2217|JW2205|RCSB_ECOLI|P14374	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P69407	rcsB		GO:0016563	PMID:9882673	IEP		F	Capsular synthesis regulator component B	rcsB|b2217|JW2205|RCSB_ECOLI|P14374	protein	taxon:83333	20061107	EcoCyc		
+UniProtKB	P69407	rcsB		GO:0016563	PMID:91154130	IGI		F	Capsular synthesis regulator component B	rcsB|b2217|JW2205|RCSB_ECOLI|P14374	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P69407	rcsB		GO:0016564	PMID:10702265	IDA		F	Capsular synthesis regulator component B	rcsB|b2217|JW2205|RCSB_ECOLI|P14374	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P69407	rcsB		GO:0016564	PMID:91154130	IGI		F	Capsular synthesis regulator component B	rcsB|b2217|JW2205|RCSB_ECOLI|P14374	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P69407	rcsB		GO:0016564	PMID:9882673	IEP		F	Capsular synthesis regulator component B	rcsB|b2217|JW2205|RCSB_ECOLI|P14374	protein	taxon:83333	20061107	EcoCyc		
+UniProtKB	P69407	rcsB		GO:0016564	PMID:16000739	IEP		F	Capsular synthesis regulator component B	rcsB|b2217|JW2205|RCSB_ECOLI|P14374	protein	taxon:83333	20061107	EcoCyc		
+UniProtKB	P69407	rcsB		GO:0016564	PMID:12864862	IDA		F	Capsular synthesis regulator component B	rcsB|b2217|JW2205|RCSB_ECOLI|P14374	protein	taxon:83333	20061107	EcoCyc		
+UniProtKB	P0A843	tatE		GO:0008565	PMID:9649434	IMP		F	Sec-independent protein translocase protein tatE	tatE|ybeC|b0627|JW0622|TATE_ECOLI|P25895|P77420	protein	taxon:83333	20091206	EcoCyc		
+UniProtKB	P0A843	tatE		GO:0008565	PMID:9649434	IGI		F	Sec-independent protein translocase protein tatE	tatE|ybeC|b0627|JW0622|TATE_ECOLI|P25895|P77420	protein	taxon:83333	20081117	EcoliWiki		
+UniProtKB	P00968	carB		GO:0016597	PMID:10047492	IPI		F	Carbamoyl-phosphate synthase large chain	carB|b0033|pyrA|JW0031|CARB_ECOLI	protein	taxon:83333	20090223	EcoliWiki		
+UniProtKB	P00968	carB		GO:0016597	PMID:7648201	IDA		F	Carbamoyl-phosphate synthase large chain	carB|b0033|pyrA|JW0031|CARB_ECOLI	protein	taxon:83333	20090223	EcoliWiki		
+UniProtKB	P0A9X9	cspA		GO:0016563	PMID:3553157	IEP		F	Cold shock protein CspA	cspA|b3556|cspS|JW3525|CSPA_ECOLI|P15277|P37410|Q2M7L7|Q54170	protein	taxon:83333	20060621	EcoCyc		
+UniProtKB	P0A9X9	cspA		GO:0016563	PMID:8995247	IDA		F	Cold shock protein CspA	cspA|b3556|cspS|JW3525|CSPA_ECOLI|P15277|P37410|Q2M7L7|Q54170	protein	taxon:83333	20060621	EcoCyc		
+UniProtKB	P0A9X9	cspA		GO:0016563	PMID:1961761	IDA		F	Cold shock protein CspA	cspA|b3556|cspS|JW3525|CSPA_ECOLI|P15277|P37410|Q2M7L7|Q54170	protein	taxon:83333	20060621	EcoCyc		
+UniProtKB	P36673	treR		GO:0016564	PMID:9148912	IDA		F	HTH-type transcriptional regulator treR	treR|b4241|JW4200|TRER_ECOLI|Q2M666	protein	taxon:83333	20061030	EcoCyc		
+UniProtKB	P36673	treR		GO:0016564	PMID:7608078	IEP		F	HTH-type transcriptional regulator treR	treR|b4241|JW4200|TRER_ECOLI|Q2M666	protein	taxon:83333	20061030	EcoCyc		
+UniProtKB	P68767	pepA		GO:0016564	PMID:15049810	IDA		F	Cytosol aminopeptidase	pepA|b4260|carP|xerB|JW4217|AMPA_ECOLI|P11648|Q2M649	protein	taxon:83333	20050207	EcoCyc		
+UniProtKB	P68767	pepA		GO:0016564	PMID:2670557	IMP		F	Cytosol aminopeptidase	pepA|b4260|carP|xerB|JW4217|AMPA_ECOLI|P11648|Q2M649	protein	taxon:83333	20050207	EcoCyc		
+UniProtKB	P68767	pepA		GO:0016564	PMID:7616564	IMP		F	Cytosol aminopeptidase	pepA|b4260|carP|xerB|JW4217|AMPA_ECOLI|P11648|Q2M649	protein	taxon:83333	20090227	EcoliWiki		
+UniProtKB	P40191	pdxK		GO:0008478	PMID:8764513	IMP		F	Pyridoxine kinase	pdxK|b2418|yfeI|JW2411|PDXK_ECOLI|P76964	protein	taxon:83333	20090209	EcoliWiki		
+UniProtKB	P40191	pdxK		GO:0008478	PMID:1482971	IDA		F	Pyridoxine kinase	pdxK|b2418|yfeI|JW2411|PDXK_ECOLI|P76964	protein	taxon:83333	20090210	EcoliWiki		
+UniProtKB	P40191	pdxK		GO:0008478	PMID:4917899	IMP		F	Pyridoxine kinase	pdxK|b2418|yfeI|JW2411|PDXK_ECOLI|P76964	protein	taxon:83333	20090209	EcoliWiki		
+UniProtKB	P00968	carB		GO:0000166	PMID:15322282	IPI		F	Carbamoyl-phosphate synthase large chain	carB|b0033|pyrA|JW0031|CARB_ECOLI	protein	taxon:83333	20090223	EcoliWiki		
+UniProtKB	P00968	carB		GO:0000166	PMID:7648201	IDA		F	Carbamoyl-phosphate synthase large chain	carB|b0033|pyrA|JW0031|CARB_ECOLI	protein	taxon:83333	20090223	EcoliWiki		
+UniProtKB	P00968	carB		GO:0000166	PMID:10843852	IMP		F	Carbamoyl-phosphate synthase large chain	carB|b0033|pyrA|JW0031|CARB_ECOLI	protein	taxon:83333	20090125	EcoliWiki		
+UniProtKB	P0AGA2	secY		GO:0005515	PMID:9180258	IGI		F	Preprotein translocase subunit SecY	secY|prlA|b3300|JW3262|SECY_ECOLI|P03844|Q2M6W5	protein	taxon:83333	20090724	EcoliWiki		
+UniProtKB	P0AGA2	secY		GO:0005515	PMID:9111035	IPI	UniProtKB:P10408	F	Preprotein translocase subunit SecY	secY|prlA|b3300|JW3262|SECY_ECOLI|P03844|Q2M6W5	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P0A825	glyA		GO:0004372	PMID:3891721	IDA		F	Serine hydroxymethyltransferase	glyA|b2551|JW2535|GLYA_ECOLI|P00477	protein	taxon:83333	20080319	EcoliWiki		
+UniProtKB	P0A825	glyA		GO:0004372	PMID:6190704	IMP		F	Serine hydroxymethyltransferase	glyA|b2551|JW2535|GLYA_ECOLI|P00477	protein	taxon:83333	20080319	EcoliWiki		
+UniProtKB	P0A825	glyA		GO:0004372	PMID:3891721	IDA		F	Serine hydroxymethyltransferase	glyA|b2551|JW2535|GLYA_ECOLI|P00477	protein	taxon:83333	20070608	EcoCyc		
+UniProtKB	P08204	araB		GO:0008741	PMID:5336963	IDA		F	Ribulokinase	araB|b0063|JW0062|ARAB_ECOLI|P78041	protein	taxon:83333	20090410	EcoliWiki		
+UniProtKB	P08204	araB		GO:0008741	PMID:11747300	IDA		F	Ribulokinase	araB|b0063|JW0062|ARAB_ECOLI|P78041	protein	taxon:83333	20071023	EcoCyc		
+UniProtKB	P08204	araB		GO:0008741	PMID:13829634	IMP		F	Ribulokinase	araB|b0063|JW0062|ARAB_ECOLI|P78041	protein	taxon:83333	20081115	EcoliWiki		
+UniProtKB	P00803	lepB		GO:0008233	PMID:15195997	IDA		F	Signal peptidase I	lepB|b2568|JW2552|LEP_ECOLI|P78098|Q2MAG2	protein	taxon:83333	20090825	EcoliWiki		
+UniProtKB	P00803	lepB		GO:0008233	PMID:15598653	IMP		F	Signal peptidase I	lepB|b2568|JW2552|LEP_ECOLI|P78098|Q2MAG2	protein	taxon:83333	20090825	EcoliWiki		
+UniProtKB	P08202	araA		GO:0008733	PMID:8869631	IDA		F	L-arabinose isomerase	araA|b0062|JW0061|ARAA_ECOLI|P78040	protein	taxon:83333	20071023	EcoCyc		
+UniProtKB	P08202	araA		GO:0008733	PMID:13829634	IMP		F	L-arabinose isomerase	araA|b0062|JW0061|ARAA_ECOLI|P78040	protein	taxon:83333	20081115	EcoliWiki		
+UniProtKB	P0C0V0	degP		GO:0004252	PMID:2180903	IDA		F	Protease do	degP|htrA|b0161|ptd|JW0157|DEGP_ECOLI|P09376|P15724	protein	taxon:83333	20090930	EcoliWiki		
+UniProtKB	P0C0V0	degP		GO:0004252	PMID:19255437	IMP		F	Protease do	degP|htrA|b0161|ptd|JW0157|DEGP_ECOLI|P09376|P15724	protein	taxon:83333	20090930	EcoliWiki		
+UniProtKB	P0AFG6	sucB		GO:0004149	PMID:5335914	IDA		F	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex	sucB|b0727|JW0716|ODO2_ECOLI|P07016	protein	taxon:83333	20091027	EcoliWiki		
+UniProtKB	P0AFG6	sucB		GO:0004149	PMID:6284701	IMP		F	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex	sucB|b0727|JW0716|ODO2_ECOLI|P07016	protein	taxon:83333	20091027	EcoliWiki		
+UniProtKB	P0AE88	cpxR		GO:0016564	PMID:9159398	IDA		F	Transcriptional regulatory protein CpxR	cpxR|yiiA|b3912|JW3883|CPXR_ECOLI|P16244|P76777|Q2M8K9	protein	taxon:83333	20061031	EcoCyc		
+UniProtKB	P0AE88	cpxR		GO:0016564	PMID:16077119	IDA		F	Transcriptional regulatory protein CpxR	cpxR|yiiA|b3912|JW3883|CPXR_ECOLI|P16244|P76777|Q2M8K9	protein	taxon:83333	20061031	EcoCyc		
+UniProtKB	P0AE88	cpxR		GO:0016564	PMID:15686558	IEP		F	Transcriptional regulatory protein CpxR	cpxR|yiiA|b3912|JW3883|CPXR_ECOLI|P16244|P76777|Q2M8K9	protein	taxon:83333	20061031	EcoCyc		
+UniProtKB	P0AE88	cpxR		GO:0016564	PMID:7883164	IEP		F	Transcriptional regulatory protein CpxR	cpxR|yiiA|b3912|JW3883|CPXR_ECOLI|P16244|P76777|Q2M8K9	protein	taxon:83333	20061031	EcoCyc		
+UniProtKB	P05052	appY		GO:0016563	PMID:8626281	IDA		F	HTH-type transcriptional regulator AppY	appY|b0564|JW0553|APPY_ECOLI|Q2MBL7	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P05052	appY		GO:0016563	PMID:8626281	IDA		F	HTH-type transcriptional regulator AppY	appY|b0564|JW0553|APPY_ECOLI|Q2MBL7	protein	taxon:83333	20091104	EcoCyc		
+UniProtKB	P05052	appY		GO:0016563	PMID:9079897	IDA		F	HTH-type transcriptional regulator AppY	appY|b0564|JW0553|APPY_ECOLI|Q2MBL7	protein	taxon:83333	20091104	EcoCyc		
+UniProtKB	P05052	appY		GO:0016563	PMID:9079897	IDA		F	HTH-type transcriptional regulator AppY	appY|b0564|JW0553|APPY_ECOLI|Q2MBL7	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P05052	appY		GO:0016563	PMID:15225322	IMP		F	HTH-type transcriptional regulator AppY	appY|b0564|JW0553|APPY_ECOLI|Q2MBL7	protein	taxon:83333	20091104	EcoCyc		
+UniProtKB	P05052	appY		GO:0016563	PMID:15225322	IMP		F	HTH-type transcriptional regulator AppY	appY|b0564|JW0553|APPY_ECOLI|Q2MBL7	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P27302	tktA		GO:0004802	PMID:7607225	IDA		F	Transketolase 1	tktA|b2935|tkt|JW5478|TKT1_ECOLI|Q2M9Q8|Q6BF59	protein	taxon:83333	20071126	EcoliWiki		
+UniProtKB	P27302	tktA		GO:0004802	PMID:8396116	IMP		F	Transketolase 1	tktA|b2935|tkt|JW5478|TKT1_ECOLI|Q2M9Q8|Q6BF59	protein	taxon:83333	20071126	EcoliWiki		
+UniProtKB	P0A817	metK		GO:0030955	PMID:6251075	IDA		F	S-adenosylmethionine synthase	metK|metX|b2942|JW2909|METK_ECOLI|P04384|P30869|Q2M9Q1	protein	taxon:83333	20081120	EcoCyc		
+UniProtKB	P0A817	metK		GO:0030955	PMID:7629147	IMP		F	S-adenosylmethionine synthase	metK|metX|b2942|JW2909|METK_ECOLI|P04384|P30869|Q2M9Q1	protein	taxon:83333	20081120	EcoCyc		
+UniProtKB	P46889	ftsK		GO:0043565	PMID:17041598	IMP		F	DNA translocase ftsK	ftsK|b0890|JW0873|FTSK_ECOLI|P77450	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P46889	ftsK		GO:0043565	PMID:17057717	IDA		F	DNA translocase ftsK	ftsK|b0890|JW0873|FTSK_ECOLI|P77450	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P46889	ftsK		GO:0043565	PMID:17057717	IDA		F	DNA translocase ftsK	ftsK|b0890|JW0873|FTSK_ECOLI|P77450	protein	taxon:83333	20091229	EcoCyc		
+UniProtKB	P46889	ftsK		GO:0043565	PMID:17041598	IMP		F	DNA translocase ftsK	ftsK|b0890|JW0873|FTSK_ECOLI|P77450	protein	taxon:83333	20091229	EcoCyc		
+UniProtKB	P0A6F1	carA		GO:0005515	PMID:2682645	IMP		F	Carbamoyl-phosphate synthase small chain	carA|pyrA|b0032|JW0030|CARA_ECOLI|P00907	protein	taxon:83333	20090223	EcoliWiki		
+UniProtKB	P0A6F1	carA		GO:0005515	PMID:15690043	IPI	UniProtKB:P22188	F	Carbamoyl-phosphate synthase small chain	carA|pyrA|b0032|JW0030|CARA_ECOLI|P00907	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P0A6F1	carA		GO:0005515	PMID:16606699	IPI	UniProtKB:P46142	F	Carbamoyl-phosphate synthase small chain	carA|pyrA|b0032|JW0030|CARA_ECOLI|P00907	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P0A6F1	carA		GO:0005515	PMID:15690043	IPI	UniProtKB:P00968	F	Carbamoyl-phosphate synthase small chain	carA|pyrA|b0032|JW0030|CARA_ECOLI|P00907	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P00936	cyaA		GO:0005515	PMID:9457881	IGI		F	Adenylate cyclase	cyaA|cya|b3806|JW3778|CYAA_ECOLI|Q2M8B1	protein	taxon:83333	20090113	EcoCyc		
+UniProtKB	P00936	cyaA		GO:0005515	PMID:16407219	IPI	UniProtKB:P69783	F	Adenylate cyclase	cyaA|cya|b3806|JW3778|CYAA_ECOLI|Q2M8B1	protein	taxon:83333	20090113	EcoCyc		
+UniProtKB	P0C0T5	mepA		GO:0008233	PMID:1369491	IDA		F	Penicillin-insensitive murein endopeptidase	mepA|b2328|JW2325|MEPA_ECOLI|P14007	protein	taxon:83333	20080714	EcoCyc		
+UniProtKB	P0C0T5	mepA		GO:0008233	PMID:2187143	IMP		F	Penicillin-insensitive murein endopeptidase	mepA|b2328|JW2325|MEPA_ECOLI|P14007	protein	taxon:83333	20080714	EcoCyc		
+UniProtKB	P00350	gnd		GO:0004616	PMID:4869212	IMP		F	6-phosphogluconate dehydrogenase, decarboxylating	gnd|b2029|JW2011|6PGD_ECOLI|P78080|Q47571|Q59366|Q59402|Q59411|Q59412|Q59413|Q59414|Q59416|Q79DT3	protein	taxon:83333	20071126	EcoliWiki		
+UniProtKB	P00350	gnd		GO:0004616	PMID:19686854	IDA		F	6-phosphogluconate dehydrogenase, decarboxylating	gnd|b2029|JW2011|6PGD_ECOLI|P78080|Q47571|Q59366|Q59402|Q59411|Q59412|Q59413|Q59414|Q59416|Q79DT3	protein	taxon:83333	20100512	UniProtKB		
+UniProtKB	P0A9G4	cueR		GO:0016563	PMID:11136469	IDA		F	HTH-type transcriptional regulator CueR	cueR|ybbI|b0487|JW0476|CUER_ECOLI|P77565|Q2MBU0	protein	taxon:83333	20061101	EcoCyc		
+UniProtKB	P0A9G4	cueR		GO:0016563	PMID:11167016	IEP		F	HTH-type transcriptional regulator CueR	cueR|ybbI|b0487|JW0476|CUER_ECOLI|P77565|Q2MBU0	protein	taxon:83333	20061101	EcoCyc		
+UniProtKB	P76135	ydeO		GO:0016563	PMID:12399493	IMP		F	HTH-type transcriptional regulator ydeO	ydeO|b1499|JW1494|YDEO_ECOLI|P76877	protein	taxon:83333	20061030	EcoCyc		
+UniProtKB	P76135	ydeO		GO:0016563	PMID:15489450	IDA		F	HTH-type transcriptional regulator ydeO	ydeO|b1499|JW1494|YDEO_ECOLI|P76877	protein	taxon:83333	20061030	EcoCyc		
+UniProtKB	P76135	ydeO		GO:0016563	PMID:12694615	IMP		F	HTH-type transcriptional regulator ydeO	ydeO|b1499|JW1494|YDEO_ECOLI|P76877	protein	taxon:83333	20061030	EcoCyc		
+UniProtKB	P0A9G4	cueR		GO:0016564	PMID:11167016	IEP		F	HTH-type transcriptional regulator CueR	cueR|ybbI|b0487|JW0476|CUER_ECOLI|P77565|Q2MBU0	protein	taxon:83333	20061101	EcoCyc		
+UniProtKB	P0A9G4	cueR		GO:0016564	PMID:11136469	IDA		F	HTH-type transcriptional regulator CueR	cueR|ybbI|b0487|JW0476|CUER_ECOLI|P77565|Q2MBU0	protein	taxon:83333	20061101	EcoCyc		
+UniProtKB	P08622	dnaJ		GO:0008270	PMID:11985624	IDA		F	Chaperone protein dnaJ	dnaJ|groP|b0015|JW0014|DNAJ_ECOLI	protein	taxon:83333	20091030	EcoliWiki		
+UniProtKB	P08622	dnaJ		GO:0008270	PMID:8662861	IDA		F	Chaperone protein dnaJ	dnaJ|groP|b0015|JW0014|DNAJ_ECOLI	protein	taxon:83333	20091113	EcoliWiki		
+UniProtKB	P08622	dnaJ		GO:0008270	PMID:12941935	IMP		F	Chaperone protein dnaJ	dnaJ|groP|b0015|JW0014|DNAJ_ECOLI	protein	taxon:83333	20090318	EcoliWiki		
+UniProtKB	P23843	oppA		GO:0005515	PMID:16606699	IPI	UniProtKB:P04079	F	Periplasmic oligopeptide-binding protein	oppA|b1243|JW1235|OPPA_ECOLI|P76829	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P23843	oppA		GO:0005515	PMID:3536860	IDA		F	Periplasmic oligopeptide-binding protein	oppA|b1243|JW1235|OPPA_ECOLI|P76829	protein	taxon:83333	20100212	EcoliWiki		
+UniProtKB	P77239	cusB		GO:0005515	PMID:16606699	IPI	UniProtKB:P46850	F	Cation efflux system protein CusB	cusB|b0574|ylcD|JW0563|CUSB_ECOLI	protein	taxon:83333	20090714	EcoCyc		
+UniProtKB	P77239	cusB		GO:0005515	PMID:16606699	IPI	UniProtKB:P46850	F	Cation efflux system protein CusB	cusB|b0574|ylcD|JW0563|CUSB_ECOLI	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P77239	cusB		GO:0005515	PMID:12813074	IDA		F	Cation efflux system protein CusB	cusB|b0574|ylcD|JW0563|CUSB_ECOLI	protein	taxon:83333	20081112	EcoCyc		
+UniProtKB	P00957	alaS		GO:0002161	PMID:18172502	IDA		F	Alanyl-tRNA synthetase	alaS|lovB|b2697|JW2667|SYA_ECOLI|P78279	protein	taxon:83333	20100412	UniProtKB		
+UniProtKB	P00957	alaS		GO:0002161	PMID:12554667	IMP		F	Alanyl-tRNA synthetase	alaS|lovB|b2697|JW2667|SYA_ECOLI|P78279	protein	taxon:83333	20100412	UniProtKB		
+UniProtKB	P0AEB2	dacA		GO:0004180	PMID:7002918	IDA		F	D-alanyl-D-alanine carboxypeptidase dacA	dacA|b0632|pfv|JW0627|DACA_ECOLI|P04287|P77106	protein	taxon:83333	20081112	EcoCyc		
+UniProtKB	P0AEB2	dacA		GO:0004180	PMID:351612	IMP		F	D-alanyl-D-alanine carboxypeptidase dacA	dacA|b0632|pfv|JW0627|DACA_ECOLI|P04287|P77106	protein	taxon:83333	20081112	EcoCyc		
+UniProtKB	P26602	ubiC		GO:0008813	PMID:1644758	IDA		F	Chorismate--pyruvate lyase	ubiC|b4039|JW5713|UBIC_ECOLI|P76783|Q2M6R5|Q4JHR8	protein	taxon:83333	20070709	EcoCyc		
+UniProtKB	P26602	ubiC		GO:0008813	PMID:4595202	IMP		F	Chorismate--pyruvate lyase	ubiC|b4039|JW5713|UBIC_ECOLI|P76783|Q2M6R5|Q4JHR8	protein	taxon:83333	20070817	EcoliWiki		
+UniProtKB	P26602	ubiC		GO:0008813	PMID:1644758	IDA		F	Chorismate--pyruvate lyase	ubiC|b4039|JW5713|UBIC_ECOLI|P76783|Q2M6R5|Q4JHR8	protein	taxon:83333	20070817	EcoliWiki		
+UniProtKB	Q47129	feaR		GO:0016563	PMID:8631685	IDA		F	Transcriptional activator feaR	feaR|b1384|maoB|maoR|JW1379|ydbM|FEAR_ECOLI|Q2MBD4	protein	taxon:83333	20091014	EcoCyc		
+UniProtKB	Q47129	feaR		GO:0016563	PMID:9043126	IEP		F	Transcriptional activator feaR	feaR|b1384|maoB|maoR|JW1379|ydbM|FEAR_ECOLI|Q2MBD4	protein	taxon:83333	20061030	EcoCyc		
+UniProtKB	Q47129	feaR		GO:0016563	PMID:8631685	IDA		F	Transcriptional activator feaR	feaR|b1384|maoB|maoR|JW1379|ydbM|FEAR_ECOLI|Q2MBD4	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0A9M2	hpt		GO:0004422	PMID:12070315	IDA		F	Hypoxanthine phosphoribosyltransferase	hpt|b0125|JW5009|HPRT_ECOLI|P36766	protein	taxon:83333	20071023	EcoCyc		
+UniProtKB	P0A9M2	hpt		GO:0004422	PMID:765747	IMP		F	Hypoxanthine phosphoribosyltransferase	hpt|b0125|JW5009|HPRT_ECOLI|P36766	protein	taxon:83333	20080806	EcoliWiki		
+UniProtKB	P0A9M2	hpt		GO:0004422	PMID:12070315	IDA		F	Hypoxanthine phosphoribosyltransferase	hpt|b0125|JW5009|HPRT_ECOLI|P36766	protein	taxon:83333	20080806	EcoliWiki		
+UniProtKB	P39404	bglJ		GO:0016563	PMID:16207917	IMP		F	Transcriptional activator protein BglJ	bglJ|yjjR|b4366|JW5955|BGLJ_ECOLI|Q2M5V0	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P39404	bglJ		GO:0016563	PMID:8725214	IDA		F	Transcriptional activator protein BglJ	bglJ|yjjR|b4366|JW5955|BGLJ_ECOLI|Q2M5V0	protein	taxon:83333	20091028	EcoCyc		
+UniProtKB	P00509	aspC		GO:0004069	PMID:236311	IDA		F	Aspartate aminotransferase	aspC|b0928|JW0911|AAT_ECOLI	protein	taxon:83333	20080214	EcoliWiki		
+UniProtKB	P00509	aspC		GO:0004069	PMID:15983	IMP		F	Aspartate aminotransferase	aspC|b0928|JW0911|AAT_ECOLI	protein	taxon:83333	20080214	EcoliWiki		
+UniProtKB	P69776	lpp		GO:0005515	PMID:9701827	IDA		F	Major outer membrane lipoprotein Lpp	lpp|b1677|mlpA|mulI|JW1667|LPP_ECOLI|P02937|Q53272	protein	taxon:83333	20090811	EcoliWiki		
+UniProtKB	P69776	lpp		GO:0005515	PMID:16354671	IPI	UniProtKB:P61316	F	Major outer membrane lipoprotein Lpp	lpp|b1677|mlpA|mulI|JW1667|LPP_ECOLI|P02937|Q53272	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P00968	carB		GO:0005515	PMID:15690043	IPI	UniProtKB:P0A6F1	F	Carbamoyl-phosphate synthase large chain	carB|b0033|pyrA|JW0031|CARB_ECOLI	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P00968	carB		GO:0005515	PMID:4358555	IDA		F	Carbamoyl-phosphate synthase large chain	carB|b0033|pyrA|JW0031|CARB_ECOLI	protein	taxon:83333	20090122	EcoliWiki		
+UniProtKB	P0ACN4	allR		GO:0016564	PMID:16546208	IDA		F	HTH-type transcriptional repressor AllR	allR|glxA3|b0506|ybbU|JW0494|ALLR_ECOLI|P77734|Q2MBS2	protein	taxon:83333	20061030	EcoCyc		
+UniProtKB	P0ACN4	allR		GO:0016564	PMID:10601204	IEP		F	HTH-type transcriptional repressor AllR	allR|glxA3|b0506|ybbU|JW0494|ALLR_ECOLI|P77734|Q2MBS2	protein	taxon:83333	20061030	EcoCyc		
+UniProtKB	P0ACN4	allR		GO:0016564	PMID:12460564	IDA		F	HTH-type transcriptional repressor AllR	allR|glxA3|b0506|ybbU|JW0494|ALLR_ECOLI|P77734|Q2MBS2	protein	taxon:83333	20061030	EcoCyc		
+UniProtKB	P0C0V0	degP		GO:0005515	PMID:10600391	IDA		F	Protease do	degP|htrA|b0161|ptd|JW0157|DEGP_ECOLI|P09376|P15724	protein	taxon:83333	20091027	EcoliWiki		
+UniProtKB	P0C0V0	degP		GO:0005515	PMID:16606699	IPI	UniProtKB:P0A6Y8	F	Protease do	degP|htrA|b0161|ptd|JW0157|DEGP_ECOLI|P09376|P15724	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P0ACJ8	crp		GO:0016563	PMID:11742992	IDA		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0ACJ8	crp		GO:0016563	PMID:12923087	IDA		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0ACJ8	crp		GO:0016563	PMID:10760178	IDA		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0ACJ8	crp		GO:0016563	PMID:15520470	IEP		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0ACJ8	crp		GO:0016563	PMID:8604346	IMP		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0ACJ8	crp		GO:0016563	PMID:10760178	IDA		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0ACJ8	crp		GO:0016563	PMID:7551052	IDA		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0ACJ8	crp		GO:0016563	PMID:7551052	IDA		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0ACJ8	crp		GO:0016563	PMID:8604346	IMP		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0ACJ8	crp		GO:0016563	PMID:12923087	IDA		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0ACJ8	crp		GO:0016563	PMID:16166533	IDA		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0ACJ8	crp		GO:0016563	PMID:16166533	IDA		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0ACJ8	crp		GO:0016563	PMID:15520470	IEP		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0ACJ8	crp		GO:0016563	PMID:11742992	IDA		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0ACJ8	crp		GO:0016564	PMID:11742992	IDA		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0ACJ8	crp		GO:0016564	PMID:15520470	IEP		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0ACJ8	crp		GO:0016564	PMID:8604346	IMP		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0ACJ8	crp		GO:0016564	PMID:15520470	IEP		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0ACJ8	crp		GO:0016564	PMID:10760178	IDA		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0ACJ8	crp		GO:0016564	PMID:12923087	IDA		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0ACJ8	crp		GO:0016564	PMID:8604346	IMP		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0ACJ8	crp		GO:0016564	PMID:16166533	IDA		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0ACJ8	crp		GO:0016564	PMID:7551052	IDA		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0ACJ8	crp		GO:0016564	PMID:7551052	IDA		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0ACJ8	crp		GO:0016564	PMID:11742992	IDA		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0ACJ8	crp		GO:0016564	PMID:12923087	IDA		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0ACJ8	crp		GO:0016564	PMID:16166533	IDA		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0ACJ8	crp		GO:0016564	PMID:10760178	IDA		F	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0AA37	rluA		GO:0009982	PMID:10383384	IMP		F	Ribosomal large subunit pseudouridine synthase A	rluA|b0058|yabO|JW0057|RLUA_ECOLI|P39219|Q2MCG7|Q83MG7	protein	taxon:83333	20081221	EcoliWiki		
+UniProtKB	P0AA37	rluA		GO:0009982	PMID:7493321	IDA		F	Ribosomal large subunit pseudouridine synthase A	rluA|b0058|yabO|JW0057|RLUA_ECOLI|P39219|Q2MCG7|Q83MG7	protein	taxon:83333	20081001	EcoCyc		
+UniProtKB	P0AEI4	rimO		GO:0050497	PMID:18252828	IMP		F	Ribosomal protein S12 methylthiotransferase rimO	rimO|yliG|b0835|JW0819|RIMO_ECOLI|P75802	protein	taxon:83333	20091113	EcoCyc		
+UniProtKB	P0AEI4	rimO		GO:0050497	PMID:19736993	IDA		F	Ribosomal protein S12 methylthiotransferase rimO	rimO|yliG|b0835|JW0819|RIMO_ECOLI|P75802	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0AEI4	rimO		GO:0050497	PMID:19736993	IDA		F	Ribosomal protein S12 methylthiotransferase rimO	rimO|yliG|b0835|JW0819|RIMO_ECOLI|P75802	protein	taxon:83333	20091113	EcoCyc		
+UniProtKB	P0AEI4	rimO		GO:0050497	PMID:18252828	IMP		F	Ribosomal protein S12 methylthiotransferase rimO	rimO|yliG|b0835|JW0819|RIMO_ECOLI|P75802	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0AD68	ftsI		GO:0008955	PMID:7030331	IDA		F	Peptidoglycan synthase ftsI	ftsI|pbpB|b0084|JW0082|FTSI_ECOLI|P04286	protein	taxon:83333	20080709	EcoliWiki		
+UniProtKB	P0AD68	ftsI		GO:0008955	PMID:6450748	IMP		F	Peptidoglycan synthase ftsI	ftsI|pbpB|b0084|JW0082|FTSI_ECOLI|P04286	protein	taxon:83333	20080709	EcoliWiki		
+UniProtKB	P46859	gntK		GO:0046316	PMID:7815304	IMP		F	Thermoresistant gluconokinase	gntK|b3437|JW3400|GNTK_ECOLI|P78116|Q2M7A0|Q59404	protein	taxon:83333	20080225	EcoliWiki		
+UniProtKB	P46859	gntK		GO:0046316	PMID:8925917	IDA		F	Thermoresistant gluconokinase	gntK|b3437|JW3400|GNTK_ECOLI|P78116|Q2M7A0|Q59404	protein	taxon:83333	20080225	EcoliWiki		
+UniProtKB	P0A6T3	galK		GO:0004335	PMID:13977183	IDA		F	Galactokinase	galK|b0757|galA|JW0740|GAL1_ECOLI|P06976	protein	taxon:83333	20080718	EcoliWiki		
+UniProtKB	P0A6T3	galK		GO:0004335	PMID:13390972	IMP		F	Galactokinase	galK|b0757|galA|JW0740|GAL1_ECOLI|P06976	protein	taxon:83333	20080718	EcoliWiki		
+UniProtKB	P36553	hemF		GO:0005515	PMID:12975365	IDA		F	Coproporphyrinogen-III oxidase, aerobic	hemF|b2436|JW2429|HEM6_ECOLI	protein	taxon:83333	20100629	EcoliWiki		
+UniProtKB	P36553	hemF		GO:0005515	PMID:16606699	IPI	UniProtKB:P18843	F	Coproporphyrinogen-III oxidase, aerobic	hemF|b2436|JW2429|HEM6_ECOLI	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P36553	hemF		GO:0005515	PMID:16606699	IPI	UniProtKB:P0A6Z3	F	Coproporphyrinogen-III oxidase, aerobic	hemF|b2436|JW2429|HEM6_ECOLI	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P17443	murG		GO:0050511	PMID:1649817	IDA		F	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	murG|b0090|JW0088|MURG_ECOLI	protein	taxon:83333	20080709	EcoliWiki		
+UniProtKB	P17443	murG		GO:0050511	PMID:1649817	IMP		F	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	murG|b0090|JW0088|MURG_ECOLI	protein	taxon:83333	20071022	EcoCyc		
+UniProtKB	P29131	ftsN		GO:0005515	PMID:17938168	IPI	UniProtKB:P02919	F	Cell division protein ftsN	ftsN|b3933|msgA|JW3904|FTSN_ECOLI|Q2M8M9	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P29131	ftsN		GO:0005515	PMID:18165305	IGI		F	Cell division protein ftsN	ftsN|b3933|msgA|JW3904|FTSN_ECOLI|Q2M8M9	protein	taxon:83333	20091116	EcoliWiki		
+UniProtKB	P52697	pgl		GO:0017057	PMID:15576773	IMP		F	6-phosphogluconolactonase	pgl|b0767|ybhE|JW0750|6PGL_ECOLI|P75760	protein	taxon:83333	20071017	EcoliWiki		
+UniProtKB	P52697	pgl		GO:0017057	PMID:15766779	IDA		F	6-phosphogluconolactonase	pgl|b0767|ybhE|JW0750|6PGL_ECOLI|P75760	protein	taxon:83333	20071017	EcoliWiki		
+UniProtKB	P08622	dnaJ		GO:0005515	PMID:10521435	IPI	UniProtKB:P0A6Y8	F	Chaperone protein dnaJ	dnaJ|groP|b0015|JW0014|DNAJ_ECOLI	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P08622	dnaJ		GO:0005515	PMID:9860950	IMP		F	Chaperone protein dnaJ	dnaJ|groP|b0015|JW0014|DNAJ_ECOLI	protein	taxon:83333	20090318	EcoliWiki		
+UniProtKB	P08622	dnaJ		GO:0005515	PMID:10521435	IPI	UniProtKB:P0A6Y8	F	Chaperone protein dnaJ	dnaJ|groP|b0015|JW0014|DNAJ_ECOLI	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P37047	cdaR		GO:0016563	PMID:10762278	IMP		F	Carbohydrate diacid regulator	cdaR|sdaR|b0162|yaeG|JW5013|CDAR_ECOLI|Q8KJQ0	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P37047	cdaR		GO:0016563	PMID:10762278	IEP		F	Carbohydrate diacid regulator	cdaR|sdaR|b0162|yaeG|JW5013|CDAR_ECOLI|Q8KJQ0	protein	taxon:83333	20061101	EcoCyc		
+UniProtKB	P0AAN3	hypB		GO:0005515	PMID:15569666	IPI	UniProtKB:P0A9K9	F	Hydrogenase isoenzymes nickel incorporation protein hypB	hypB|b2727|JW2697|HYPB_ECOLI|P24190|Q2MAA2|Q46884	protein	taxon:83333	20081103	EcoliWiki		
+UniProtKB	P0AAN3	hypB		GO:0005515	PMID:16412426	IPI	UniProtKB:P0A9K9	F	Hydrogenase isoenzymes nickel incorporation protein hypB	hypB|b2727|JW2697|HYPB_ECOLI|P24190|Q2MAA2|Q46884	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P0AAN3	hypB		GO:0005515	PMID:16412426	IDA		F	Hydrogenase isoenzymes nickel incorporation protein hypB	hypB|b2727|JW2697|HYPB_ECOLI|P24190|Q2MAA2|Q46884	protein	taxon:83333	20090127	EcoCyc		
+UniProtKB	P0A9F3	cysB		GO:0016564	PMID:10506196	IDA		F	HTH-type transcriptional regulator CysB	cysB|b1275|JW1267|CYSB_ECOLI|P06613|P76834	protein	taxon:83333	20080722	EcoliWiki		
+UniProtKB	P0A9F3	cysB		GO:0016564	PMID:6792186	IMP		F	HTH-type transcriptional regulator CysB	cysB|b1275|JW1267|CYSB_ECOLI|P06613|P76834	protein	taxon:83333	20080722	EcoliWiki		
+UniProtKB	P0A9F3	cysB		GO:0016564	PMID:2182030	IGI		F	HTH-type transcriptional regulator CysB	cysB|b1275|JW1267|CYSB_ECOLI|P06613|P76834	protein	taxon:83333	20061102	EcoCyc		
+UniProtKB	P0A8I8	rlmH		GO:0070038	PMID:18755835	IMP		F	Ribosomal RNA large subunit methyltransferase H	b0636|rlmH|ybeA|JW0631|RLMH_ECOLI|P05850	protein	taxon:83333	20080929	EcoCyc		
+UniProtKB	P0A8I8	rlmH		GO:0070038	PMID:18755836	IDA		F	Ribosomal RNA large subunit methyltransferase H	b0636|rlmH|ybeA|JW0631|RLMH_ECOLI|P05850	protein	taxon:83333	20080929	EcoCyc		
+UniProtKB	P0A8I8	rlmH		GO:0070038	PMID:18755835	IMP		F	Ribosomal RNA large subunit methyltransferase H	b0636|rlmH|ybeA|JW0631|RLMH_ECOLI|P05850	protein	taxon:83333	20090403	UniProtKB		
+UniProtKB	P60844	aqpZ		GO:0015250	PMID:10518952	IDA		F	Aquaporin Z	aqpZ|b0875|bniP|JW0859|AQPZ_ECOLI|P48838|P75827|Q47159	protein	taxon:83333	20100625	EcoliWiki		
+UniProtKB	P60844	aqpZ		GO:0015250	PMID:10400575	IMP		F	Aquaporin Z	aqpZ|b0875|bniP|JW0859|AQPZ_ECOLI|P48838|P75827|Q47159	protein	taxon:83333	20071206	EcoCyc		
+UniProtKB	P0AAB4	ubiD		GO:0008694	PMID:4897112	IMP		F	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	ubiD|b3843|yigC|yigY|JW3819|UBID_ECOLI|P26615|P27861|P76767|Q2M8E6|Q47265|Q47714	protein	taxon:83333	20080728	EcoliWiki		
+UniProtKB	P0AAB4	ubiD		GO:0008694	PMID:782527	IDA		F	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	ubiD|b3843|yigC|yigY|JW3819|UBID_ECOLI|P26615|P27861|P76767|Q2M8E6|Q47265|Q47714	protein	taxon:83333	20070711	EcoCyc		
+UniProtKB	P0A9J8	pheA		GO:0004106	PMID:7030214	IMP		F	P-protein	pheA|b2599|JW2580|PHEA_ECOLI|P07022|P78204	protein	taxon:83333	20100121	EcoCyc		
+UniProtKB	P0A9J8	pheA		GO:0004106	PMID:9497350	IDA		F	P-protein	pheA|b2599|JW2580|PHEA_ECOLI|P07022|P78204	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0A9J8	pheA		GO:0004106	PMID:7030214	IMP		F	P-protein	pheA|b2599|JW2580|PHEA_ECOLI|P07022|P78204	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0A9J8	pheA		GO:0004106	PMID:9497350	IDA		F	P-protein	pheA|b2599|JW2580|PHEA_ECOLI|P07022|P78204	protein	taxon:83333	20100121	EcoCyc		
+UniProtKB	P0AC41	sdhA		GO:0009055	PMID:15543598	IGI		F	Succinate dehydrogenase flavoprotein subunit	sdhA|b0723|JW0713|DHSA_ECOLI|P10444|P78282	protein	taxon:83333	20090407	EcoliWiki		
+UniProtKB	P0AC41	sdhA		GO:0009055	PMID:12788489	IDA		F	Succinate dehydrogenase flavoprotein subunit	sdhA|b0723|JW0713|DHSA_ECOLI|P10444|P78282	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0AC41	sdhA		GO:0009055	PMID:12788489	IDA		F	Succinate dehydrogenase flavoprotein subunit	sdhA|b0723|JW0713|DHSA_ECOLI|P10444|P78282	protein	taxon:83333	20080423	EcoCyc		
+UniProtKB	P07862	ddlB		GO:0008716	PMID:1993184	IDA		F	D-alanine--D-alanine ligase B	ddlB|ddl|b0092|JW0090|DDLB_ECOLI	protein	taxon:83333	20080703	EcoliWiki		
+UniProtKB	P07862	ddlB		GO:0008716	PMID:8756703	IMP		F	D-alanine--D-alanine ligase B	ddlB|ddl|b0092|JW0090|DDLB_ECOLI	protein	taxon:83333	20100430	EcoliWiki		
+UniProtKB	P08204	araB		GO:0005515	PMID:16606699	IPI	UniProtKB:P18843	F	Ribulokinase	araB|b0063|JW0062|ARAB_ECOLI|P78041	protein	taxon:83333	20101116	IntAct		
+UniProtKB	P08204	araB		GO:0005515	PMID:5336963	IDA		F	Ribulokinase	araB|b0063|JW0062|ARAB_ECOLI|P78041	protein	taxon:83333	20090410	EcoliWiki		
+UniProtKB	P0A8N5	lysU		GO:0004824	PMID:7782306	IGI		F	Lysyl-tRNA synthetase, heat inducible	lysU|b4129|JW4090|SYK2_ECOLI|P14825|Q2M6H4	protein	taxon:83333	20090205	EcoliWiki		
+UniProtKB	P0A8N5	lysU		GO:0004824	PMID:7782306	IDA		F	Lysyl-tRNA synthetase, heat inducible	lysU|b4129|JW4090|SYK2_ECOLI|P14825|Q2M6H4	protein	taxon:83333	20061220	EcoCyc		
+UniProtKB	P0A720	tmk		GO:0006235	PMID:6319360	IMP		P	Thymidylate kinase	tmk|b1098|ycfG|JW1084|KTHY_ECOLI|P37345	protein	taxon:83333	20080324	EcoCyc		
+UniProtKB	P0A720	tmk		GO:0006235	PMID:8631667	IDA		P	Thymidylate kinase	tmk|b1098|ycfG|JW1084|KTHY_ECOLI|P37345	protein	taxon:83333	20080919	EcoliWiki		
+UniProtKB	P77239	cusB		GO:0046688	PMID:15773991	IEP		P	Cation efflux system protein CusB	cusB|b0574|ylcD|JW0563|CUSB_ECOLI	protein	taxon:83333	20081112	EcoCyc		
+UniProtKB	P77239	cusB		GO:0046688	PMID:12813074	IMP		P	Cation efflux system protein CusB	cusB|b0574|ylcD|JW0563|CUSB_ECOLI	protein	taxon:83333	20080908	EcoliWiki		
+UniProtKB	P77239	cusB		GO:0046688	PMID:17893146	IMP		P	Cation efflux system protein CusB	cusB|b0574|ylcD|JW0563|CUSB_ECOLI	protein	taxon:83333	20081112	EcoCyc		
+UniProtKB	P77239	cusB		GO:0046688	PMID:11283292	IEP		P	Cation efflux system protein CusB	cusB|b0574|ylcD|JW0563|CUSB_ECOLI	protein	taxon:83333	20081112	EcoCyc		
+UniProtKB	P0AFS3	folM		GO:0046656	PMID:14617668	IMP		P	Dihydrofolate reductase folM	folM|ydgB|b1606|JW1598|FOLM_ECOLI|P52109|P77386	protein	taxon:83333	20080717	EcoliWiki		
+UniProtKB	P0AFS3	folM		GO:0046656	PMID:14617668	IGI		P	Dihydrofolate reductase folM	folM|ydgB|b1606|JW1598|FOLM_ECOLI|P52109|P77386	protein	taxon:83333	20091118	EcoCyc		
+UniProtKB	P11557	damX		GO:0000910	PMID:7603433	IMP		P	Protein damX	damX|yhfB|b3388|JW3351|DAMX_ECOLI|P76687|Q2M753	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P11557	damX		GO:0000910	PMID:19684127	IGI		P	Protein damX	damX|yhfB|b3388|JW3351|DAMX_ECOLI|P76687|Q2M753	protein	taxon:83333	20090922	EcoCyc		
+UniProtKB	P11557	damX		GO:0000910	PMID:7603433	IMP		P	Protein damX	damX|yhfB|b3388|JW3351|DAMX_ECOLI|P76687|Q2M753	protein	taxon:83333	20090922	EcoCyc		
+UniProtKB	P31801	chaA		GO:0006814	PMID:8496184	IDA		P	Calcium/proton antiporter	chaA|b1216|JW1207|CHAA_ECOLI	protein	taxon:83333	20090823	EcoCyc		
+UniProtKB	P31801	chaA		GO:0006814	PMID:10398838	IGI		P	Calcium/proton antiporter	chaA|b1216|JW1207|CHAA_ECOLI	protein	taxon:83333	20071017	EcoCyc		
+UniProtKB	P31801	chaA		GO:0006814	PMID:8496184	IDA		P	Calcium/proton antiporter	chaA|b1216|JW1207|CHAA_ECOLI	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0AAN9	iraP		GO:0016036	PMID:17640895	IEP		P	Anti-adapter protein iraP	b0382|iraP|yaiB|JW0373|IRAP_ECOLI|P21831|P77383|Q2MC43	protein	taxon:83333	20080430	EcoCyc		
+UniProtKB	P0AAN9	iraP		GO:0016036	PMID:16600914	IMP		P	Anti-adapter protein iraP	b0382|iraP|yaiB|JW0373|IRAP_ECOLI|P21831|P77383|Q2MC43	protein	taxon:83333	20080430	EcoCyc		
+UniProtKB	P0A7C2	lexA		GO:0006350	PMID:7027255	IDA		P	LexA repressor	lexA|b4043|exrA|spr|JW4003|tsl|umuA|LEXA_ECOLI|P03033|Q2M6R1	protein	taxon:83333	20061108	EcoCyc		
+UniProtKB	P0A7C2	lexA		GO:0006350	PMID:7027256	IDA		P	LexA repressor	lexA|b4043|exrA|spr|JW4003|tsl|umuA|LEXA_ECOLI|P03033|Q2M6R1	protein	taxon:83333	20061108	EcoCyc		
+UniProtKB	P0A7C2	lexA		GO:0006350	PMID:160562	IMP		P	LexA repressor	lexA|b4043|exrA|spr|JW4003|tsl|umuA|LEXA_ECOLI|P03033|Q2M6R1	protein	taxon:83333	20061108	EcoCyc		
+UniProtKB	P69407	rcsB		GO:0006350	PMID:12864862	IDA		P	Capsular synthesis regulator component B	rcsB|b2217|JW2205|RCSB_ECOLI|P14374	protein	taxon:83333	20061107	EcoCyc		
+UniProtKB	P69407	rcsB		GO:0006350	PMID:91154130	IGI		P	Capsular synthesis regulator component B	rcsB|b2217|JW2205|RCSB_ECOLI|P14374	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P69407	rcsB		GO:0006350	PMID:16000739	IEP		P	Capsular synthesis regulator component B	rcsB|b2217|JW2205|RCSB_ECOLI|P14374	protein	taxon:83333	20061107	EcoCyc		
+UniProtKB	P69407	rcsB		GO:0006350	PMID:10702265	IDA		P	Capsular synthesis regulator component B	rcsB|b2217|JW2205|RCSB_ECOLI|P14374	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P69407	rcsB		GO:0006350	PMID:9882673	IEP		P	Capsular synthesis regulator component B	rcsB|b2217|JW2205|RCSB_ECOLI|P14374	protein	taxon:83333	20061107	EcoCyc		
+UniProtKB	P0ABH7	gltA		GO:0006099	PMID:13152052	IDA		P	Citrate synthase	gltA|b0720|gluT|icdB|JW0710|CISY_ECOLI|O32552|P00891|P78257	protein	taxon:83333	20080619	EcoliWiki		
+UniProtKB	P0ABH7	gltA		GO:0006099	PMID:13367004	IMP		P	Citrate synthase	gltA|b0720|gluT|icdB|JW0710|CISY_ECOLI|O32552|P00891|P78257	protein	taxon:83333	20090213	EcoliWiki		
+UniProtKB	P69405	rcsA		GO:0006350	PMID:91154130	IGI		P	Colanic acid capsular biosynthesis activation protein A	rcsA|b1951|JW1935|RCSA_ECOLI|P24210|Q47585	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P69405	rcsA		GO:0006350	PMID:12864862	IDA		P	Colanic acid capsular biosynthesis activation protein A	rcsA|b1951|JW1935|RCSA_ECOLI|P24210|Q47585	protein	taxon:83333	20061107	EcoCyc		
+UniProtKB	P69405	rcsA		GO:0006350	PMID:10702265	IDA		P	Colanic acid capsular biosynthesis activation protein A	rcsA|b1951|JW1935|RCSA_ECOLI|P24210|Q47585	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P69405	rcsA		GO:0006350	PMID:16000739	IEP		P	Colanic acid capsular biosynthesis activation protein A	rcsA|b1951|JW1935|RCSA_ECOLI|P24210|Q47585	protein	taxon:83333	20061107	EcoCyc		
+UniProtKB	P69405	rcsA		GO:0006350	PMID:9882673	IEP		P	Colanic acid capsular biosynthesis activation protein A	rcsA|b1951|JW1935|RCSA_ECOLI|P24210|Q47585	protein	taxon:83333	20061107	EcoCyc		
+UniProtKB	P43341	lpxH		GO:0009245	PMID:12000771	IMP		P	UDP-2,3-diacylglucosamine hydrolase	lpxH|b0524|ybbF|JW0513|LPXH_ECOLI|P77440|Q2MBQ5	protein	taxon:83333	20081027	EcoliWiki		
+UniProtKB	P43341	lpxH		GO:0009245	PMID:12000770	IDA		P	UDP-2,3-diacylglucosamine hydrolase	lpxH|b0524|ybbF|JW0513|LPXH_ECOLI|P77440|Q2MBQ5	protein	taxon:83333	20020716	UniProtKB		
+UniProtKB	P52061	rdgB		GO:0009143	PMID:19943897	IGI		P	Nucleoside-triphosphatase rdgB	rdgB|b2954|yggV|JW2921|RDGB_ECOLI|Q2M9N9	protein	taxon:83333	20091211	EcoCyc		
+UniProtKB	P52061	rdgB		GO:0009143	PMID:12297000	IDA		P	Nucleoside-triphosphatase rdgB	rdgB|b2954|yggV|JW2921|RDGB_ECOLI|Q2M9N9	protein	taxon:83333	20091211	EcoCyc		
+UniProtKB	P0AEE8	dam		GO:0006298	PMID:6225697	IMP		P	DNA adenine methylase	dam|b3387|JW3350|DMA_ECOLI|P00475|Q2M752	protein	taxon:83333	20070815	EcoliWiki		
+UniProtKB	P0AEE8	dam		GO:0006298	PMID:6308634	IDA		P	DNA adenine methylase	dam|b3387|JW3350|DMA_ECOLI|P00475|Q2M752	protein	taxon:83333	20070815	EcoliWiki		
+UniProtKB	P36771	lrhA		GO:0006350	PMID:9882671	IEP		P	Probable HTH-type transcriptional regulator lrhA	lrhA|genR|b2289|JW2284|LRHA_ECOLI|P76490|P76934	protein	taxon:83333	20061101	EcoCyc		
+UniProtKB	P36771	lrhA		GO:0006350	PMID:12123461	IDA		P	Probable HTH-type transcriptional regulator lrhA	lrhA|genR|b2289|JW2284|LRHA_ECOLI|P76490|P76934	protein	taxon:83333	20061101	EcoCyc		
+UniProtKB	P36560	asr		GO:0001101	PMID:12670971	IMP		P	Acid shock protein	asr|b1597|JW5826|ASR_ECOLI|P77267	protein	taxon:83333	20080808	EcoCyc		
+UniProtKB	P36560	asr		GO:0001101	PMID:10094685	IEP		P	Acid shock protein	asr|b1597|JW5826|ASR_ECOLI|P77267	protein	taxon:83333	20080808	EcoCyc		
+UniProtKB	P0C0T5	mepA		GO:0000270	PMID:11454209	IDA		P	Penicillin-insensitive murein endopeptidase	mepA|b2328|JW2325|MEPA_ECOLI|P14007	protein	taxon:83333	20080714	EcoCyc		
+UniProtKB	P0C0T5	mepA		GO:0000270	PMID:2187143	IMP		P	Penicillin-insensitive murein endopeptidase	mepA|b2328|JW2325|MEPA_ECOLI|P14007	protein	taxon:83333	20080714	EcoCyc		
+UniProtKB	P0C0T5	mepA		GO:0000270	PMID:1369491	IDA		P	Penicillin-insensitive murein endopeptidase	mepA|b2328|JW2325|MEPA_ECOLI|P14007	protein	taxon:83333	20080714	EcoCyc		
+UniProtKB	P0C0T5	mepA		GO:0000270	PMID:6343788	IMP		P	Penicillin-insensitive murein endopeptidase	mepA|b2328|JW2325|MEPA_ECOLI|P14007	protein	taxon:83333	20080714	EcoCyc		
+UniProtKB	P0AFI2	parC		GO:0007059	PMID:2842295	IMP		P	DNA topoisomerase 4 subunit A	parC|b3019|JW2987|PARC_ECOLI|O69154|P20082|Q2M9I1	protein	taxon:83333	20081204	EcoliWiki		
+UniProtKB	P0AFI2	parC		GO:0007059	PMID:16023670	IDA		P	DNA topoisomerase 4 subunit A	parC|b3019|JW2987|PARC_ECOLI|O69154|P20082|Q2M9I1	protein	taxon:83333	20091009	EcoliWiki		
+UniProtKB	P0AEI4	rimO		GO:0018339	PMID:19736993	IDA		P	Ribosomal protein S12 methylthiotransferase rimO	rimO|yliG|b0835|JW0819|RIMO_ECOLI|P75802	protein	taxon:83333	20091116	EcoCyc		
+UniProtKB	P0AEI4	rimO		GO:0018339	PMID:19736993	IDA		P	Ribosomal protein S12 methylthiotransferase rimO	rimO|yliG|b0835|JW0819|RIMO_ECOLI|P75802	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0AEI4	rimO		GO:0018339	PMID:18252828	IMP		P	Ribosomal protein S12 methylthiotransferase rimO	rimO|yliG|b0835|JW0819|RIMO_ECOLI|P75802	protein	taxon:83333	20080226	EcoCyc		
+UniProtKB	P76251	dmlA		GO:0006108	PMID:17088549	IMP		P	D-malate dehydrogenase [decarboxylating]	dmlA|b1800|yeaU|JW1789|DMLA_ECOLI|O08474|O08475	protein	taxon:83333	20061205	EcoCyc		
+UniProtKB	P76251	dmlA		GO:0006108	PMID:20233924	IDA		P	D-malate dehydrogenase [decarboxylating]	dmlA|b1800|yeaU|JW1789|DMLA_ECOLI|O08474|O08475	protein	taxon:83333	20100929	UniProtKB		
+UniProtKB	P04693	tyrB		GO:0009094	PMID:15983	IMP		P	Aromatic-amino-acid aminotransferase	tyrB|b4054|JW4014|TYRB_ECOLI|Q2M6Q0	protein	taxon:83333	20080419	EcoliWiki		
+UniProtKB	P04693	tyrB		GO:0009094	PMID:236311	IDA		P	Aromatic-amino-acid aminotransferase	tyrB|b4054|JW4014|TYRB_ECOLI|Q2M6Q0	protein	taxon:83333	20080419	EcoliWiki		
+UniProtKB	P0A8I8	rlmH		GO:0031167	PMID:18755836	IMP		P	Ribosomal RNA large subunit methyltransferase H	b0636|rlmH|ybeA|JW0631|RLMH_ECOLI|P05850	protein	taxon:83333	20080908	EcoCyc		
+UniProtKB	P0A8I8	rlmH		GO:0031167	PMID:18755835	IMP		P	Ribosomal RNA large subunit methyltransferase H	b0636|rlmH|ybeA|JW0631|RLMH_ECOLI|P05850	protein	taxon:83333	20090403	UniProtKB		
+UniProtKB	P0A8I8	rlmH		GO:0031167	PMID:18755835	IMP		P	Ribosomal RNA large subunit methyltransferase H	b0636|rlmH|ybeA|JW0631|RLMH_ECOLI|P05850	protein	taxon:83333	20080908	EcoCyc		
+UniProtKB	P0A8I8	rlmH		GO:0031167	PMID:18755836	IDA		P	Ribosomal RNA large subunit methyltransferase H	b0636|rlmH|ybeA|JW0631|RLMH_ECOLI|P05850	protein	taxon:83333	20090403	UniProtKB		
+UniProtKB	P75864	rlmL		GO:0031167	PMID:17010378	IMP		P	Ribosomal RNA large subunit methyltransferase L	rlmL|b0948|ycbY|JW0931|RLML_ECOLI	protein	taxon:83333	20080917	EcoCyc		
+UniProtKB	P75864	rlmL		GO:0031167	PMID:17010378	IDA		P	Ribosomal RNA large subunit methyltransferase L	rlmL|b0948|ycbY|JW0931|RLML_ECOLI	protein	taxon:83333	20090402	UniProtKB		
+UniProtKB	P0AEB2	dacA		GO:0010382	PMID:351612	IMP		P	D-alanyl-D-alanine carboxypeptidase dacA	dacA|b0632|pfv|JW0627|DACA_ECOLI|P04287|P77106	protein	taxon:83333	20081112	EcoCyc		
+UniProtKB	P0AEB2	dacA		GO:0010382	PMID:7002918	IDA		P	D-alanyl-D-alanine carboxypeptidase dacA	dacA|b0632|pfv|JW0627|DACA_ECOLI|P04287|P77106	protein	taxon:83333	20081112	EcoCyc		
+UniProtKB	P69681	amtB		GO:0015696	PMID:19273840	IDA		P	Ammonia channel	amtB|ybaG|b0451|JW0441|AMTB_ECOLI|P37905|Q2MBX5	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P69681	amtB		GO:0015696	PMID:9618533	IMP		P	Ammonia channel	amtB|ybaG|b0451|JW0441|AMTB_ECOLI|P37905|Q2MBX5	protein	taxon:83333	20071012	EcoCyc		
+UniProtKB	P69681	amtB		GO:0015696	PMID:19273840	IDA		P	Ammonia channel	amtB|ybaG|b0451|JW0441|AMTB_ECOLI|P37905|Q2MBX5	protein	taxon:83333	20090522	UniProtKB		
+UniProtKB	P0AFS3	folM		GO:0009257	PMID:14617668	IMP		P	Dihydrofolate reductase folM	folM|ydgB|b1606|JW1598|FOLM_ECOLI|P52109|P77386	protein	taxon:83333	20080717	EcoliWiki		
+UniProtKB	P0AFS3	folM		GO:0009257	PMID:14617668	IGI		P	Dihydrofolate reductase folM	folM|ydgB|b1606|JW1598|FOLM_ECOLI|P52109|P77386	protein	taxon:83333	20091118	EcoCyc		
+UniProtKB	P0ABK5	cysK		GO:0006535	PMID:338862	IMP		P	Cysteine synthase A	cysK|cysZ|b2414|JW2407|CYSK_ECOLI|P11096|P21546	protein	taxon:83333	20090727	EcoliWiki		
+UniProtKB	P0ABK5	cysK		GO:0006535	PMID:8663055	IDA		P	Cysteine synthase A	cysK|cysZ|b2414|JW2407|CYSK_ECOLI|P11096|P21546	protein	taxon:83333	20070322	EcoCyc		
+UniProtKB	P36673	treR		GO:0006350	PMID:7608078	IEP		P	HTH-type transcriptional regulator treR	treR|b4241|JW4200|TRER_ECOLI|Q2M666	protein	taxon:83333	20061030	EcoCyc		
+UniProtKB	P36673	treR		GO:0006350	PMID:9148912	IDA		P	HTH-type transcriptional regulator treR	treR|b4241|JW4200|TRER_ECOLI|Q2M666	protein	taxon:83333	20061030	EcoCyc		
+UniProtKB	P0A6X7	ihfA		GO:0006350	PMID:8156991	IDA		P	Integration host factor subunit alpha	ihfA|b1712|hid|himA|JW1702|IHFA_ECOLI|P06984	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A6X7	ihfA		GO:0006350	PMID:8515442	IDA		P	Integration host factor subunit alpha	ihfA|b1712|hid|himA|JW1702|IHFA_ECOLI|P06984	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A6X7	ihfA		GO:0006350	PMID:8230206	IDA		P	Integration host factor subunit alpha	ihfA|b1712|hid|himA|JW1702|IHFA_ECOLI|P06984	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A6X7	ihfA		GO:0006350	PMID:7629095	IDA		P	Integration host factor subunit alpha	ihfA|b1712|hid|himA|JW1702|IHFA_ECOLI|P06984	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A6X7	ihfA		GO:0006350	PMID:7862094	IEP		P	Integration host factor subunit alpha	ihfA|b1712|hid|himA|JW1702|IHFA_ECOLI|P06984	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0AA39	rluC		GO:0000455	PMID:9843401	IDA		P	Ribosomal large subunit pseudouridine synthase C	rluC|yceC|b1086|JW1072|RLUC_ECOLI|P23851	protein	taxon:83333	20081217	EcoliWiki		
+UniProtKB	P0AA39	rluC		GO:0000455	PMID:9660827	IMP		P	Ribosomal large subunit pseudouridine synthase C	rluC|yceC|b1086|JW1072|RLUC_ECOLI|P23851	protein	taxon:83333	20081001	EcoCyc		
+UniProtKB	P46889	ftsK		GO:0007059	PMID:17805344	IMP		P	DNA translocase ftsK	ftsK|b0890|JW0873|FTSK_ECOLI|P77450	protein	taxon:83333	20100628	EcoliWiki		
+UniProtKB	P46889	ftsK		GO:0007059	PMID:9829960	IMP		P	DNA translocase ftsK	ftsK|b0890|JW0873|FTSK_ECOLI|P77450	protein	taxon:83333	20090501	EcoliWiki		
+UniProtKB	P46889	ftsK		GO:0007059	PMID:12034757	IGI		P	DNA translocase ftsK	ftsK|b0890|JW0873|FTSK_ECOLI|P77450	protein	taxon:83333	20090917	EcoliWiki		
+UniProtKB	P30126	leuD		GO:0009098	PMID:4587614	IDA		P	3-isopropylmalate dehydratase small subunit	leuD|b0071|JW0070|LEUD_ECOLI	protein	taxon:83333	20070213	EcoCyc		
+UniProtKB	P30126	leuD		GO:0009098	PMID:4587614	IMP		P	3-isopropylmalate dehydratase small subunit	leuD|b0071|JW0070|LEUD_ECOLI	protein	taxon:83333	20070904	EcoliWiki		
+UniProtKB	P0AD68	ftsI		GO:0042493	PMID:7030331	IDA		P	Peptidoglycan synthase ftsI	ftsI|pbpB|b0084|JW0082|FTSI_ECOLI|P04286	protein	taxon:83333	20080709	EcoliWiki		
+UniProtKB	P0AD68	ftsI		GO:0042493	PMID:1103132	IMP		P	Peptidoglycan synthase ftsI	ftsI|pbpB|b0084|JW0082|FTSI_ECOLI|P04286	protein	taxon:83333	20090904	EcoliWiki		
+UniProtKB	P0A9P0	lpdA		GO:0006103	PMID:4197899	IMP		P	Dihydrolipoyl dehydrogenase	lpdA|lpd|b0116|JW0112|DLDH_ECOLI|P00391	protein	taxon:83333	20081007	EcoliWiki		
+UniProtKB	P0A9P0	lpdA		GO:0006103	PMID:6311808	IGI		P	Dihydrolipoyl dehydrogenase	lpdA|lpd|b0116|JW0112|DLDH_ECOLI|P00391	protein	taxon:83333	20081007	EcoliWiki		
+UniProtKB	P77239	cusB		GO:0006878	PMID:17893146	IMP		P	Cation efflux system protein CusB	cusB|b0574|ylcD|JW0563|CUSB_ECOLI	protein	taxon:83333	20081112	EcoCyc		
+UniProtKB	P77239	cusB		GO:0006878	PMID:12813074	IGI		P	Cation efflux system protein CusB	cusB|b0574|ylcD|JW0563|CUSB_ECOLI	protein	taxon:83333	20090714	EcoCyc		
+UniProtKB	P03819	kefC		GO:0006813	PMID:3301813	IGI		P	Glutathione-regulated potassium-efflux system protein kefC	kefC|b0047|trkC|JW0046|KEFC_ECOLI	protein	taxon:83333	20090826	EcoCyc		
+UniProtKB	P03819	kefC		GO:0006813	PMID:10632882	IDA		P	Glutathione-regulated potassium-efflux system protein kefC	kefC|b0047|trkC|JW0046|KEFC_ECOLI	protein	taxon:83333	20100506	EcoliWiki		
+UniProtKB	P0AGD3	sodB		GO:0000303	PMID:1447175	IDA		P	Superoxide dismutase [Fe]	sodB|b1656|JW1648|SODF_ECOLI|P09157	protein	taxon:83333	20090316	EcoliWiki		
+UniProtKB	P0AGD3	sodB		GO:0000303	PMID:3022287	IMP		P	Superoxide dismutase [Fe]	sodB|b1656|JW1648|SODF_ECOLI|P09157	protein	taxon:83333	20090316	EcoliWiki		
+UniProtKB	P0A6Y1	ihfB		GO:0006350	PMID:8156991	IDA		P	Integration host factor subunit beta	ihfB|b0912|himD|hip|JW0895|IHFB_ECOLI|P08756	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A6Y1	ihfB		GO:0006350	PMID:8515442	IDA		P	Integration host factor subunit beta	ihfB|b0912|himD|hip|JW0895|IHFB_ECOLI|P08756	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A6Y1	ihfB		GO:0006350	PMID:8230206	IDA		P	Integration host factor subunit beta	ihfB|b0912|himD|hip|JW0895|IHFB_ECOLI|P08756	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A6Y1	ihfB		GO:0006350	PMID:7862094	IEP		P	Integration host factor subunit beta	ihfB|b0912|himD|hip|JW0895|IHFB_ECOLI|P08756	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0A6Y1	ihfB		GO:0006350	PMID:7629095	IDA		P	Integration host factor subunit beta	ihfB|b0912|himD|hip|JW0895|IHFB_ECOLI|P08756	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P67826	cutC		GO:0046688	PMID:7635807	IMP		P	Copper homeostasis protein CutC	cutC|b1874|cutCM|JW1863|CUTC_ECOLI|P46719|P76294	protein	taxon:83333	20070515	EcoCyc		
+UniProtKB	P67826	cutC		GO:0046688	PMID:7635807	IGI		P	Copper homeostasis protein CutC	cutC|b1874|cutCM|JW1863|CUTC_ECOLI|P46719|P76294	protein	taxon:83333	20081222	EcoliWiki		
+UniProtKB	P45578	luxS		GO:0003001	PMID:11489131	IDA		P	S-ribosylhomocysteine lyase	luxS|b2687|ygaG|JW2662|LUXS_ECOLI|P77134|P77805	protein	taxon:83333	20090318	EcoCyc		
+UniProtKB	P45578	luxS		GO:0003001	PMID:11514505	IMP		P	S-ribosylhomocysteine lyase	luxS|b2687|ygaG|JW2662|LUXS_ECOLI|P77134|P77805	protein	taxon:83333	20090316	EcoCyc		
+UniProtKB	P0A8N5	lysU		GO:0006430	PMID:7782306	IDA		P	Lysyl-tRNA synthetase, heat inducible	lysU|b4129|JW4090|SYK2_ECOLI|P14825|Q2M6H4	protein	taxon:83333	20061220	EcoCyc		
+UniProtKB	P0A8N5	lysU		GO:0006430	PMID:7782306	IGI		P	Lysyl-tRNA synthetase, heat inducible	lysU|b4129|JW4090|SYK2_ECOLI|P14825|Q2M6H4	protein	taxon:83333	20090205	EcoliWiki		
+UniProtKB	P39406	rsmC		GO:0031167	PMID:17576679	IMP		P	Ribosomal RNA small subunit methyltransferase C	rsmC|yjjT|b4371|JW4333|RSMC_ECOLI|Q2M5U7	protein	taxon:83333	20080923	EcoCyc		
+UniProtKB	P39406	rsmC		GO:0031167	PMID:9873033	IDA		P	Ribosomal RNA small subunit methyltransferase C	rsmC|yjjT|b4371|JW4333|RSMC_ECOLI|Q2M5U7	protein	taxon:83333	20090402	UniProtKB		
+UniProtKB	P0ABZ6	surA		GO:0043165	PMID:8985185	IMP		P	Chaperone surA	surA|b0053|JW0052|SURA_ECOLI|P21202|P75630|Q8KIP6|Q8KMY0	protein	taxon:83333	20091008	EcoliWiki		
+UniProtKB	P0ABZ6	surA		GO:0043165	PMID:17908933	IGI		P	Chaperone surA	surA|b0053|JW0052|SURA_ECOLI|P21202|P75630|Q8KIP6|Q8KMY0	protein	taxon:83333	20080822	EcoCyc		
+UniProtKB	P0A9M2	hpt		GO:0032263	PMID:765747	IMP		P	Hypoxanthine phosphoribosyltransferase	hpt|b0125|JW5009|HPRT_ECOLI|P36766	protein	taxon:83333	20080421	EcoCyc		
+UniProtKB	P0A9M2	hpt		GO:0032263	PMID:12070315	IDA		P	Hypoxanthine phosphoribosyltransferase	hpt|b0125|JW5009|HPRT_ECOLI|P36766	protein	taxon:83333	20080806	EcoliWiki		
+UniProtKB	P0A9M2	hpt		GO:0032264	PMID:765747	IMP		P	Hypoxanthine phosphoribosyltransferase	hpt|b0125|JW5009|HPRT_ECOLI|P36766	protein	taxon:83333	20080421	EcoCyc		
+UniProtKB	P0A9M2	hpt		GO:0032264	PMID:12070315	IDA		P	Hypoxanthine phosphoribosyltransferase	hpt|b0125|JW5009|HPRT_ECOLI|P36766	protein	taxon:83333	20080806	EcoliWiki		
+UniProtKB	P04968	ilvA		GO:0009097	PMID:4573981	IDA		P	Threonine dehydratase biosynthetic	ilvA|b3772|JW3745|THD1_ECOLI|Q2M881	protein	taxon:83333	20070924	EcoCyc		
+UniProtKB	P04968	ilvA		GO:0009097	PMID:8407838	IMP		P	Threonine dehydratase biosynthetic	ilvA|b3772|JW3745|THD1_ECOLI|Q2M881	protein	taxon:83333	20090825	EcoliWiki		
+UniProtKB	P04968	ilvA		GO:0009097	PMID:4604254	IMP		P	Threonine dehydratase biosynthetic	ilvA|b3772|JW3745|THD1_ECOLI|Q2M881	protein	taxon:83333	20090825	EcoliWiki		
+UniProtKB	P52101	yfhK		GO:0000160	PMID:15522865	IDA		P	Putative sensor-like histidine kinase yfhK	yfhK|b2556|JW5407|YFHK_ECOLI|P76587|Q2MAH4	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P52101	yfhK		GO:0000160	PMID:19843219	IMP		P	Putative sensor-like histidine kinase yfhK	yfhK|b2556|JW5407|YFHK_ECOLI|P76587|Q2MAH4	protein	taxon:83333	20091217	EcoCyc		
+UniProtKB	P52101	yfhK		GO:0000160	PMID:15522865	IDA		P	Putative sensor-like histidine kinase yfhK	yfhK|b2556|JW5407|YFHK_ECOLI|P76587|Q2MAH4	protein	taxon:83333	20091217	EcoCyc		
+UniProtKB	P52101	yfhK		GO:0000160	PMID:19843219	IMP		P	Putative sensor-like histidine kinase yfhK	yfhK|b2556|JW5407|YFHK_ECOLI|P76587|Q2MAH4	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0AEX9	malE		GO:0015768	PMID:2026607	IDA		P	Maltose-binding periplasmic protein	malE|b4034|JW3994|MALE_ECOLI|P02928|Q2M6S0	protein	taxon:83333	20080117	EcoCyc		
+UniProtKB	P0AEX9	malE		GO:0015768	PMID:2155217	IGI		P	Maltose-binding periplasmic protein	malE|b4034|JW3994|MALE_ECOLI|P02928|Q2M6S0	protein	taxon:83333	20090609	EcoliWiki		
+UniProtKB	P00803	lepB		GO:0006508	PMID:10891078	IDA		P	Signal peptidase I	lepB|b2568|JW2552|LEP_ECOLI|P78098|Q2MAG2	protein	taxon:83333	20090825	EcoliWiki		
+UniProtKB	P00803	lepB		GO:0006508	PMID:15195997	IMP		P	Signal peptidase I	lepB|b2568|JW2552|LEP_ECOLI|P78098|Q2MAG2	protein	taxon:83333	20090825	EcoliWiki		
+UniProtKB	P23909	mutS		GO:0006298	PMID:2665076	IDA		P	DNA mismatch repair protein mutS	mutS|fdv|b2733|JW2703|MUTS_ECOLI|P71279|Q2MA96	protein	taxon:83333	20080419	EcoliWiki		
+UniProtKB	P23909	mutS		GO:0006298	PMID:6987663	IMP		P	DNA mismatch repair protein mutS	mutS|fdv|b2733|JW2703|MUTS_ECOLI|P71279|Q2MA96	protein	taxon:83333	20080419	EcoliWiki		
+UniProtKB	P0AEB2	dacA		GO:0000270	PMID:7002918	IDA		P	D-alanyl-D-alanine carboxypeptidase dacA	dacA|b0632|pfv|JW0627|DACA_ECOLI|P04287|P77106	protein	taxon:83333	20081112	EcoCyc		
+UniProtKB	P0AEB2	dacA		GO:0000270	PMID:351612	IMP		P	D-alanyl-D-alanine carboxypeptidase dacA	dacA|b0632|pfv|JW0627|DACA_ECOLI|P04287|P77106	protein	taxon:83333	20081112	EcoCyc		
+UniProtKB	P22523	mukB		GO:0030261	PMID:16740950	IMP		P	Chromosome partition protein mukB	mukB|b0924|JW0907|MUKB_ECOLI|P71227|P77164|Q47398	protein	taxon:83333	20080522	EcoCyc		
+UniProtKB	P22523	mukB		GO:0030261	PMID:18376412	IDA		P	Chromosome partition protein mukB	mukB|b0924|JW0907|MUKB_ECOLI|P71227|P77164|Q47398	protein	taxon:83333	20080523	EcoCyc		
+UniProtKB	P0A9G4	cueR		GO:0006350	PMID:11167016	IEP		P	HTH-type transcriptional regulator CueR	cueR|ybbI|b0487|JW0476|CUER_ECOLI|P77565|Q2MBU0	protein	taxon:83333	20061101	EcoCyc		
+UniProtKB	P0A9G4	cueR		GO:0006350	PMID:11136469	IDA		P	HTH-type transcriptional regulator CueR	cueR|ybbI|b0487|JW0476|CUER_ECOLI|P77565|Q2MBU0	protein	taxon:83333	20061101	EcoCyc		
+UniProtKB	P68767	pepA		GO:0006350	PMID:2670557	IMP		P	Cytosol aminopeptidase	pepA|b4260|carP|xerB|JW4217|AMPA_ECOLI|P11648|Q2M649	protein	taxon:83333	20050207	EcoCyc		
+UniProtKB	P68767	pepA		GO:0006350	PMID:15049810	IDA		P	Cytosol aminopeptidase	pepA|b4260|carP|xerB|JW4217|AMPA_ECOLI|P11648|Q2M649	protein	taxon:83333	20050207	EcoCyc		
+UniProtKB	P0AE88	cpxR		GO:0006350	PMID:16077119	IDA		P	Transcriptional regulatory protein CpxR	cpxR|yiiA|b3912|JW3883|CPXR_ECOLI|P16244|P76777|Q2M8K9	protein	taxon:83333	20061031	EcoCyc		
+UniProtKB	P0AE88	cpxR		GO:0006350	PMID:15686558	IEP		P	Transcriptional regulatory protein CpxR	cpxR|yiiA|b3912|JW3883|CPXR_ECOLI|P16244|P76777|Q2M8K9	protein	taxon:83333	20061031	EcoCyc		
+UniProtKB	P0AE88	cpxR		GO:0006350	PMID:9159398	IDA		P	Transcriptional regulatory protein CpxR	cpxR|yiiA|b3912|JW3883|CPXR_ECOLI|P16244|P76777|Q2M8K9	protein	taxon:83333	20061031	EcoCyc		
+UniProtKB	P0AE88	cpxR		GO:0006350	PMID:7883164	IEP		P	Transcriptional regulatory protein CpxR	cpxR|yiiA|b3912|JW3883|CPXR_ECOLI|P16244|P76777|Q2M8K9	protein	taxon:83333	20061031	EcoCyc		
+UniProtKB	P77211	cusC		GO:0060003	PMID:11283292	IEP		P	Cation efflux system protein CusC	cusC|b0572|ibeB|ylcB|JW0561|CUSC_ECOLI|Q9L5Y3|Q9X444	protein	taxon:83333	20081112	EcoCyc		
+UniProtKB	P77211	cusC		GO:0060003	PMID:12813074	IGI		P	Cation efflux system protein CusC	cusC|b0572|ibeB|ylcB|JW0561|CUSC_ECOLI|Q9L5Y3|Q9X444	protein	taxon:83333	20090714	EcoCyc		
+UniProtKB	P09147	galE		GO:0006012	PMID:13914787	IMP		P	UDP-glucose 4-epimerase	galE|galD|b0759|JW0742|GALE_ECOLI|Q47493	protein	taxon:83333	20081022	EcoliWiki		
+UniProtKB	P09147	galE		GO:0006012	PMID:7025059	IMP		P	UDP-glucose 4-epimerase	galE|galD|b0759|JW0742|GALE_ECOLI|Q47493	protein	taxon:83333	20090203	EcoliWiki		
+UniProtKB	P09147	galE		GO:0006012	PMID:1821806	IDA		P	UDP-glucose 4-epimerase	galE|galD|b0759|JW0742|GALE_ECOLI|Q47493	protein	taxon:83333	20090204	EcoliWiki		
+UniProtKB	P0ACL9	pdhR		GO:0006350	PMID:8057842	IDA		P	Pyruvate dehydrogenase complex repressor	pdhR|aceC|b0113|genA|JW0109|yacB|PDHR_ECOLI|P06957|Q53381|Q8KMZ5	protein	taxon:83333	20061101	EcoCyc		
+UniProtKB	P0ACL9	pdhR		GO:0006350	PMID:8262214	IEP		P	Pyruvate dehydrogenase complex repressor	pdhR|aceC|b0113|genA|JW0109|yacB|PDHR_ECOLI|P06957|Q53381|Q8KMZ5	protein	taxon:83333	20061101	EcoCyc		
+UniProtKB	P0ACL9	pdhR		GO:0006350	PMID:7783622	IDA		P	Pyruvate dehydrogenase complex repressor	pdhR|aceC|b0113|genA|JW0109|yacB|PDHR_ECOLI|P06957|Q53381|Q8KMZ5	protein	taxon:83333	20061101	EcoCyc		
+UniProtKB	P76149	yneI		GO:0009450	PMID:7009588	IEP		P	Aldehyde dehydrogenase-like protein yneI	yneI|b1525|JW5247|YNEI_ECOLI|P78220|P78286	protein	taxon:83333	20080508	EcoCyc		
+UniProtKB	P76149	yneI		GO:0009450	PMID:7011797	IMP		P	Aldehyde dehydrogenase-like protein yneI	yneI|b1525|JW5247|YNEI_ECOLI|P78220|P78286	protein	taxon:83333	20080812	EcoliWiki		
+UniProtKB	P76149	yneI		GO:0009450	PMID:17873044	IMP		P	Aldehyde dehydrogenase-like protein yneI	yneI|b1525|JW5247|YNEI_ECOLI|P78220|P78286	protein	taxon:83333	20080812	EcoliWiki		
+UniProtKB	P0AC41	sdhA		GO:0006099	PMID:13152052	IDA		P	Succinate dehydrogenase flavoprotein subunit	sdhA|b0723|JW0713|DHSA_ECOLI|P10444|P78282	protein	taxon:83333	20080619	EcoliWiki		
+UniProtKB	P0AC41	sdhA		GO:0006099	PMID:15543598	IGI		P	Succinate dehydrogenase flavoprotein subunit	sdhA|b0723|JW0713|DHSA_ECOLI|P10444|P78282	protein	taxon:83333	20090407	EcoliWiki		
+UniProtKB	P30843	basR		GO:0010041	PMID:15322361	IEP		P	Transcriptional regulatory protein BasR	basR|b4113|pmrA|JW4074|BASR_ECOLI|Q2M6J1|Q5MNC7|Q5MNC9|Q5MNE0|Q5MNE5|Q5MNF2|Q5MNH0	protein	taxon:83333	20080801	EcoCyc		
+UniProtKB	P30843	basR		GO:0010041	PMID:12139617	IMP		P	Transcriptional regulatory protein BasR	basR|b4113|pmrA|JW4074|BASR_ECOLI|Q2M6J1|Q5MNC7|Q5MNC9|Q5MNE0|Q5MNE5|Q5MNF2|Q5MNH0	protein	taxon:83333	20080801	EcoCyc		
+UniProtKB	P0AGB0	serB		GO:0006564	PMID:14086727	IDA		P	Phosphoserine phosphatase	serB|b4388|JW4351|SERB_ECOLI|P06862|Q2M5S9	protein	taxon:83333	20090616	EcoliWiki		
+UniProtKB	P0AGB0	serB		GO:0006564	PMID:17012394	IMP		P	Phosphoserine phosphatase	serB|b4388|JW4351|SERB_ECOLI|P06862|Q2M5S9	protein	taxon:83333	20070504	EcoCyc		
+UniProtKB	P0AE01	trmJ		GO:0030488	PMID:16848900	IMP		P	tRNA (cytidine/uridine-2'-O-)-methyltransferase TrmJ	trmJ|yfhQ|b2532|JW2516|TRMJ_ECOLI|P76993|P77438	protein	taxon:83333	20080908	EcoCyc		
+UniProtKB	P0AE01	trmJ		GO:0030488	PMID:16848900	IDA		P	tRNA (cytidine/uridine-2'-O-)-methyltransferase TrmJ	trmJ|yfhQ|b2532|JW2516|TRMJ_ECOLI|P76993|P77438	protein	taxon:83333	20081105	EcoliWiki		
+UniProtKB	P77214	cusF		GO:0046688	PMID:15773991	IEP		P	Cation efflux system protein CusF	cusF|b0573|cusX|ylcC|JW0562|CUSF_ECOLI	protein	taxon:83333	20081112	EcoCyc		
+UniProtKB	P77214	cusF		GO:0046688	PMID:12813074	IMP		P	Cation efflux system protein CusF	cusF|b0573|cusX|ylcC|JW0562|CUSF_ECOLI	protein	taxon:83333	20080908	EcoliWiki		
+UniProtKB	P77214	cusF		GO:0046688	PMID:11283292	IEP		P	Cation efflux system protein CusF	cusF|b0573|cusX|ylcC|JW0562|CUSF_ECOLI	protein	taxon:83333	20081112	EcoCyc		
+UniProtKB	P08204	araB		GO:0019568	PMID:5336963	IDA		P	Ribulokinase	araB|b0063|JW0062|ARAB_ECOLI|P78041	protein	taxon:83333	20090410	EcoliWiki		
+UniProtKB	P08204	araB		GO:0019568	PMID:13829634	IMP		P	Ribulokinase	araB|b0063|JW0062|ARAB_ECOLI|P78041	protein	taxon:83333	20081115	EcoliWiki		
+UniProtKB	P02918	mrcA		GO:0046677	PMID:330236	IMP		P	Penicillin-binding protein 1A	mrcA|ponA|b3396|JW3359|PBPA_ECOLI|P76688|Q2M761	protein	taxon:83333	20081113	EcoCyc		
+UniProtKB	P02918	mrcA		GO:0046677	PMID:345275	IGI		P	Penicillin-binding protein 1A	mrcA|ponA|b3396|JW3359|PBPA_ECOLI|P76688|Q2M761	protein	taxon:83333	20090714	EcoCyc		
+UniProtKB	P77211	cusC		GO:0046688	PMID:12813074	IMP		P	Cation efflux system protein CusC	cusC|b0572|ibeB|ylcB|JW0561|CUSC_ECOLI|Q9L5Y3|Q9X444	protein	taxon:83333	20080908	EcoliWiki		
+UniProtKB	P77211	cusC		GO:0046688	PMID:11004187	IEP		P	Cation efflux system protein CusC	cusC|b0572|ibeB|ylcB|JW0561|CUSC_ECOLI|Q9L5Y3|Q9X444	protein	taxon:83333	20081112	EcoCyc		
+UniProtKB	P77211	cusC		GO:0046688	PMID:15773991	IEP		P	Cation efflux system protein CusC	cusC|b0572|ibeB|ylcB|JW0561|CUSC_ECOLI|Q9L5Y3|Q9X444	protein	taxon:83333	20081112	EcoCyc		
+UniProtKB	Q47377	arnE		GO:0010041	PMID:15322361	IEP		P	Probable 4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE	arnE|pmrL|b4544|yfbW|JW2252|ARNE_ECOLI|Q2EES8|Q2MAN1	protein	taxon:83333	20080801	EcoCyc		
+UniProtKB	Q47377	arnE		GO:0010041	PMID:12139617	IGI		P	Probable 4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE	arnE|pmrL|b4544|yfbW|JW2252|ARNE_ECOLI|Q2EES8|Q2MAN1	protein	taxon:83333	20080822	EcoCyc		
+UniProtKB	P38054	cusA		GO:0010272	PMID:18419149	IEP		P	Cation efflux system protein CusA	cusA|b0575|ybdE|JW0564|CUSA_ECOLI|P77767	protein	taxon:83333	20081110	EcoCyc		
+UniProtKB	P38054	cusA		GO:0010272	PMID:11283292	IMP		P	Cation efflux system protein CusA	cusA|b0575|ybdE|JW0564|CUSA_ECOLI|P77767	protein	taxon:83333	20080911	EcoliWiki		
+UniProtKB	P38054	cusA		GO:0010272	PMID:11739772	IMP		P	Cation efflux system protein CusA	cusA|b0575|ybdE|JW0564|CUSA_ECOLI|P77767	protein	taxon:83333	20081110	EcoCyc		
+UniProtKB	P38054	cusA		GO:0010272	PMID:11283292	IEP		P	Cation efflux system protein CusA	cusA|b0575|ybdE|JW0564|CUSA_ECOLI|P77767	protein	taxon:83333	20081110	EcoCyc		
+UniProtKB	P77239	cusB		GO:0010273	PMID:17893146	IMP		P	Cation efflux system protein CusB	cusB|b0574|ylcD|JW0563|CUSB_ECOLI	protein	taxon:83333	20081112	EcoCyc		
+UniProtKB	P77239	cusB		GO:0010273	PMID:12813074	IGI		P	Cation efflux system protein CusB	cusB|b0574|ylcD|JW0563|CUSB_ECOLI	protein	taxon:83333	20090714	EcoCyc		
+UniProtKB	P31554	lptD		GO:0043165	PMID:16861298	IMP		P	LPS-assembly protein lptD	lptD|imp|b0054|ostA|JW0053|yabG|LPTD_ECOLI|P75631	protein	taxon:83333	20090521	EcoCyc		
+UniProtKB	P31554	lptD		GO:0043165	PMID:16861298	IGI		P	LPS-assembly protein lptD	lptD|imp|b0054|ostA|JW0053|yabG|LPTD_ECOLI|P75631	protein	taxon:83333	20100413	EcoliWiki		
+UniProtKB	P69425	tatB		GO:0065002	PMID:9546395	IMP		P	Sec-independent protein translocase protein tatB	tatB|mttA2|b3838|ysgB|JW5580|TATB_ECOLI|O69415|O87926|P27856|Q2M8E2	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P69425	tatB		GO:0065002	PMID:9546395	IMP		P	Sec-independent protein translocase protein tatB	tatB|mttA2|b3838|ysgB|JW5580|TATB_ECOLI|O69415|O87926|P27856|Q2M8E2	protein	taxon:83333	20091206	EcoCyc		
+UniProtKB	P69425	tatB		GO:0065002	PMID:11279240	IDA		P	Sec-independent protein translocase protein tatB	tatB|mttA2|b3838|ysgB|JW5580|TATB_ECOLI|O69415|O87926|P27856|Q2M8E2	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P69425	tatB		GO:0065002	PMID:11279240	IDA		P	Sec-independent protein translocase protein tatB	tatB|mttA2|b3838|ysgB|JW5580|TATB_ECOLI|O69415|O87926|P27856|Q2M8E2	protein	taxon:83333	20091206	EcoCyc		
+UniProtKB	P0AEU7	skp		GO:0043165	PMID:17908933	IGI		P	Chaperone protein skp	skp|b0178|hlpA|ompH|JW0173|SKP_ECOLI|P11457	protein	taxon:83333	20090113	EcoCyc		
+UniProtKB	P0AEU7	skp		GO:0043165	PMID:17908933	IPI	UniProtKB:P0A940	P	Chaperone protein skp	skp|b0178|hlpA|ompH|JW0173|SKP_ECOLI|P11457	protein	taxon:83333	20090113	EcoCyc		
+UniProtKB	P0AEU7	skp		GO:0043165	PMID:12509434	IDA		P	Chaperone protein skp	skp|b0178|hlpA|ompH|JW0173|SKP_ECOLI|P11457	protein	taxon:83333	20090113	EcoCyc		
+UniProtKB	P69423	tatC		GO:0065002	PMID:9546395	IMP		P	Sec-independent protein translocase protein tatC	tatC|b3839|mttB|yigU|JW3815|yigV|TATC_ECOLI|P27857|P27858|P76765|P76766|Q2M8E3	protein	taxon:83333	20091206	EcoCyc		
+UniProtKB	P69423	tatC		GO:0065002	PMID:11279240	IDA		P	Sec-independent protein translocase protein tatC	tatC|b3839|mttB|yigU|JW3815|yigV|TATC_ECOLI|P27857|P27858|P76765|P76766|Q2M8E3	protein	taxon:83333	20091206	EcoCyc		
+UniProtKB	P69423	tatC		GO:0065002	PMID:9546395	IMP		P	Sec-independent protein translocase protein tatC	tatC|b3839|mttB|yigU|JW3815|yigV|TATC_ECOLI|P27857|P27858|P76765|P76766|Q2M8E3	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P69423	tatC		GO:0065002	PMID:11279240	IDA		P	Sec-independent protein translocase protein tatC	tatC|b3839|mttB|yigU|JW3815|yigV|TATC_ECOLI|P27857|P27858|P76765|P76766|Q2M8E3	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P23871	hemH		GO:0006783	PMID:1835790	IMP		P	Ferrochelatase	hemH|b0475|popA|visA|JW0464|HEMH_ECOLI|P78232|Q2MBV2	protein	taxon:83333	20100108	EcoliWiki		
+UniProtKB	P23871	hemH		GO:0006783	PMID:8458858	IDA		P	Ferrochelatase	hemH|b0475|popA|visA|JW0464|HEMH_ECOLI|P78232|Q2MBV2	protein	taxon:83333	20100108	EcoliWiki		
+UniProtKB	P23871	hemH		GO:0006783	PMID:387909	IMP		P	Ferrochelatase	hemH|b0475|popA|visA|JW0464|HEMH_ECOLI|P78232|Q2MBV2	protein	taxon:83333	20090707	EcoCyc		
+UniProtKB	P0AGD3	sodB		GO:0006801	PMID:3022287	IMP		P	Superoxide dismutase [Fe]	sodB|b1656|JW1648|SODF_ECOLI|P09157	protein	taxon:83333	20090316	EcoliWiki		
+UniProtKB	P0AGD3	sodB		GO:0006801	PMID:1447175	IDA		P	Superoxide dismutase [Fe]	sodB|b1656|JW1648|SODF_ECOLI|P09157	protein	taxon:83333	20090316	EcoliWiki		
+UniProtKB	P0ABF1	pcnB		GO:0009451	PMID:9435023	IGI		P	Poly(A) polymerase	pcnB|b0143|JW5808|PCNB_ECOLI|P13685|P78050|Q8X910	protein	taxon:83333	20081001	EcoliWiki		
+UniProtKB	P0ABF1	pcnB		GO:0009451	PMID:17040898	IMP		P	Poly(A) polymerase	pcnB|b0143|JW5808|PCNB_ECOLI|P13685|P78050|Q8X910	protein	taxon:83333	20081001	EcoliWiki		
+UniProtKB	P0ABF1	pcnB		GO:0009451	PMID:10361280	IDA		P	Poly(A) polymerase	pcnB|b0143|JW5808|PCNB_ECOLI|P13685|P78050|Q8X910	protein	taxon:83333	20081001	EcoliWiki		
+UniProtKB	P23873	hipB		GO:0006350	PMID:8021189	IMP		P	HTH-type transcriptional regulator hipB	hipB|b1508|JW1501|HIPB_ECOLI	protein	taxon:83333	20080115	EcoliWiki		
+UniProtKB	P23873	hipB		GO:0006350	PMID:8021189	IDA		P	HTH-type transcriptional regulator hipB	hipB|b1508|JW1501|HIPB_ECOLI	protein	taxon:83333	20060914	EcoCyc		
+UniProtKB	P0A9X9	cspA		GO:0006350	PMID:1961761	IDA		P	Cold shock protein CspA	cspA|b3556|cspS|JW3525|CSPA_ECOLI|P15277|P37410|Q2M7L7|Q54170	protein	taxon:83333	20060621	EcoCyc		
+UniProtKB	P0A9X9	cspA		GO:0006350	PMID:3553157	IEP		P	Cold shock protein CspA	cspA|b3556|cspS|JW3525|CSPA_ECOLI|P15277|P37410|Q2M7L7|Q54170	protein	taxon:83333	20060621	EcoCyc		
+UniProtKB	P0A9X9	cspA		GO:0006350	PMID:8995247	IDA		P	Cold shock protein CspA	cspA|b3556|cspS|JW3525|CSPA_ECOLI|P15277|P37410|Q2M7L7|Q54170	protein	taxon:83333	20060621	EcoCyc		
+UniProtKB	P15043	recQ		GO:0006310	PMID:7868608	IMP		P	ATP-dependent DNA helicase recQ	recQ|b3822|JW5855|RECQ_ECOLI|P76762|Q2M8C7|Q6BEZ3	protein	taxon:83333	20090317	EcoliWiki		
+UniProtKB	P15043	recQ		GO:0006310	PMID:9553043	IDA		P	ATP-dependent DNA helicase recQ	recQ|b3822|JW5855|RECQ_ECOLI|P76762|Q2M8C7|Q6BEZ3	protein	taxon:83333	20090317	EcoliWiki		
+UniProtKB	P76135	ydeO		GO:0006350	PMID:12399493	IMP		P	HTH-type transcriptional regulator ydeO	ydeO|b1499|JW1494|YDEO_ECOLI|P76877	protein	taxon:83333	20061030	EcoCyc		
+UniProtKB	P76135	ydeO		GO:0006350	PMID:12694615	IMP		P	HTH-type transcriptional regulator ydeO	ydeO|b1499|JW1494|YDEO_ECOLI|P76877	protein	taxon:83333	20061030	EcoCyc		
+UniProtKB	P76135	ydeO		GO:0006350	PMID:15489450	IDA		P	HTH-type transcriptional regulator ydeO	ydeO|b1499|JW1494|YDEO_ECOLI|P76877	protein	taxon:83333	20061030	EcoCyc		
+UniProtKB	P0ACN4	allR		GO:0006350	PMID:10601204	IEP		P	HTH-type transcriptional repressor AllR	allR|glxA3|b0506|ybbU|JW0494|ALLR_ECOLI|P77734|Q2MBS2	protein	taxon:83333	20061030	EcoCyc		
+UniProtKB	P0ACN4	allR		GO:0006350	PMID:16546208	IDA		P	HTH-type transcriptional repressor AllR	allR|glxA3|b0506|ybbU|JW0494|ALLR_ECOLI|P77734|Q2MBS2	protein	taxon:83333	20061030	EcoCyc		
+UniProtKB	P0ACN4	allR		GO:0006350	PMID:12460564	IDA		P	HTH-type transcriptional repressor AllR	allR|glxA3|b0506|ybbU|JW0494|ALLR_ECOLI|P77734|Q2MBS2	protein	taxon:83333	20061030	EcoCyc		
+UniProtKB	P0ACS5	zntR		GO:0006350	PMID:10608803	IDA		P	HTH-type transcriptional regulator zntR	zntR|yhdM|b3292|JW3254|ZNTR_ECOLI|P36676|Q2M6V7	protein	taxon:83333	20061006	EcoCyc		
+UniProtKB	P0ACS5	zntR		GO:0006350	PMID:10048032	IEP		P	HTH-type transcriptional regulator zntR	zntR|yhdM|b3292|JW3254|ZNTR_ECOLI|P36676|Q2M6V7	protein	taxon:83333	20061006	EcoCyc		
+UniProtKB	P0ACF4	hupB		GO:0006350	PMID:10982882	IEP		P	DNA-binding protein HU-beta	hupB|hopD|b0440|JW0430|DBHB_ECOLI|P02341|Q2MBY6	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P0ACF4	hupB		GO:0006350	PMID:9192630	IEP		P	DNA-binding protein HU-beta	hupB|hopD|b0440|JW0430|DBHB_ECOLI|P02341|Q2MBY6	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P0ACF4	hupB		GO:0006350	PMID:3514923	IDA		P	DNA-binding protein HU-beta	hupB|hopD|b0440|JW0430|DBHB_ECOLI|P02341|Q2MBY6	protein	taxon:83333	20061108	EcoCyc		
+UniProtKB	P0ACF4	hupB		GO:0006350	PMID:227733	IDA		P	DNA-binding protein HU-beta	hupB|hopD|b0440|JW0430|DBHB_ECOLI|P02341|Q2MBY6	protein	taxon:83333	20061108	EcoCyc		
+UniProtKB	P0ACF4	hupB		GO:0006350	PMID:9218807	IDA		P	DNA-binding protein HU-beta	hupB|hopD|b0440|JW0430|DBHB_ECOLI|P02341|Q2MBY6	protein	taxon:83333	20061108	EcoCyc		
+UniProtKB	P0ACF4	hupB		GO:0006350	PMID:11254141	IEP		P	DNA-binding protein HU-beta	hupB|hopD|b0440|JW0430|DBHB_ECOLI|P02341|Q2MBY6	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P0ACF4	hupB		GO:0006350	PMID:11601842	IEP		P	DNA-binding protein HU-beta	hupB|hopD|b0440|JW0430|DBHB_ECOLI|P02341|Q2MBY6	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P76473	arnT		GO:0010041	PMID:12139617	IGI		P	Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase	arnT|pmrK|b2257|yfbI|JW2251|ARNT_ECOLI|Q2MAN2	protein	taxon:83333	20080818	EcoCyc		
+UniProtKB	P76473	arnT		GO:0010041	PMID:15322361	IEP		P	Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase	arnT|pmrK|b2257|yfbI|JW2251|ARNT_ECOLI|Q2MAN2	protein	taxon:83333	20080801	EcoCyc		
+UniProtKB	P0A9X4	mreB		GO:0051983	PMID:14517265	IMP		P	Rod shape-determining protein mreB	mreB|envB|b3251|rodY|JW3220|MREB_ECOLI|P13519|P76678|Q2M8W3	protein	taxon:83333	20090724	EcoliWiki		
+UniProtKB	P0A9X4	mreB		GO:0051983	PMID:19187760	IGI		P	Rod shape-determining protein mreB	mreB|envB|b3251|rodY|JW3220|MREB_ECOLI|P13519|P76678|Q2M8W3	protein	taxon:83333	20090227	EcoliWiki		
+UniProtKB	P76472	arnD		GO:0010041	PMID:12139617	IGI		P	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD	arnD|pmrJ|b2256|yfbH|JW2250|ARND_ECOLI|Q2MAN3	protein	taxon:83333	20080822	EcoCyc		
+UniProtKB	P76472	arnD		GO:0010041	PMID:15322361	IEP		P	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD	arnD|pmrJ|b2256|yfbH|JW2250|ARND_ECOLI|Q2MAN3	protein	taxon:83333	20080801	EcoCyc		
+UniProtKB	P0AE58	caiF		GO:0006350	PMID:8631699	IEP		P	Transcriptional activatory protein CaiF	caiF|b0034|JW0033|CAIF_ECOLI|P75622|Q2MCH0|Q47081	protein	taxon:83333	20061031	EcoCyc		
+UniProtKB	P0AE58	caiF		GO:0006350	PMID:9573142	IEP		P	Transcriptional activatory protein CaiF	caiF|b0034|JW0033|CAIF_ECOLI|P75622|Q2MCH0|Q47081	protein	taxon:83333	20061031	EcoCyc		
+UniProtKB	P0AE58	caiF		GO:0006350	PMID:10564497	IDA		P	Transcriptional activatory protein CaiF	caiF|b0034|JW0033|CAIF_ECOLI|P75622|Q2MCH0|Q47081	protein	taxon:83333	20061024	EcoCyc		
+UniProtKB	P0A6Z1	hscA		GO:0016226	PMID:10544286	IMP		P	Chaperone protein hscA	hscA|b2526|hsc|JW2510|HSCA_ECOLI|P36541|P76990|P77497	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0A6Z1	hscA		GO:0016226	PMID:10393315	IGI		P	Chaperone protein hscA	hscA|b2526|hsc|JW2510|HSCA_ECOLI|P36541|P76990|P77497	protein	taxon:83333	20091028	EcoCyc		
+UniProtKB	P0A6Z1	hscA		GO:0016226	PMID:10544286	IMP		P	Chaperone protein hscA	hscA|b2526|hsc|JW2510|HSCA_ECOLI|P36541|P76990|P77497	protein	taxon:83333	20091028	EcoCyc		
+UniProtKB	P0A7S3	rpsL		GO:0006412	PMID:321423	IMP		P	30S ribosomal protein S12	rpsL|strA|b3342|JW3304|RS12_ECOLI|P02367|Q2M707|Q9F5N3	protein	taxon:83333	20080303	EcoCyc		
+UniProtKB	P0A7S3	rpsL		GO:0006412	PMID:4579428	IDA		P	30S ribosomal protein S12	rpsL|strA|b3342|JW3304|RS12_ECOLI|P02367|Q2M707|Q9F5N3	protein	taxon:83333	20080917	EcoliWiki		
+UniProtKB	P39404	bglJ		GO:0006350	PMID:16207917	IMP		P	Transcriptional activator protein BglJ	bglJ|yjjR|b4366|JW5955|BGLJ_ECOLI|Q2M5V0	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P39404	bglJ		GO:0006350	PMID:8725214	IEP		P	Transcriptional activator protein BglJ	bglJ|yjjR|b4366|JW5955|BGLJ_ECOLI|Q2M5V0	protein	taxon:83333	20061108	EcoCyc		
+UniProtKB	P38054	cusA		GO:0046688	PMID:12813074	IMP		P	Cation efflux system protein CusA	cusA|b0575|ybdE|JW0564|CUSA_ECOLI|P77767	protein	taxon:83333	20080908	EcoliWiki		
+UniProtKB	P38054	cusA		GO:0046688	PMID:15773991	IEP		P	Cation efflux system protein CusA	cusA|b0575|ybdE|JW0564|CUSA_ECOLI|P77767	protein	taxon:83333	20081110	EcoCyc		
+UniProtKB	P38054	cusA		GO:0046688	PMID:11283292	IEP		P	Cation efflux system protein CusA	cusA|b0575|ybdE|JW0564|CUSA_ECOLI|P77767	protein	taxon:83333	20081110	EcoCyc		
+UniProtKB	P0AER0	glpF		GO:0015793	PMID:8584435	IDA		P	Glycerol uptake facilitator protein	glpF|b3927|JW3898|GLPF_ECOLI|P11244|Q2M8M3|Q46727	protein	taxon:83333	20100219	UniProtKB		
+UniProtKB	P0AER0	glpF		GO:0015793	PMID:4563976	IMP		P	Glycerol uptake facilitator protein	glpF|b3927|JW3898|GLPF_ECOLI|P11244|Q2M8M3|Q46727	protein	taxon:83333	20071206	EcoCyc		
+UniProtKB	P0AER0	glpF		GO:0015793	PMID:7491270	IDA		P	Glycerol uptake facilitator protein	glpF|b3927|JW3898|GLPF_ECOLI|P11244|Q2M8M3|Q46727	protein	taxon:83333	20100310	UniProtKB		
+UniProtKB	P76474	arnF		GO:0010041	PMID:15322361	IEP		P	Probable 4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnF	arnF|b2258|pmrM|yfbJ|JW5373|ARNF_ECOLI|Q2MAN0|Q47376	protein	taxon:83333	20080801	EcoCyc		
+UniProtKB	P76474	arnF		GO:0010041	PMID:12139617	IGI		P	Probable 4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnF	arnF|b2258|pmrM|yfbJ|JW5373|ARNF_ECOLI|Q2MAN0|Q47376	protein	taxon:83333	20080822	EcoCyc		
+UniProtKB	P0ACF0	hupA		GO:0006350	PMID:11254141	IEP		P	DNA-binding protein HU-alpha	hupA|b4000|JW3964|DBHA_ECOLI|P02342|Q2M8T7	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P0ACF0	hupA		GO:0006350	PMID:10982882	IEP		P	DNA-binding protein HU-alpha	hupA|b4000|JW3964|DBHA_ECOLI|P02342|Q2M8T7	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P0ACF0	hupA		GO:0006350	PMID:9218807	IDA		P	DNA-binding protein HU-alpha	hupA|b4000|JW3964|DBHA_ECOLI|P02342|Q2M8T7	protein	taxon:83333	20061108	EcoCyc		
+UniProtKB	P0ACF0	hupA		GO:0006350	PMID:9192630	IEP		P	DNA-binding protein HU-alpha	hupA|b4000|JW3964|DBHA_ECOLI|P02342|Q2M8T7	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P0ACF0	hupA		GO:0006350	PMID:11601842	IEP		P	DNA-binding protein HU-alpha	hupA|b4000|JW3964|DBHA_ECOLI|P02342|Q2M8T7	protein	taxon:83333	20061109	EcoCyc		
+UniProtKB	P0ACF0	hupA		GO:0006350	PMID:227733	IDA		P	DNA-binding protein HU-alpha	hupA|b4000|JW3964|DBHA_ECOLI|P02342|Q2M8T7	protein	taxon:83333	20061108	EcoCyc		
+UniProtKB	P0ACF0	hupA		GO:0006350	PMID:3514923	IDA		P	DNA-binding protein HU-alpha	hupA|b4000|JW3964|DBHA_ECOLI|P02342|Q2M8T7	protein	taxon:83333	20061108	EcoCyc		
+UniProtKB	P0A769	mntH		GO:0015691	PMID:15641799	IMP		P	Manganese transport protein mntH	mntH|yfeP|b2392|JW2388|MNTH_ECOLI|P77145	protein	taxon:83333	20090727	EcoliWiki		
+UniProtKB	P0A769	mntH		GO:0015691	PMID:18227061	IDA		P	Manganese transport protein mntH	mntH|yfeP|b2392|JW2388|MNTH_ECOLI|P77145	protein	taxon:83333	20090724	EcoliWiki		
+UniProtKB	P06722	mutH		GO:0006298	PMID:6987663	IMP		P	DNA mismatch repair protein mutH	mutH|mutR|b2831|prv|JW2799|MUTH_ECOLI|Q2MA06|Q9R2X2|Q9R3A8|Q9R411|Q9S6P5|Q9S6P6|Q9S6P7	protein	taxon:83333	20080419	EcoliWiki		
+UniProtKB	P06722	mutH		GO:0006298	PMID:2665076	IDA		P	DNA mismatch repair protein mutH	mutH|mutR|b2831|prv|JW2799|MUTH_ECOLI|Q2MA06|Q9R2X2|Q9R3A8|Q9R411|Q9S6P5|Q9S6P6|Q9S6P7	protein	taxon:83333	20080419	EcoliWiki		
+UniProtKB	P05052	appY		GO:0043193	PMID:8626281	IDA		P	HTH-type transcriptional regulator AppY	appY|b0564|JW0553|APPY_ECOLI|Q2MBL7	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P05052	appY		GO:0043193	PMID:15225322	IMP		P	HTH-type transcriptional regulator AppY	appY|b0564|JW0553|APPY_ECOLI|Q2MBL7	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P05052	appY		GO:0043193	PMID:8626281	IDA		P	HTH-type transcriptional regulator AppY	appY|b0564|JW0553|APPY_ECOLI|Q2MBL7	protein	taxon:83333	20091104	EcoCyc		
+UniProtKB	P05052	appY		GO:0043193	PMID:9079897	IDA		P	HTH-type transcriptional regulator AppY	appY|b0564|JW0553|APPY_ECOLI|Q2MBL7	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P05052	appY		GO:0043193	PMID:9079897	IDA		P	HTH-type transcriptional regulator AppY	appY|b0564|JW0553|APPY_ECOLI|Q2MBL7	protein	taxon:83333	20091104	EcoCyc		
+UniProtKB	P05052	appY		GO:0043193	PMID:15225322	IMP		P	HTH-type transcriptional regulator AppY	appY|b0564|JW0553|APPY_ECOLI|Q2MBL7	protein	taxon:83333	20091104	EcoCyc		
+UniProtKB	P25516	acnA		GO:0006979	PMID:9421904	IEP		P	Aconitate hydratase 1	acnA|b1276|acn|JW1268|ACON1_ECOLI|P78060|P78148	protein	taxon:83333	20071031	EcoliWiki		
+UniProtKB	P25516	acnA		GO:0006979	PMID:12486059	IDA		P	Aconitate hydratase 1	acnA|b1276|acn|JW1268|ACON1_ECOLI|P78060|P78148	protein	taxon:83333	20090423	EcoliWiki		
+UniProtKB	P0ACJ8	crp		GO:0006350	PMID:12923087	IDA		P	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0ACJ8	crp		GO:0006350	PMID:7551052	IDA		P	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0ACJ8	crp		GO:0006350	PMID:15520470	IEP		P	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0ACJ8	crp		GO:0006350	PMID:11742992	IDA		P	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0ACJ8	crp		GO:0006350	PMID:8604346	IMP		P	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0ACJ8	crp		GO:0006350	PMID:7551052	IDA		P	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0ACJ8	crp		GO:0006350	PMID:10760178	IDA		P	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0ACJ8	crp		GO:0006350	PMID:16166533	IDA		P	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0ACJ8	crp		GO:0006350	PMID:15520470	IEP		P	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0ACJ8	crp		GO:0006350	PMID:10760178	IDA		P	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0ACJ8	crp		GO:0006350	PMID:12923087	IDA		P	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0ACJ8	crp		GO:0006350	PMID:16166533	IDA		P	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0ACJ8	crp		GO:0006350	PMID:8604346	IMP		P	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0ACJ8	crp		GO:0006350	PMID:11742992	IDA		P	Catabolite gene activator	crp|cap|b3357|csm|JW5702|CRP_ECOLI|P03020|Q2M723	protein	taxon:83333	20061106	EcoCyc		
+UniProtKB	P0AC41	sdhA		GO:0009060	PMID:7783618	IEP		P	Succinate dehydrogenase flavoprotein subunit	sdhA|b0723|JW0713|DHSA_ECOLI|P10444|P78282	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0AC41	sdhA		GO:0009060	PMID:7783618	IEP		P	Succinate dehydrogenase flavoprotein subunit	sdhA|b0723|JW0713|DHSA_ECOLI|P10444|P78282	protein	taxon:83333	20080423	EcoCyc		
+UniProtKB	P0AC41	sdhA		GO:0009060	PMID:15543598	IGI		P	Succinate dehydrogenase flavoprotein subunit	sdhA|b0723|JW0713|DHSA_ECOLI|P10444|P78282	protein	taxon:83333	20090407	EcoliWiki		
+UniProtKB	P0ABZ6	surA		GO:0050821	PMID:17071751	IMP		P	Chaperone surA	surA|b0053|JW0052|SURA_ECOLI|P21202|P75630|Q8KIP6|Q8KMY0	protein	taxon:83333	20080630	EcoCyc		
+UniProtKB	P0ABZ6	surA		GO:0050821	PMID:11226178	IDA		P	Chaperone surA	surA|b0053|JW0052|SURA_ECOLI|P21202|P75630|Q8KIP6|Q8KMY0	protein	taxon:83333	20080701	EcoCyc		
+UniProtKB	P0ABZ6	surA		GO:0050821	PMID:8626309	IMP		P	Chaperone surA	surA|b0053|JW0052|SURA_ECOLI|P21202|P75630|Q8KIP6|Q8KMY0	protein	taxon:83333	20091008	EcoliWiki		
+UniProtKB	P10441	lpxB		GO:0009245	PMID:3531165	IEP		P	Lipid-A-disaccharide synthase	lpxB|b0182|pgsB|JW0177|LPXB_ECOLI|P78298	protein	taxon:83333	20081027	EcoliWiki		
+UniProtKB	P10441	lpxB		GO:0009245	PMID:6370995	IMP		P	Lipid-A-disaccharide synthase	lpxB|b0182|pgsB|JW0177|LPXB_ECOLI|P78298	protein	taxon:83333	20081027	EcoliWiki		
+UniProtKB	P37639	gadX		GO:0006350	PMID:11976288	IDA		P	HTH-type transcriptional regulator gadX	gadX|yhiX|b3516|JW3484|GADX_ECOLI|Q2M7H8	protein	taxon:83333	20061101	EcoCyc		
+UniProtKB	P37639	gadX		GO:0006350	PMID:12446650	IEP		P	HTH-type transcriptional regulator gadX	gadX|yhiX|b3516|JW3484|GADX_ECOLI|Q2M7H8	protein	taxon:83333	20061101	EcoCyc		
+UniProtKB	P07363	cheA		GO:0051649	PMID:12644507	IMP		P	Chemotaxis protein CheA	cheA|b1888|JW1877|CHEA_ECOLI|P76302	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P07363	cheA		GO:0051649	PMID:19502407	IDA		P	Chemotaxis protein CheA	cheA|b1888|JW1877|CHEA_ECOLI|P76302	protein	taxon:83333	20100621	EcoliWiki		
+UniProtKB	P0AEU7	skp		GO:0006457	PMID:12509434	IDA		P	Chaperone protein skp	skp|b0178|hlpA|ompH|JW0173|SKP_ECOLI|P11457	protein	taxon:83333	20090113	EcoCyc		
+UniProtKB	P0AEU7	skp		GO:0006457	PMID:10455120	IMP		P	Chaperone protein skp	skp|b0178|hlpA|ompH|JW0173|SKP_ECOLI|P11457	protein	taxon:83333	20090930	EcoliWiki		
+UniProtKB	P23367	mutL		GO:0006298	PMID:6987663	IMP		P	DNA mismatch repair protein mutL	mutL|b4170|JW4128|MUTL_ECOLI|Q2M6D5	protein	taxon:83333	20080419	EcoliWiki		
+UniProtKB	P23367	mutL		GO:0006298	PMID:2665076	IDA		P	DNA mismatch repair protein mutL	mutL|b4170|JW4128|MUTL_ECOLI|Q2M6D5	protein	taxon:83333	20080419	EcoliWiki		
+UniProtKB	P0A9P0	lpdA		GO:0006090	PMID:4197899	IMP		P	Dihydrolipoyl dehydrogenase	lpdA|lpd|b0116|JW0112|DLDH_ECOLI|P00391	protein	taxon:83333	20081007	EcoliWiki		
+UniProtKB	P0A9P0	lpdA		GO:0006090	PMID:6311808	IDA		P	Dihydrolipoyl dehydrogenase	lpdA|lpd|b0116|JW0112|DLDH_ECOLI|P00391	protein	taxon:83333	20081007	EcoliWiki		
+UniProtKB	P09147	galE		GO:0009242	PMID:14060648	IMP		P	UDP-glucose 4-epimerase	galE|galD|b0759|JW0742|GALE_ECOLI|Q47493	protein	taxon:83333	20090722	EcoCyc		
+UniProtKB	P09147	galE		GO:0009242	PMID:14124321	IEP		P	UDP-glucose 4-epimerase	galE|galD|b0759|JW0742|GALE_ECOLI|Q47493	protein	taxon:83333	20090722	EcoCyc		
+UniProtKB	P09147	galE		GO:0009242	PMID:6090411	IMP		P	UDP-glucose 4-epimerase	galE|galD|b0759|JW0742|GALE_ECOLI|Q47493	protein	taxon:83333	20081027	EcoliWiki		
+UniProtKB	P58034	ymgF		GO:0051301	PMID:18978050	IPI	UniProtKB:P0AD68	P	Uncharacterized protein ymgF	ymgF|b4520|JW1156|YMGF_ECOLI|Q2EER3|Q2MBG8	protein	taxon:83333	20081114	EcoCyc		
+UniProtKB	P58034	ymgF		GO:0051301	PMID:18978050	IGI		P	Uncharacterized protein ymgF	ymgF|b4520|JW1156|YMGF_ECOLI|Q2EER3|Q2MBG8	protein	taxon:83333	20081114	EcoCyc		
+UniProtKB	P58034	ymgF		GO:0051301	PMID:18978050	IPI	UniProtKB:P06136	P	Uncharacterized protein ymgF	ymgF|b4520|JW1156|YMGF_ECOLI|Q2EER3|Q2MBG8	protein	taxon:83333	20081114	EcoCyc		
+UniProtKB	P58034	ymgF		GO:0051301	PMID:18978050	IPI	UniProtKB:P0AEN4	P	Uncharacterized protein ymgF	ymgF|b4520|JW1156|YMGF_ECOLI|Q2EER3|Q2MBG8	protein	taxon:83333	20081114	EcoCyc		
+UniProtKB	P75876	rlmI		GO:0031167	PMID:18786544	IMP		P	Ribosomal RNA large subunit methyltransferase I	rlmI|yccW|b0967|JW5898|RLMI_ECOLI|Q9R7Q2	protein	taxon:83333	20080916	EcoCyc		
+UniProtKB	P75876	rlmI		GO:0031167	PMID:18786544	IDA		P	Ribosomal RNA large subunit methyltransferase I	rlmI|yccW|b0967|JW5898|RLMI_ECOLI|Q9R7Q2	protein	taxon:83333	20090209	UniProtKB		

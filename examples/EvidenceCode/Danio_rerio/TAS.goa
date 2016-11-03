@@ -1,0 +1,4 @@
+!gaf-version: 2.0
+UniProtKB	Q98SP7	bbs2		GO:0032402	PMID:18381349	TAS		P	Bardet-Biedl syndrome 2 protein homolog	bbs2|IPI00507984|BBS2_DANRE	protein	taxon:7955	20080517	BHF-UCL		
+UniProtKB	Q7ZVV0	mkks		GO:0032402	PMID:18381349	TAS		P	McKusick-Kaufman syndrome	mkks|bbs6|IPI00496967|Q7ZVV0_DANRE	protein	taxon:7955	20080517	BHF-UCL		
+UniProtKB	Q05AN5	bbs4		GO:0032402	PMID:18381349	TAS		P	Bardet-Biedl syndrome 4	bbs4|zgc:152964|IPI00864868|Q05AN5_DANRE	protein	taxon:7955	20080517	BHF-UCL		

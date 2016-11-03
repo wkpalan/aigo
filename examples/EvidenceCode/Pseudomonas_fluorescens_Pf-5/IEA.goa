@@ -1,0 +1,6 @@
+!gaf-version: 2.0
+UniProtKB	Q4KCD8	PFL_2989		GO:0008152	GO_REF:0000002	IEA	InterPro:IPR016039	P	Nonribosomal peptide synthase	PFL_2989|Q4KCD8_PSEF5	protein	taxon:220664	20101113	InterPro		
+UniProtKB	Q4KCD8	PFL_2989		GO:0008152	GO_REF:0000002	IEA	InterPro:IPR000873	P	Nonribosomal peptide synthase	PFL_2989|Q4KCD8_PSEF5	protein	taxon:220664	20101113	InterPro		
+UniProtKB	Q4KCD8	PFL_2989		GO:0009058	GO_REF:0000002	IEA	InterPro:IPR000794	P	Nonribosomal peptide synthase	PFL_2989|Q4KCD8_PSEF5	protein	taxon:220664	20101113	InterPro		
+UniProtKB	Q4KCD8	PFL_2989		GO:0008152	GO_REF:0000002	IEA	InterPro:IPR016040	P	Nonribosomal peptide synthase	PFL_2989|Q4KCD8_PSEF5	protein	taxon:220664	20101113	InterPro		
+UniProtKB	Q4KCD8	PFL_2989		GO:0008152	GO_REF:0000002	IEA	InterPro:IPR016038	P	Nonribosomal peptide synthase	PFL_2989|Q4KCD8_PSEF5	protein	taxon:220664	20101113	InterPro		

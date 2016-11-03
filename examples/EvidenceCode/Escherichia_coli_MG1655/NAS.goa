@@ -1,0 +1,4 @@
+!gaf-version: 2.0
+UniProtKB	P0A8I8	rlmH		GO:0042803	PMID:18755835	NAS		F	Ribosomal RNA large subunit methyltransferase H	b0636|rlmH|ybeA|JW0631|RLMH_ECOLI|P05850	protein	taxon:83333	20090403	UniProtKB		
+UniProtKB	P0A8I8	rlmH		GO:0043022	PMID:18755835	NAS		F	Ribosomal RNA large subunit methyltransferase H	b0636|rlmH|ybeA|JW0631|RLMH_ECOLI|P05850	protein	taxon:83333	20090403	UniProtKB		
+UniProtKB	P69776	lpp		GO:0008289	PMID:4575979	NAS		F	Major outer membrane lipoprotein Lpp	lpp|b1677|mlpA|mulI|JW1667|LPP_ECOLI|P02937|Q53272	protein	taxon:83333	20061214	UniProtKB		

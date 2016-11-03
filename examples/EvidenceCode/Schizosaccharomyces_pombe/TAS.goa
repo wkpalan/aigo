@@ -1,0 +1,32 @@
+!gaf-version: 2.0
+UniProtKB	O13828	dcp2		GO:0000287	PMID:16341225	TAS		F	mRNA decapping complex subunit 2	dcp2|SPAC19A8.12|DCP2_SCHPO	protein	taxon:4896	20060123	GeneDB_Spombe		
+UniProtKB	P29458	mcm4		GO:0006271	PMID:19109429	TAS		P	DNA replication licensing factor mcm4	mcm4|cdc21|SPCC16A11.17|SPCC24B10.01|MCM4_SCHPO|Q9P7K4|Q9USM0	protein	taxon:4896	20091111	GeneDB_Spombe		
+UniProtKB	Q9UT79	msc1		GO:0016568	PMID:15082762	TAS		P	Multicopy suppressor of chk1 protein 1	msc1|SPAC343.11c|MSC1_SCHPO	protein	taxon:4896	20040625	GeneDB_Spombe		
+UniProtKB	P23566	rhp6		GO:0006336	PMID:17374714	TAS		P	Ubiquitin-conjugating enzyme E2 2	rhp6|ubc2|SPAC18B11.07c|UBC2_SCHPO	protein	taxon:4896	20070716	GeneDB_Spombe		
+UniProtKB	Q09892	sty1		GO:0009267	PMID:16141205	TAS		P	Mitogen-activated protein kinase sty1	sty1|hog1|SPAC24B11.06c|phh1|spc1|HOG1_SCHPO	protein	taxon:4896	20050912	GeneDB_Spombe		
+UniProtKB	Q09892	sty1		GO:0034599	PMID:8649397	TAS		P	Mitogen-activated protein kinase sty1	sty1|hog1|SPAC24B11.06c|phh1|spc1|HOG1_SCHPO	protein	taxon:4896	20041201	GeneDB_Spombe		
+UniProtKB	Q09892	sty1		GO:0034605	PMID:15870269	TAS		P	Mitogen-activated protein kinase sty1	sty1|hog1|SPAC24B11.06c|phh1|spc1|HOG1_SCHPO	protein	taxon:4896	20050922	GeneDB_Spombe		
+UniProtKB	Q09892	sty1		GO:0034644	PMID:15870269	TAS		P	Mitogen-activated protein kinase sty1	sty1|hog1|SPAC24B11.06c|phh1|spc1|HOG1_SCHPO	protein	taxon:4896	20050922	GeneDB_Spombe		
+UniProtKB	Q09892	sty1		GO:0051403	PMID:8649397	TAS		P	Mitogen-activated protein kinase sty1	sty1|hog1|SPAC24B11.06c|phh1|spc1|HOG1_SCHPO	protein	taxon:4896	20041201	GeneDB_Spombe		
+UniProtKB	Q09892	sty1		GO:0006970	PMID:16141205	TAS		P	Mitogen-activated protein kinase sty1	sty1|hog1|SPAC24B11.06c|phh1|spc1|HOG1_SCHPO	protein	taxon:4896	20050912	GeneDB_Spombe		
+UniProtKB	Q09170	cds1		GO:0000076	PMID:7723827	TAS		P	Serine/threonine-protein kinase cds1	cds1|SPCC18B5.11c|CDS1_SCHPO|O42642	protein	taxon:4896	20040712	GeneDB_Spombe		
+UniProtKB	P10651	hht3		GO:0032015	PMID:18422602	TAS		P	Histone H3.3	hht3|SPBC1105.11c|H33_SCHPO	protein	taxon:4896	20091213	GeneDB_Spombe		
+UniProtKB	O14356	tor1		GO:0007569	PMID:19875745	TAS		P	Phosphatidylinositol 3-kinase tor1	tor1|SPBC30D10.10c|TOR1_SCHPO	protein	taxon:4896	20091126	GeneDB_Spombe		
+UniProtKB	O14356	tor1		GO:0031929	PMID:18076573	TAS		P	Phosphatidylinositol 3-kinase tor1	tor1|SPBC30D10.10c|TOR1_SCHPO	protein	taxon:4896	20071228	GeneDB_Spombe		
+UniProtKB	P53695	exo1		GO:0000706	PMID:15474417	TAS		P	Exodeoxyribonuclease 1	exo1|SPBC29A10.05|EXO1_SCHPO	protein	taxon:4896	20050314	GeneDB_Spombe		
+UniProtKB	P53695	exo1		GO:0006312	PMID:15474417	TAS		P	Exodeoxyribonuclease 1	exo1|SPBC29A10.05|EXO1_SCHPO	protein	taxon:4896	20050314	GeneDB_Spombe		
+UniProtKB	P53695	exo1		GO:0000723	PMID:15474417	TAS		P	Exodeoxyribonuclease 1	exo1|SPBC29A10.05|EXO1_SCHPO	protein	taxon:4896	20050314	GeneDB_Spombe		
+UniProtKB	Q09690	pom1		GO:0070650	PMID:18328707	TAS		P	Dual specificity protein kinase pom1	pom1|SPAC2F7.03c|POM1_SCHPO	protein	taxon:4896	20080430	GeneDB_Spombe		
+UniProtKB	Q09690	pom1		GO:0071343	PMID:17543869	TAS		P	Dual specificity protein kinase pom1	pom1|SPAC2F7.03c|POM1_SCHPO	protein	taxon:4896	20091211	GeneDB_Spombe		
+UniProtKB	Q09690	pom1		GO:0071775	PMID:9852154	TAS		P	Dual specificity protein kinase pom1	pom1|SPAC2F7.03c|POM1_SCHPO	protein	taxon:4896	20050105	GeneDB_Spombe		
+UniProtKB	Q01663	pap1		GO:0006355	PMID:1899230	TAS		P	AP-1-like transcription factor	pap1|caf3|SPAC1783.07c|AP1_SCHPO|Q9US23|Q9UU69	protein	taxon:4896	20050616	GeneDB_Spombe		
+UniProtKB	O74563	brl2		GO:0006336	PMID:17374714	TAS		P	E3 ubiquitin-protein ligase brl2	brl2|SPCC970.10c|rfp1|BRL2_SCHPO	protein	taxon:4896	20070716	GeneDB_Spombe		
+UniProtKB	O59790	ark1		GO:0051315	PMID:17627824	TAS		P	Serine/threonine-protein kinase ark1	ark1|SPCC320.13c|sex1|SPCC330.16|ARK1_SCHPO	protein	taxon:4896	20070718	GeneDB_Spombe		
+UniProtKB	O59790	ark1		GO:0031134	PMID:16199877	TAS		P	Serine/threonine-protein kinase ark1	ark1|SPCC320.13c|sex1|SPCC330.16|ARK1_SCHPO	protein	taxon:4896	20060123	GeneDB_Spombe		
+UniProtKB	Q12705	ppb1		GO:0030644	PMID:10950958	TAS		P	Serine/threonine-protein phosphatase 2B catalytic subunit	ppb1|SPBP4H10.04|SPBC1346.01c|PP2B_SCHPO|Q9P7E4	protein	taxon:4896	20060913	GeneDB_Spombe		
+UniProtKB	Q1MTQ0	brl1		GO:0006336	PMID:17374714	TAS		P	E3 ubiquitin-protein ligase brl1	brl1|rfp2|SPCC1919.15|SPCC790.01|BRL1_SCHPO	protein	taxon:4896	20070716	GeneDB_Spombe		
+UniProtKB	Q09914	rho1		GO:0007266	PMID:8887550	TAS		P	GTP-binding protein rho1	rho1|SPAC1F7.04|RHO1_SCHPO	protein	taxon:4896	20060818	GeneDB_Spombe		
+UniProtKB	Q09914	rho1		GO:0032953	PMID:15546915	TAS		P	GTP-binding protein rho1	rho1|SPAC1F7.04|RHO1_SCHPO	protein	taxon:4896	20040820	GeneDB_Spombe		
+UniProtKB	Q10213	srs2		GO:0031297	PMID:14993467	TAS		P	ATP-dependent DNA helicase srs2	srs2|SPAC4H3.05|SRS2_SCHPO	protein	taxon:4896	20040819	GeneDB_Spombe		
+UniProtKB	O14063	cut15		GO:0006607	PMID:15937127	TAS		P	Importin subunit alpha-1	cut15|SPCC962.03c|IMA1_SCHPO	protein	taxon:4896	20050610	GeneDB_Spombe		
+UniProtKB	P09988	hht1		GO:0032015	PMID:18422602	TAS		P	Histone H3.1/H3.2	hht1|SPAC1834.04|hht2|SPBC8D2.04|pi060|H31_SCHPO	protein	taxon:4896	20091213	GeneDB_Spombe		

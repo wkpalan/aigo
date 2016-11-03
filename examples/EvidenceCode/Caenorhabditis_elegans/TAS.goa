@@ -1,0 +1,14 @@
+!gaf-version: 2.0
+UniProtKB	Q21017	kin-29		GO:0045717	PMID:11832225	TAS		P	Serine/threonine-protein kinase kin-29	kin-29|sma-11|F58H12.1|KIN29_CAEEL	protein	taxon:6239	20050908	WormBase		
+UniProtKB	Q18825	bar-1		GO:0007155	PMID:9716532	TAS		P	Beta-catenin/armadillo-related protein 1	bar-1|pvl-1|C54D1.6|spy-1|BAR1_CAEEL	protein	taxon:6239	20090108	UniProtKB		
+UniProtKB	P48376	clk-1		GO:0045333	PMID:10202142	TAS		P	Ubiquinone biosynthesis protein COQ7 homolog	clk-1|ZC395.2|COQ7_CAEEL	protein	taxon:6239	20060731	WormBase		
+UniProtKB	Q6RYS9	dop-3		GO:0007186	PMID:15378064	TAS		P	Dopamine receptor 3	dop-3|T14E8.3|DOPR3_CAEEL|Q3HKC0|Q3HKC1|Q3HKC2	protein	taxon:6239	20061113	UniProtKB		
+UniProtKB	Q95QH7	snt-1		GO:0016079	PMID:11245684	TAS		P	Synaptotagmin protein 1, isoform b	snt-1|F31E8.2|Q95QH7_CAEEL	protein	taxon:6239	20050818	WormBase		
+UniProtKB	Q95QH7	snt-1		GO:0048488	PMID:11245684	TAS		P	Synaptotagmin protein 1, isoform b	snt-1|F31E8.2|Q95QH7_CAEEL	protein	taxon:6239	20050818	WormBase		
+UniProtKB	O16850	daf-16		GO:0008286	PMID:11747821	TAS		P	Forkhead box protein O	daf-16|R13H8.1|FOXO_CAEEL|O16849|O18676|Q86S42	protein	taxon:6239	20091012	UniProtKB		
+UniProtKB	Q93356	ceh-37		GO:0000723	PMID:12711598	TAS		P	Homeobox protein ceh-37	ceh-37|C37E2.5|HM37_CAEEL|P90773	protein	taxon:6239	20050126	WormBase		
+UniProtKB	O61528	unc-73		GO:0001764	PMID:9529254	TAS		P	Guanine nucleotide exchange factor UNC-73A	unc-73|F55C7.7|O61528_CAEEL|O61529|P91339	protein	taxon:6239	20050906	WormBase		
+UniProtKB	O61528	unc-73		GO:0008078	PMID:9529254	TAS		P	Guanine nucleotide exchange factor UNC-73A	unc-73|F55C7.7|O61528_CAEEL|O61529|P91339	protein	taxon:6239	20050906	WormBase		
+UniProtKB	O61528	unc-73		GO:0016477	PMID:9529254	TAS		P	Guanine nucleotide exchange factor UNC-73A	unc-73|F55C7.7|O61528_CAEEL|O61529|P91339	protein	taxon:6239	20050906	WormBase		
+UniProtKB	O61528	unc-73		GO:0040028	PMID:9529254	TAS		P	Guanine nucleotide exchange factor UNC-73A	unc-73|F55C7.7|O61528_CAEEL|O61529|P91339	protein	taxon:6239	20050906	WormBase		
+UniProtKB	O61528	unc-73		GO:0018991	PMID:9529254	TAS		P	Guanine nucleotide exchange factor UNC-73A	unc-73|F55C7.7|O61528_CAEEL|O61529|P91339	protein	taxon:6239	20050906	WormBase		

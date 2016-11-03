@@ -1,0 +1,9 @@
+!gaf-version: 2.0
+UniProtKB	Q23121	rsp-1		GO:0008380	PMID:10906451	NAS		P	Probable splicing factor, arginine/serine-rich 1	rsp-1|srp-5|W02B12.3|RSP1_CAEEL|Q8I106|Q8I107	protein	taxon:6239	20041112	UniProtKB		
+UniProtKB	Q23120	rsp-2		GO:0008380	PMID:10906451	NAS		P	Probable splicing factor, arginine/serine-rich 2	rsp-2|srp-4|W02B12.2|RSP2_CAEEL	protein	taxon:6239	20041112	UniProtKB		
+UniProtKB	Q18409	rsp-6		GO:0008380	PMID:10906451	NAS		P	Probable splicing factor, arginine/serine-rich 6	rsp-6|srp-1|C33H5.12|RSP6_CAEEL|Q8WSW0|Q8WSW1	protein	taxon:6239	20041112	UniProtKB		
+UniProtKB	Q9NEW6	rsp-3		GO:0008380	PMID:10747030	NAS		P	Probable splicing factor, arginine/serine-rich 3	Y111B2A.18|rsp-3|RSP3_CAEEL|Q9GQI7	protein	taxon:6239	20041112	UniProtKB		
+UniProtKB	Q93356	ceh-37		GO:0016233	PMID:12711598	NAS		P	Homeobox protein ceh-37	ceh-37|C37E2.5|HM37_CAEEL|P90773	protein	taxon:6239	20090611	UniProtKB		
+UniProtKB	Q93356	ceh-37		GO:0032200	PMID:12711598	NAS		P	Homeobox protein ceh-37	ceh-37|C37E2.5|HM37_CAEEL|P90773	protein	taxon:6239	20090611	UniProtKB		
+UniProtKB	O61528	unc-73		GO:0009792	PMID:9529254	NAS		P	Guanine nucleotide exchange factor UNC-73A	unc-73|F55C7.7|O61528_CAEEL|O61529|P91339	protein	taxon:6239	20050906	WormBase		
+UniProtKB	O61528	unc-73		GO:0002119	PMID:9529254	NAS		P	Guanine nucleotide exchange factor UNC-73A	unc-73|F55C7.7|O61528_CAEEL|O61529|P91339	protein	taxon:6239	20050906	WormBase		

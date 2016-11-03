@@ -1,0 +1,418 @@
+!gaf-version: 2.0
+UniProtKB	P41878	rpn11		GO:0000502	GO_REF:0000004	IEA	SP_KW:KW-0647	C	26S proteasome regulatory subunit rpn11	rpn11|bfr2|SPAC31G5.13|pad1|sks1|RPN11_SCHPO|Q10278	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q9P376	fcp1		GO:0005634	GO_REF:0000023	IEA	SP_SL:SL-0191	C	RNA polymerase II subunit A C-terminal domain phosphatase	fcp1|SPAC19B12.05c|FCP1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q9P376	fcp1		GO:0005622	GO_REF:0000002	IEA	InterPro:IPR001357	C	RNA polymerase II subunit A C-terminal domain phosphatase	fcp1|SPAC19B12.05c|FCP1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q9P376	fcp1		GO:0005634	GO_REF:0000002	IEA	InterPro:IPR011947	C	RNA polymerase II subunit A C-terminal domain phosphatase	fcp1|SPAC19B12.05c|FCP1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q9P376	fcp1		GO:0005634	GO_REF:0000004	IEA	SP_KW:KW-0539	C	RNA polymerase II subunit A C-terminal domain phosphatase	fcp1|SPAC19B12.05c|FCP1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74734	rrf1		GO:0005739	GO_REF:0000004	IEA	SP_KW:KW-0496	C	Putative ribosomal recycling factor, mitochondrial	rrf1|SPBC1709.09|RRF1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74734	rrf1		GO:0005739	GO_REF:0000023	IEA	SP_SL:SL-0173	C	Putative ribosomal recycling factor, mitochondrial	rrf1|SPBC1709.09|RRF1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O13828	dcp2		GO:0000932	GO_REF:0000023	IEA	SP_SL:SL-0230	C	mRNA decapping complex subunit 2	dcp2|SPAC19A8.12|DCP2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O13828	dcp2		GO:0005737	GO_REF:0000004	IEA	SP_KW:KW-0963	C	mRNA decapping complex subunit 2	dcp2|SPAC19A8.12|DCP2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O13802	ebp2		GO:0005730	GO_REF:0000023	IEA	SP_SL:SL-0188	C	Probable rRNA-processing protein ebp2	ebp2|SPAC17H9.05|EBP2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O13802	ebp2		GO:0005634	GO_REF:0000004	IEA	SP_KW:KW-0539	C	Probable rRNA-processing protein ebp2	ebp2|SPAC17H9.05|EBP2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74113	sna41		GO:0005634	GO_REF:0000004	IEA	SP_KW:KW-0539	C	Cell division control protein 45 homolog	sna41|SPAC17D4.02|CDC45_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74113	sna41		GO:0005634	GO_REF:0000023	IEA	SP_SL:SL-0191	C	Cell division control protein 45 homolog	sna41|SPAC17D4.02|CDC45_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P36596	erg9		GO:0016020	GO_REF:0000004	IEA	SP_KW:KW-0472	C	Squalene synthase	erg9|SPBC646.05c|FDFT_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P36596	erg9		GO:0005783	GO_REF:0000004	IEA	SP_KW:KW-0256	C	Squalene synthase	erg9|SPBC646.05c|FDFT_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P36596	erg9		GO:0005789	GO_REF:0000023	IEA	SP_SL:SL-0097	C	Squalene synthase	erg9|SPBC646.05c|FDFT_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P36596	erg9		GO:0016021	GO_REF:0000004	IEA	SP_KW:KW-0812	C	Squalene synthase	erg9|SPBC646.05c|FDFT_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P36596	erg9		GO:0016021	GO_REF:0000002	IEA	InterPro:IPR006449	C	Squalene synthase	erg9|SPBC646.05c|FDFT_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O74826	coq7		GO:0016020	GO_REF:0000004	IEA	SP_KW:KW-0472	C	Ubiquinone biosynthesis protein coq7	coq7|SPBC337.15c|COQ7_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74826	coq7		GO:0005743	GO_REF:0000004	IEA	SP_KW:KW-0999	C	Ubiquinone biosynthesis protein coq7	coq7|SPBC337.15c|COQ7_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74826	coq7		GO:0005743	GO_REF:0000023	IEA	SP_SL:SL-0168	C	Ubiquinone biosynthesis protein coq7	coq7|SPBC337.15c|COQ7_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74826	coq7		GO:0005739	GO_REF:0000004	IEA	SP_KW:KW-0496	C	Ubiquinone biosynthesis protein coq7	coq7|SPBC337.15c|COQ7_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74880	pcm1		GO:0005634	GO_REF:0000004	IEA	SP_KW:KW-0539	C	mRNA cap guanine-N7 methyltransferase	pcm1|SPCC330.10|MCES_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74880	pcm1		GO:0005634	GO_REF:0000023	IEA	SP_SL:SL-0191	C	mRNA cap guanine-N7 methyltransferase	pcm1|SPCC330.10|MCES_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74878	alg11		GO:0005789	GO_REF:0000023	IEA	SP_SL:SL-0097	C	Alpha-1,2-mannosyltransferase alg11	alg11|gmd3|SPCC330.08|ALG11_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74878	alg11		GO:0016020	GO_REF:0000004	IEA	SP_KW:KW-0472	C	Alpha-1,2-mannosyltransferase alg11	alg11|gmd3|SPCC330.08|ALG11_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74878	alg11		GO:0005783	GO_REF:0000004	IEA	SP_KW:KW-0256	C	Alpha-1,2-mannosyltransferase alg11	alg11|gmd3|SPCC330.08|ALG11_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74878	alg11		GO:0016021	GO_REF:0000004	IEA	SP_KW:KW-0812	C	Alpha-1,2-mannosyltransferase alg11	alg11|gmd3|SPCC330.08|ALG11_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q9P805	dcp1		GO:0005634	GO_REF:0000004	IEA	SP_KW:KW-0539	C	mRNA-decapping enzyme subunit 1	dcp1|SPBC3B9.21|DCP1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q9P805	dcp1		GO:0005737	GO_REF:0000004	IEA	SP_KW:KW-0963	C	mRNA-decapping enzyme subunit 1	dcp1|SPBC3B9.21|DCP1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q9P805	dcp1		GO:0005634	GO_REF:0000023	IEA	SP_SL:SL-0191	C	mRNA-decapping enzyme subunit 1	dcp1|SPBC3B9.21|DCP1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q9P805	dcp1		GO:0005737	GO_REF:0000023	IEA	SP_SL:SL-0086	C	mRNA-decapping enzyme subunit 1	dcp1|SPBC3B9.21|DCP1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q9UT74	lys2		GO:0005739	GO_REF:0000004	IEA	SP_KW:KW-0496	C	Homoaconitase, mitochondrial	lys2|lys4|SPAC343.16|LYS4_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q9UT74	lys2		GO:0005739	GO_REF:0000023	IEA	SP_SL:SL-0173	C	Homoaconitase, mitochondrial	lys2|lys4|SPAC343.16|LYS4_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P40848	dhp1		GO:0005634	GO_REF:0000004	IEA	SP_KW:KW-0539	C	5'-3' exoribonuclease 2	dhp1|SPAC26A3.12c|XRN2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P40848	dhp1		GO:0005634	GO_REF:0000002	IEA	InterPro:IPR017151	C	5'-3' exoribonuclease 2	dhp1|SPAC26A3.12c|XRN2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P40848	dhp1		GO:0005634	GO_REF:0000023	IEA	SP_SL:SL-0191	C	5'-3' exoribonuclease 2	dhp1|SPAC26A3.12c|XRN2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P40848	dhp1		GO:0005622	GO_REF:0000002	IEA	InterPro:IPR004859	C	5'-3' exoribonuclease 2	dhp1|SPAC26A3.12c|XRN2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q9USH1	med31		GO:0005634	GO_REF:0000004	IEA	SP_KW:KW-0539	C	Mediator of RNA polymerase II transcription subunit 31	med31|sep10|SPCP31B10.03c|MED31_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q9USH1	med31		GO:0005634	GO_REF:0000023	IEA	SP_SL:SL-0191	C	Mediator of RNA polymerase II transcription subunit 31	med31|sep10|SPCP31B10.03c|MED31_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q9USH1	med31		GO:0016592	GO_REF:0000002	IEA	InterPro:IPR008831	C	Mediator of RNA polymerase II transcription subunit 31	med31|sep10|SPCP31B10.03c|MED31_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P40923	SPBC21B10.13c		GO:0005634	GO_REF:0000004	IEA	SP_KW:KW-0539	C	Uncharacterized homeobox protein C21B10.13c	SPBC21B10.13c|YHZD_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P40923	SPBC21B10.13c		GO:0005634	GO_REF:0000023	IEA	SP_SL:SL-0191	C	Uncharacterized homeobox protein C21B10.13c	SPBC21B10.13c|YHZD_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O94396	pus1		GO:0005634	GO_REF:0000023	IEA	SP_SL:SL-0191	C	tRNA pseudouridine synthase 1	pus1|lps1|SPCC126.03|PUS1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O94396	pus1		GO:0005634	GO_REF:0000004	IEA	SP_KW:KW-0539	C	tRNA pseudouridine synthase 1	pus1|lps1|SPCC126.03|PUS1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P42881	gpt2		GO:0016020	GO_REF:0000004	IEA	SP_KW:KW-0472	C	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase	gpt2|SPBC15D4.04|gpt|GPT_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P42881	gpt2		GO:0005783	GO_REF:0000004	IEA	SP_KW:KW-0256	C	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase	gpt2|SPBC15D4.04|gpt|GPT_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P42881	gpt2		GO:0005789	GO_REF:0000023	IEA	SP_SL:SL-0097	C	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase	gpt2|SPBC15D4.04|gpt|GPT_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P42881	gpt2		GO:0016021	GO_REF:0000004	IEA	SP_KW:KW-0812	C	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase	gpt2|SPBC15D4.04|gpt|GPT_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q10283	hmg1		GO:0050662	GO_REF:0000002	IEA	InterPro:IPR002202	F	3-hydroxy-3-methylglutaryl-coenzyme A reductase	hmg1|SPCC162.09c|HMDH_SCHPO|O74425	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q10283	hmg1		GO:0004420	GO_REF:0000002	IEA	InterPro:IPR002202	F	3-hydroxy-3-methylglutaryl-coenzyme A reductase	hmg1|SPCC162.09c|HMDH_SCHPO|O74425	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q10283	hmg1		GO:0004420	GO_REF:0000002	IEA	InterPro:IPR004554	F	3-hydroxy-3-methylglutaryl-coenzyme A reductase	hmg1|SPCC162.09c|HMDH_SCHPO|O74425	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q10283	hmg1		GO:0016616	GO_REF:0000002	IEA	InterPro:IPR009029	F	3-hydroxy-3-methylglutaryl-coenzyme A reductase	hmg1|SPCC162.09c|HMDH_SCHPO|O74425	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q10283	hmg1		GO:0016491	GO_REF:0000004	IEA	SP_KW:KW-0560	F	3-hydroxy-3-methylglutaryl-coenzyme A reductase	hmg1|SPCC162.09c|HMDH_SCHPO|O74425	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q10283	hmg1		GO:0050662	GO_REF:0000002	IEA	InterPro:IPR009023	F	3-hydroxy-3-methylglutaryl-coenzyme A reductase	hmg1|SPCC162.09c|HMDH_SCHPO|O74425	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q10283	hmg1		GO:0050661	GO_REF:0000002	IEA	InterPro:IPR004554	F	3-hydroxy-3-methylglutaryl-coenzyme A reductase	hmg1|SPCC162.09c|HMDH_SCHPO|O74425	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q10283	hmg1		GO:0050662	GO_REF:0000002	IEA	InterPro:IPR009029	F	3-hydroxy-3-methylglutaryl-coenzyme A reductase	hmg1|SPCC162.09c|HMDH_SCHPO|O74425	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q10283	hmg1		GO:0004420	GO_REF:0000003	IEA	EC:1.1.1.34	F	3-hydroxy-3-methylglutaryl-coenzyme A reductase	hmg1|SPCC162.09c|HMDH_SCHPO|O74425	protein	taxon:4896	20100703	UniProtKB		
+UniProtKB	Q10283	hmg1		GO:0016616	GO_REF:0000002	IEA	InterPro:IPR009023	F	3-hydroxy-3-methylglutaryl-coenzyme A reductase	hmg1|SPCC162.09c|HMDH_SCHPO|O74425	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q9Y812	cnp1		GO:0003677	GO_REF:0000002	IEA	InterPro:IPR009072	F	Histone H3-like centromeric protein cnp1	cnp1|SPBC1105.17|sim2|CENPA_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q9Y812	cnp1		GO:0003677	GO_REF:0000002	IEA	InterPro:IPR000164	F	Histone H3-like centromeric protein cnp1	cnp1|SPBC1105.17|sim2|CENPA_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q9Y812	cnp1		GO:0003677	GO_REF:0000002	IEA	InterPro:IPR007125	F	Histone H3-like centromeric protein cnp1	cnp1|SPBC1105.17|sim2|CENPA_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q9Y812	cnp1		GO:0003677	GO_REF:0000004	IEA	SP_KW:KW-0238	F	Histone H3-like centromeric protein cnp1	cnp1|SPBC1105.17|sim2|CENPA_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O60182	rfc1		GO:0003677	GO_REF:0000002	IEA	InterPro:IPR008921	F	Replication factor C subunit 1	rfc1|SPBC23E6.07c|RFC1_SCHPO|Q9US97	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O60182	rfc1		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR012178	F	Replication factor C subunit 1	rfc1|SPBC23E6.07c|RFC1_SCHPO|Q9US97	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O60182	rfc1		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR013725	F	Replication factor C subunit 1	rfc1|SPBC23E6.07c|RFC1_SCHPO|Q9US97	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O60182	rfc1		GO:0000166	GO_REF:0000004	IEA	SP_KW:KW-0547	F	Replication factor C subunit 1	rfc1|SPBC23E6.07c|RFC1_SCHPO|Q9US97	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O60182	rfc1		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR003959	F	Replication factor C subunit 1	rfc1|SPBC23E6.07c|RFC1_SCHPO|Q9US97	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O60182	rfc1		GO:0003689	GO_REF:0000002	IEA	InterPro:IPR013725	F	Replication factor C subunit 1	rfc1|SPBC23E6.07c|RFC1_SCHPO|Q9US97	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O60182	rfc1		GO:0000166	GO_REF:0000002	IEA	InterPro:IPR003593	F	Replication factor C subunit 1	rfc1|SPBC23E6.07c|RFC1_SCHPO|Q9US97	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O60182	rfc1		GO:0003689	GO_REF:0000002	IEA	InterPro:IPR012178	F	Replication factor C subunit 1	rfc1|SPBC23E6.07c|RFC1_SCHPO|Q9US97	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O60182	rfc1		GO:0017111	GO_REF:0000002	IEA	InterPro:IPR003593	F	Replication factor C subunit 1	rfc1|SPBC23E6.07c|RFC1_SCHPO|Q9US97	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O60182	rfc1		GO:0003677	GO_REF:0000002	IEA	InterPro:IPR012178	F	Replication factor C subunit 1	rfc1|SPBC23E6.07c|RFC1_SCHPO|Q9US97	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O60182	rfc1		GO:0005524	GO_REF:0000004	IEA	SP_KW:KW-0067	F	Replication factor C subunit 1	rfc1|SPBC23E6.07c|RFC1_SCHPO|Q9US97	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O60182	rfc1		GO:0003677	GO_REF:0000004	IEA	SP_KW:KW-0238	F	Replication factor C subunit 1	rfc1|SPBC23E6.07c|RFC1_SCHPO|Q9US97	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O13828	dcp2		GO:0046872	GO_REF:0000004	IEA	SP_KW:KW-0479	F	mRNA decapping complex subunit 2	dcp2|SPAC19A8.12|DCP2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O13828	dcp2		GO:0016787	GO_REF:0000002	IEA	InterPro:IPR000086	F	mRNA decapping complex subunit 2	dcp2|SPAC19A8.12|DCP2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O13828	dcp2		GO:0016787	GO_REF:0000002	IEA	InterPro:IPR020084	F	mRNA decapping complex subunit 2	dcp2|SPAC19A8.12|DCP2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O13828	dcp2		GO:0016787	GO_REF:0000004	IEA	SP_KW:KW-0378	F	mRNA decapping complex subunit 2	dcp2|SPAC19A8.12|DCP2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O13828	dcp2		GO:0016787	GO_REF:0000002	IEA	InterPro:IPR015797	F	mRNA decapping complex subunit 2	dcp2|SPAC19A8.12|DCP2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O13828	dcp2		GO:0003723	GO_REF:0000002	IEA	InterPro:IPR007722	F	mRNA decapping complex subunit 2	dcp2|SPAC19A8.12|DCP2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O13828	dcp2		GO:0030145	GO_REF:0000002	IEA	InterPro:IPR007722	F	mRNA decapping complex subunit 2	dcp2|SPAC19A8.12|DCP2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O13828	dcp2		GO:0003723	GO_REF:0000004	IEA	SP_KW:KW-0694	F	mRNA decapping complex subunit 2	dcp2|SPAC19A8.12|DCP2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O13828	dcp2		GO:0000166	GO_REF:0000004	IEA	SP_KW:KW-0547	F	mRNA decapping complex subunit 2	dcp2|SPAC19A8.12|DCP2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O13828	dcp2		GO:0016787	GO_REF:0000002	IEA	InterPro:IPR007722	F	mRNA decapping complex subunit 2	dcp2|SPAC19A8.12|DCP2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O13828	dcp2		GO:0005524	GO_REF:0000004	IEA	SP_KW:KW-0067	F	mRNA decapping complex subunit 2	dcp2|SPAC19A8.12|DCP2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P08096	top2		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR013758	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0016853	GO_REF:0000004	IEA	SP_KW:KW-0413	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P08096	top2		GO:0003677	GO_REF:0000004	IEA	SP_KW:KW-0238	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P08096	top2		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR002205	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0003677	GO_REF:0000002	IEA	InterPro:IPR001241	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0003677	GO_REF:0000002	IEA	InterPro:IPR001154	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0003677	GO_REF:0000002	IEA	InterPro:IPR013759	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0003677	GO_REF:0000002	IEA	InterPro:IPR013760	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0003918	GO_REF:0000002	IEA	InterPro:IPR001241	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR001154	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0003918	GO_REF:0000002	IEA	InterPro:IPR013757	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0003918	GO_REF:0000002	IEA	InterPro:IPR001154	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0003918	GO_REF:0000002	IEA	InterPro:IPR013760	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0003918	GO_REF:0000002	IEA	InterPro:IPR002205	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0003918	GO_REF:0000002	IEA	InterPro:IPR013758	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0000166	GO_REF:0000004	IEA	SP_KW:KW-0547	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P08096	top2		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR003594	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR013759	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0003916	GO_REF:0000004	IEA	SP_KW:KW-0799	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P08096	top2		GO:0003700	GO_REF:0000002	IEA	InterPro:IPR020899	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0003677	GO_REF:0000002	IEA	InterPro:IPR013506	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR018522	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0003918	GO_REF:0000002	IEA	InterPro:IPR018522	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR013506	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR013757	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0003677	GO_REF:0000002	IEA	InterPro:IPR018522	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0005524	GO_REF:0000004	IEA	SP_KW:KW-0067	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P08096	top2		GO:0003677	GO_REF:0000002	IEA	InterPro:IPR002205	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0003677	GO_REF:0000002	IEA	InterPro:IPR013758	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0003918	GO_REF:0000003	IEA	EC:5.99.1.3	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20100703	UniProtKB		
+UniProtKB	P08096	top2		GO:0003918	GO_REF:0000002	IEA	InterPro:IPR013759	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR001241	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0003918	GO_REF:0000002	IEA	InterPro:IPR013506	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0003677	GO_REF:0000002	IEA	InterPro:IPR013757	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR013760	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q96WV9	cdk9		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR002290	F	Serine/threonine-protein kinase cdk9	cdk9|SPBC32H8.10|pi014|CDK9_SCHPO|O13607	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q96WV9	cdk9		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR017441	F	Serine/threonine-protein kinase cdk9	cdk9|SPBC32H8.10|pi014|CDK9_SCHPO|O13607	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q96WV9	cdk9		GO:0004672	GO_REF:0000002	IEA	InterPro:IPR017442	F	Serine/threonine-protein kinase cdk9	cdk9|SPBC32H8.10|pi014|CDK9_SCHPO|O13607	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q96WV9	cdk9		GO:0000166	GO_REF:0000004	IEA	SP_KW:KW-0547	F	Serine/threonine-protein kinase cdk9	cdk9|SPBC32H8.10|pi014|CDK9_SCHPO|O13607	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q96WV9	cdk9		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR000719	F	Serine/threonine-protein kinase cdk9	cdk9|SPBC32H8.10|pi014|CDK9_SCHPO|O13607	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q96WV9	cdk9		GO:0016740	GO_REF:0000004	IEA	SP_KW:KW-0808	F	Serine/threonine-protein kinase cdk9	cdk9|SPBC32H8.10|pi014|CDK9_SCHPO|O13607	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q96WV9	cdk9		GO:0005524	GO_REF:0000004	IEA	SP_KW:KW-0067	F	Serine/threonine-protein kinase cdk9	cdk9|SPBC32H8.10|pi014|CDK9_SCHPO|O13607	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q96WV9	cdk9		GO:0004674	GO_REF:0000002	IEA	InterPro:IPR008271	F	Serine/threonine-protein kinase cdk9	cdk9|SPBC32H8.10|pi014|CDK9_SCHPO|O13607	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q96WV9	cdk9		GO:0016301	GO_REF:0000004	IEA	SP_KW:KW-0418	F	Serine/threonine-protein kinase cdk9	cdk9|SPBC32H8.10|pi014|CDK9_SCHPO|O13607	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q96WV9	cdk9		GO:0004674	GO_REF:0000004	IEA	SP_KW:KW-0723	F	Serine/threonine-protein kinase cdk9	cdk9|SPBC32H8.10|pi014|CDK9_SCHPO|O13607	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q96WV9	cdk9		GO:0004672	GO_REF:0000002	IEA	InterPro:IPR000719	F	Serine/threonine-protein kinase cdk9	cdk9|SPBC32H8.10|pi014|CDK9_SCHPO|O13607	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q96WV9	cdk9		GO:0004672	GO_REF:0000002	IEA	InterPro:IPR017441	F	Serine/threonine-protein kinase cdk9	cdk9|SPBC32H8.10|pi014|CDK9_SCHPO|O13607	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q96WV9	cdk9		GO:0004674	GO_REF:0000002	IEA	InterPro:IPR002290	F	Serine/threonine-protein kinase cdk9	cdk9|SPBC32H8.10|pi014|CDK9_SCHPO|O13607	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q96WV9	cdk9		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR017442	F	Serine/threonine-protein kinase cdk9	cdk9|SPBC32H8.10|pi014|CDK9_SCHPO|O13607	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O74825	rpb4		GO:0003899	GO_REF:0000002	IEA	InterPro:IPR005574	F	DNA-directed RNA polymerase II subunit rpb4	rpb4|SPBC337.14|RPB4_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O74825	rpb4		GO:0003899	GO_REF:0000004	IEA	SP_KW:KW-0240	F	DNA-directed RNA polymerase II subunit rpb4	rpb4|SPBC337.14|RPB4_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74825	rpb4		GO:0003824	GO_REF:0000002	IEA	InterPro:IPR010997	F	DNA-directed RNA polymerase II subunit rpb4	rpb4|SPBC337.14|RPB4_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O74825	rpb4		GO:0000166	GO_REF:0000002	IEA	InterPro:IPR010997	F	DNA-directed RNA polymerase II subunit rpb4	rpb4|SPBC337.14|RPB4_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O59722	fab1		GO:0016307	GO_REF:0000002	IEA	InterPro:IPR002498	F	1-phosphatidylinositol-3-phosphate 5-kinase fab1	fab1|ste12|SPBC3E7.01|SPBC6B1.11c|FAB1_SCHPO|O43072	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O59722	fab1		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR002423	F	1-phosphatidylinositol-3-phosphate 5-kinase fab1	fab1|ste12|SPBC3E7.01|SPBC6B1.11c|FAB1_SCHPO|O43072	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O59722	fab1		GO:0005515	GO_REF:0000002	IEA	InterPro:IPR002423	F	1-phosphatidylinositol-3-phosphate 5-kinase fab1	fab1|ste12|SPBC3E7.01|SPBC6B1.11c|FAB1_SCHPO|O43072	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O59722	fab1		GO:0016740	GO_REF:0000004	IEA	SP_KW:KW-0808	F	1-phosphatidylinositol-3-phosphate 5-kinase fab1	fab1|ste12|SPBC3E7.01|SPBC6B1.11c|FAB1_SCHPO|O43072	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O59722	fab1		GO:0000285	GO_REF:0000003	IEA	EC:2.7.1.150	F	1-phosphatidylinositol-3-phosphate 5-kinase fab1	fab1|ste12|SPBC3E7.01|SPBC6B1.11c|FAB1_SCHPO|O43072	protein	taxon:4896	20100703	UniProtKB		
+UniProtKB	O59722	fab1		GO:0016301	GO_REF:0000004	IEA	SP_KW:KW-0418	F	1-phosphatidylinositol-3-phosphate 5-kinase fab1	fab1|ste12|SPBC3E7.01|SPBC6B1.11c|FAB1_SCHPO|O43072	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O59722	fab1		GO:0008270	GO_REF:0000002	IEA	InterPro:IPR011011	F	1-phosphatidylinositol-3-phosphate 5-kinase fab1	fab1|ste12|SPBC3E7.01|SPBC6B1.11c|FAB1_SCHPO|O43072	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O59722	fab1		GO:0046872	GO_REF:0000004	IEA	SP_KW:KW-0479	F	1-phosphatidylinositol-3-phosphate 5-kinase fab1	fab1|ste12|SPBC3E7.01|SPBC6B1.11c|FAB1_SCHPO|O43072	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O59722	fab1		GO:0000166	GO_REF:0000004	IEA	SP_KW:KW-0547	F	1-phosphatidylinositol-3-phosphate 5-kinase fab1	fab1|ste12|SPBC3E7.01|SPBC6B1.11c|FAB1_SCHPO|O43072	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O59722	fab1		GO:0005524	GO_REF:0000004	IEA	SP_KW:KW-0067	F	1-phosphatidylinositol-3-phosphate 5-kinase fab1	fab1|ste12|SPBC3E7.01|SPBC6B1.11c|FAB1_SCHPO|O43072	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q9US59	skb5		GO:0005515	GO_REF:0000002	IEA	InterPro:IPR020685	F	Shk1 kinase-binding protein 5	skb5|SPCC24B10.13|SKB5_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q9US59	skb5		GO:0005515	GO_REF:0000002	IEA	InterPro:IPR020749	F	Shk1 kinase-binding protein 5	skb5|SPCC24B10.13|SKB5_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O74304	win1		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR002290	F	MAP kinase kinase kinase win1	win1|SPAC1006.09|SPAPJ730.01|SPAC1250.06c|WIN1_SCHPO|Q9P7R1|Q9UTP1|Q9UTR3	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O74304	win1		GO:0005524	GO_REF:0000004	IEA	SP_KW:KW-0067	F	MAP kinase kinase kinase win1	win1|SPAC1006.09|SPAPJ730.01|SPAC1250.06c|WIN1_SCHPO|Q9P7R1|Q9UTP1|Q9UTR3	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74304	win1		GO:0004672	GO_REF:0000002	IEA	InterPro:IPR017442	F	MAP kinase kinase kinase win1	win1|SPAC1006.09|SPAPJ730.01|SPAC1250.06c|WIN1_SCHPO|Q9P7R1|Q9UTP1|Q9UTR3	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O74304	win1		GO:0004674	GO_REF:0000004	IEA	SP_KW:KW-0723	F	MAP kinase kinase kinase win1	win1|SPAC1006.09|SPAPJ730.01|SPAC1250.06c|WIN1_SCHPO|Q9P7R1|Q9UTP1|Q9UTR3	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74304	win1		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR000719	F	MAP kinase kinase kinase win1	win1|SPAC1006.09|SPAPJ730.01|SPAC1250.06c|WIN1_SCHPO|Q9P7R1|Q9UTP1|Q9UTR3	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O74304	win1		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR017442	F	MAP kinase kinase kinase win1	win1|SPAC1006.09|SPAPJ730.01|SPAC1250.06c|WIN1_SCHPO|Q9P7R1|Q9UTP1|Q9UTR3	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O74304	win1		GO:0016740	GO_REF:0000004	IEA	SP_KW:KW-0808	F	MAP kinase kinase kinase win1	win1|SPAC1006.09|SPAPJ730.01|SPAC1250.06c|WIN1_SCHPO|Q9P7R1|Q9UTP1|Q9UTR3	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74304	win1		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR017441	F	MAP kinase kinase kinase win1	win1|SPAC1006.09|SPAPJ730.01|SPAC1250.06c|WIN1_SCHPO|Q9P7R1|Q9UTP1|Q9UTR3	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O74304	win1		GO:0004674	GO_REF:0000002	IEA	InterPro:IPR015747	F	MAP kinase kinase kinase win1	win1|SPAC1006.09|SPAPJ730.01|SPAC1250.06c|WIN1_SCHPO|Q9P7R1|Q9UTP1|Q9UTR3	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O74304	win1		GO:0000166	GO_REF:0000004	IEA	SP_KW:KW-0547	F	MAP kinase kinase kinase win1	win1|SPAC1006.09|SPAPJ730.01|SPAC1250.06c|WIN1_SCHPO|Q9P7R1|Q9UTP1|Q9UTR3	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74304	win1		GO:0004672	GO_REF:0000002	IEA	InterPro:IPR017441	F	MAP kinase kinase kinase win1	win1|SPAC1006.09|SPAPJ730.01|SPAC1250.06c|WIN1_SCHPO|Q9P7R1|Q9UTP1|Q9UTR3	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O74304	win1		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR015747	F	MAP kinase kinase kinase win1	win1|SPAC1006.09|SPAPJ730.01|SPAC1250.06c|WIN1_SCHPO|Q9P7R1|Q9UTP1|Q9UTR3	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O74304	win1		GO:0016301	GO_REF:0000004	IEA	SP_KW:KW-0418	F	MAP kinase kinase kinase win1	win1|SPAC1006.09|SPAPJ730.01|SPAC1250.06c|WIN1_SCHPO|Q9P7R1|Q9UTP1|Q9UTR3	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74304	win1		GO:0004674	GO_REF:0000002	IEA	InterPro:IPR008271	F	MAP kinase kinase kinase win1	win1|SPAC1006.09|SPAPJ730.01|SPAC1250.06c|WIN1_SCHPO|Q9P7R1|Q9UTP1|Q9UTR3	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O74304	win1		GO:0004672	GO_REF:0000002	IEA	InterPro:IPR000719	F	MAP kinase kinase kinase win1	win1|SPAC1006.09|SPAPJ730.01|SPAC1250.06c|WIN1_SCHPO|Q9P7R1|Q9UTP1|Q9UTR3	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O74304	win1		GO:0004709	GO_REF:0000003	IEA	EC:2.7.11.25	F	MAP kinase kinase kinase win1	win1|SPAC1006.09|SPAPJ730.01|SPAC1250.06c|WIN1_SCHPO|Q9P7R1|Q9UTP1|Q9UTR3	protein	taxon:4896	20100703	UniProtKB		
+UniProtKB	O74304	win1		GO:0004674	GO_REF:0000002	IEA	InterPro:IPR002290	F	MAP kinase kinase kinase win1	win1|SPAC1006.09|SPAPJ730.01|SPAC1250.06c|WIN1_SCHPO|Q9P7R1|Q9UTP1|Q9UTR3	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O14188	rng2		GO:0005516	GO_REF:0000004	IEA	SP_KW:KW-0112	F	Ras GTPase-activating-like protein rng2	rng2|SPAC4F8.13c|RNG2_SCHPO|Q9USG0	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O14188	rng2		GO:0005096	GO_REF:0000002	IEA	InterPro:IPR001936	F	Ras GTPase-activating-like protein rng2	rng2|SPAC4F8.13c|RNG2_SCHPO|Q9USG0	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O14188	rng2		GO:0005099	GO_REF:0000002	IEA	InterPro:IPR000593	F	Ras GTPase-activating-like protein rng2	rng2|SPAC4F8.13c|RNG2_SCHPO|Q9USG0	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P78937	sua1		GO:0016779	GO_REF:0000004	IEA	SP_KW:KW-0548	F	Sulfate adenylyltransferase	sua1|SPBC27.08c|asp1|met3|SPBC28F2.01c|MET3_SCHPO|Q9P6S1|Q9USV5	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P78937	sua1		GO:0004781	GO_REF:0000002	IEA	InterPro:IPR002650	F	Sulfate adenylyltransferase	sua1|SPBC27.08c|asp1|met3|SPBC28F2.01c|MET3_SCHPO|Q9P6S1|Q9USV5	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P78937	sua1		GO:0004781	GO_REF:0000003	IEA	EC:2.7.7.4	F	Sulfate adenylyltransferase	sua1|SPBC27.08c|asp1|met3|SPBC28F2.01c|MET3_SCHPO|Q9P6S1|Q9USV5	protein	taxon:4896	20100703	UniProtKB		
+UniProtKB	P78937	sua1		GO:0000166	GO_REF:0000004	IEA	SP_KW:KW-0547	F	Sulfate adenylyltransferase	sua1|SPBC27.08c|asp1|met3|SPBC28F2.01c|MET3_SCHPO|Q9P6S1|Q9USV5	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P78937	sua1		GO:0005524	GO_REF:0000004	IEA	SP_KW:KW-0067	F	Sulfate adenylyltransferase	sua1|SPBC27.08c|asp1|met3|SPBC28F2.01c|MET3_SCHPO|Q9P6S1|Q9USV5	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P78937	sua1		GO:0016740	GO_REF:0000004	IEA	SP_KW:KW-0808	F	Sulfate adenylyltransferase	sua1|SPBC27.08c|asp1|met3|SPBC28F2.01c|MET3_SCHPO|Q9P6S1|Q9USV5	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P42881	gpt2		GO:0016757	GO_REF:0000004	IEA	SP_KW:KW-0328	F	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase	gpt2|SPBC15D4.04|gpt|GPT_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P42881	gpt2		GO:0003975	GO_REF:0000003	IEA	EC:2.7.8.15	F	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase	gpt2|SPBC15D4.04|gpt|GPT_SCHPO	protein	taxon:4896	20100703	UniProtKB		
+UniProtKB	P42881	gpt2		GO:0016740	GO_REF:0000004	IEA	SP_KW:KW-0808	F	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase	gpt2|SPBC15D4.04|gpt|GPT_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q9UTR6	och1		GO:0016740	GO_REF:0000004	IEA	SP_KW:KW-0808	F	Initiation-specific alpha-1,6-mannosyltransferase	och1|SPAC1006.05c|OCH1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q9UTR6	och1		GO:0016757	GO_REF:0000004	IEA	SP_KW:KW-0328	F	Initiation-specific alpha-1,6-mannosyltransferase	och1|SPAC1006.05c|OCH1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q9UTR6	och1		GO:0033164	GO_REF:0000003	IEA	EC:2.4.1.232	F	Initiation-specific alpha-1,6-mannosyltransferase	och1|SPAC1006.05c|OCH1_SCHPO	protein	taxon:4896	20100703	UniProtKB		
+UniProtKB	Q10292	mek1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR002290	P	Meiosis-specific serine/threonine-protein kinase mek1	mek1|SPAC14C4.03|MEK1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q10292	mek1		GO:0007126	GO_REF:0000004	IEA	SP_KW:KW-0469	P	Meiosis-specific serine/threonine-protein kinase mek1	mek1|SPAC14C4.03|MEK1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q10292	mek1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017441	P	Meiosis-specific serine/threonine-protein kinase mek1	mek1|SPAC14C4.03|MEK1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q10292	mek1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR000719	P	Meiosis-specific serine/threonine-protein kinase mek1	mek1|SPAC14C4.03|MEK1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q10292	mek1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR008271	P	Meiosis-specific serine/threonine-protein kinase mek1	mek1|SPAC14C4.03|MEK1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q10292	mek1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017442	P	Meiosis-specific serine/threonine-protein kinase mek1	mek1|SPAC14C4.03|MEK1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O74563	brl2		GO:0016568	GO_REF:0000004	IEA	SP_KW:KW-0156	P	E3 ubiquitin-protein ligase brl2	brl2|SPCC970.10c|rfp1|BRL2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q9UUG8	tup12		GO:0045449	GO_REF:0000004	IEA	SP_KW:KW-0805	P	Transcriptional repressor tup12	tup12|tup1|SPAC630.14c|TUP12_SCHPO|O14432	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q9UUG8	tup12		GO:0006350	GO_REF:0000004	IEA	SP_KW:KW-0804	P	Transcriptional repressor tup12	tup12|tup1|SPAC630.14c|TUP12_SCHPO|O14432	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q1MTQ0	brl1		GO:0016568	GO_REF:0000004	IEA	SP_KW:KW-0156	P	E3 ubiquitin-protein ligase brl1	brl1|rfp2|SPCC1919.15|SPCC790.01|BRL1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74518	cid12		GO:0007049	GO_REF:0000004	IEA	SP_KW:KW-0131	P	Poly(A) RNA polymerase cid12	cid12|SPCC663.12|CID12_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74518	cid12		GO:0007059	GO_REF:0000004	IEA	SP_KW:KW-0159	P	Poly(A) RNA polymerase cid12	cid12|SPCC663.12|CID12_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74518	cid12		GO:0031047	GO_REF:0000004	IEA	SP_KW:KW-0943	P	Poly(A) RNA polymerase cid12	cid12|SPCC663.12|CID12_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74509	SPCC594.06c		GO:0007154	GO_REF:0000002	IEA	InterPro:IPR001683	P	Vacuolar morphogenesis protein 7 homolog	SPCC594.06c|VAM7_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q09690	pom1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR008271	P	Dual specificity protein kinase pom1	pom1|SPAC2F7.03c|POM1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q09690	pom1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017441	P	Dual specificity protein kinase pom1	pom1|SPAC2F7.03c|POM1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q09690	pom1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR002290	P	Dual specificity protein kinase pom1	pom1|SPAC2F7.03c|POM1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q09690	pom1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017442	P	Dual specificity protein kinase pom1	pom1|SPAC2F7.03c|POM1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q09690	pom1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR000719	P	Dual specificity protein kinase pom1	pom1|SPAC2F7.03c|POM1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q10213	srs2		GO:0006281	GO_REF:0000002	IEA	InterPro:IPR000212	P	ATP-dependent DNA helicase srs2	srs2|SPAC4H3.05|SRS2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q10213	srs2		GO:0006281	GO_REF:0000004	IEA	SP_KW:KW-0234	P	ATP-dependent DNA helicase srs2	srs2|SPAC4H3.05|SRS2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q10213	srs2		GO:0006974	GO_REF:0000004	IEA	SP_KW:KW-0227	P	ATP-dependent DNA helicase srs2	srs2|SPAC4H3.05|SRS2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O14356	tor1		GO:0007049	GO_REF:0000004	IEA	SP_KW:KW-0131	P	Phosphatidylinositol 3-kinase tor1	tor1|SPBC30D10.10c|TOR1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O13290	dhc1		GO:0007018	GO_REF:0000002	IEA	InterPro:IPR004273	P	Dynein heavy chain, cytoplasmic	dhc1|SPAC1093.06c|SPAC30C2.01c|DYHC_SCHPO|Q9P6L0|Q9UTP8	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P10651	hht3		GO:0006334	GO_REF:0000002	IEA	InterPro:IPR000164	P	Histone H3.3	hht3|SPBC1105.11c|H33_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P10651	hht3		GO:0006281	GO_REF:0000004	IEA	SP_KW:KW-0234	P	Histone H3.3	hht3|SPBC1105.11c|H33_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P10651	hht3		GO:0006974	GO_REF:0000004	IEA	SP_KW:KW-0227	P	Histone H3.3	hht3|SPBC1105.11c|H33_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O94640	sir2		GO:0016568	GO_REF:0000004	IEA	SP_KW:KW-0156	P	NAD-dependent histone deacetylase sir2	sir2|SPBC16D10.07c|SIR2_SCHPO|Q6H8I3	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O94640	sir2		GO:0006476	GO_REF:0000002	IEA	InterPro:IPR003000	P	NAD-dependent histone deacetylase sir2	sir2|SPBC16D10.07c|SIR2_SCHPO|Q6H8I3	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O94640	sir2		GO:0006974	GO_REF:0000004	IEA	SP_KW:KW-0227	P	NAD-dependent histone deacetylase sir2	sir2|SPBC16D10.07c|SIR2_SCHPO|Q6H8I3	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O94640	sir2		GO:0006342	GO_REF:0000002	IEA	InterPro:IPR003000	P	NAD-dependent histone deacetylase sir2	sir2|SPBC16D10.07c|SIR2_SCHPO|Q6H8I3	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O94640	sir2		GO:0045449	GO_REF:0000002	IEA	InterPro:IPR007654	P	NAD-dependent histone deacetylase sir2	sir2|SPBC16D10.07c|SIR2_SCHPO|Q6H8I3	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O94640	sir2		GO:0006281	GO_REF:0000004	IEA	SP_KW:KW-0234	P	NAD-dependent histone deacetylase sir2	sir2|SPBC16D10.07c|SIR2_SCHPO|Q6H8I3	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O94640	sir2		GO:0006476	GO_REF:0000002	IEA	InterPro:IPR007654	P	NAD-dependent histone deacetylase sir2	sir2|SPBC16D10.07c|SIR2_SCHPO|Q6H8I3	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O94640	sir2		GO:0045449	GO_REF:0000002	IEA	InterPro:IPR003000	P	NAD-dependent histone deacetylase sir2	sir2|SPBC16D10.07c|SIR2_SCHPO|Q6H8I3	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O94640	sir2		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR007654	P	NAD-dependent histone deacetylase sir2	sir2|SPBC16D10.07c|SIR2_SCHPO|Q6H8I3	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O94640	sir2		GO:0006350	GO_REF:0000004	IEA	SP_KW:KW-0804	P	NAD-dependent histone deacetylase sir2	sir2|SPBC16D10.07c|SIR2_SCHPO|Q6H8I3	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O94640	sir2		GO:0006342	GO_REF:0000002	IEA	InterPro:IPR007654	P	NAD-dependent histone deacetylase sir2	sir2|SPBC16D10.07c|SIR2_SCHPO|Q6H8I3	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O94640	sir2		GO:0045449	GO_REF:0000004	IEA	SP_KW:KW-0805	P	NAD-dependent histone deacetylase sir2	sir2|SPBC16D10.07c|SIR2_SCHPO|Q6H8I3	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O94656	SPBC405.05		GO:0007126	GO_REF:0000004	IEA	SP_KW:KW-0469	P	Meiotic chromosome segregation protein C405.05	SPBC405.05|YGF5_SCHPO|P78904|Q1L842	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O94656	SPBC405.05		GO:0007049	GO_REF:0000004	IEA	SP_KW:KW-0131	P	Meiotic chromosome segregation protein C405.05	SPBC405.05|YGF5_SCHPO|P78904|Q1L842	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O94585	SPCC1442.13c		GO:0007126	GO_REF:0000004	IEA	SP_KW:KW-0469	P	Meiotically up-regulated protein C1442.13c	SPCC1442.13c|YQ7D_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O94585	SPCC1442.13c		GO:0007049	GO_REF:0000004	IEA	SP_KW:KW-0131	P	Meiotically up-regulated protein C1442.13c	SPCC1442.13c|YQ7D_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74773	msh2		GO:0006281	GO_REF:0000004	IEA	SP_KW:KW-0234	P	DNA mismatch repair protein msh2	msh2|SPBC19G7.01c|SPBC24C6.12c|MSH2_SCHPO|O42950	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74773	msh2		GO:0006298	GO_REF:0000002	IEA	InterPro:IPR011184	P	DNA mismatch repair protein msh2	msh2|SPBC19G7.01c|SPBC24C6.12c|MSH2_SCHPO|O42950	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O74773	msh2		GO:0006974	GO_REF:0000004	IEA	SP_KW:KW-0227	P	DNA mismatch repair protein msh2	msh2|SPBC19G7.01c|SPBC24C6.12c|MSH2_SCHPO|O42950	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74773	msh2		GO:0006298	GO_REF:0000002	IEA	InterPro:IPR007861	P	DNA mismatch repair protein msh2	msh2|SPBC19G7.01c|SPBC24C6.12c|MSH2_SCHPO|O42950	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O74773	msh2		GO:0006298	GO_REF:0000002	IEA	InterPro:IPR007696	P	DNA mismatch repair protein msh2	msh2|SPBC19G7.01c|SPBC24C6.12c|MSH2_SCHPO|O42950	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O74773	msh2		GO:0006298	GO_REF:0000002	IEA	InterPro:IPR007860	P	DNA mismatch repair protein msh2	msh2|SPBC19G7.01c|SPBC24C6.12c|MSH2_SCHPO|O42950	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O74773	msh2		GO:0006298	GO_REF:0000002	IEA	InterPro:IPR007695	P	DNA mismatch repair protein msh2	msh2|SPBC19G7.01c|SPBC24C6.12c|MSH2_SCHPO|O42950	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O74773	msh2		GO:0006298	GO_REF:0000002	IEA	InterPro:IPR000432	P	DNA mismatch repair protein msh2	msh2|SPBC19G7.01c|SPBC24C6.12c|MSH2_SCHPO|O42950	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O13995	dap1		GO:0016126	GO_REF:0000004	IEA	SP_KW:KW-0756	P	Cytochrome P450 regulator dap1	dap1|SPAC25B8.01|SPAC26H5.15|DAP1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O13995	dap1		GO:0008610	GO_REF:0000004	IEA	SP_KW:KW-0444	P	Cytochrome P450 regulator dap1	dap1|SPAC25B8.01|SPAC26H5.15|DAP1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O13995	dap1		GO:0006694	GO_REF:0000004	IEA	SP_KW:KW-0752	P	Cytochrome P450 regulator dap1	dap1|SPAC25B8.01|SPAC26H5.15|DAP1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O13995	dap1		GO:0006950	GO_REF:0000004	IEA	SP_KW:KW-0346	P	Cytochrome P450 regulator dap1	dap1|SPAC25B8.01|SPAC26H5.15|DAP1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q9HDW7	pmc1		GO:0006754	GO_REF:0000002	IEA	InterPro:IPR004014	P	Calcium-transporting ATPase 2	pmc1|SPAPB2B4.04c|ATC2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q9HDW7	pmc1		GO:0006754	GO_REF:0000002	IEA	InterPro:IPR006068	P	Calcium-transporting ATPase 2	pmc1|SPAPB2B4.04c|ATC2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q9HDW7	pmc1		GO:0006754	GO_REF:0000002	IEA	InterPro:IPR008250	P	Calcium-transporting ATPase 2	pmc1|SPAPB2B4.04c|ATC2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q9HDW7	pmc1		GO:0006754	GO_REF:0000002	IEA	InterPro:IPR018303	P	Calcium-transporting ATPase 2	pmc1|SPAPB2B4.04c|ATC2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q9HDW7	pmc1		GO:0006816	GO_REF:0000002	IEA	InterPro:IPR006408	P	Calcium-transporting ATPase 2	pmc1|SPAPB2B4.04c|ATC2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q9HDW7	pmc1		GO:0006754	GO_REF:0000002	IEA	InterPro:IPR001757	P	Calcium-transporting ATPase 2	pmc1|SPAPB2B4.04c|ATC2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q9HDW7	pmc1		GO:0006816	GO_REF:0000004	IEA	SP_KW:KW-0109	P	Calcium-transporting ATPase 2	pmc1|SPAPB2B4.04c|ATC2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q9HDW7	pmc1		GO:0008152	GO_REF:0000002	IEA	InterPro:IPR005834	P	Calcium-transporting ATPase 2	pmc1|SPAPB2B4.04c|ATC2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q9HDW7	pmc1		GO:0006754	GO_REF:0000002	IEA	InterPro:IPR006408	P	Calcium-transporting ATPase 2	pmc1|SPAPB2B4.04c|ATC2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q9HDW7	pmc1		GO:0006812	GO_REF:0000002	IEA	InterPro:IPR006068	P	Calcium-transporting ATPase 2	pmc1|SPAPB2B4.04c|ATC2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q9HDW7	pmc1		GO:0006810	GO_REF:0000004	IEA	SP_KW:KW-0813	P	Calcium-transporting ATPase 2	pmc1|SPAPB2B4.04c|ATC2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q9HDW7	pmc1		GO:0006812	GO_REF:0000002	IEA	InterPro:IPR004014	P	Calcium-transporting ATPase 2	pmc1|SPAPB2B4.04c|ATC2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q9HDW7	pmc1		GO:0006811	GO_REF:0000004	IEA	SP_KW:KW-0406	P	Calcium-transporting ATPase 2	pmc1|SPAPB2B4.04c|ATC2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O13826	rfp1		GO:0007126	GO_REF:0000004	IEA	SP_KW:KW-0469	P	E3 ubiquitin-protein ligase complex slx8-rfp subunit rfp1	rfp1|mug140|SPAC19A8.10|RFP1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O13820	erg5		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR002401	P	Cytochrome P450 61	erg5|cyp61|SPAC19A8.04|ERG5_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O13820	erg5		GO:0008610	GO_REF:0000004	IEA	SP_KW:KW-0444	P	Cytochrome P450 61	erg5|cyp61|SPAC19A8.04|ERG5_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O13820	erg5		GO:0055114	GO_REF:0000004	IEA	SP_KW:KW-0560	P	Cytochrome P450 61	erg5|cyp61|SPAC19A8.04|ERG5_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O13820	erg5		GO:0006694	GO_REF:0000004	IEA	SP_KW:KW-0752	P	Cytochrome P450 61	erg5|cyp61|SPAC19A8.04|ERG5_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O13820	erg5		GO:0016126	GO_REF:0000004	IEA	SP_KW:KW-0756	P	Cytochrome P450 61	erg5|cyp61|SPAC19A8.04|ERG5_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O13820	erg5		GO:0006950	GO_REF:0000004	IEA	SP_KW:KW-0346	P	Cytochrome P450 61	erg5|cyp61|SPAC19A8.04|ERG5_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P09988	hht1		GO:0006974	GO_REF:0000004	IEA	SP_KW:KW-0227	P	Histone H3.1/H3.2	hht1|SPAC1834.04|hht2|SPBC8D2.04|pi060|H31_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P09988	hht1		GO:0006281	GO_REF:0000004	IEA	SP_KW:KW-0234	P	Histone H3.1/H3.2	hht1|SPAC1834.04|hht2|SPBC8D2.04|pi060|H31_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P09988	hht1		GO:0006334	GO_REF:0000002	IEA	InterPro:IPR000164	P	Histone H3.1/H3.2	hht1|SPAC1834.04|hht2|SPBC8D2.04|pi060|H31_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P29458	mcm4		GO:0006260	GO_REF:0000004	IEA	SP_KW:KW-0235	P	DNA replication licensing factor mcm4	mcm4|cdc21|SPCC16A11.17|SPCC24B10.01|MCM4_SCHPO|Q9P7K4|Q9USM0	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P29458	mcm4		GO:0006270	GO_REF:0000002	IEA	InterPro:IPR008047	P	DNA replication licensing factor mcm4	mcm4|cdc21|SPCC16A11.17|SPCC24B10.01|MCM4_SCHPO|Q9P7K4|Q9USM0	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P29458	mcm4		GO:0045449	GO_REF:0000004	IEA	SP_KW:KW-0805	P	DNA replication licensing factor mcm4	mcm4|cdc21|SPCC16A11.17|SPCC24B10.01|MCM4_SCHPO|Q9P7K4|Q9USM0	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P29458	mcm4		GO:0006350	GO_REF:0000004	IEA	SP_KW:KW-0804	P	DNA replication licensing factor mcm4	mcm4|cdc21|SPCC16A11.17|SPCC24B10.01|MCM4_SCHPO|Q9P7K4|Q9USM0	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P29458	mcm4		GO:0006260	GO_REF:0000002	IEA	InterPro:IPR001208	P	DNA replication licensing factor mcm4	mcm4|cdc21|SPCC16A11.17|SPCC24B10.01|MCM4_SCHPO|Q9P7K4|Q9USM0	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P29458	mcm4		GO:0006260	GO_REF:0000002	IEA	InterPro:IPR018525	P	DNA replication licensing factor mcm4	mcm4|cdc21|SPCC16A11.17|SPCC24B10.01|MCM4_SCHPO|Q9P7K4|Q9USM0	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O94427	mug167		GO:0007126	GO_REF:0000004	IEA	SP_KW:KW-0469	P	Meiotically up-regulated gene 167 protein	mug167|SPBC660.08|MU167_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O60094	pol5		GO:0006139	GO_REF:0000002	IEA	InterPro:IPR017964	P	DNA polymerase V	pol5|SPBC14C8.14c|DPO5_SCHPO|Q9UTU3	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O60094	pol5		GO:0006350	GO_REF:0000002	IEA	InterPro:IPR007015	P	DNA polymerase V	pol5|SPBC14C8.14c|DPO5_SCHPO|Q9UTU3	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0006265	GO_REF:0000002	IEA	InterPro:IPR001241	P	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0006259	GO_REF:0000002	IEA	InterPro:IPR013757	P	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0006265	GO_REF:0000002	IEA	InterPro:IPR013757	P	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0006265	GO_REF:0000002	IEA	InterPro:IPR013759	P	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0006259	GO_REF:0000002	IEA	InterPro:IPR013758	P	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0006265	GO_REF:0000002	IEA	InterPro:IPR001154	P	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0006265	GO_REF:0000002	IEA	InterPro:IPR013758	P	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR020899	P	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0006265	GO_REF:0000002	IEA	InterPro:IPR013760	P	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0006265	GO_REF:0000002	IEA	InterPro:IPR002205	P	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0006265	GO_REF:0000002	IEA	InterPro:IPR013506	P	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P08096	top2		GO:0006265	GO_REF:0000002	IEA	InterPro:IPR018522	P	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q12705	ppb1		GO:0008360	GO_REF:0000004	IEA	SP_KW:KW-0133	P	Serine/threonine-protein phosphatase 2B catalytic subunit	ppb1|SPBP4H10.04|SPBC1346.01c|PP2B_SCHPO|Q9P7E4	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P36592	rad22		GO:0006310	GO_REF:0000002	IEA	InterPro:IPR004585	P	DNA repair and recombination protein rad22	rad22|SPAC30D11.10|RAD22_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P36592	rad22		GO:0006281	GO_REF:0000004	IEA	SP_KW:KW-0234	P	DNA repair and recombination protein rad22	rad22|SPAC30D11.10|RAD22_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P36592	rad22		GO:0006310	GO_REF:0000004	IEA	SP_KW:KW-0233	P	DNA repair and recombination protein rad22	rad22|SPAC30D11.10|RAD22_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P36592	rad22		GO:0006974	GO_REF:0000004	IEA	SP_KW:KW-0227	P	DNA repair and recombination protein rad22	rad22|SPAC30D11.10|RAD22_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P36592	rad22		GO:0006310	GO_REF:0000002	IEA	InterPro:IPR007232	P	DNA repair and recombination protein rad22	rad22|SPAC30D11.10|RAD22_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P36592	rad22		GO:0006281	GO_REF:0000002	IEA	InterPro:IPR007232	P	DNA repair and recombination protein rad22	rad22|SPAC30D11.10|RAD22_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P36592	rad22		GO:0006281	GO_REF:0000002	IEA	InterPro:IPR004585	P	DNA repair and recombination protein rad22	rad22|SPAC30D11.10|RAD22_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O74986	ctp1		GO:0007126	GO_REF:0000004	IEA	SP_KW:KW-0469	P	DNA endonuclease ctp1	ctp1|SPCC338.08|mug38|nip1|slr9|COM1_SCHPO|A9LJ21	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74986	ctp1		GO:0006281	GO_REF:0000004	IEA	SP_KW:KW-0234	P	DNA endonuclease ctp1	ctp1|SPCC338.08|mug38|nip1|slr9|COM1_SCHPO|A9LJ21	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74986	ctp1		GO:0006974	GO_REF:0000004	IEA	SP_KW:KW-0227	P	DNA endonuclease ctp1	ctp1|SPCC338.08|mug38|nip1|slr9|COM1_SCHPO|A9LJ21	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74983	spm2		GO:0051246	GO_REF:0000002	IEA	InterPro:IPR000608	P	Ubiquitin-conjugating enzyme spm2	spm2|SPCC338.05c|MMS2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O74983	spm2		GO:0043687	GO_REF:0000002	IEA	InterPro:IPR000608	P	Ubiquitin-conjugating enzyme spm2	spm2|SPCC338.05c|MMS2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P36626	rec8		GO:0007126	GO_REF:0000004	IEA	SP_KW:KW-0469	P	Meiotic recombination protein rec8	rec8|SPBC29A10.14|REC8_SCHPO|O60051	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q09170	cds1		GO:0007049	GO_REF:0000004	IEA	SP_KW:KW-0131	P	Serine/threonine-protein kinase cds1	cds1|SPCC18B5.11c|CDS1_SCHPO|O42642	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q09170	cds1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017442	P	Serine/threonine-protein kinase cds1	cds1|SPCC18B5.11c|CDS1_SCHPO|O42642	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q09170	cds1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017441	P	Serine/threonine-protein kinase cds1	cds1|SPCC18B5.11c|CDS1_SCHPO|O42642	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q09170	cds1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR002290	P	Serine/threonine-protein kinase cds1	cds1|SPCC18B5.11c|CDS1_SCHPO|O42642	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q09170	cds1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR008271	P	Serine/threonine-protein kinase cds1	cds1|SPCC18B5.11c|CDS1_SCHPO|O42642	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q09170	cds1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR000719	P	Serine/threonine-protein kinase cds1	cds1|SPCC18B5.11c|CDS1_SCHPO|O42642	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O14019	hal4		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017442	P	Serine/threonine-protein kinase hal4	hal4|SPAC29A4.16|ppk10|sat4|HAL4_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O14019	hal4		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR002290	P	Serine/threonine-protein kinase hal4	hal4|SPAC29A4.16|ppk10|sat4|HAL4_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O14019	hal4		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR000719	P	Serine/threonine-protein kinase hal4	hal4|SPAC29A4.16|ppk10|sat4|HAL4_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O14019	hal4		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR015729	P	Serine/threonine-protein kinase hal4	hal4|SPAC29A4.16|ppk10|sat4|HAL4_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O14019	hal4		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR008271	P	Serine/threonine-protein kinase hal4	hal4|SPAC29A4.16|ppk10|sat4|HAL4_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O14019	hal4		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017441	P	Serine/threonine-protein kinase hal4	hal4|SPAC29A4.16|ppk10|sat4|HAL4_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O59790	ark1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017442	P	Serine/threonine-protein kinase ark1	ark1|SPCC320.13c|sex1|SPCC330.16|ARK1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O59790	ark1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR008271	P	Serine/threonine-protein kinase ark1	ark1|SPCC320.13c|sex1|SPCC330.16|ARK1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O59790	ark1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR000719	P	Serine/threonine-protein kinase ark1	ark1|SPCC320.13c|sex1|SPCC330.16|ARK1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O59790	ark1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR002290	P	Serine/threonine-protein kinase ark1	ark1|SPCC320.13c|sex1|SPCC330.16|ARK1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O59790	ark1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017441	P	Serine/threonine-protein kinase ark1	ark1|SPCC320.13c|sex1|SPCC330.16|ARK1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q92372	ssb1		GO:0006260	GO_REF:0000002	IEA	InterPro:IPR007199	P	Replication factor A protein 1	ssb1|rad11|SPBC660.13c|rpa1|RFA1_SCHPO|Q92382	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q92372	ssb1		GO:0006260	GO_REF:0000004	IEA	SP_KW:KW-0235	P	Replication factor A protein 1	ssb1|rad11|SPBC660.13c|rpa1|RFA1_SCHPO|Q92382	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q92372	ssb1		GO:0006260	GO_REF:0000002	IEA	InterPro:IPR004591	P	Replication factor A protein 1	ssb1|rad11|SPBC660.13c|rpa1|RFA1_SCHPO|Q92382	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q92376	klp1		GO:0007018	GO_REF:0000002	IEA	InterPro:IPR019821	P	Kinesin-like protein 1	klp1|pkl1|SPAC3A11.14c|KLP1_SCHPO|O42669	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q92376	klp1		GO:0007018	GO_REF:0000002	IEA	InterPro:IPR001752	P	Kinesin-like protein 1	klp1|pkl1|SPAC3A11.14c|KLP1_SCHPO|O42669	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O14063	cut15		GO:0006606	GO_REF:0000002	IEA	InterPro:IPR002652	P	Importin subunit alpha-1	cut15|SPCC962.03c|IMA1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O14063	cut15		GO:0006886	GO_REF:0000002	IEA	InterPro:IPR002652	P	Importin subunit alpha-1	cut15|SPCC962.03c|IMA1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O14063	cut15		GO:0006810	GO_REF:0000004	IEA	SP_KW:KW-0813	P	Importin subunit alpha-1	cut15|SPCC962.03c|IMA1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O14063	cut15		GO:0015031	GO_REF:0000004	IEA	SP_KW:KW-0653	P	Importin subunit alpha-1	cut15|SPCC962.03c|IMA1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q10452	gsk3		GO:0007067	GO_REF:0000004	IEA	SP_KW:KW-0498	P	Protein kinase gsk3	gsk3|skp1|SPAC1687.15|GSK3_SCHPO|O94456	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q10452	gsk3		GO:0051301	GO_REF:0000004	IEA	SP_KW:KW-0132	P	Protein kinase gsk3	gsk3|skp1|SPAC1687.15|GSK3_SCHPO|O94456	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q10452	gsk3		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017441	P	Protein kinase gsk3	gsk3|skp1|SPAC1687.15|GSK3_SCHPO|O94456	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q10452	gsk3		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR000719	P	Protein kinase gsk3	gsk3|skp1|SPAC1687.15|GSK3_SCHPO|O94456	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q10452	gsk3		GO:0007049	GO_REF:0000004	IEA	SP_KW:KW-0131	P	Protein kinase gsk3	gsk3|skp1|SPAC1687.15|GSK3_SCHPO|O94456	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q10452	gsk3		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR002290	P	Protein kinase gsk3	gsk3|skp1|SPAC1687.15|GSK3_SCHPO|O94456	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q10452	gsk3		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017442	P	Protein kinase gsk3	gsk3|skp1|SPAC1687.15|GSK3_SCHPO|O94456	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q10452	gsk3		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR008271	P	Protein kinase gsk3	gsk3|skp1|SPAC1687.15|GSK3_SCHPO|O94456	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O74308	SPBC15D4.02		GO:0045449	GO_REF:0000004	IEA	SP_KW:KW-0805	P	Uncharacterized transcriptional regulatory protein C15D4.02	SPBC15D4.02|YOG2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74308	SPBC15D4.02		GO:0006350	GO_REF:0000004	IEA	SP_KW:KW-0804	P	Uncharacterized transcriptional regulatory protein C15D4.02	SPBC15D4.02|YOG2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O74308	SPBC15D4.02		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR001138	P	Uncharacterized transcriptional regulatory protein C15D4.02	SPBC15D4.02|YOG2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q01663	pap1		GO:0006350	GO_REF:0000004	IEA	SP_KW:KW-0804	P	AP-1-like transcription factor	pap1|caf3|SPAC1783.07c|AP1_SCHPO|Q9US23|Q9UU69	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q01663	pap1		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR004827	P	AP-1-like transcription factor	pap1|caf3|SPAC1783.07c|AP1_SCHPO|Q9US23|Q9UU69	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q01663	pap1		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR011616	P	AP-1-like transcription factor	pap1|caf3|SPAC1783.07c|AP1_SCHPO|Q9US23|Q9UU69	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q01663	pap1		GO:0045449	GO_REF:0000004	IEA	SP_KW:KW-0805	P	AP-1-like transcription factor	pap1|caf3|SPAC1783.07c|AP1_SCHPO|Q9US23|Q9UU69	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q09914	rho1		GO:0007264	GO_REF:0000002	IEA	InterPro:IPR003578	P	GTP-binding protein rho1	rho1|SPAC1F7.04|RHO1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q09914	rho1		GO:0007264	GO_REF:0000002	IEA	InterPro:IPR001806	P	GTP-binding protein rho1	rho1|SPAC1F7.04|RHO1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q09926	pcr1		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR004827	P	Transcription factor pcr1	pcr1|SPAC21E11.03c|mts2|PCR1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q09926	pcr1		GO:0006350	GO_REF:0000004	IEA	SP_KW:KW-0804	P	Transcription factor pcr1	pcr1|SPAC21E11.03c|mts2|PCR1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q09926	pcr1		GO:0007126	GO_REF:0000004	IEA	SP_KW:KW-0469	P	Transcription factor pcr1	pcr1|SPAC21E11.03c|mts2|PCR1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q09926	pcr1		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR011616	P	Transcription factor pcr1	pcr1|SPAC21E11.03c|mts2|PCR1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q09926	pcr1		GO:0045449	GO_REF:0000004	IEA	SP_KW:KW-0805	P	Transcription factor pcr1	pcr1|SPAC21E11.03c|mts2|PCR1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q09907	nth1		GO:0006281	GO_REF:0000002	IEA	InterPro:IPR011257	P	Endonuclease III homolog	nth1|SPAC30D11.07|NTH1_SCHPO|Q588X4	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q09907	nth1		GO:0006974	GO_REF:0000004	IEA	SP_KW:KW-0227	P	Endonuclease III homolog	nth1|SPAC30D11.07|NTH1_SCHPO|Q588X4	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q09907	nth1		GO:0006281	GO_REF:0000004	IEA	SP_KW:KW-0234	P	Endonuclease III homolog	nth1|SPAC30D11.07|NTH1_SCHPO|Q588X4	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q09907	nth1		GO:0006284	GO_REF:0000002	IEA	InterPro:IPR003265	P	Endonuclease III homolog	nth1|SPAC30D11.07|NTH1_SCHPO|Q588X4	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q09907	nth1		GO:0008152	GO_REF:0000004	IEA	SP_KW:KW-0326	P	Endonuclease III homolog	nth1|SPAC30D11.07|NTH1_SCHPO|Q588X4	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q09907	nth1		GO:0006281	GO_REF:0000002	IEA	InterPro:IPR004036	P	Endonuclease III homolog	nth1|SPAC30D11.07|NTH1_SCHPO|Q588X4	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O94276	SPBP8B7.28c		GO:0007126	GO_REF:0000004	IEA	SP_KW:KW-0469	P	Meiotic chromosome segregation protein P8B7.28c	SPBP8B7.28c|YORS_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O94276	SPBP8B7.28c		GO:0007049	GO_REF:0000004	IEA	SP_KW:KW-0131	P	Meiotic chromosome segregation protein P8B7.28c	SPBP8B7.28c|YORS_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O43058	sep1		GO:0045449	GO_REF:0000004	IEA	SP_KW:KW-0805	P	Forkhead protein sep1	sep1|SPBC4C3.12|SEP1_SCHPO|P79006	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O43058	sep1		GO:0007049	GO_REF:0000004	IEA	SP_KW:KW-0131	P	Forkhead protein sep1	sep1|SPBC4C3.12|SEP1_SCHPO|P79006	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O43058	sep1		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR018122	P	Forkhead protein sep1	sep1|SPBC4C3.12|SEP1_SCHPO|P79006	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O43058	sep1		GO:0051301	GO_REF:0000004	IEA	SP_KW:KW-0132	P	Forkhead protein sep1	sep1|SPBC4C3.12|SEP1_SCHPO|P79006	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O43058	sep1		GO:0000917	GO_REF:0000004	IEA	SP_KW:KW-0717	P	Forkhead protein sep1	sep1|SPBC4C3.12|SEP1_SCHPO|P79006	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O43058	sep1		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR001766	P	Forkhead protein sep1	sep1|SPBC4C3.12|SEP1_SCHPO|P79006	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O43058	sep1		GO:0006350	GO_REF:0000004	IEA	SP_KW:KW-0804	P	Forkhead protein sep1	sep1|SPBC4C3.12|SEP1_SCHPO|P79006	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O43058	sep1		GO:0007067	GO_REF:0000004	IEA	SP_KW:KW-0498	P	Forkhead protein sep1	sep1|SPBC4C3.12|SEP1_SCHPO|P79006	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q9UT29	SPAC8F11.08c		GO:0007126	GO_REF:0000004	IEA	SP_KW:KW-0469	P	Uncharacterized protein C8F11.08c	SPAC8F11.08c|YKGC_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q09892	sty1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR008271	P	Mitogen-activated protein kinase sty1	sty1|hog1|SPAC24B11.06c|phh1|spc1|HOG1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q09892	sty1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR002290	P	Mitogen-activated protein kinase sty1	sty1|hog1|SPAC24B11.06c|phh1|spc1|HOG1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q09892	sty1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017441	P	Mitogen-activated protein kinase sty1	sty1|hog1|SPAC24B11.06c|phh1|spc1|HOG1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q09892	sty1		GO:0006350	GO_REF:0000004	IEA	SP_KW:KW-0804	P	Mitogen-activated protein kinase sty1	sty1|hog1|SPAC24B11.06c|phh1|spc1|HOG1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q09892	sty1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR000719	P	Mitogen-activated protein kinase sty1	sty1|hog1|SPAC24B11.06c|phh1|spc1|HOG1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q09892	sty1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017442	P	Mitogen-activated protein kinase sty1	sty1|hog1|SPAC24B11.06c|phh1|spc1|HOG1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q09892	sty1		GO:0045449	GO_REF:0000004	IEA	SP_KW:KW-0805	P	Mitogen-activated protein kinase sty1	sty1|hog1|SPAC24B11.06c|phh1|spc1|HOG1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q09892	sty1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR008352	P	Mitogen-activated protein kinase sty1	sty1|hog1|SPAC24B11.06c|phh1|spc1|HOG1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q09892	sty1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR003527	P	Mitogen-activated protein kinase sty1	sty1|hog1|SPAC24B11.06c|phh1|spc1|HOG1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q9P6S4	meu25		GO:0007126	GO_REF:0000004	IEA	SP_KW:KW-0469	P	Meiotic expression up-regulated protein 25	meu25|SPBC27.03|MEU25_SCHPO|P78952|Q96WS0	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P78794	cwf15		GO:0008380	GO_REF:0000004	IEA	SP_KW:KW-0508	P	Pre-mRNA-splicing factor cwc15	cwf15|SPBC337.06c|CWC15_SCHPO|O74817	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P78794	cwf15		GO:0000398	GO_REF:0000002	IEA	InterPro:IPR006973	P	Pre-mRNA-splicing factor cwc15	cwf15|SPBC337.06c|CWC15_SCHPO|O74817	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P78794	cwf15		GO:0006397	GO_REF:0000004	IEA	SP_KW:KW-0507	P	Pre-mRNA-splicing factor cwc15	cwf15|SPBC337.06c|CWC15_SCHPO|O74817	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P40847	sap1		GO:0007059	GO_REF:0000004	IEA	SP_KW:KW-0159	P	Switch-activating protein 1	sap1|SPCC1672.02c|SAP1_SCHPO|P78961	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O14140	dss1		GO:0051028	GO_REF:0000004	IEA	SP_KW:KW-0509	P	mRNA export factor dss1	dss1|SPAC3G6.02|DSS1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O14140	dss1		GO:0006810	GO_REF:0000004	IEA	SP_KW:KW-0813	P	mRNA export factor dss1	dss1|SPAC3G6.02|DSS1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	O14220	meu26		GO:0007126	GO_REF:0000004	IEA	SP_KW:KW-0469	P	Meiotic expression up-regulated protein 26	meu26|SPAC6B12.16|MEU26_SCHPO|Q96WR9	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q02099	rad3		GO:0006281	GO_REF:0000004	IEA	SP_KW:KW-0234	P	Protein kinase rad3	rad3|SPBC216.05|RAD3_SCHPO|Q92391|Q9UUM1	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q02099	rad3		GO:0006974	GO_REF:0000004	IEA	SP_KW:KW-0227	P	Protein kinase rad3	rad3|SPBC216.05|RAD3_SCHPO|Q92391|Q9UUM1	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q02099	rad3		GO:0006260	GO_REF:0000004	IEA	SP_KW:KW-0237	P	Protein kinase rad3	rad3|SPBC216.05|RAD3_SCHPO|Q92391|Q9UUM1	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P40903	isp6		GO:0043086	GO_REF:0000002	IEA	InterPro:IPR010259	P	Sexual differentiation process putative subtilase-type proteinase isp6	isp6|SPAC4A8.04|ISP6_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P40903	isp6		GO:0006508	GO_REF:0000002	IEA	InterPro:IPR000209	P	Sexual differentiation process putative subtilase-type proteinase isp6	isp6|SPAC4A8.04|ISP6_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P50582	hsk1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR008271	P	Cell cycle serine/threonine-protein kinase hsk1	hsk1|SPBC776.12c|HSK1_SCHPO|O94678	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P50582	hsk1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017442	P	Cell cycle serine/threonine-protein kinase hsk1	hsk1|SPBC776.12c|HSK1_SCHPO|O94678	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P50582	hsk1		GO:0007049	GO_REF:0000004	IEA	SP_KW:KW-0131	P	Cell cycle serine/threonine-protein kinase hsk1	hsk1|SPBC776.12c|HSK1_SCHPO|O94678	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P50582	hsk1		GO:0051301	GO_REF:0000004	IEA	SP_KW:KW-0132	P	Cell cycle serine/threonine-protein kinase hsk1	hsk1|SPBC776.12c|HSK1_SCHPO|O94678	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P50582	hsk1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR000719	P	Cell cycle serine/threonine-protein kinase hsk1	hsk1|SPBC776.12c|HSK1_SCHPO|O94678	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P54280	pms1		GO:0006281	GO_REF:0000004	IEA	SP_KW:KW-0234	P	DNA mismatch repair protein pms1	pms1|SPAC19G12.02c|PMS1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P54280	pms1		GO:0006298	GO_REF:0000002	IEA	InterPro:IPR002099	P	DNA mismatch repair protein pms1	pms1|SPAC19G12.02c|PMS1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P54280	pms1		GO:0006298	GO_REF:0000002	IEA	InterPro:IPR013507	P	DNA mismatch repair protein pms1	pms1|SPAC19G12.02c|PMS1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P54280	pms1		GO:0006974	GO_REF:0000004	IEA	SP_KW:KW-0227	P	DNA mismatch repair protein pms1	pms1|SPAC19G12.02c|PMS1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q9USX3	rad60		GO:0006281	GO_REF:0000004	IEA	SP_KW:KW-0234	P	DNA repair protein rad60	rad60|SPBC1921.02|RAD60_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q9USX3	rad60		GO:0006310	GO_REF:0000004	IEA	SP_KW:KW-0233	P	DNA repair protein rad60	rad60|SPBC1921.02|RAD60_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q9USX3	rad60		GO:0006974	GO_REF:0000004	IEA	SP_KW:KW-0227	P	DNA repair protein rad60	rad60|SPBC1921.02|RAD60_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q09811	rqh1		GO:0006310	GO_REF:0000002	IEA	InterPro:IPR018329	P	ATP-dependent DNA helicase hus2/rqh1	rqh1|SPAC2G11.12|hus2|rad12|rec9|HUS2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q09811	rqh1		GO:0006974	GO_REF:0000004	IEA	SP_KW:KW-0227	P	ATP-dependent DNA helicase hus2/rqh1	rqh1|SPAC2G11.12|hus2|rad12|rec9|HUS2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q09811	rqh1		GO:0044237	GO_REF:0000002	IEA	InterPro:IPR010997	P	ATP-dependent DNA helicase hus2/rqh1	rqh1|SPAC2G11.12|hus2|rad12|rec9|HUS2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q09811	rqh1		GO:0006281	GO_REF:0000002	IEA	InterPro:IPR018982	P	ATP-dependent DNA helicase hus2/rqh1	rqh1|SPAC2G11.12|hus2|rad12|rec9|HUS2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q09811	rqh1		GO:0006281	GO_REF:0000004	IEA	SP_KW:KW-0234	P	ATP-dependent DNA helicase hus2/rqh1	rqh1|SPAC2G11.12|hus2|rad12|rec9|HUS2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q09811	rqh1		GO:0006260	GO_REF:0000002	IEA	InterPro:IPR018982	P	ATP-dependent DNA helicase hus2/rqh1	rqh1|SPAC2G11.12|hus2|rad12|rec9|HUS2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	Q09811	rqh1		GO:0006310	GO_REF:0000002	IEA	InterPro:IPR004589	P	ATP-dependent DNA helicase hus2/rqh1	rqh1|SPAC2G11.12|hus2|rad12|rec9|HUS2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P23566	rhp6		GO:0006281	GO_REF:0000004	IEA	SP_KW:KW-0234	P	Ubiquitin-conjugating enzyme E2 2	rhp6|ubc2|SPAC18B11.07c|UBC2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P23566	rhp6		GO:0030435	GO_REF:0000004	IEA	SP_KW:KW-0749	P	Ubiquitin-conjugating enzyme E2 2	rhp6|ubc2|SPAC18B11.07c|UBC2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P23566	rhp6		GO:0006350	GO_REF:0000004	IEA	SP_KW:KW-0804	P	Ubiquitin-conjugating enzyme E2 2	rhp6|ubc2|SPAC18B11.07c|UBC2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P23566	rhp6		GO:0045449	GO_REF:0000004	IEA	SP_KW:KW-0805	P	Ubiquitin-conjugating enzyme E2 2	rhp6|ubc2|SPAC18B11.07c|UBC2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P23566	rhp6		GO:0043687	GO_REF:0000002	IEA	InterPro:IPR000608	P	Ubiquitin-conjugating enzyme E2 2	rhp6|ubc2|SPAC18B11.07c|UBC2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P23566	rhp6		GO:0051246	GO_REF:0000002	IEA	InterPro:IPR000608	P	Ubiquitin-conjugating enzyme E2 2	rhp6|ubc2|SPAC18B11.07c|UBC2_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P23566	rhp6		GO:0016568	GO_REF:0000004	IEA	SP_KW:KW-0156	P	Ubiquitin-conjugating enzyme E2 2	rhp6|ubc2|SPAC18B11.07c|UBC2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P23566	rhp6		GO:0006974	GO_REF:0000004	IEA	SP_KW:KW-0227	P	Ubiquitin-conjugating enzyme E2 2	rhp6|ubc2|SPAC18B11.07c|UBC2_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	Q09739	mcp7		GO:0007126	GO_REF:0000004	IEA	SP_KW:KW-0469	P	Meiotic coiled-coil protein 7	mcp7|SPAC13A11.03|mug32|MCP7_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P53695	exo1		GO:0006974	GO_REF:0000004	IEA	SP_KW:KW-0227	P	Exodeoxyribonuclease 1	exo1|SPBC29A10.05|EXO1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P53695	exo1		GO:0006281	GO_REF:0000004	IEA	SP_KW:KW-0234	P	Exodeoxyribonuclease 1	exo1|SPBC29A10.05|EXO1_SCHPO	protein	taxon:4896	20101113	UniProtKB		
+UniProtKB	P53695	exo1		GO:0006281	GO_REF:0000002	IEA	InterPro:IPR006085	P	Exodeoxyribonuclease 1	exo1|SPBC29A10.05|EXO1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P53695	exo1		GO:0006281	GO_REF:0000002	IEA	InterPro:IPR006084	P	Exodeoxyribonuclease 1	exo1|SPBC29A10.05|EXO1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	P53695	exo1		GO:0006281	GO_REF:0000002	IEA	InterPro:IPR006086	P	Exodeoxyribonuclease 1	exo1|SPBC29A10.05|EXO1_SCHPO	protein	taxon:4896	20101113	InterPro		
+UniProtKB	O14273	SPAC8C9.04		GO:0007126	GO_REF:0000004	IEA	SP_KW:KW-0469	P	Meiotically up-regulated protein C8C9.04	SPAC8C9.04|YET4_SCHPO	protein	taxon:4896	20101113	UniProtKB		

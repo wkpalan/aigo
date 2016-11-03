@@ -1,0 +1,458 @@
+!gaf-version: 2.0
+UniProtKB	Q9BMN8	ptp-3		GO:0005912	GO_REF:0000023	IEA	SP_SL:SL-0009	C	Tyrosine-protein phosphatase Lar-like	ptp-3|C09D8.1/C09D8.2|LAR_CAEEL|Q09434|Q17859|Q20137|Q9BMN7	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q9BMN8	ptp-3		GO:0005886	GO_REF:0000023	IEA	SP_SL:SL-0039	C	Tyrosine-protein phosphatase Lar-like	ptp-3|C09D8.1/C09D8.2|LAR_CAEEL|Q09434|Q17859|Q20137|Q9BMN7	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q9BMN8	ptp-3		GO:0016020	GO_REF:0000004	IEA	SP_KW:KW-0472	C	Tyrosine-protein phosphatase Lar-like	ptp-3|C09D8.1/C09D8.2|LAR_CAEEL|Q09434|Q17859|Q20137|Q9BMN7	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q9BMN8	ptp-3		GO:0005886	GO_REF:0000004	IEA	SP_KW:KW-1003	C	Tyrosine-protein phosphatase Lar-like	ptp-3|C09D8.1/C09D8.2|LAR_CAEEL|Q09434|Q17859|Q20137|Q9BMN7	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q9BMN8	ptp-3		GO:0016021	GO_REF:0000004	IEA	SP_KW:KW-0812	C	Tyrosine-protein phosphatase Lar-like	ptp-3|C09D8.1/C09D8.2|LAR_CAEEL|Q09434|Q17859|Q20137|Q9BMN7	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q9BMN8	ptp-3		GO:0030054	GO_REF:0000004	IEA	SP_KW:KW-0965	C	Tyrosine-protein phosphatase Lar-like	ptp-3|C09D8.1/C09D8.2|LAR_CAEEL|Q09434|Q17859|Q20137|Q9BMN7	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q93646	stn-1		GO:0016020	GO_REF:0000023	IEA	SP_SL:SL-0162	C	Syntrophin-1	stn-1|F30A10.8|SNT1_CAEEL|Q9XVP8	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q93646	stn-1		GO:0005737	GO_REF:0000004	IEA	SP_KW:KW-0963	C	Syntrophin-1	stn-1|F30A10.8|SNT1_CAEEL|Q9XVP8	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q93646	stn-1		GO:0016020	GO_REF:0000004	IEA	SP_KW:KW-0472	C	Syntrophin-1	stn-1|F30A10.8|SNT1_CAEEL|Q9XVP8	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q93646	stn-1		GO:0005856	GO_REF:0000004	IEA	SP_KW:KW-0206	C	Syntrophin-1	stn-1|F30A10.8|SNT1_CAEEL|Q9XVP8	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q93646	stn-1		GO:0005856	GO_REF:0000023	IEA	SP_SL:SL-0090	C	Syntrophin-1	stn-1|F30A10.8|SNT1_CAEEL|Q9XVP8	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	O61371	ace-2		GO:0003990	GO_REF:0000003	IEA	EC:3.1.1.7	F	Abnormal acetylcholinesterase protein 2	ace-2|Y44E3A.2|O61371_CAEEL|Q9TXY7	protein	taxon:6239	20100703	UniProtKB		
+UniProtKB	O61371	ace-2		GO:0016787	GO_REF:0000004	IEA	SP_KW:KW-0378	F	Abnormal acetylcholinesterase protein 2	ace-2|Y44E3A.2|O61371_CAEEL|Q9TXY7	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	O61371	ace-2		GO:0004104	GO_REF:0000002	IEA	InterPro:IPR000997	F	Abnormal acetylcholinesterase protein 2	ace-2|Y44E3A.2|O61371_CAEEL|Q9TXY7	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q27487	ctl-2		GO:0020037	GO_REF:0000002	IEA	InterPro:IPR010582	F	Peroxisomal catalase 1	ctl-2|Y54G11A.5|cat|cat-1|CATA1_CAEEL|O18192|Q9XVZ5	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q27487	ctl-2		GO:0004096	GO_REF:0000002	IEA	InterPro:IPR010582	F	Peroxisomal catalase 1	ctl-2|Y54G11A.5|cat|cat-1|CATA1_CAEEL|O18192|Q9XVZ5	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q27487	ctl-2		GO:0016491	GO_REF:0000004	IEA	SP_KW:KW-0560	F	Peroxisomal catalase 1	ctl-2|Y54G11A.5|cat|cat-1|CATA1_CAEEL|O18192|Q9XVZ5	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q27487	ctl-2		GO:0046872	GO_REF:0000004	IEA	SP_KW:KW-0479	F	Peroxisomal catalase 1	ctl-2|Y54G11A.5|cat|cat-1|CATA1_CAEEL|O18192|Q9XVZ5	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q27487	ctl-2		GO:0004096	GO_REF:0000003	IEA	EC:1.11.1.6	F	Peroxisomal catalase 1	ctl-2|Y54G11A.5|cat|cat-1|CATA1_CAEEL|O18192|Q9XVZ5	protein	taxon:6239	20100703	UniProtKB		
+UniProtKB	Q27487	ctl-2		GO:0004096	GO_REF:0000002	IEA	InterPro:IPR020835	F	Peroxisomal catalase 1	ctl-2|Y54G11A.5|cat|cat-1|CATA1_CAEEL|O18192|Q9XVZ5	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q27487	ctl-2		GO:0004601	GO_REF:0000004	IEA	SP_KW:KW-0575	F	Peroxisomal catalase 1	ctl-2|Y54G11A.5|cat|cat-1|CATA1_CAEEL|O18192|Q9XVZ5	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q27487	ctl-2		GO:0005506	GO_REF:0000002	IEA	InterPro:IPR010582	F	Peroxisomal catalase 1	ctl-2|Y54G11A.5|cat|cat-1|CATA1_CAEEL|O18192|Q9XVZ5	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q27487	ctl-2		GO:0004096	GO_REF:0000002	IEA	InterPro:IPR002226	F	Peroxisomal catalase 1	ctl-2|Y54G11A.5|cat|cat-1|CATA1_CAEEL|O18192|Q9XVZ5	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q27487	ctl-2		GO:0004096	GO_REF:0000002	IEA	InterPro:IPR011614	F	Peroxisomal catalase 1	ctl-2|Y54G11A.5|cat|cat-1|CATA1_CAEEL|O18192|Q9XVZ5	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q17941	akt-1		GO:0046872	GO_REF:0000004	IEA	SP_KW:KW-0479	F	Serine/threonine-protein kinase akt-1	akt-1|C12D8.10|AKT1_CAEEL|Q17942|Q8MQE0	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q17941	akt-1		GO:0004674	GO_REF:0000002	IEA	InterPro:IPR008271	F	Serine/threonine-protein kinase akt-1	akt-1|C12D8.10|AKT1_CAEEL|Q17942|Q8MQE0	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q17941	akt-1		GO:0005524	GO_REF:0000004	IEA	SP_KW:KW-0067	F	Serine/threonine-protein kinase akt-1	akt-1|C12D8.10|AKT1_CAEEL|Q17942|Q8MQE0	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q17941	akt-1		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR017442	F	Serine/threonine-protein kinase akt-1	akt-1|C12D8.10|AKT1_CAEEL|Q17942|Q8MQE0	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q17941	akt-1		GO:0004674	GO_REF:0000004	IEA	SP_KW:KW-0723	F	Serine/threonine-protein kinase akt-1	akt-1|C12D8.10|AKT1_CAEEL|Q17942|Q8MQE0	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q17941	akt-1		GO:0016740	GO_REF:0000004	IEA	SP_KW:KW-0808	F	Serine/threonine-protein kinase akt-1	akt-1|C12D8.10|AKT1_CAEEL|Q17942|Q8MQE0	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q17941	akt-1		GO:0004672	GO_REF:0000002	IEA	InterPro:IPR000719	F	Serine/threonine-protein kinase akt-1	akt-1|C12D8.10|AKT1_CAEEL|Q17942|Q8MQE0	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q17941	akt-1		GO:0004674	GO_REF:0000002	IEA	InterPro:IPR000961	F	Serine/threonine-protein kinase akt-1	akt-1|C12D8.10|AKT1_CAEEL|Q17942|Q8MQE0	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q17941	akt-1		GO:0004674	GO_REF:0000002	IEA	InterPro:IPR002290	F	Serine/threonine-protein kinase akt-1	akt-1|C12D8.10|AKT1_CAEEL|Q17942|Q8MQE0	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q17941	akt-1		GO:0004672	GO_REF:0000002	IEA	InterPro:IPR017442	F	Serine/threonine-protein kinase akt-1	akt-1|C12D8.10|AKT1_CAEEL|Q17942|Q8MQE0	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q17941	akt-1		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR000961	F	Serine/threonine-protein kinase akt-1	akt-1|C12D8.10|AKT1_CAEEL|Q17942|Q8MQE0	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q17941	akt-1		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR000719	F	Serine/threonine-protein kinase akt-1	akt-1|C12D8.10|AKT1_CAEEL|Q17942|Q8MQE0	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q17941	akt-1		GO:0004674	GO_REF:0000002	IEA	InterPro:IPR015744	F	Serine/threonine-protein kinase akt-1	akt-1|C12D8.10|AKT1_CAEEL|Q17942|Q8MQE0	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q17941	akt-1		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR017892	F	Serine/threonine-protein kinase akt-1	akt-1|C12D8.10|AKT1_CAEEL|Q17942|Q8MQE0	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q17941	akt-1		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR015744	F	Serine/threonine-protein kinase akt-1	akt-1|C12D8.10|AKT1_CAEEL|Q17942|Q8MQE0	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q17941	akt-1		GO:0004672	GO_REF:0000002	IEA	InterPro:IPR017441	F	Serine/threonine-protein kinase akt-1	akt-1|C12D8.10|AKT1_CAEEL|Q17942|Q8MQE0	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q17941	akt-1		GO:0000166	GO_REF:0000004	IEA	SP_KW:KW-0547	F	Serine/threonine-protein kinase akt-1	akt-1|C12D8.10|AKT1_CAEEL|Q17942|Q8MQE0	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q17941	akt-1		GO:0004674	GO_REF:0000002	IEA	InterPro:IPR017892	F	Serine/threonine-protein kinase akt-1	akt-1|C12D8.10|AKT1_CAEEL|Q17942|Q8MQE0	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q17941	akt-1		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR017441	F	Serine/threonine-protein kinase akt-1	akt-1|C12D8.10|AKT1_CAEEL|Q17942|Q8MQE0	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q17941	akt-1		GO:0016301	GO_REF:0000004	IEA	SP_KW:KW-0418	F	Serine/threonine-protein kinase akt-1	akt-1|C12D8.10|AKT1_CAEEL|Q17942|Q8MQE0	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q17941	akt-1		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR002290	F	Serine/threonine-protein kinase akt-1	akt-1|C12D8.10|AKT1_CAEEL|Q17942|Q8MQE0	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P38433	ace-1		GO:0004091	GO_REF:0000004	IEA	SP_KW:KW-0719	F	Acetylcholinesterase 1	ace-1|W09B12.1|ACE1_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P38433	ace-1		GO:0004091	GO_REF:0000002	IEA	InterPro:IPR014788	F	Acetylcholinesterase 1	ace-1|W09B12.1|ACE1_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P38433	ace-1		GO:0004104	GO_REF:0000002	IEA	InterPro:IPR000997	F	Acetylcholinesterase 1	ace-1|W09B12.1|ACE1_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P38433	ace-1		GO:0016787	GO_REF:0000004	IEA	SP_KW:KW-0378	F	Acetylcholinesterase 1	ace-1|W09B12.1|ACE1_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P38433	ace-1		GO:0003990	GO_REF:0000003	IEA	EC:3.1.1.7	F	Acetylcholinesterase 1	ace-1|W09B12.1|ACE1_CAEEL	protein	taxon:6239	20100703	UniProtKB		
+UniProtKB	Q22036	tra-3		GO:0008233	GO_REF:0000004	IEA	SP_KW:KW-0645	F	Calpain-5	tra-3|LLC1.1|clp-5|CAN5_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q22036	tra-3		GO:0016787	GO_REF:0000004	IEA	SP_KW:KW-0378	F	Calpain-5	tra-3|LLC1.1|clp-5|CAN5_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q22036	tra-3		GO:0004197	GO_REF:0000002	IEA	InterPro:IPR000169	F	Calpain-5	tra-3|LLC1.1|clp-5|CAN5_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q22036	tra-3		GO:0008234	GO_REF:0000004	IEA	SP_KW:KW-0788	F	Calpain-5	tra-3|LLC1.1|clp-5|CAN5_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q22036	tra-3		GO:0004198	GO_REF:0000002	IEA	InterPro:IPR001300	F	Calpain-5	tra-3|LLC1.1|clp-5|CAN5_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9NEW6	rsp-3		GO:0006397	GO_REF:0000004	IEA	SP_KW:KW-0507	P	Probable splicing factor, arginine/serine-rich 3	Y111B2A.18|rsp-3|RSP3_CAEEL|Q9GQI7	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q9NEW6	rsp-3		GO:0008380	GO_REF:0000004	IEA	SP_KW:KW-0508	P	Probable splicing factor, arginine/serine-rich 3	Y111B2A.18|rsp-3|RSP3_CAEEL|Q9GQI7	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q9NEW6	rsp-3		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Probable splicing factor, arginine/serine-rich 3	Y111B2A.18|rsp-3|RSP3_CAEEL|Q9GQI7	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	A5JYS0	pcs-1		GO:0046938	GO_REF:0000002	IEA	InterPro:IPR007719	P	Protein F54D5.1a, confirmed by transcript evidence	pcs-1|F54D5.1|F54D5.1a|A5JYS0_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	A5JYS0	pcs-1		GO:0010038	GO_REF:0000002	IEA	InterPro:IPR007719	P	Protein F54D5.1a, confirmed by transcript evidence	pcs-1|F54D5.1|F54D5.1a|A5JYS0_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9XWD6	ced-1		GO:0006915	GO_REF:0000004	IEA	SP_KW:KW-0053	P	Cell death abnormality protein 1	ced-1|Y47H9C.4|CED1_CAEEL|Q0E7J9|Q8T3A6|Q8T3A7	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P34766	pal-1		GO:0045449	GO_REF:0000002	IEA	InterPro:IPR012287	P	Homeobox protein pal-1	pal-1|ceh-3|C38D4.6|PAL1_CAEEL|C9IY23|Q18513|Q65ZB9	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P34766	pal-1		GO:0006350	GO_REF:0000004	IEA	SP_KW:KW-0804	P	Homeobox protein pal-1	pal-1|ceh-3|C38D4.6|PAL1_CAEEL|C9IY23|Q18513|Q65ZB9	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P34766	pal-1		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR017970	P	Homeobox protein pal-1	pal-1|ceh-3|C38D4.6|PAL1_CAEEL|C9IY23|Q18513|Q65ZB9	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P34766	pal-1		GO:0045449	GO_REF:0000004	IEA	SP_KW:KW-0805	P	Homeobox protein pal-1	pal-1|ceh-3|C38D4.6|PAL1_CAEEL|C9IY23|Q18513|Q65ZB9	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P34766	pal-1		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Homeobox protein pal-1	pal-1|ceh-3|C38D4.6|PAL1_CAEEL|C9IY23|Q18513|Q65ZB9	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P34766	pal-1		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR001356	P	Homeobox protein pal-1	pal-1|ceh-3|C38D4.6|PAL1_CAEEL|C9IY23|Q18513|Q65ZB9	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O44128	lip-1		GO:0016311	GO_REF:0000002	IEA	InterPro:IPR000387	P	Lateral-signal-induced phosphatase protein 1	lip-1|C05B10.1|O44128_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O44128	lip-1		GO:0006470	GO_REF:0000002	IEA	InterPro:IPR008343	P	Lateral-signal-induced phosphatase protein 1	lip-1|C05B10.1|O44128_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O44128	lip-1		GO:0006470	GO_REF:0000002	IEA	InterPro:IPR020422	P	Lateral-signal-induced phosphatase protein 1	lip-1|C05B10.1|O44128_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O44128	lip-1		GO:0006470	GO_REF:0000002	IEA	InterPro:IPR000340	P	Lateral-signal-induced phosphatase protein 1	lip-1|C05B10.1|O44128_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O44128	lip-1		GO:0006470	GO_REF:0000002	IEA	InterPro:IPR020417	P	Lateral-signal-induced phosphatase protein 1	lip-1|C05B10.1|O44128_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P34709	tra-2		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Sex-determining transformer protein 2	tra-2|C15F1.3|TRA2_CAEEL|Q8STA8|Q8STE2|Q8T5X5|Q8T5X6|Q8T5X7|Q8T5X8|Q8T5X9|Q8T5Y0|Q8T5Y1|Q8T5Y2|Q8T5Y3|Q8T5Y4|Q8T5Y5|Q9N5Y5	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P34709	tra-2		GO:0030154	GO_REF:0000004	IEA	SP_KW:KW-0221	P	Sex-determining transformer protein 2	tra-2|C15F1.3|TRA2_CAEEL|Q8STA8|Q8STE2|Q8T5X5|Q8T5X6|Q8T5X7|Q8T5X8|Q8T5X9|Q8T5Y0|Q8T5Y1|Q8T5Y2|Q8T5Y3|Q8T5Y4|Q8T5Y5|Q9N5Y5	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P34709	tra-2		GO:0007548	GO_REF:0000004	IEA	SP_KW:KW-0726	P	Sex-determining transformer protein 2	tra-2|C15F1.3|TRA2_CAEEL|Q8STA8|Q8STE2|Q8T5X5|Q8T5X6|Q8T5X7|Q8T5X8|Q8T5X9|Q8T5Y0|Q8T5Y1|Q8T5Y2|Q8T5Y3|Q8T5Y4|Q8T5Y5|Q9N5Y5	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P34709	tra-2		GO:0007283	GO_REF:0000004	IEA	SP_KW:KW-0744	P	Sex-determining transformer protein 2	tra-2|C15F1.3|TRA2_CAEEL|Q8STA8|Q8STE2|Q8T5X5|Q8T5X6|Q8T5X7|Q8T5X8|Q8T5X9|Q8T5Y0|Q8T5Y1|Q8T5Y2|Q8T5Y3|Q8T5Y4|Q8T5Y5|Q9N5Y5	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q9XW45	hsf-1		GO:0006950	GO_REF:0000004	IEA	SP_KW:KW-0346	P	Heat shock transcription factor 1	hsf-1|Y53C10A.12|Q9XW45_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q9XW45	hsf-1		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR000232	P	Heat shock transcription factor 1	hsf-1|Y53C10A.12|Q9XW45_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P02513	hsp-16.48		GO:0009408	GO_REF:0000002	IEA	InterPro:IPR001436	P	Heat shock protein Hsp-16.48/Hsp-16.49	hsp-16.48|hsp-16.49|hsp16-48b|T27E4.9|T27E4.3|hsp16-48|hsp16-48a|hsp16-49|HSP17_CAEEL|Q27922	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P02513	hsp-16.48		GO:0006950	GO_REF:0000004	IEA	SP_KW:KW-0346	P	Heat shock protein Hsp-16.48/Hsp-16.49	hsp-16.48|hsp-16.49|hsp16-48b|T27E4.9|T27E4.3|hsp16-48|hsp16-48a|hsp16-49|HSP17_CAEEL|Q27922	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q21017	kin-29		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR002290	P	Serine/threonine-protein kinase kin-29	kin-29|sma-11|F58H12.1|KIN29_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q21017	kin-29		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017441	P	Serine/threonine-protein kinase kin-29	kin-29|sma-11|F58H12.1|KIN29_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q21017	kin-29		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR008271	P	Serine/threonine-protein kinase kin-29	kin-29|sma-11|F58H12.1|KIN29_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q21017	kin-29		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017442	P	Serine/threonine-protein kinase kin-29	kin-29|sma-11|F58H12.1|KIN29_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q21017	kin-29		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Serine/threonine-protein kinase kin-29	kin-29|sma-11|F58H12.1|KIN29_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q21017	kin-29		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR000719	P	Serine/threonine-protein kinase kin-29	kin-29|sma-11|F58H12.1|KIN29_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O45718	apb-3		GO:0015031	GO_REF:0000002	IEA	InterPro:IPR017108	P	Protein R11A5.1a, partially confirmed by transcript evidence	apb-3|R11A5.1a|R11A5.1|O45718_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O45718	apb-3		GO:0006886	GO_REF:0000002	IEA	InterPro:IPR002553	P	Protein R11A5.1a, partially confirmed by transcript evidence	apb-3|R11A5.1a|R11A5.1|O45718_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O45718	apb-3		GO:0006897	GO_REF:0000002	IEA	InterPro:IPR017108	P	Protein R11A5.1a, partially confirmed by transcript evidence	apb-3|R11A5.1a|R11A5.1|O45718_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O45718	apb-3		GO:0016192	GO_REF:0000002	IEA	InterPro:IPR002553	P	Protein R11A5.1a, partially confirmed by transcript evidence	apb-3|R11A5.1a|R11A5.1|O45718_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q02330	sma-2		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR013019	P	Dwarfin sma-2	sma-2|cem-1|PAR2.2|ZK370.2/ZK370.1|SMA2_CAEEL|Q02329	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q02330	sma-2		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR003619	P	Dwarfin sma-2	sma-2|cem-1|PAR2.2|ZK370.2/ZK370.1|SMA2_CAEEL|Q02329	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q02330	sma-2		GO:0045449	GO_REF:0000004	IEA	SP_KW:KW-0805	P	Dwarfin sma-2	sma-2|cem-1|PAR2.2|ZK370.2/ZK370.1|SMA2_CAEEL|Q02329	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q02330	sma-2		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR001132	P	Dwarfin sma-2	sma-2|cem-1|PAR2.2|ZK370.2/ZK370.1|SMA2_CAEEL|Q02329	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q02330	sma-2		GO:0007179	GO_REF:0000002	IEA	InterPro:IPR013019	P	Dwarfin sma-2	sma-2|cem-1|PAR2.2|ZK370.2/ZK370.1|SMA2_CAEEL|Q02329	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q02330	sma-2		GO:0006350	GO_REF:0000004	IEA	SP_KW:KW-0804	P	Dwarfin sma-2	sma-2|cem-1|PAR2.2|ZK370.2/ZK370.1|SMA2_CAEEL|Q02329	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q02330	sma-2		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR013790	P	Dwarfin sma-2	sma-2|cem-1|PAR2.2|ZK370.2/ZK370.1|SMA2_CAEEL|Q02329	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9U3C6	hpl-2		GO:0006333	GO_REF:0000002	IEA	InterPro:IPR000953	P	Protein K01G5.2c, confirmed by transcript evidence	hpl-2|K01G5.2|K01G5.2c|Q9U3C6_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P34690	tba-2		GO:0051258	GO_REF:0000002	IEA	InterPro:IPR018316	P	Tubulin alpha-2 chain	tba-2|C47B2.3|TBA2_CAEEL|Q95QR1	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P34690	tba-2		GO:0051258	GO_REF:0000002	IEA	InterPro:IPR008280	P	Tubulin alpha-2 chain	tba-2|C47B2.3|TBA2_CAEEL|Q95QR1	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P34690	tba-2		GO:0007017	GO_REF:0000002	IEA	InterPro:IPR017975	P	Tubulin alpha-2 chain	tba-2|C47B2.3|TBA2_CAEEL|Q95QR1	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P34690	tba-2		GO:0007018	GO_REF:0000002	IEA	InterPro:IPR002452	P	Tubulin alpha-2 chain	tba-2|C47B2.3|TBA2_CAEEL|Q95QR1	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P34690	tba-2		GO:0007017	GO_REF:0000002	IEA	InterPro:IPR000217	P	Tubulin alpha-2 chain	tba-2|C47B2.3|TBA2_CAEEL|Q95QR1	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P34690	tba-2		GO:0051258	GO_REF:0000002	IEA	InterPro:IPR003008	P	Tubulin alpha-2 chain	tba-2|C47B2.3|TBA2_CAEEL|Q95QR1	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P34684	lin-39		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR001356	P	Homeobox protein lin-39	lin-39|C07H6.7|ceh-15|LIN39_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P34684	lin-39		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR017995	P	Homeobox protein lin-39	lin-39|C07H6.7|ceh-15|LIN39_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P34684	lin-39		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR001827	P	Homeobox protein lin-39	lin-39|C07H6.7|ceh-15|LIN39_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P34684	lin-39		GO:0045449	GO_REF:0000002	IEA	InterPro:IPR012287	P	Homeobox protein lin-39	lin-39|C07H6.7|ceh-15|LIN39_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P34684	lin-39		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR017970	P	Homeobox protein lin-39	lin-39|C07H6.7|ceh-15|LIN39_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P34684	lin-39		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Homeobox protein lin-39	lin-39|C07H6.7|ceh-15|LIN39_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q9U2W6	psa-1		GO:0045449	GO_REF:0000002	IEA	InterPro:IPR012287	P	Protein Y113G7B.23, confirmed by transcript evidence	psa-1|Y113G7B.23|Q9U2W6_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P48376	clk-1		GO:0019538	GO_REF:0000002	IEA	InterPro:IPR011566	P	Ubiquinone biosynthesis protein COQ7 homolog	clk-1|ZC395.2|COQ7_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P48376	clk-1		GO:0006744	GO_REF:0000002	IEA	InterPro:IPR011566	P	Ubiquinone biosynthesis protein COQ7 homolog	clk-1|ZC395.2|COQ7_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P48376	clk-1		GO:0006744	GO_REF:0000004	IEA	SP_KW:KW-0831	P	Ubiquinone biosynthesis protein COQ7 homolog	clk-1|ZC395.2|COQ7_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P48376	clk-1		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR009078	P	Ubiquinone biosynthesis protein COQ7 homolog	clk-1|ZC395.2|COQ7_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P48376	clk-1		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR011566	P	Ubiquinone biosynthesis protein COQ7 homolog	clk-1|ZC395.2|COQ7_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9GZC8	sid-1		GO:0031047	GO_REF:0000004	IEA	SP_KW:KW-0943	P	Systemic RNA interference defective protein 1	sid-1|C04F5.1|SID1_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P10038	mab-5		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR001827	P	Homeobox protein mab-5	mab-5|C08C3.3|MAB5_CAEEL|Q9GZ02	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P10038	mab-5		GO:0045449	GO_REF:0000002	IEA	InterPro:IPR012287	P	Homeobox protein mab-5	mab-5|C08C3.3|MAB5_CAEEL|Q9GZ02	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P10038	mab-5		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR001356	P	Homeobox protein mab-5	mab-5|C08C3.3|MAB5_CAEEL|Q9GZ02	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P10038	mab-5		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Homeobox protein mab-5	mab-5|C08C3.3|MAB5_CAEEL|Q9GZ02	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P10038	mab-5		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR017970	P	Homeobox protein mab-5	mab-5|C08C3.3|MAB5_CAEEL|Q9GZ02	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q21302	xpa-1		GO:0006289	GO_REF:0000002	IEA	InterPro:IPR000465	P	Protein K07G5.2, confirmed by transcript evidence	K07G5.2|xpa-1|Q21302_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q21370	hpl-1		GO:0006333	GO_REF:0000002	IEA	InterPro:IPR000953	P	Heterochromatin protein 1 homolog	hpl-1|K08H2.6|Q21370_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9XYD3	hbl-1		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Hunchback-like protein	hbl-1|F13D11.2|HBL1_CAEEL|Q19389	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q95XP4	mab-20		GO:0007275	GO_REF:0000002	IEA	InterPro:IPR016201	P	Semaphorin-2A	mab-20|Y71G12B.20|SEM2A_CAEEL|Q86LT8|Q9NI38	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q95XP4	mab-20		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Semaphorin-2A	mab-20|Y71G12B.20|SEM2A_CAEEL|Q86LT8|Q9NI38	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q18685	unc-112		GO:0007155	GO_REF:0000004	IEA	SP_KW:KW-0130	P	Protein unc-112	unc-112|C47E8.7|UN112_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	O61213	bli-3		GO:0006979	GO_REF:0000002	IEA	InterPro:IPR010255	P	Dual oxidase 1	bli-3|F56C11.1|DUOX1_CAEEL|Q9NH90	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O61213	bli-3		GO:0055114	GO_REF:0000004	IEA	SP_KW:KW-0560	P	Dual oxidase 1	bli-3|F56C11.1|DUOX1_CAEEL|Q9NH90	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	O61213	bli-3		GO:0006979	GO_REF:0000002	IEA	InterPro:IPR019791	P	Dual oxidase 1	bli-3|F56C11.1|DUOX1_CAEEL|Q9NH90	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O61213	bli-3		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR002007	P	Dual oxidase 1	bli-3|F56C11.1|DUOX1_CAEEL|Q9NH90	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O61213	bli-3		GO:0042744	GO_REF:0000004	IEA	SP_KW:KW-0376	P	Dual oxidase 1	bli-3|F56C11.1|DUOX1_CAEEL|Q9NH90	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	O61213	bli-3		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR010255	P	Dual oxidase 1	bli-3|F56C11.1|DUOX1_CAEEL|Q9NH90	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O61213	bli-3		GO:0006979	GO_REF:0000002	IEA	InterPro:IPR002007	P	Dual oxidase 1	bli-3|F56C11.1|DUOX1_CAEEL|Q9NH90	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O61213	bli-3		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR017927	P	Dual oxidase 1	bli-3|F56C11.1|DUOX1_CAEEL|Q9NH90	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O61213	bli-3		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR019791	P	Dual oxidase 1	bli-3|F56C11.1|DUOX1_CAEEL|Q9NH90	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O44516	efn-4		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Ephrin-4	efn-4|F56A11.3|mab-26|EFN4_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q18825	bar-1		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Beta-catenin/armadillo-related protein 1	bar-1|pvl-1|C54D1.6|spy-1|BAR1_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q18825	bar-1		GO:0045449	GO_REF:0000004	IEA	SP_KW:KW-0805	P	Beta-catenin/armadillo-related protein 1	bar-1|pvl-1|C54D1.6|spy-1|BAR1_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q18825	bar-1		GO:0016055	GO_REF:0000004	IEA	SP_KW:KW-0879	P	Beta-catenin/armadillo-related protein 1	bar-1|pvl-1|C54D1.6|spy-1|BAR1_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q18825	bar-1		GO:0006350	GO_REF:0000004	IEA	SP_KW:KW-0804	P	Beta-catenin/armadillo-related protein 1	bar-1|pvl-1|C54D1.6|spy-1|BAR1_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q9GYG3	gro-1		GO:0008033	GO_REF:0000020	IEA	HAMAP:MF_00185	P	Abnormal growth rate protein 1	gro-1|ZC395.6|Q9GYG3_CAEEL|Q95UF6	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q9GYG3	gro-1		GO:0008033	GO_REF:0000002	IEA	InterPro:IPR002627	P	Abnormal growth rate protein 1	gro-1|ZC395.6|Q9GYG3_CAEEL|Q95UF6	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P34544	met-2		GO:0016568	GO_REF:0000002	IEA	InterPro:IPR007728	P	Probable histone-lysine N-methyltransferase met-2	met-2|R05D3.11|MET2_CAEEL|Q8WTP5	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P34544	met-2		GO:0016568	GO_REF:0000002	IEA	InterPro:IPR003606	P	Probable histone-lysine N-methyltransferase met-2	met-2|R05D3.11|MET2_CAEEL|Q8WTP5	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q8I4N4	daf-11		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR000719	P	Protein B0240.3, partially confirmed by transcript evidence	daf-11|B0240.3|Q8I4N4_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q8I4N4	daf-11		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR001245	P	Protein B0240.3, partially confirmed by transcript evidence	daf-11|B0240.3|Q8I4N4_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q8I4N4	daf-11		GO:0009190	GO_REF:0000002	IEA	InterPro:IPR001054	P	Protein B0240.3, partially confirmed by transcript evidence	daf-11|B0240.3|Q8I4N4_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q94156	ttx-3		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR001356	P	Protein C40H5.5a, confirmed by transcript evidence	ttx-3|C40H5.5a|C40H5.5|Q94156_CAEEL|Q9U3M5	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q94156	ttx-3		GO:0045449	GO_REF:0000002	IEA	InterPro:IPR012287	P	Protein C40H5.5a, confirmed by transcript evidence	ttx-3|C40H5.5a|C40H5.5|Q94156_CAEEL|Q9U3M5	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q94156	ttx-3		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR017970	P	Protein C40H5.5a, confirmed by transcript evidence	ttx-3|C40H5.5a|C40H5.5|Q94156_CAEEL|Q9U3M5	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P22981	let-60		GO:0007264	GO_REF:0000002	IEA	InterPro:IPR001806	P	Ras protein let-60	let-60|ZK792.6|lin-34|LET60_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P22981	let-60		GO:0007165	GO_REF:0000002	IEA	InterPro:IPR020849	P	Ras protein let-60	let-60|ZK792.6|lin-34|LET60_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P22981	let-60		GO:0007264	GO_REF:0000002	IEA	InterPro:IPR003577	P	Ras protein let-60	let-60|ZK792.6|lin-34|LET60_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q94132	lin-17		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Abnormal cell lineage protein 17, isoform a, confirmed by transcript evidence	lin-17|Y71F9B.5|Q94132_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q94132	lin-17		GO:0016055	GO_REF:0000004	IEA	SP_KW:KW-0879	P	Abnormal cell lineage protein 17, isoform a, confirmed by transcript evidence	lin-17|Y71F9B.5|Q94132_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q94132	lin-17		GO:0007186	GO_REF:0000004	IEA	SP_KW:KW-0297	P	Abnormal cell lineage protein 17, isoform a, confirmed by transcript evidence	lin-17|Y71F9B.5|Q94132_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q94132	lin-17		GO:0007166	GO_REF:0000002	IEA	InterPro:IPR017981	P	Abnormal cell lineage protein 17, isoform a, confirmed by transcript evidence	lin-17|Y71F9B.5|Q94132_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q94132	lin-17		GO:0007166	GO_REF:0000002	IEA	InterPro:IPR000539	P	Abnormal cell lineage protein 17, isoform a, confirmed by transcript evidence	lin-17|Y71F9B.5|Q94132_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q94132	lin-17		GO:0007165	GO_REF:0000004	IEA	SP_KW:KW-0807	P	Abnormal cell lineage protein 17, isoform a, confirmed by transcript evidence	lin-17|Y71F9B.5|Q94132_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q21227	apr-1		GO:0007049	GO_REF:0000004	IEA	SP_KW:KW-0131	P	Adenomatous polyposis coli protein-related protein 1	apr-1|K04G2.8|APR1_CAEEL|O62302	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q21227	apr-1		GO:0016055	GO_REF:0000004	IEA	SP_KW:KW-0879	P	Adenomatous polyposis coli protein-related protein 1	apr-1|K04G2.8|APR1_CAEEL|O62302	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q21227	apr-1		GO:0051301	GO_REF:0000004	IEA	SP_KW:KW-0132	P	Adenomatous polyposis coli protein-related protein 1	apr-1|K04G2.8|APR1_CAEEL|O62302	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q21227	apr-1		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Adenomatous polyposis coli protein-related protein 1	apr-1|K04G2.8|APR1_CAEEL|O62302	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q21227	apr-1		GO:0006810	GO_REF:0000004	IEA	SP_KW:KW-0813	P	Adenomatous polyposis coli protein-related protein 1	apr-1|K04G2.8|APR1_CAEEL|O62302	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q21227	apr-1		GO:0015031	GO_REF:0000004	IEA	SP_KW:KW-0653	P	Adenomatous polyposis coli protein-related protein 1	apr-1|K04G2.8|APR1_CAEEL|O62302	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q21219	pept-1		GO:0006857	GO_REF:0000002	IEA	InterPro:IPR004768	P	Peptide transporter family 1	pept-1|cptb|K04E7.2|pep-2|PEPT1_CAEEL|O76186	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q21219	pept-1		GO:0015833	GO_REF:0000004	IEA	SP_KW:KW-0571	P	Peptide transporter family 1	pept-1|cptb|K04E7.2|pep-2|PEPT1_CAEEL|O76186	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q21219	pept-1		GO:0006857	GO_REF:0000002	IEA	InterPro:IPR000109	P	Peptide transporter family 1	pept-1|cptb|K04E7.2|pep-2|PEPT1_CAEEL|O76186	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q21219	pept-1		GO:0006810	GO_REF:0000004	IEA	SP_KW:KW-0813	P	Peptide transporter family 1	pept-1|cptb|K04E7.2|pep-2|PEPT1_CAEEL|O76186	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q21219	pept-1		GO:0006857	GO_REF:0000002	IEA	InterPro:IPR018456	P	Peptide transporter family 1	pept-1|cptb|K04E7.2|pep-2|PEPT1_CAEEL|O76186	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q21219	pept-1		GO:0015031	GO_REF:0000004	IEA	SP_KW:KW-0653	P	Peptide transporter family 1	pept-1|cptb|K04E7.2|pep-2|PEPT1_CAEEL|O76186	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q03611	tax-4		GO:0006811	GO_REF:0000004	IEA	SP_KW:KW-0406	P	Cyclic nucleotide-gated cation channel	tax-4|ZC84.2|CNG_CAEEL|P90800	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q03611	tax-4		GO:0006813	GO_REF:0000002	IEA	InterPro:IPR003938	P	Cyclic nucleotide-gated cation channel	tax-4|ZC84.2|CNG_CAEEL|P90800	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q03611	tax-4		GO:0006810	GO_REF:0000004	IEA	SP_KW:KW-0813	P	Cyclic nucleotide-gated cation channel	tax-4|ZC84.2|CNG_CAEEL|P90800	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q03611	tax-4		GO:0055085	GO_REF:0000002	IEA	InterPro:IPR005821	P	Cyclic nucleotide-gated cation channel	tax-4|ZC84.2|CNG_CAEEL|P90800	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q03611	tax-4		GO:0006811	GO_REF:0000002	IEA	InterPro:IPR005821	P	Cyclic nucleotide-gated cation channel	tax-4|ZC84.2|CNG_CAEEL|P90800	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O02100	hop-1		GO:0007219	GO_REF:0000004	IEA	SP_KW:KW-0914	P	Presenilin hop-1	hop-1|C18E3.8|HOP1_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	O44405	daf-18		GO:0016311	GO_REF:0000002	IEA	InterPro:IPR016130	P	Abnormal dauer formation protein 18	daf-18|T07A9.6|O44405_CAEEL|Q9TVU8	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O44405	daf-18		GO:0006470	GO_REF:0000002	IEA	InterPro:IPR000242	P	Abnormal dauer formation protein 18	daf-18|T07A9.6|O44405_CAEEL|Q9TVU8	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q17386	egl-30		GO:0007186	GO_REF:0000002	IEA	InterPro:IPR000654	P	EGL-30	egl-30|M01D7.7|Q17386_CAEEL|O02546	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q17386	egl-30		GO:0007186	GO_REF:0000002	IEA	InterPro:IPR001019	P	EGL-30	egl-30|M01D7.7|Q17386_CAEEL|O02546	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q17386	egl-30		GO:0007165	GO_REF:0000002	IEA	InterPro:IPR011025	P	EGL-30	egl-30|M01D7.7|Q17386_CAEEL|O02546	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q17386	egl-30		GO:0006471	GO_REF:0000002	IEA	InterPro:IPR000654	P	EGL-30	egl-30|M01D7.7|Q17386_CAEEL|O02546	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q17381	pha-4		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Defective pharyngeal development protein 4	pha-4|fkh-1|F38A6.1|PHA4_CAEEL|Q1HAZ5|Q1HAZ6	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q17381	pha-4		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR001766	P	Defective pharyngeal development protein 4	pha-4|fkh-1|F38A6.1|PHA4_CAEEL|Q1HAZ5|Q1HAZ6	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q17381	pha-4		GO:0006350	GO_REF:0000004	IEA	SP_KW:KW-0804	P	Defective pharyngeal development protein 4	pha-4|fkh-1|F38A6.1|PHA4_CAEEL|Q1HAZ5|Q1HAZ6	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q17381	pha-4		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR018122	P	Defective pharyngeal development protein 4	pha-4|fkh-1|F38A6.1|PHA4_CAEEL|Q1HAZ5|Q1HAZ6	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q17381	pha-4		GO:0045449	GO_REF:0000004	IEA	SP_KW:KW-0805	P	Defective pharyngeal development protein 4	pha-4|fkh-1|F38A6.1|PHA4_CAEEL|Q1HAZ5|Q1HAZ6	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	O17386	ced-8		GO:0006915	GO_REF:0000004	IEA	SP_KW:KW-0053	P	Cell death abnormality protein 8	ced-8|F08F1.5|CED8_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q03563	spk-1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017442	P	Serine/threonine-protein kinase spk-1	spk-1|B0464.5|rsk-1|srk-1|SPK1_CAEEL|Q9XVX9|Q9XVY0	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q03563	spk-1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017441	P	Serine/threonine-protein kinase spk-1	spk-1|B0464.5|rsk-1|srk-1|SPK1_CAEEL|Q9XVX9|Q9XVY0	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q03563	spk-1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR000719	P	Serine/threonine-protein kinase spk-1	spk-1|B0464.5|rsk-1|srk-1|SPK1_CAEEL|Q9XVX9|Q9XVY0	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q03563	spk-1		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Serine/threonine-protein kinase spk-1	spk-1|B0464.5|rsk-1|srk-1|SPK1_CAEEL|Q9XVX9|Q9XVY0	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q03563	spk-1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR008271	P	Serine/threonine-protein kinase spk-1	spk-1|B0464.5|rsk-1|srk-1|SPK1_CAEEL|Q9XVX9|Q9XVY0	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q18409	rsp-6		GO:0007548	GO_REF:0000004	IEA	SP_KW:KW-0726	P	Probable splicing factor, arginine/serine-rich 6	rsp-6|srp-1|C33H5.12|RSP6_CAEEL|Q8WSW0|Q8WSW1	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q18409	rsp-6		GO:0006397	GO_REF:0000004	IEA	SP_KW:KW-0507	P	Probable splicing factor, arginine/serine-rich 6	rsp-6|srp-1|C33H5.12|RSP6_CAEEL|Q8WSW0|Q8WSW1	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q18409	rsp-6		GO:0030154	GO_REF:0000004	IEA	SP_KW:KW-0221	P	Probable splicing factor, arginine/serine-rich 6	rsp-6|srp-1|C33H5.12|RSP6_CAEEL|Q8WSW0|Q8WSW1	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q18409	rsp-6		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Probable splicing factor, arginine/serine-rich 6	rsp-6|srp-1|C33H5.12|RSP6_CAEEL|Q8WSW0|Q8WSW1	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q18409	rsp-6		GO:0008380	GO_REF:0000004	IEA	SP_KW:KW-0508	P	Probable splicing factor, arginine/serine-rich 6	rsp-6|srp-1|C33H5.12|RSP6_CAEEL|Q8WSW0|Q8WSW1	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P90892	fax-1		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR013088	P	Defective fasciculation of axons protein 1	fax-1|F56E3.4|P90892_CAEEL|Q9U4I0	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P90892	fax-1		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR008946	P	Defective fasciculation of axons protein 1	fax-1|F56E3.4|P90892_CAEEL|Q9U4I0	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P90892	fax-1		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR001628	P	Defective fasciculation of axons protein 1	fax-1|F56E3.4|P90892_CAEEL|Q9U4I0	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P90892	fax-1		GO:0006350	GO_REF:0000004	IEA	SP_KW:KW-0804	P	Defective fasciculation of axons protein 1	fax-1|F56E3.4|P90892_CAEEL|Q9U4I0	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P90892	fax-1		GO:0045449	GO_REF:0000004	IEA	SP_KW:KW-0805	P	Defective fasciculation of axons protein 1	fax-1|F56E3.4|P90892_CAEEL|Q9U4I0	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q21591	atg-7		GO:0008152	GO_REF:0000002	IEA	InterPro:IPR016040	P	Protein M7.5, confirmed by transcript evidence	atg-7|M7.5|atgr-7|Q21591_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P90851	sur-6		GO:0007165	GO_REF:0000002	IEA	InterPro:IPR000009	P	PP2A-B regulatory subunit PR55/B	sur-6|F26E4.1|P90851_CAEEL|P90903	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q968Y9	daf-2		GO:0005975	GO_REF:0000004	IEA	SP_KW:KW-0119	P	Insulin-like receptor	daf-2|Y55D5A.5|INSR_CAEEL|B5QS63|O16131	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q968Y9	daf-2		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR000719	P	Insulin-like receptor	daf-2|Y55D5A.5|INSR_CAEEL|B5QS63|O16131	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q968Y9	daf-2		GO:0045087	GO_REF:0000004	IEA	SP_KW:KW-0399	P	Insulin-like receptor	daf-2|Y55D5A.5|INSR_CAEEL|B5QS63|O16131	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q968Y9	daf-2		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR008266	P	Insulin-like receptor	daf-2|Y55D5A.5|INSR_CAEEL|B5QS63|O16131	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q968Y9	daf-2		GO:0007169	GO_REF:0000002	IEA	InterPro:IPR006211	P	Insulin-like receptor	daf-2|Y55D5A.5|INSR_CAEEL|B5QS63|O16131	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q968Y9	daf-2		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR001245	P	Insulin-like receptor	daf-2|Y55D5A.5|INSR_CAEEL|B5QS63|O16131	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q968Y9	daf-2		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR006211	P	Insulin-like receptor	daf-2|Y55D5A.5|INSR_CAEEL|B5QS63|O16131	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q968Y9	daf-2		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Insulin-like receptor	daf-2|Y55D5A.5|INSR_CAEEL|B5QS63|O16131	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q9U298	eat-2		GO:0006811	GO_REF:0000002	IEA	InterPro:IPR006201	P	Neuronal acetylcholine receptor subunit eat-2	eat-2|Y48B6A.4|ACH8_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9U298	eat-2		GO:0006811	GO_REF:0000004	IEA	SP_KW:KW-0406	P	Neuronal acetylcholine receptor subunit eat-2	eat-2|Y48B6A.4|ACH8_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q9U298	eat-2		GO:0006811	GO_REF:0000002	IEA	InterPro:IPR002394	P	Neuronal acetylcholine receptor subunit eat-2	eat-2|Y48B6A.4|ACH8_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9U298	eat-2		GO:0006810	GO_REF:0000004	IEA	SP_KW:KW-0813	P	Neuronal acetylcholine receptor subunit eat-2	eat-2|Y48B6A.4|ACH8_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q9U298	eat-2		GO:0006811	GO_REF:0000002	IEA	InterPro:IPR018000	P	Neuronal acetylcholine receptor subunit eat-2	eat-2|Y48B6A.4|ACH8_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9U298	eat-2		GO:0006811	GO_REF:0000002	IEA	InterPro:IPR006029	P	Neuronal acetylcholine receptor subunit eat-2	eat-2|Y48B6A.4|ACH8_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9U298	eat-2		GO:0006810	GO_REF:0000002	IEA	InterPro:IPR006202	P	Neuronal acetylcholine receptor subunit eat-2	eat-2|Y48B6A.4|ACH8_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q17551	rpm-1		GO:0006350	GO_REF:0000004	IEA	SP_KW:KW-0804	P	E3 ubiquitin-protein ligase rpm-1	rpm-1|syd-3|C01B7.6|RPM1_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q17551	rpm-1		GO:0045449	GO_REF:0000004	IEA	SP_KW:KW-0805	P	E3 ubiquitin-protein ligase rpm-1	rpm-1|syd-3|C01B7.6|RPM1_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q17551	rpm-1		GO:0030071	GO_REF:0000002	IEA	InterPro:IPR004939	P	E3 ubiquitin-protein ligase rpm-1	rpm-1|syd-3|C01B7.6|RPM1_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P90979	mig-2		GO:0007264	GO_REF:0000002	IEA	InterPro:IPR003578	P	Protein C35C5.4, partially confirmed by transcript evidence	mig-2|MIG-2|C35C5.4|P90979_CAEEL|Q93328	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P90979	mig-2		GO:0007264	GO_REF:0000002	IEA	InterPro:IPR001806	P	Protein C35C5.4, partially confirmed by transcript evidence	mig-2|MIG-2|C35C5.4|P90979_CAEEL|Q93328	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O18688	tba-1		GO:0051258	GO_REF:0000002	IEA	InterPro:IPR018316	P	Protein F26E4.8, confirmed by transcript evidence	tba-1|F26E4.8|O18688_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O18688	tba-1		GO:0051258	GO_REF:0000002	IEA	InterPro:IPR008280	P	Protein F26E4.8, confirmed by transcript evidence	tba-1|F26E4.8|O18688_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O18688	tba-1		GO:0007018	GO_REF:0000002	IEA	InterPro:IPR002452	P	Protein F26E4.8, confirmed by transcript evidence	tba-1|F26E4.8|O18688_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O18688	tba-1		GO:0007017	GO_REF:0000002	IEA	InterPro:IPR000217	P	Protein F26E4.8, confirmed by transcript evidence	tba-1|F26E4.8|O18688_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O18688	tba-1		GO:0051258	GO_REF:0000002	IEA	InterPro:IPR003008	P	Protein F26E4.8, confirmed by transcript evidence	tba-1|F26E4.8|O18688_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O18688	tba-1		GO:0007017	GO_REF:0000002	IEA	InterPro:IPR017975	P	Protein F26E4.8, confirmed by transcript evidence	tba-1|F26E4.8|O18688_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q17588	hlh-2		GO:0045449	GO_REF:0000002	IEA	InterPro:IPR011598	P	Protein M05B5.5a, confirmed by transcript evidence	hlh-2|M05B5.5|M05B5.5a|Q17588_CAEEL|Q21519	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q17588	hlh-2		GO:0045449	GO_REF:0000002	IEA	InterPro:IPR001092	P	Protein M05B5.5a, confirmed by transcript evidence	hlh-2|M05B5.5|M05B5.5a|Q17588_CAEEL|Q21519	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P50488	daf-4		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR008271	P	Cell surface receptor daf-4	daf-4|C05D2.1|DAF4_CAEEL|O45139	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P50488	daf-4		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Cell surface receptor daf-4	daf-4|C05D2.1|DAF4_CAEEL|O45139	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P50488	daf-4		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017442	P	Cell surface receptor daf-4	daf-4|C05D2.1|DAF4_CAEEL|O45139	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P50488	daf-4		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR000719	P	Cell surface receptor daf-4	daf-4|C05D2.1|DAF4_CAEEL|O45139	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q20363	sip-1		GO:0009408	GO_REF:0000002	IEA	InterPro:IPR001436	P	Stress-induced protein 1	sip-1|F43D9.4|SIP1_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q965J5	lin-1		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR000418	P	Abnormal cell lineage protein 1	lin-1|C37F5.1|Q965J5_CAEEL|O61805|Q27378	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P34278	knl-1		GO:0007059	GO_REF:0000004	IEA	SP_KW:KW-0159	P	Kinetochore null protein 1	knl-1|C02F5.1|KNL1_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P34278	knl-1		GO:0007067	GO_REF:0000004	IEA	SP_KW:KW-0498	P	Kinetochore null protein 1	knl-1|C02F5.1|KNL1_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P34278	knl-1		GO:0007049	GO_REF:0000004	IEA	SP_KW:KW-0131	P	Kinetochore null protein 1	knl-1|C02F5.1|KNL1_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P34278	knl-1		GO:0051301	GO_REF:0000004	IEA	SP_KW:KW-0132	P	Kinetochore null protein 1	knl-1|C02F5.1|KNL1_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P34278	knl-1		GO:0007126	GO_REF:0000004	IEA	SP_KW:KW-0469	P	Kinetochore null protein 1	knl-1|C02F5.1|KNL1_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q8MQ04	zen-4		GO:0007018	GO_REF:0000002	IEA	InterPro:IPR019821	P	Zygotic epidermal enclosure defective protein 4, isoform c	M03D4.1|zen-4|Q8MQ04_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q8MQ04	zen-4		GO:0007018	GO_REF:0000002	IEA	InterPro:IPR001752	P	Zygotic epidermal enclosure defective protein 4, isoform c	M03D4.1|zen-4|Q8MQ04_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q06561	unc-52		GO:0007155	GO_REF:0000002	IEA	InterPro:IPR000034	P	Basement membrane proteoglycan	unc-52|ZC101.2|UNC52_CAEEL|O18261|O18263|Q6BEQ6|Q9U7E8|Q9XTD2|Q9XTI5	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q03206	ced-10		GO:0006909	GO_REF:0000004	IEA	SP_KW:KW-0581	P	Ras-related protein ced-10	ced-10|rac-1|C09G12.8|RAC1_CAEEL|O44463|O44464	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q03206	ced-10		GO:0006915	GO_REF:0000004	IEA	SP_KW:KW-0053	P	Ras-related protein ced-10	ced-10|rac-1|C09G12.8|RAC1_CAEEL|O44463|O44464	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q03206	ced-10		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Ras-related protein ced-10	ced-10|rac-1|C09G12.8|RAC1_CAEEL|O44463|O44464	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q03206	ced-10		GO:0007264	GO_REF:0000002	IEA	InterPro:IPR001806	P	Ras-related protein ced-10	ced-10|rac-1|C09G12.8|RAC1_CAEEL|O44463|O44464	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q03206	ced-10		GO:0007264	GO_REF:0000002	IEA	InterPro:IPR003578	P	Ras-related protein ced-10	ced-10|rac-1|C09G12.8|RAC1_CAEEL|O44463|O44464	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q09624	lov-1		GO:0007218	GO_REF:0000002	IEA	InterPro:IPR000203	P	Location of vulva defective 1	lov-1|pkd-1|ZK945.9/ZK945.10|LOV1_CAEEL|Q09625|Q969D4	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q09624	lov-1		GO:0007610	GO_REF:0000004	IEA	SP_KW:KW-0085	P	Location of vulva defective 1	lov-1|pkd-1|ZK945.9/ZK945.10|LOV1_CAEEL|Q09625|Q969D4	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q20646	cep-1		GO:0045449	GO_REF:0000004	IEA	SP_KW:KW-0805	P	Transcription factor cep-1	cep-1|F52B5.5|CEP1_CAEEL|Q564Z1|Q95V13	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q20646	cep-1		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR012346	P	Transcription factor cep-1	cep-1|F52B5.5|CEP1_CAEEL|Q564Z1|Q95V13	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q20646	cep-1		GO:0006350	GO_REF:0000004	IEA	SP_KW:KW-0804	P	Transcription factor cep-1	cep-1|F52B5.5|CEP1_CAEEL|Q564Z1|Q95V13	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q20646	cep-1		GO:0045449	GO_REF:0000002	IEA	InterPro:IPR008967	P	Transcription factor cep-1	cep-1|F52B5.5|CEP1_CAEEL|Q564Z1|Q95V13	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q20646	cep-1		GO:0006915	GO_REF:0000004	IEA	SP_KW:KW-0053	P	Transcription factor cep-1	cep-1|F52B5.5|CEP1_CAEEL|Q564Z1|Q95V13	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q93356	ceh-37		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR017970	P	Homeobox protein ceh-37	ceh-37|C37E2.5|HM37_CAEEL|P90773	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q93356	ceh-37		GO:0045449	GO_REF:0000002	IEA	InterPro:IPR012287	P	Homeobox protein ceh-37	ceh-37|C37E2.5|HM37_CAEEL|P90773	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q93356	ceh-37		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Homeobox protein ceh-37	ceh-37|C37E2.5|HM37_CAEEL|P90773	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q93356	ceh-37		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR001356	P	Homeobox protein ceh-37	ceh-37|C37E2.5|HM37_CAEEL|P90773	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q10953	wrm-1		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Armadillo repeat-containing protein wrm-1	wrm-1|B0336.1|WRM1_CAEEL|O16145	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q10953	wrm-1		GO:0045449	GO_REF:0000004	IEA	SP_KW:KW-0805	P	Armadillo repeat-containing protein wrm-1	wrm-1|B0336.1|WRM1_CAEEL|O16145	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q10953	wrm-1		GO:0006350	GO_REF:0000004	IEA	SP_KW:KW-0804	P	Armadillo repeat-containing protein wrm-1	wrm-1|B0336.1|WRM1_CAEEL|O16145	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q10953	wrm-1		GO:0016055	GO_REF:0000004	IEA	SP_KW:KW-0879	P	Armadillo repeat-containing protein wrm-1	wrm-1|B0336.1|WRM1_CAEEL|O16145	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P30630	lin-9		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Protein lin-9	lin-9|ZK637.7|LIN9_CAEEL|Q9NB37|Q9NB38	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P30630	lin-9		GO:0006350	GO_REF:0000004	IEA	SP_KW:KW-0804	P	Protein lin-9	lin-9|ZK637.7|LIN9_CAEEL|Q9NB37|Q9NB38	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P30630	lin-9		GO:0045449	GO_REF:0000004	IEA	SP_KW:KW-0805	P	Protein lin-9	lin-9|ZK637.7|LIN9_CAEEL|Q9NB37|Q9NB38	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q27365	lin-15A		GO:0007548	GO_REF:0000004	IEA	SP_KW:KW-0726	P	Protein lin-15A	lin-15A|ZK678.1|LI15A_CAEEL|Q21448	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q27365	lin-15A		GO:0030154	GO_REF:0000004	IEA	SP_KW:KW-0221	P	Protein lin-15A	lin-15A|ZK678.1|LI15A_CAEEL|Q21448	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q27365	lin-15A		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Protein lin-15A	lin-15A|ZK678.1|LI15A_CAEEL|Q21448	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q27395	lin-15B		GO:0030154	GO_REF:0000004	IEA	SP_KW:KW-0221	P	Protein lin-15B	lin-15B|ZK662.4|LI15B_CAEEL|Q94409|Q94414	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q27395	lin-15B		GO:0007548	GO_REF:0000004	IEA	SP_KW:KW-0726	P	Protein lin-15B	lin-15B|ZK662.4|LI15B_CAEEL|Q94409|Q94414	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q27395	lin-15B		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Protein lin-15B	lin-15B|ZK662.4|LI15B_CAEEL|Q94409|Q94414	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	O17695	hda-1		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Histone deacetylase 1	hda-1|C53A5.3|HDA1_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	O17695	hda-1		GO:0006350	GO_REF:0000004	IEA	SP_KW:KW-0804	P	Histone deacetylase 1	hda-1|C53A5.3|HDA1_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	O17695	hda-1		GO:0016575	GO_REF:0000002	IEA	InterPro:IPR003084	P	Histone deacetylase 1	hda-1|C53A5.3|HDA1_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O17695	hda-1		GO:0045449	GO_REF:0000004	IEA	SP_KW:KW-0805	P	Histone deacetylase 1	hda-1|C53A5.3|HDA1_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	O17695	hda-1		GO:0016568	GO_REF:0000004	IEA	SP_KW:KW-0156	P	Histone deacetylase 1	hda-1|C53A5.3|HDA1_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q05062	cdc-42		GO:0007264	GO_REF:0000002	IEA	InterPro:IPR001806	P	Cell division control protein 42 homolog	cdc-42|R07G3.1|CDC42_CAEEL|P91792	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q05062	cdc-42		GO:0007049	GO_REF:0000004	IEA	SP_KW:KW-0131	P	Cell division control protein 42 homolog	cdc-42|R07G3.1|CDC42_CAEEL|P91792	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q05062	cdc-42		GO:0007264	GO_REF:0000002	IEA	InterPro:IPR003578	P	Cell division control protein 42 homolog	cdc-42|R07G3.1|CDC42_CAEEL|P91792	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q05062	cdc-42		GO:0051301	GO_REF:0000004	IEA	SP_KW:KW-0132	P	Cell division control protein 42 homolog	cdc-42|R07G3.1|CDC42_CAEEL|P91792	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P45896	sma-3		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR013019	P	Dwarfin sma-3	sma-3|cem-2|R13F6.9|SMA3_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P45896	sma-3		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR013790	P	Dwarfin sma-3	sma-3|cem-2|R13F6.9|SMA3_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P45896	sma-3		GO:0007179	GO_REF:0000002	IEA	InterPro:IPR013019	P	Dwarfin sma-3	sma-3|cem-2|R13F6.9|SMA3_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P45896	sma-3		GO:0006350	GO_REF:0000004	IEA	SP_KW:KW-0804	P	Dwarfin sma-3	sma-3|cem-2|R13F6.9|SMA3_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P45896	sma-3		GO:0045449	GO_REF:0000004	IEA	SP_KW:KW-0805	P	Dwarfin sma-3	sma-3|cem-2|R13F6.9|SMA3_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P45896	sma-3		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR003619	P	Dwarfin sma-3	sma-3|cem-2|R13F6.9|SMA3_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P45896	sma-3		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR001132	P	Dwarfin sma-3	sma-3|cem-2|R13F6.9|SMA3_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P45897	sma-4		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR013019	P	Dwarfin sma-4	sma-4|cem-3|R12B2.1|SMA4_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P45897	sma-4		GO:0007179	GO_REF:0000002	IEA	InterPro:IPR013019	P	Dwarfin sma-4	sma-4|cem-3|R12B2.1|SMA4_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P45897	sma-4		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR013790	P	Dwarfin sma-4	sma-4|cem-3|R12B2.1|SMA4_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P45897	sma-4		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR003619	P	Dwarfin sma-4	sma-4|cem-3|R12B2.1|SMA4_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P45897	sma-4		GO:0006350	GO_REF:0000004	IEA	SP_KW:KW-0804	P	Dwarfin sma-4	sma-4|cem-3|R12B2.1|SMA4_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P45897	sma-4		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR001132	P	Dwarfin sma-4	sma-4|cem-3|R12B2.1|SMA4_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P45897	sma-4		GO:0045449	GO_REF:0000004	IEA	SP_KW:KW-0805	P	Dwarfin sma-4	sma-4|cem-3|R12B2.1|SMA4_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q07292	lin-45		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017441	P	Raf homolog serine/threonine-protein kinase	lin-45|Y73B6A.5|raf-1|KRAF1_CAEEL|Q6RT23|Q8MXT8|Q9N4E3	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q07292	lin-45		GO:0007165	GO_REF:0000002	IEA	InterPro:IPR003116	P	Raf homolog serine/threonine-protein kinase	lin-45|Y73B6A.5|raf-1|KRAF1_CAEEL|Q6RT23|Q8MXT8|Q9N4E3	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q07292	lin-45		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR008271	P	Raf homolog serine/threonine-protein kinase	lin-45|Y73B6A.5|raf-1|KRAF1_CAEEL|Q6RT23|Q8MXT8|Q9N4E3	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q07292	lin-45		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR000719	P	Raf homolog serine/threonine-protein kinase	lin-45|Y73B6A.5|raf-1|KRAF1_CAEEL|Q6RT23|Q8MXT8|Q9N4E3	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q07292	lin-45		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Raf homolog serine/threonine-protein kinase	lin-45|Y73B6A.5|raf-1|KRAF1_CAEEL|Q6RT23|Q8MXT8|Q9N4E3	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q07292	lin-45		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR001245	P	Raf homolog serine/threonine-protein kinase	lin-45|Y73B6A.5|raf-1|KRAF1_CAEEL|Q6RT23|Q8MXT8|Q9N4E3	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O16850	daf-16		GO:0045449	GO_REF:0000004	IEA	SP_KW:KW-0805	P	Forkhead box protein O	daf-16|R13H8.1|FOXO_CAEEL|O16849|O18676|Q86S42	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	O16850	daf-16		GO:0040008	GO_REF:0000004	IEA	SP_KW:KW-0341	P	Forkhead box protein O	daf-16|R13H8.1|FOXO_CAEEL|O16849|O18676|Q86S42	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	O16850	daf-16		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR018122	P	Forkhead box protein O	daf-16|R13H8.1|FOXO_CAEEL|O16849|O18676|Q86S42	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O16850	daf-16		GO:0006350	GO_REF:0000004	IEA	SP_KW:KW-0804	P	Forkhead box protein O	daf-16|R13H8.1|FOXO_CAEEL|O16849|O18676|Q86S42	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	O16850	daf-16		GO:0006950	GO_REF:0000004	IEA	SP_KW:KW-0346	P	Forkhead box protein O	daf-16|R13H8.1|FOXO_CAEEL|O16849|O18676|Q86S42	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	O16850	daf-16		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Forkhead box protein O	daf-16|R13H8.1|FOXO_CAEEL|O16849|O18676|Q86S42	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	O16850	daf-16		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR001766	P	Forkhead box protein O	daf-16|R13H8.1|FOXO_CAEEL|O16849|O18676|Q86S42	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q09432	nhx-2		GO:0006810	GO_REF:0000004	IEA	SP_KW:KW-0813	P	Sodium/hydrogen exchanger	nhx-2|B0495.4|Q09432_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q09432	nhx-2		GO:0006885	GO_REF:0000002	IEA	InterPro:IPR004709	P	Sodium/hydrogen exchanger	nhx-2|B0495.4|Q09432_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q09432	nhx-2		GO:0006814	GO_REF:0000004	IEA	SP_KW:KW-0739	P	Sodium/hydrogen exchanger	nhx-2|B0495.4|Q09432_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q09432	nhx-2		GO:0055085	GO_REF:0000002	IEA	InterPro:IPR004709	P	Sodium/hydrogen exchanger	nhx-2|B0495.4|Q09432_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q09432	nhx-2		GO:0006885	GO_REF:0000002	IEA	InterPro:IPR018406	P	Sodium/hydrogen exchanger	nhx-2|B0495.4|Q09432_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q09432	nhx-2		GO:0006812	GO_REF:0000002	IEA	InterPro:IPR006153	P	Sodium/hydrogen exchanger	nhx-2|B0495.4|Q09432_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q09432	nhx-2		GO:0006811	GO_REF:0000004	IEA	SP_KW:KW-0406	P	Sodium/hydrogen exchanger	nhx-2|B0495.4|Q09432_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q09432	nhx-2		GO:0006812	GO_REF:0000002	IEA	InterPro:IPR018422	P	Sodium/hydrogen exchanger	nhx-2|B0495.4|Q09432_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q09432	nhx-2		GO:0006814	GO_REF:0000002	IEA	InterPro:IPR018406	P	Sodium/hydrogen exchanger	nhx-2|B0495.4|Q09432_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q09432	nhx-2		GO:0006814	GO_REF:0000002	IEA	InterPro:IPR004709	P	Sodium/hydrogen exchanger	nhx-2|B0495.4|Q09432_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q09432	nhx-2		GO:0055085	GO_REF:0000002	IEA	InterPro:IPR006153	P	Sodium/hydrogen exchanger	nhx-2|B0495.4|Q09432_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q09488	sma-6		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR008271	P	Serine/threonine-protein kinase sma-6	sma-6|C32D5.2|SMA6_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q09488	sma-6		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR003605	P	Serine/threonine-protein kinase sma-6	sma-6|C32D5.2|SMA6_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q09488	sma-6		GO:0007178	GO_REF:0000002	IEA	InterPro:IPR000333	P	Serine/threonine-protein kinase sma-6	sma-6|C32D5.2|SMA6_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q09488	sma-6		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017441	P	Serine/threonine-protein kinase sma-6	sma-6|C32D5.2|SMA6_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q09488	sma-6		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR000719	P	Serine/threonine-protein kinase sma-6	sma-6|C32D5.2|SMA6_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q09488	sma-6		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Serine/threonine-protein kinase sma-6	sma-6|C32D5.2|SMA6_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q09488	sma-6		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017442	P	Serine/threonine-protein kinase sma-6	sma-6|C32D5.2|SMA6_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P38433	ace-1		GO:0042135	GO_REF:0000004	IEA	SP_KW:KW-0531	P	Acetylcholinesterase 1	ace-1|W09B12.1|ACE1_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q95Q17	let-49		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Mediator of RNA polymerase II transcription subunit 7	let-49|mdt-7|Y54E5B.3|med-7|MED7_CAEEL|Q9XWF7	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q95Q17	let-49		GO:0006350	GO_REF:0000004	IEA	SP_KW:KW-0804	P	Mediator of RNA polymerase II transcription subunit 7	let-49|mdt-7|Y54E5B.3|med-7|MED7_CAEEL|Q9XWF7	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q95Q17	let-49		GO:0006357	GO_REF:0000002	IEA	InterPro:IPR009244	P	Mediator of RNA polymerase II transcription subunit 7	let-49|mdt-7|Y54E5B.3|med-7|MED7_CAEEL|Q9XWF7	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q95Q17	let-49		GO:0045449	GO_REF:0000004	IEA	SP_KW:KW-0805	P	Mediator of RNA polymerase II transcription subunit 7	let-49|mdt-7|Y54E5B.3|med-7|MED7_CAEEL|Q9XWF7	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q9BMU2	chn-1		GO:0016567	GO_REF:0000002	IEA	InterPro:IPR003613	P	C-term of hsp70-interacting protein (Chip family) protein 1	chn-1|1G758|T09B4.10|Q9BMU2_CAEEL|O02162	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q23541	rbr-2		GO:0055114	GO_REF:0000004	IEA	SP_KW:KW-0560	P	Lysine-specific demethylase rbr-2	rbr-2|ZK593.4|KDM5_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q23541	rbr-2		GO:0016568	GO_REF:0000004	IEA	SP_KW:KW-0156	P	Lysine-specific demethylase rbr-2	rbr-2|ZK593.4|KDM5_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q23541	rbr-2		GO:0006350	GO_REF:0000004	IEA	SP_KW:KW-0804	P	Lysine-specific demethylase rbr-2	rbr-2|ZK593.4|KDM5_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q23541	rbr-2		GO:0045449	GO_REF:0000004	IEA	SP_KW:KW-0805	P	Lysine-specific demethylase rbr-2	rbr-2|ZK593.4|KDM5_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q95Q95	let-363		GO:0006417	GO_REF:0000004	IEA	SP_KW:KW-0810	P	Target of rapamycin homolog	let-363|B0261.2|tor|TOR_CAEEL|O01438	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q23490	mlt-7		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR019791	P	Peroxidase mlt-7	mlt-7|ZK430.8|MLT7_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q23490	mlt-7		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR002007	P	Peroxidase mlt-7	mlt-7|ZK430.8|MLT7_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q23490	mlt-7		GO:0055114	GO_REF:0000004	IEA	SP_KW:KW-0560	P	Peroxidase mlt-7	mlt-7|ZK430.8|MLT7_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q23490	mlt-7		GO:0006979	GO_REF:0000002	IEA	InterPro:IPR002007	P	Peroxidase mlt-7	mlt-7|ZK430.8|MLT7_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q23490	mlt-7		GO:0006979	GO_REF:0000002	IEA	InterPro:IPR019791	P	Peroxidase mlt-7	mlt-7|ZK430.8|MLT7_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q23490	mlt-7		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR010255	P	Peroxidase mlt-7	mlt-7|ZK430.8|MLT7_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q23490	mlt-7		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Peroxidase mlt-7	mlt-7|ZK430.8|MLT7_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q23490	mlt-7		GO:0006979	GO_REF:0000002	IEA	InterPro:IPR010255	P	Peroxidase mlt-7	mlt-7|ZK430.8|MLT7_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O01501	cye-1		GO:0051301	GO_REF:0000004	IEA	SP_KW:KW-0132	P	G1/S-specific cyclin-E	cye-1|C37A2.4|CCNE_CAEEL|O77098|Q86FL2	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	O01501	cye-1		GO:0007049	GO_REF:0000004	IEA	SP_KW:KW-0131	P	G1/S-specific cyclin-E	cye-1|C37A2.4|CCNE_CAEEL|O77098|Q86FL2	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q19380	ksr-1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017441	P	KSR-1	ksr-1|F13B9.5|Q19380_CAEEL|Q27338	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q19380	ksr-1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR001245	P	KSR-1	ksr-1|F13B9.5|Q19380_CAEEL|Q27338	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q19380	ksr-1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR000719	P	KSR-1	ksr-1|F13B9.5|Q19380_CAEEL|Q27338	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q19380	ksr-1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR008266	P	KSR-1	ksr-1|F13B9.5|Q19380_CAEEL|Q27338	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q11107	lin-13		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Zinc finger protein lin-13	lin-13|C03B8.4|LIN13_CAEEL|Q9NBV2	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q95QH7	snt-1		GO:0006810	GO_REF:0000002	IEA	InterPro:IPR001565	P	Synaptotagmin protein 1, isoform b	snt-1|F31E8.2|Q95QH7_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O17469	osm-9		GO:0055085	GO_REF:0000002	IEA	InterPro:IPR005821	P	Olfactory channel	osm-9|B0212.5|O17469_CAEEL|O45065	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O17469	osm-9		GO:0006811	GO_REF:0000004	IEA	SP_KW:KW-0406	P	Olfactory channel	osm-9|B0212.5|O17469_CAEEL|O45065	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	O17469	osm-9		GO:0006810	GO_REF:0000004	IEA	SP_KW:KW-0813	P	Olfactory channel	osm-9|B0212.5|O17469_CAEEL|O45065	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	O17469	osm-9		GO:0006811	GO_REF:0000002	IEA	InterPro:IPR004729	P	Olfactory channel	osm-9|B0212.5|O17469_CAEEL|O45065	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O17469	osm-9		GO:0006811	GO_REF:0000002	IEA	InterPro:IPR005821	P	Olfactory channel	osm-9|B0212.5|O17469_CAEEL|O45065	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q6RYS9	dop-3		GO:0007186	GO_REF:0000002	IEA	InterPro:IPR000276	P	Dopamine receptor 3	dop-3|T14E8.3|DOPR3_CAEEL|Q3HKC0|Q3HKC1|Q3HKC2	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q6RYS9	dop-3		GO:0007186	GO_REF:0000004	IEA	SP_KW:KW-0297	P	Dopamine receptor 3	dop-3|T14E8.3|DOPR3_CAEEL|Q3HKC0|Q3HKC1|Q3HKC2	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q6RYS9	dop-3		GO:0007165	GO_REF:0000004	IEA	SP_KW:KW-0807	P	Dopamine receptor 3	dop-3|T14E8.3|DOPR3_CAEEL|Q3HKC0|Q3HKC1|Q3HKC2	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q10655	elt-2		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR013088	P	Transcription factor elt-2	elt-2|C33D3.1|ELT2_CAEEL|Q18371	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q10655	elt-2		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR000679	P	Transcription factor elt-2	elt-2|C33D3.1|ELT2_CAEEL|Q18371	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q10655	elt-2		GO:0045449	GO_REF:0000004	IEA	SP_KW:KW-0805	P	Transcription factor elt-2	elt-2|C33D3.1|ELT2_CAEEL|Q18371	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q10655	elt-2		GO:0006350	GO_REF:0000004	IEA	SP_KW:KW-0804	P	Transcription factor elt-2	elt-2|C33D3.1|ELT2_CAEEL|Q18371	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P39745	mpk-1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017441	P	Mitogen-activated protein kinase mpk-1	mpk-1|F43C1.2|sur-1|SUR1_CAEEL|Q9U3F3	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P39745	mpk-1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR008271	P	Mitogen-activated protein kinase mpk-1	mpk-1|F43C1.2|sur-1|SUR1_CAEEL|Q9U3F3	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P39745	mpk-1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR000719	P	Mitogen-activated protein kinase mpk-1	mpk-1|F43C1.2|sur-1|SUR1_CAEEL|Q9U3F3	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P39745	mpk-1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR008349	P	Mitogen-activated protein kinase mpk-1	mpk-1|F43C1.2|sur-1|SUR1_CAEEL|Q9U3F3	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P39745	mpk-1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017442	P	Mitogen-activated protein kinase mpk-1	mpk-1|F43C1.2|sur-1|SUR1_CAEEL|Q9U3F3	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P39745	mpk-1		GO:0007049	GO_REF:0000004	IEA	SP_KW:KW-0131	P	Mitogen-activated protein kinase mpk-1	mpk-1|F43C1.2|sur-1|SUR1_CAEEL|Q9U3F3	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P39745	mpk-1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR003527	P	Mitogen-activated protein kinase mpk-1	mpk-1|F43C1.2|sur-1|SUR1_CAEEL|Q9U3F3	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P39745	mpk-1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR002290	P	Mitogen-activated protein kinase mpk-1	mpk-1|F43C1.2|sur-1|SUR1_CAEEL|Q9U3F3	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P14585	lin-12		GO:0030154	GO_REF:0000002	IEA	InterPro:IPR000800	P	Protein lin-12	lin-12|R107.8|LIN12_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P14585	lin-12		GO:0030154	GO_REF:0000004	IEA	SP_KW:KW-0221	P	Protein lin-12	lin-12|R107.8|LIN12_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P14585	lin-12		GO:0030154	GO_REF:0000002	IEA	InterPro:IPR010660	P	Protein lin-12	lin-12|R107.8|LIN12_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P14585	lin-12		GO:0007275	GO_REF:0000002	IEA	InterPro:IPR011656	P	Protein lin-12	lin-12|R107.8|LIN12_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P14585	lin-12		GO:0030154	GO_REF:0000002	IEA	InterPro:IPR011656	P	Protein lin-12	lin-12|R107.8|LIN12_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P14585	lin-12		GO:0007219	GO_REF:0000002	IEA	InterPro:IPR011656	P	Protein lin-12	lin-12|R107.8|LIN12_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P14585	lin-12		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Protein lin-12	lin-12|R107.8|LIN12_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q22227	mig-5		GO:0007275	GO_REF:0000002	IEA	InterPro:IPR001158	P	Protein T05C12.6a, confirmed by transcript evidence	mig-5|T05C12.6a|T05C12.6|Q22227_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O02424	dbl-1		GO:0040007	GO_REF:0000002	IEA	InterPro:IPR001111	P	Decapentaplegic protein homolog	dbl-1|T25F10.2|O02424_CAEEL|Q23047	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q10576	dpy-18		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR013547	P	Prolyl 4-hydroxylase subunit alpha-1	dpy-18|phy-1|Y47D3B.10|P4HA1_CAEEL|O18153	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q10576	dpy-18		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR006620	P	Prolyl 4-hydroxylase subunit alpha-1	dpy-18|phy-1|Y47D3B.10|P4HA1_CAEEL|O18153	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q10576	dpy-18		GO:0055114	GO_REF:0000004	IEA	SP_KW:KW-0560	P	Prolyl 4-hydroxylase subunit alpha-1	dpy-18|phy-1|Y47D3B.10|P4HA1_CAEEL|O18153	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q9XZD1	tph-1		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR019774	P	Tryptophan hydroxylase	tph-1|ZK1290.2|Q9XZD1_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9XZD1	tph-1		GO:0009072	GO_REF:0000002	IEA	InterPro:IPR018301	P	Tryptophan hydroxylase	tph-1|ZK1290.2|Q9XZD1_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9XZD1	tph-1		GO:0042427	GO_REF:0000002	IEA	InterPro:IPR005963	P	Tryptophan hydroxylase	tph-1|ZK1290.2|Q9XZD1_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9XZD1	tph-1		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR019773	P	Tryptophan hydroxylase	tph-1|ZK1290.2|Q9XZD1_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9XZD1	tph-1		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR001273	P	Tryptophan hydroxylase	tph-1|ZK1290.2|Q9XZD1_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9XZD1	tph-1		GO:0009072	GO_REF:0000002	IEA	InterPro:IPR001273	P	Tryptophan hydroxylase	tph-1|ZK1290.2|Q9XZD1_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9XZD1	tph-1		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR018301	P	Tryptophan hydroxylase	tph-1|ZK1290.2|Q9XZD1_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9XZD1	tph-1		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR005963	P	Tryptophan hydroxylase	tph-1|ZK1290.2|Q9XZD1_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q10574	lin-32		GO:0030154	GO_REF:0000004	IEA	SP_KW:KW-0221	P	Protein lin-32	lin-32|T14F9.5|LIN32_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q10574	lin-32		GO:0045449	GO_REF:0000002	IEA	InterPro:IPR001092	P	Protein lin-32	lin-32|T14F9.5|LIN32_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q10574	lin-32		GO:0045449	GO_REF:0000002	IEA	InterPro:IPR011598	P	Protein lin-32	lin-32|T14F9.5|LIN32_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q10574	lin-32		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Protein lin-32	lin-32|T14F9.5|LIN32_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q10574	lin-32		GO:0007399	GO_REF:0000004	IEA	SP_KW:KW-0524	P	Protein lin-32	lin-32|T14F9.5|LIN32_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P13508	glp-1		GO:0030154	GO_REF:0000002	IEA	InterPro:IPR000800	P	Protein glp-1	glp-1|F02A9.6|emb-33|GLP1_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P13508	glp-1		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Protein glp-1	glp-1|F02A9.6|emb-33|GLP1_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	P13508	glp-1		GO:0030154	GO_REF:0000002	IEA	InterPro:IPR011656	P	Protein glp-1	glp-1|F02A9.6|emb-33|GLP1_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P13508	glp-1		GO:0007275	GO_REF:0000002	IEA	InterPro:IPR011656	P	Protein glp-1	glp-1|F02A9.6|emb-33|GLP1_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P13508	glp-1		GO:0030154	GO_REF:0000002	IEA	InterPro:IPR010660	P	Protein glp-1	glp-1|F02A9.6|emb-33|GLP1_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P13508	glp-1		GO:0007219	GO_REF:0000002	IEA	InterPro:IPR011656	P	Protein glp-1	glp-1|F02A9.6|emb-33|GLP1_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	P13508	glp-1		GO:0030154	GO_REF:0000004	IEA	SP_KW:KW-0221	P	Protein glp-1	glp-1|F02A9.6|emb-33|GLP1_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q9NAN1	uba-2		GO:0008152	GO_REF:0000002	IEA	InterPro:IPR016040	P	SUMO-activating enzyme subunit uba-2	uba-2|W02A11.4|SAE2_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9NAN1	uba-2		GO:0006464	GO_REF:0000002	IEA	InterPro:IPR000127	P	SUMO-activating enzyme subunit uba-2	uba-2|W02A11.4|SAE2_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q10459	mom-2		GO:0007223	GO_REF:0000002	IEA	InterPro:IPR005816	P	Protein mom-2	mom-2|F38E1.7|MOM2_CAEEL|O16146	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q10459	mom-2		GO:0007275	GO_REF:0000002	IEA	InterPro:IPR005816	P	Protein mom-2	mom-2|F38E1.7|MOM2_CAEEL|O16146	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q10459	mom-2		GO:0007223	GO_REF:0000002	IEA	InterPro:IPR005817	P	Protein mom-2	mom-2|F38E1.7|MOM2_CAEEL|O16146	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q10459	mom-2		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Protein mom-2	mom-2|F38E1.7|MOM2_CAEEL|O16146	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q10459	mom-2		GO:0007275	GO_REF:0000002	IEA	InterPro:IPR005817	P	Protein mom-2	mom-2|F38E1.7|MOM2_CAEEL|O16146	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q10459	mom-2		GO:0016055	GO_REF:0000004	IEA	SP_KW:KW-0879	P	Protein mom-2	mom-2|F38E1.7|MOM2_CAEEL|O16146	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q9NAH6	rsks-1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR000961	P	Protein Y47D3A.16, partially confirmed by transcript evidence	rsks-1|Y47D3A.16|Q9NAH6_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9NAH6	rsks-1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR000719	P	Protein Y47D3A.16, partially confirmed by transcript evidence	rsks-1|Y47D3A.16|Q9NAH6_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9NAH6	rsks-1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR008271	P	Protein Y47D3A.16, partially confirmed by transcript evidence	rsks-1|Y47D3A.16|Q9NAH6_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9NAH6	rsks-1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017892	P	Protein Y47D3A.16, partially confirmed by transcript evidence	rsks-1|Y47D3A.16|Q9NAH6_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9NAH6	rsks-1		GO:0007165	GO_REF:0000002	IEA	InterPro:IPR016238	P	Protein Y47D3A.16, partially confirmed by transcript evidence	rsks-1|Y47D3A.16|Q9NAH6_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9NAH6	rsks-1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017441	P	Protein Y47D3A.16, partially confirmed by transcript evidence	rsks-1|Y47D3A.16|Q9NAH6_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9NAH6	rsks-1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR016238	P	Protein Y47D3A.16, partially confirmed by transcript evidence	rsks-1|Y47D3A.16|Q9NAH6_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9NAH6	rsks-1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR017442	P	Protein Y47D3A.16, partially confirmed by transcript evidence	rsks-1|Y47D3A.16|Q9NAH6_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9NAH6	rsks-1		GO:0006468	GO_REF:0000002	IEA	InterPro:IPR002290	P	Protein Y47D3A.16, partially confirmed by transcript evidence	rsks-1|Y47D3A.16|Q9NAH6_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q23121	rsp-1		GO:0040008	GO_REF:0000004	IEA	SP_KW:KW-0341	P	Probable splicing factor, arginine/serine-rich 1	rsp-1|srp-5|W02B12.3|RSP1_CAEEL|Q8I106|Q8I107	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q23121	rsp-1		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Probable splicing factor, arginine/serine-rich 1	rsp-1|srp-5|W02B12.3|RSP1_CAEEL|Q8I106|Q8I107	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q23121	rsp-1		GO:0006397	GO_REF:0000004	IEA	SP_KW:KW-0507	P	Probable splicing factor, arginine/serine-rich 1	rsp-1|srp-5|W02B12.3|RSP1_CAEEL|Q8I106|Q8I107	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q23121	rsp-1		GO:0030154	GO_REF:0000004	IEA	SP_KW:KW-0221	P	Probable splicing factor, arginine/serine-rich 1	rsp-1|srp-5|W02B12.3|RSP1_CAEEL|Q8I106|Q8I107	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q23121	rsp-1		GO:0008380	GO_REF:0000004	IEA	SP_KW:KW-0508	P	Probable splicing factor, arginine/serine-rich 1	rsp-1|srp-5|W02B12.3|RSP1_CAEEL|Q8I106|Q8I107	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q23121	rsp-1		GO:0007283	GO_REF:0000004	IEA	SP_KW:KW-0744	P	Probable splicing factor, arginine/serine-rich 1	rsp-1|srp-5|W02B12.3|RSP1_CAEEL|Q8I106|Q8I107	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q23120	rsp-2		GO:0030154	GO_REF:0000004	IEA	SP_KW:KW-0221	P	Probable splicing factor, arginine/serine-rich 2	rsp-2|srp-4|W02B12.2|RSP2_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q23120	rsp-2		GO:0007275	GO_REF:0000004	IEA	SP_KW:KW-0217	P	Probable splicing factor, arginine/serine-rich 2	rsp-2|srp-4|W02B12.2|RSP2_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q23120	rsp-2		GO:0007506	GO_REF:0000004	IEA	SP_KW:KW-0334	P	Probable splicing factor, arginine/serine-rich 2	rsp-2|srp-4|W02B12.2|RSP2_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q23120	rsp-2		GO:0007283	GO_REF:0000004	IEA	SP_KW:KW-0744	P	Probable splicing factor, arginine/serine-rich 2	rsp-2|srp-4|W02B12.2|RSP2_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q23120	rsp-2		GO:0040008	GO_REF:0000004	IEA	SP_KW:KW-0341	P	Probable splicing factor, arginine/serine-rich 2	rsp-2|srp-4|W02B12.2|RSP2_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q23120	rsp-2		GO:0006397	GO_REF:0000004	IEA	SP_KW:KW-0507	P	Probable splicing factor, arginine/serine-rich 2	rsp-2|srp-4|W02B12.2|RSP2_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q23120	rsp-2		GO:0008380	GO_REF:0000004	IEA	SP_KW:KW-0508	P	Probable splicing factor, arginine/serine-rich 2	rsp-2|srp-4|W02B12.2|RSP2_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	O61667	egl-1		GO:0006915	GO_REF:0000004	IEA	SP_KW:KW-0053	P	Programmed cell death activator egl-1	egl-1|F23B12.9|EGL1_CAEEL|Q7JLC9	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q9TW41	avr-15		GO:0006811	GO_REF:0000004	IEA	SP_KW:KW-0406	P	Protein R11G10.1a, confirmed by transcript evidence	avr-15|R11G10.1a|R11G10.1|Q9TW41_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q9TW41	avr-15		GO:0006811	GO_REF:0000002	IEA	InterPro:IPR006029	P	Protein R11G10.1a, confirmed by transcript evidence	avr-15|R11G10.1a|R11G10.1|Q9TW41_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9TW41	avr-15		GO:0006810	GO_REF:0000004	IEA	SP_KW:KW-0813	P	Protein R11G10.1a, confirmed by transcript evidence	avr-15|R11G10.1a|R11G10.1|Q9TW41_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q9TW41	avr-15		GO:0006810	GO_REF:0000002	IEA	InterPro:IPR006202	P	Protein R11G10.1a, confirmed by transcript evidence	avr-15|R11G10.1a|R11G10.1|Q9TW41_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9TW41	avr-15		GO:0006811	GO_REF:0000002	IEA	InterPro:IPR018000	P	Protein R11G10.1a, confirmed by transcript evidence	avr-15|R11G10.1a|R11G10.1|Q9TW41_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9TW41	avr-15		GO:0006811	GO_REF:0000002	IEA	InterPro:IPR006028	P	Protein R11G10.1a, confirmed by transcript evidence	avr-15|R11G10.1a|R11G10.1|Q9TW41_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9TW41	avr-15		GO:0006811	GO_REF:0000002	IEA	InterPro:IPR006201	P	Protein R11G10.1a, confirmed by transcript evidence	avr-15|R11G10.1a|R11G10.1|Q9TW41_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9Y0A1	itr-1		GO:0006816	GO_REF:0000002	IEA	InterPro:IPR000699	P	Inositol 1,4,5-trisphosphate receptor	itr-1|F33D4.2|Q9Y0A1_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9Y0A1	itr-1		GO:0006811	GO_REF:0000002	IEA	InterPro:IPR005821	P	Inositol 1,4,5-trisphosphate receptor	itr-1|F33D4.2|Q9Y0A1_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9Y0A1	itr-1		GO:0006811	GO_REF:0000004	IEA	SP_KW:KW-0406	P	Inositol 1,4,5-trisphosphate receptor	itr-1|F33D4.2|Q9Y0A1_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q9Y0A1	itr-1		GO:0006810	GO_REF:0000004	IEA	SP_KW:KW-0813	P	Inositol 1,4,5-trisphosphate receptor	itr-1|F33D4.2|Q9Y0A1_CAEEL	protein	taxon:6239	20101113	UniProtKB		
+UniProtKB	Q9Y0A1	itr-1		GO:0006816	GO_REF:0000002	IEA	InterPro:IPR000493	P	Inositol 1,4,5-trisphosphate receptor	itr-1|F33D4.2|Q9Y0A1_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	Q9Y0A1	itr-1		GO:0055085	GO_REF:0000002	IEA	InterPro:IPR005821	P	Inositol 1,4,5-trisphosphate receptor	itr-1|F33D4.2|Q9Y0A1_CAEEL	protein	taxon:6239	20101113	InterPro		
+UniProtKB	O61528	unc-73		GO:0035023	GO_REF:0000002	IEA	InterPro:IPR000219	P	Guanine nucleotide exchange factor UNC-73A	unc-73|F55C7.7|O61528_CAEEL|O61529|P91339	protein	taxon:6239	20101113	InterPro		

@@ -1,0 +1,3 @@
+!gaf-version: 2.0
+UniProtKB	O61371	ace-2		GO:0001507	PMID:10891266	IC	GO:0006581	P	Abnormal acetylcholinesterase protein 2	ace-2|Y44E3A.2|O61371_CAEEL|Q9TXY7	protein	taxon:6239	20061016	WormBase		
+UniProtKB	O61528	unc-73		GO:0016601	PMID:9529254	IC	GO:0030676	P	Guanine nucleotide exchange factor UNC-73A	unc-73|F55C7.7|O61528_CAEEL|O61529|P91339	protein	taxon:6239	20050906	WormBase		

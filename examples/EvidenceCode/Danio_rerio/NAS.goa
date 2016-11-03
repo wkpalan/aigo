@@ -1,0 +1,5 @@
+!gaf-version: 2.0
+UniProtKB	Q92050	wnt5b		GO:0007275	GO_REF:0000029	NAS		P	Protein Wnt-5b	wnt5b|wnt-5|si:ch73-211c7.1|wnt5|wnt5a|IPI00486597|WNT5B_DANRE|A5WVR7	protein	taxon:7955	20021104	UniProtKB		
+UniProtKB	Q92050	wnt5b		GO:0007267	GO_REF:0000029	NAS		P	Protein Wnt-5b	wnt5b|wnt-5|si:ch73-211c7.1|wnt5|wnt5a|IPI00486597|WNT5B_DANRE|A5WVR7	protein	taxon:7955	20021104	UniProtKB		
+UniProtKB	Q9YHV4	fsta		GO:0009994	PMID:15329331	NAS		P	Follistatin-A	fsta|si:dkey-111k10.2|fst|fst1|si:dkeyp-88a5.1|IPI00901372|IPI00506090|FSTA_DANRE|A5PMK3|A7MC96|Q6DC45	protein	taxon:7955	20050131	ZFIN		
+UniProtKB	Q9W7E7	smad5		GO:0006355	PMID:10590480	NAS		P	Mothers against decapentaplegic homolog 5	madh5|smad5|sbn|IPI00482771|SMAD5_DANRE	protein	taxon:7955	20020716	UniProtKB		

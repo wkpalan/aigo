@@ -1,0 +1,14 @@
+!gaf-version: 2.0
+UniProtKB	P40923	SPBC21B10.13c		GO:0030907	PMID:19714215	NAS		C	Uncharacterized homeobox protein C21B10.13c	SPBC21B10.13c|YHZD_SCHPO	protein	taxon:4896	20100122	GeneDB_Spombe		
+UniProtKB	Q10452	gsk3		GO:0007165	PMID:17072883	NAS		P	Protein kinase gsk3	gsk3|skp1|SPAC1687.15|GSK3_SCHPO|O94456	protein	taxon:4896	20090126	GeneDB_Spombe		
+UniProtKB	Q02099	rad3		GO:0007346	PMID:17072883	NAS		P	Protein kinase rad3	rad3|SPBC216.05|RAD3_SCHPO|Q92391|Q9UUM1	protein	taxon:4896	20090126	GeneDB_Spombe		
+UniProtKB	O74308	SPBC15D4.02		GO:0032569	PMID:17072883	NAS		P	Uncharacterized transcriptional regulatory protein C15D4.02	SPBC15D4.02|YOG2_SCHPO	protein	taxon:4896	20080920	GeneDB_Spombe		
+UniProtKB	Q01663	pap1		GO:0032569	PMID:17072883	NAS		P	AP-1-like transcription factor	pap1|caf3|SPAC1783.07c|AP1_SCHPO|Q9US23|Q9UU69	protein	taxon:4896	20080920	GeneDB_Spombe		
+UniProtKB	Q09926	pcr1		GO:0032569	PMID:17072883	NAS		P	Transcription factor pcr1	pcr1|SPAC21E11.03c|mts2|PCR1_SCHPO	protein	taxon:4896	20080920	GeneDB_Spombe		
+UniProtKB	P09988	hht1		GO:0006334	PMID:17072883	NAS		P	Histone H3.1/H3.2	hht1|SPAC1834.04|hht2|SPBC8D2.04|pi060|H31_SCHPO	protein	taxon:4896	20051003	GeneDB_Spombe		
+UniProtKB	P09988	hht1		GO:0006333	PMID:17072883	NAS		P	Histone H3.1/H3.2	hht1|SPAC1834.04|hht2|SPBC8D2.04|pi060|H31_SCHPO	protein	taxon:4896	20051003	GeneDB_Spombe		
+UniProtKB	O43058	sep1		GO:0032569	PMID:17072883	NAS		P	Forkhead protein sep1	sep1|SPBC4C3.12|SEP1_SCHPO|P79006	protein	taxon:4896	20080920	GeneDB_Spombe		
+UniProtKB	Q9UT72	rfp2		GO:0016567	PMID:17072883	NAS		P	E3 ubiquitin-protein ligase complex slx8-rfp subunit rfp2	rfp2|SPAC343.18|RFP2_SCHPO	protein	taxon:4896	20090126	GeneDB_Spombe		
+UniProtKB	P10651	hht3		GO:0006333	PMID:17072883	NAS		P	Histone H3.3	hht3|SPBC1105.11c|H33_SCHPO	protein	taxon:4896	20051003	GeneDB_Spombe		
+UniProtKB	P40847	sap1		GO:0007126	PMID:17072883	NAS		P	Switch-activating protein 1	sap1|SPCC1672.02c|SAP1_SCHPO|P78961	protein	taxon:4896	20090126	GeneDB_Spombe		
+UniProtKB	O14019	hal4		GO:0043157	PMID:17072883	NAS		P	Serine/threonine-protein kinase hal4	hal4|SPAC29A4.16|ppk10|sat4|HAL4_SCHPO	protein	taxon:4896	20050919	GeneDB_Spombe		

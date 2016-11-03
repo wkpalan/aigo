@@ -1,0 +1,242 @@
+!gaf-version: 2.0
+UniProtKB	O74826	coq7		GO:0005739	PMID:18808426	IMP		C	Ubiquinone biosynthesis protein coq7	coq7|SPBC337.15c|COQ7_SCHPO	protein	taxon:4896	20080924	GeneDB_Spombe		
+UniProtKB	O74826	coq7		GO:0005739	PMID:16823372	IDA		C	Ubiquinone biosynthesis protein coq7	coq7|SPBC337.15c|COQ7_SCHPO	protein	taxon:4896	20091111	GeneDB_Spombe		
+UniProtKB	P40923	SPBC21B10.13c		GO:0005634	PMID:19714215	IPI		C	Uncharacterized homeobox protein C21B10.13c	SPBC21B10.13c|YHZD_SCHPO	protein	taxon:4896	20060125	GeneDB_Spombe		
+UniProtKB	P40923	SPBC21B10.13c		GO:0005634	PMID:16823372	IDA		C	Uncharacterized homeobox protein C21B10.13c	SPBC21B10.13c|YHZD_SCHPO	protein	taxon:4896	20091111	GeneDB_Spombe		
+UniProtKB	O74113	sna41		GO:0000790	PMID:19109429	IDA		C	Cell division control protein 45 homolog	sna41|SPAC17D4.02|CDC45_SCHPO	protein	taxon:4896	20091118	GeneDB_Spombe		
+UniProtKB	O74113	sna41		GO:0000790	PMID:12972571	IGI		C	Cell division control protein 45 homolog	sna41|SPAC17D4.02|CDC45_SCHPO	protein	taxon:4896	20041025	GeneDB_Spombe		
+UniProtKB	P41878	rpn11		GO:0000502	PMID:20838651	IDA		C	26S proteasome regulatory subunit rpn11	rpn11|bfr2|SPAC31G5.13|pad1|sks1|RPN11_SCHPO|Q10278	protein	taxon:4896	20101001	GeneDB_Spombe		
+UniProtKB	P41878	rpn11		GO:0000502	PMID:9727008	IPI		C	26S proteasome regulatory subunit rpn11	rpn11|bfr2|SPAC31G5.13|pad1|sks1|RPN11_SCHPO|Q10278	protein	taxon:4896	20050113	GeneDB_Spombe		
+UniProtKB	O13828	dcp2		GO:0005845	PMID:18280239	IDA		C	mRNA decapping complex subunit 2	dcp2|SPAC19A8.12|DCP2_SCHPO	protein	taxon:4896	20050923	GeneDB_Spombe		
+UniProtKB	O13828	dcp2		GO:0005845	PMID:15671491	IGI		C	mRNA decapping complex subunit 2	dcp2|SPAC19A8.12|DCP2_SCHPO	protein	taxon:4896	20050923	GeneDB_Spombe		
+UniProtKB	O74734	rrf1		GO:0005739	PMID:18782833	IGI		C	Putative ribosomal recycling factor, mitochondrial	rrf1|SPBC1709.09|RRF1_SCHPO	protein	taxon:4896	20040625	GeneDB_Spombe		
+UniProtKB	O74734	rrf1		GO:0005739	PMID:16823372	IDA		C	Putative ribosomal recycling factor, mitochondrial	rrf1|SPBC1709.09|RRF1_SCHPO	protein	taxon:4896	20091111	GeneDB_Spombe		
+UniProtKB	Q9UT74	lys2		GO:0005739	PMID:16491385	IMP		C	Homoaconitase, mitochondrial	lys2|lys4|SPAC343.16|LYS4_SCHPO	protein	taxon:4896	20040823	GeneDB_Spombe		
+UniProtKB	Q9UT74	lys2		GO:0005739	PMID:16823372	IDA		C	Homoaconitase, mitochondrial	lys2|lys4|SPAC343.16|LYS4_SCHPO	protein	taxon:4896	20091111	GeneDB_Spombe		
+UniProtKB	Q9P376	fcp1		GO:0005634	PMID:16823372	IDA		C	RNA polymerase II subunit A C-terminal domain phosphatase	fcp1|SPAC19B12.05c|FCP1_SCHPO	protein	taxon:4896	20091111	GeneDB_Spombe		
+UniProtKB	Q9P376	fcp1		GO:0005634	PMID:11839823	IPI		C	RNA polymerase II subunit A C-terminal domain phosphatase	fcp1|SPAC19B12.05c|FCP1_SCHPO	protein	taxon:4896	20041111	GeneDB_Spombe		
+UniProtKB	Q9P805	dcp1		GO:0005845	PMID:15671491	IGI		C	mRNA-decapping enzyme subunit 1	dcp1|SPBC3B9.21|DCP1_SCHPO	protein	taxon:4896	20050923	GeneDB_Spombe		
+UniProtKB	Q9P805	dcp1		GO:0005845	PMID:18280239	IDA		C	mRNA-decapping enzyme subunit 1	dcp1|SPBC3B9.21|DCP1_SCHPO	protein	taxon:4896	20050923	GeneDB_Spombe		
+UniProtKB	O13802	ebp2		GO:0005816	PMID:17072883	IPI		C	Probable rRNA-processing protein ebp2	ebp2|SPAC17H9.05|EBP2_SCHPO	protein	taxon:4896	20041011	GeneDB_Spombe		
+UniProtKB	O13802	ebp2		GO:0005816	PMID:16823372	IDA		C	Probable rRNA-processing protein ebp2	ebp2|SPAC17H9.05|EBP2_SCHPO	protein	taxon:4896	20091111	GeneDB_Spombe		
+UniProtKB	O74878	alg11		GO:0005783	PMID:16823372	IDA		C	Alpha-1,2-mannosyltransferase alg11	alg11|gmd3|SPCC330.08|ALG11_SCHPO	protein	taxon:4896	20091111	GeneDB_Spombe		
+UniProtKB	O74878	alg11		GO:0005783	PMID:17072883	IGI		C	Alpha-1,2-mannosyltransferase alg11	alg11|gmd3|SPCC330.08|ALG11_SCHPO	protein	taxon:4896	20050228	GeneDB_Spombe		
+UniProtKB	O74880	pcm1		GO:0005634	PMID:16823372	IDA		C	mRNA cap guanine-N7 methyltransferase	pcm1|SPCC330.10|MCES_SCHPO	protein	taxon:4896	20091111	GeneDB_Spombe		
+UniProtKB	O74880	pcm1		GO:0005634	PMID:10347220	IGI		C	mRNA cap guanine-N7 methyltransferase	pcm1|SPCC330.10|MCES_SCHPO	protein	taxon:4896	20050708	GeneDB_Spombe		
+UniProtKB	P36596	erg9		GO:0005783	PMID:16823372	IDA		C	Squalene synthase	erg9|SPBC646.05c|FDFT_SCHPO	protein	taxon:4896	20091111	GeneDB_Spombe		
+UniProtKB	P36596	erg9		GO:0005783	PMID:8474436	IGI		C	Squalene synthase	erg9|SPBC646.05c|FDFT_SCHPO	protein	taxon:4896	20041102	GeneDB_Spombe		
+UniProtKB	P42881	gpt2		GO:0005783	PMID:16823372	IDA		C	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase	gpt2|SPBC15D4.04|gpt|GPT_SCHPO	protein	taxon:4896	20091111	GeneDB_Spombe		
+UniProtKB	P42881	gpt2		GO:0005783	PMID:7893167	IGI		C	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase	gpt2|SPBC15D4.04|gpt|GPT_SCHPO	protein	taxon:4896	20050616	GeneDB_Spombe		
+UniProtKB	P37818	car1		GO:0005829	PMID:16823372	IDA		C	Arginase	car1|SPBP26C9.02c|ARGI1_SCHPO	protein	taxon:4896	20091111	GeneDB_Spombe		
+UniProtKB	P37818	car1		GO:0005829	PMID:7985419	IGI		C	Arginase	car1|SPBP26C9.02c|ARGI1_SCHPO	protein	taxon:4896	20050414	GeneDB_Spombe		
+UniProtKB	O94396	pus1		GO:0005634	PMID:11095668	IGI		C	tRNA pseudouridine synthase 1	pus1|lps1|SPCC126.03|PUS1_SCHPO	protein	taxon:4896	20050517	GeneDB_Spombe		
+UniProtKB	O94396	pus1		GO:0005634	PMID:16823372	IDA		C	tRNA pseudouridine synthase 1	pus1|lps1|SPCC126.03|PUS1_SCHPO	protein	taxon:4896	20091111	GeneDB_Spombe		
+UniProtKB	Q9USH1	med31		GO:0016592	PMID:15356001	IDA		C	Mediator of RNA polymerase II transcription subunit 31	med31|sep10|SPCP31B10.03c|MED31_SCHPO	protein	taxon:4896	20070706	GeneDB_Spombe		
+UniProtKB	Q9USH1	med31		GO:0016592	PMID:12471453	IGI		C	Mediator of RNA polymerase II transcription subunit 31	med31|sep10|SPCP31B10.03c|MED31_SCHPO	protein	taxon:4896	20040915	GeneDB_Spombe		
+UniProtKB	P40848	dhp1		GO:0005634	PMID:17072883	IGI		C	5'-3' exoribonuclease 2	dhp1|SPAC26A3.12c|XRN2_SCHPO	protein	taxon:4896	20050422	GeneDB_Spombe		
+UniProtKB	P40848	dhp1		GO:0005634	PMID:16823372	IDA		C	5'-3' exoribonuclease 2	dhp1|SPAC26A3.12c|XRN2_SCHPO	protein	taxon:4896	20091111	GeneDB_Spombe		
+UniProtKB	P42881	gpt2		GO:0003975	PMID:9455919	IMP		F	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase	gpt2|SPBC15D4.04|gpt|GPT_SCHPO	protein	taxon:4896	20050616	GeneDB_Spombe		
+UniProtKB	P42881	gpt2		GO:0003975	PMID:7893167	IGI		F	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase	gpt2|SPBC15D4.04|gpt|GPT_SCHPO	protein	taxon:4896	20050616	GeneDB_Spombe		
+UniProtKB	Q10585	spd1		GO:0004857	PMID:16317005	IDA		F	S-phase delaying protein 1	spd1|SPAC29B12.03|SPD1_SCHPO	protein	taxon:4896	20050511	GeneDB_Spombe		
+UniProtKB	Q10585	spd1		GO:0004857	PMID:12695334	IGI		F	S-phase delaying protein 1	spd1|SPAC29B12.03|SPD1_SCHPO	protein	taxon:4896	20050511	GeneDB_Spombe		
+UniProtKB	Q10283	hmg1		GO:0004420	PMID:19486165	IMP		F	3-hydroxy-3-methylglutaryl-coenzyme A reductase	hmg1|SPCC162.09c|HMDH_SCHPO|O74425	protein	taxon:4896	20040507	GeneDB_Spombe		
+UniProtKB	Q10283	hmg1		GO:0004420	PMID:19041767	IDA		F	3-hydroxy-3-methylglutaryl-coenzyme A reductase	hmg1|SPCC162.09c|HMDH_SCHPO|O74425	protein	taxon:4896	20040507	GeneDB_Spombe		
+UniProtKB	Q9Y812	cnp1		GO:0005515	PMID:12773390	IPI	UniProtKB:Q9Y738	F	Histone H3-like centromeric protein cnp1	cnp1|SPBC1105.17|sim2|CENPA_SCHPO	protein	taxon:4896	20101116	IntAct		
+UniProtKB	Q9Y812	cnp1		GO:0005515	PMID:19217403	IPI		F	Histone H3-like centromeric protein cnp1	cnp1|SPBC1105.17|sim2|CENPA_SCHPO	protein	taxon:4896	20090422	GeneDB_Spombe		
+UniProtKB	Q9Y812	cnp1		GO:0005515	PMID:15897182	IGI		F	Histone H3-like centromeric protein cnp1	cnp1|SPBC1105.17|sim2|CENPA_SCHPO	protein	taxon:4896	20051021	GeneDB_Spombe		
+UniProtKB	Q9US59	skb5		GO:0019901	PMID:10593886	IDA		F	Shk1 kinase-binding protein 5	skb5|SPCC24B10.13|SKB5_SCHPO	protein	taxon:4896	20040507	UniProtKB		
+UniProtKB	Q9US59	skb5		GO:0019901	PMID:10593886	IPI		F	Shk1 kinase-binding protein 5	skb5|SPCC24B10.13|SKB5_SCHPO	protein	taxon:4896	20041130	GeneDB_Spombe		
+UniProtKB	O60182	rfc1		GO:0005515	PMID:9891039	IPI	UniProtKB:O75004	F	Replication factor C subunit 1	rfc1|SPBC23E6.07c|RFC1_SCHPO|Q9US97	protein	taxon:4896	20101116	IntAct		
+UniProtKB	O60182	rfc1		GO:0005515	PMID:16040599	IGI		F	Replication factor C subunit 1	rfc1|SPBC23E6.07c|RFC1_SCHPO|Q9US97	protein	taxon:4896	20050815	GeneDB_Spombe		
+UniProtKB	O74304	win1		GO:0005515	PMID:9693384	IGI		F	MAP kinase kinase kinase win1	win1|SPAC1006.09|SPAPJ730.01|SPAC1250.06c|WIN1_SCHPO|Q9P7R1|Q9UTP1|Q9UTR3	protein	taxon:4896	20050427	GeneDB_Spombe		
+UniProtKB	O74304	win1		GO:0005515	PMID:15936270	IPI	UniProtKB:O60132	F	MAP kinase kinase kinase win1	win1|SPAC1006.09|SPAPJ730.01|SPAC1250.06c|WIN1_SCHPO|Q9P7R1|Q9UTP1|Q9UTR3	protein	taxon:4896	20101116	IntAct		
+UniProtKB	O74304	win1		GO:0005515	PMID:15936270	IPI	UniProtKB:O60132	F	MAP kinase kinase kinase win1	win1|SPAC1006.09|SPAPJ730.01|SPAC1250.06c|WIN1_SCHPO|Q9P7R1|Q9UTP1|Q9UTR3	protein	taxon:4896	20061006	UniProtKB		
+UniProtKB	Q9UTR6	och1		GO:0000009	PMID:11231017	IGI		F	Initiation-specific alpha-1,6-mannosyltransferase	och1|SPAC1006.05c|OCH1_SCHPO	protein	taxon:4896	20050427	GeneDB_Spombe		
+UniProtKB	Q9UTR6	och1		GO:0000009	PMID:11231017	IDA		F	Initiation-specific alpha-1,6-mannosyltransferase	och1|SPAC1006.05c|OCH1_SCHPO	protein	taxon:4896	20020212	UniProtKB		
+UniProtKB	P08096	top2		GO:0003918	PMID:6090122	IMP		F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20061012	GeneDB_Spombe		
+UniProtKB	P08096	top2		GO:0003918	PMID:3023070	IGI		F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20061012	GeneDB_Spombe		
+UniProtKB	P08096	top2		GO:0003918	PMID:8395535	IDA		F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20061012	GeneDB_Spombe		
+UniProtKB	Q96WV9	cdk9		GO:0005515	PMID:12904290	IGI		F	Serine/threonine-protein kinase cdk9	cdk9|SPBC32H8.10|pi014|CDK9_SCHPO|O13607	protein	taxon:4896	20041111	GeneDB_Spombe		
+UniProtKB	Q96WV9	cdk9		GO:0005515	PMID:12475973	IPI		F	Serine/threonine-protein kinase cdk9	cdk9|SPBC32H8.10|pi014|CDK9_SCHPO|O13607	protein	taxon:4896	20041111	GeneDB_Spombe		
+UniProtKB	Q96WV9	cdk9		GO:0005515	PMID:12475973	IPI	UniProtKB:Q9P6Q6	F	Serine/threonine-protein kinase cdk9	cdk9|SPBC32H8.10|pi014|CDK9_SCHPO|O13607	protein	taxon:4896	20101116	IntAct		
+UniProtKB	O13828	dcp2		GO:0050072	PMID:15671491	IGI		F	mRNA decapping complex subunit 2	dcp2|SPAC19A8.12|DCP2_SCHPO	protein	taxon:4896	20050923	GeneDB_Spombe		
+UniProtKB	O13828	dcp2		GO:0050072	PMID:16341225	IDA		F	mRNA decapping complex subunit 2	dcp2|SPAC19A8.12|DCP2_SCHPO	protein	taxon:4896	20050923	GeneDB_Spombe		
+UniProtKB	P78937	sua1		GO:0004781	PMID:14723223	IMP		F	Sulfate adenylyltransferase	sua1|SPBC27.08c|asp1|met3|SPBC28F2.01c|MET3_SCHPO|Q9P6S1|Q9USV5	protein	taxon:4896	20040810	GeneDB_Spombe		
+UniProtKB	P78937	sua1		GO:0004781	PMID:18388974	IGI		F	Sulfate adenylyltransferase	sua1|SPBC27.08c|asp1|met3|SPBC28F2.01c|MET3_SCHPO|Q9P6S1|Q9USV5	protein	taxon:4896	20040810	GeneDB_Spombe		
+UniProtKB	O14188	rng2		GO:0005516	PMID:9635188	IPI	UniProtKB:P05933	F	Ras GTPase-activating-like protein rng2	rng2|SPAC4F8.13c|RNG2_SCHPO|Q9USG0	protein	taxon:4896	20030306	UniProtKB		
+UniProtKB	O14188	rng2		GO:0005516	PMID:9635188	IDA		F	Ras GTPase-activating-like protein rng2	rng2|SPAC4F8.13c|RNG2_SCHPO|Q9USG0	protein	taxon:4896	20051031	GeneDB_Spombe		
+UniProtKB	O59722	fab1		GO:0000285	PMID:11895483	IDA		F	1-phosphatidylinositol-3-phosphate 5-kinase fab1	fab1|ste12|SPBC3E7.01|SPBC6B1.11c|FAB1_SCHPO|O43072	protein	taxon:4896	20050401	GeneDB_Spombe		
+UniProtKB	O59722	fab1		GO:0000285	PMID:10567352	IGI		F	1-phosphatidylinositol-3-phosphate 5-kinase fab1	fab1|ste12|SPBC3E7.01|SPBC6B1.11c|FAB1_SCHPO|O43072	protein	taxon:4896	20050401	GeneDB_Spombe		
+UniProtKB	O74825	rpb4		GO:0005515	PMID:19720063	IPI		F	DNA-directed RNA polymerase II subunit rpb4	rpb4|SPBC337.14|RPB4_SCHPO	protein	taxon:4896	20091204	GeneDB_Spombe		
+UniProtKB	O74825	rpb4		GO:0005515	PMID:10523639	IGI		F	DNA-directed RNA polymerase II subunit rpb4	rpb4|SPBC337.14|RPB4_SCHPO	protein	taxon:4896	20041111	GeneDB_Spombe		
+UniProtKB	O74308	SPBC15D4.02		GO:0007126	PMID:12161753	IEP		P	Uncharacterized transcriptional regulatory protein C15D4.02	SPBC15D4.02|YOG2_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	O74308	SPBC15D4.02		GO:0007126	PMID:16169489	IMP		P	Uncharacterized transcriptional regulatory protein C15D4.02	SPBC15D4.02|YOG2_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	Q9UT79	msc1		GO:0007126	PMID:16169489	IMP		P	Multicopy suppressor of chk1 protein 1	msc1|SPAC343.11c|MSC1_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	Q9UT79	msc1		GO:0007126	PMID:12161753	IEP		P	Multicopy suppressor of chk1 protein 1	msc1|SPAC343.11c|MSC1_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	P50582	hsk1		GO:0006270	PMID:11359920	IMP		P	Cell cycle serine/threonine-protein kinase hsk1	hsk1|SPBC776.12c|HSK1_SCHPO|O94678	protein	taxon:4896	20031021	UniProtKB		
+UniProtKB	P50582	hsk1		GO:0006270	PMID:11359920	IGI		P	Cell cycle serine/threonine-protein kinase hsk1	hsk1|SPBC776.12c|HSK1_SCHPO|O94678	protein	taxon:4896	20041107	GeneDB_Spombe		
+UniProtKB	P50582	hsk1		GO:0006270	PMID:11359920	IGI	UniProtKB:P40377	P	Cell cycle serine/threonine-protein kinase hsk1	hsk1|SPBC776.12c|HSK1_SCHPO|O94678	protein	taxon:4896	20040506	UniProtKB		
+UniProtKB	Q92361	SPAC6G9.16c		GO:0007126	PMID:12161753	IEP		P	Uncharacterized protein C6G9.16c	SPAC6G9.16c|YDHG_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	Q92361	SPAC6G9.16c		GO:0007126	PMID:16169489	IMP		P	Uncharacterized protein C6G9.16c	SPAC6G9.16c|YDHG_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	Q92372	ssb1		GO:0000723	PMID:17429064	IGI		P	Replication factor A protein 1	ssb1|rad11|SPBC660.13c|rpa1|RFA1_SCHPO|Q92382	protein	taxon:4896	20070723	GeneDB_Spombe		
+UniProtKB	Q92372	ssb1		GO:0000723	PMID:14654689	IMP		P	Replication factor A protein 1	ssb1|rad11|SPBC660.13c|rpa1|RFA1_SCHPO|Q92382	protein	taxon:4896	20050510	GeneDB_Spombe		
+UniProtKB	Q10452	gsk3		GO:0006468	PMID:12773390	IGI		P	Protein kinase gsk3	gsk3|skp1|SPAC1687.15|GSK3_SCHPO|O94456	protein	taxon:4896	20090113	GeneDB_Spombe		
+UniProtKB	Q10452	gsk3		GO:0006468	PMID:8524294	IDA		P	Protein kinase gsk3	gsk3|skp1|SPAC1687.15|GSK3_SCHPO|O94456	protein	taxon:4896	20090113	GeneDB_Spombe		
+UniProtKB	Q10452	gsk3		GO:0006468	PMID:12773390	IGI		P	Protein kinase gsk3	gsk3|skp1|SPAC1687.15|GSK3_SCHPO|O94456	protein	taxon:4896	20090113	UniProtKB		
+UniProtKB	P08096	top2		GO:0006265	PMID:8395535	IDA		P	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20061012	GeneDB_Spombe		
+UniProtKB	P08096	top2		GO:0006265	PMID:3023070	IGI		P	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20061012	GeneDB_Spombe		
+UniProtKB	P08096	top2		GO:0006265	PMID:6090122	IMP		P	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20061012	GeneDB_Spombe		
+UniProtKB	Q09861	SPAC29E6.07		GO:0007126	PMID:16169489	IMP		P	Uncharacterized protein C29E6.07	SPAC29E6.07|SPAC30.11|YAF7_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	Q09861	SPAC29E6.07		GO:0007126	PMID:12161753	IEP		P	Uncharacterized protein C29E6.07	SPAC29E6.07|SPAC30.11|YAF7_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	Q92376	klp1		GO:0007019	PMID:11694582	IMP		P	Kinesin-like protein 1	klp1|pkl1|SPAC3A11.14c|KLP1_SCHPO|O42669	protein	taxon:4896	20040929	GeneDB_Spombe		
+UniProtKB	Q92376	klp1		GO:0007019	PMID:10749926	IDA		P	Kinesin-like protein 1	klp1|pkl1|SPAC3A11.14c|KLP1_SCHPO|O42669	protein	taxon:4896	20100121	GeneDB_Spombe		
+UniProtKB	O14063	cut15		GO:0006606	PMID:18362178	IGI		P	Importin subunit alpha-1	cut15|SPCC962.03c|IMA1_SCHPO	protein	taxon:4896	20050603	GeneDB_Spombe		
+UniProtKB	O14063	cut15		GO:0006606	PMID:9740803	IDA		P	Importin subunit alpha-1	cut15|SPCC962.03c|IMA1_SCHPO	protein	taxon:4896	20050603	GeneDB_Spombe		
+UniProtKB	O13290	dhc1		GO:0030989	PMID:14576344	IMP		P	Dynein heavy chain, cytoplasmic	dhc1|SPAC1093.06c|SPAC30C2.01c|DYHC_SCHPO|Q9P6L0|Q9UTP8	protein	taxon:4896	20041105	GeneDB_Spombe		
+UniProtKB	O13290	dhc1		GO:0030989	PMID:1938577	IDA		P	Dynein heavy chain, cytoplasmic	dhc1|SPAC1093.06c|SPAC30C2.01c|DYHC_SCHPO|Q9P6L0|Q9UTP8	protein	taxon:4896	20041105	GeneDB_Spombe		
+UniProtKB	Q9P7J0	SPCC24B10.16c		GO:0007126	PMID:16169489	IMP		P	Uncharacterized protein C24B10.16c	SPCC24B10.16c|YJNG_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	Q9P7J0	SPCC24B10.16c		GO:0007126	PMID:12161753	IEP		P	Uncharacterized protein C24B10.16c	SPCC24B10.16c|YJNG_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	O74518	cid12		GO:0031048	PMID:16738311	IGI		P	Poly(A) RNA polymerase cid12	cid12|SPCC663.12|CID12_SCHPO	protein	taxon:4896	20050322	GeneDB_Spombe		
+UniProtKB	O74518	cid12		GO:0031048	PMID:15607976	IMP		P	Poly(A) RNA polymerase cid12	cid12|SPCC663.12|CID12_SCHPO	protein	taxon:4896	20050322	GeneDB_Spombe		
+UniProtKB	O94276	SPBP8B7.28c		GO:0007126	PMID:12161753	IEP		P	Meiotic chromosome segregation protein P8B7.28c	SPBP8B7.28c|YORS_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	O94276	SPBP8B7.28c		GO:0007126	PMID:16169489	IMP		P	Meiotic chromosome segregation protein P8B7.28c	SPBP8B7.28c|YORS_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	P53695	exo1		GO:0006298	PMID:9871115	IGI		P	Exodeoxyribonuclease 1	exo1|SPBC29A10.05|EXO1_SCHPO	protein	taxon:4896	20061012	GeneDB_Spombe		
+UniProtKB	P53695	exo1		GO:0006298	PMID:7855597	IMP		P	Exodeoxyribonuclease 1	exo1|SPBC29A10.05|EXO1_SCHPO	protein	taxon:4896	20040914	GeneDB_Spombe		
+UniProtKB	Q9HDW7	pmc1		GO:0006874	PMID:15470240	IGI		P	Calcium-transporting ATPase 2	pmc1|SPAPB2B4.04c|ATC2_SCHPO	protein	taxon:4896	20060918	GeneDB_Spombe		
+UniProtKB	Q9HDW7	pmc1		GO:0006874	PMID:16928959	IMP		P	Calcium-transporting ATPase 2	pmc1|SPAPB2B4.04c|ATC2_SCHPO	protein	taxon:4896	20090316	GeneDB_Spombe		
+UniProtKB	O14068	SPAC1687.07		GO:0007126	PMID:16169489	IMP		P	UPF0357 protein C1687.07	SPAC1687.07|YFF7_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	O14068	SPAC1687.07		GO:0007126	PMID:12161753	IEP		P	UPF0357 protein C1687.07	SPAC1687.07|YFF7_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	O14220	meu26		GO:0007126	PMID:12161753	IEP		P	Meiotic expression up-regulated protein 26	meu26|SPAC6B12.16|MEU26_SCHPO|Q96WR9	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	O14220	meu26		GO:0007126	PMID:16169489	IMP		P	Meiotic expression up-regulated protein 26	meu26|SPAC6B12.16|MEU26_SCHPO|Q96WR9	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	P36592	rad22		GO:0000724	PMID:8290356	IMP		P	DNA repair and recombination protein rad22	rad22|SPAC30D11.10|RAD22_SCHPO	protein	taxon:4896	20040923	GeneDB_Spombe		
+UniProtKB	P36592	rad22		GO:0000724	PMID:8709952	IGI		P	DNA repair and recombination protein rad22	rad22|SPAC30D11.10|RAD22_SCHPO	protein	taxon:4896	20061012	GeneDB_Spombe		
+UniProtKB	P36592	rad22		GO:0000724	PMID:11104907	IGI		P	DNA repair and recombination protein rad22	rad22|SPAC30D11.10|RAD22_SCHPO	protein	taxon:4896	20061012	GeneDB_Spombe		
+UniProtKB	O59790	ark1		GO:0033205	PMID:11950927	IMP		P	Serine/threonine-protein kinase ark1	ark1|SPCC320.13c|sex1|SPCC330.16|ARK1_SCHPO	protein	taxon:4896	20041203	GeneDB_Spombe		
+UniProtKB	O59790	ark1		GO:0033205	PMID:19570910	IGI		P	Serine/threonine-protein kinase ark1	ark1|SPCC320.13c|sex1|SPCC330.16|ARK1_SCHPO	protein	taxon:4896	20090707	GeneDB_Spombe		
+UniProtKB	O74773	msh2		GO:0006298	PMID:9871115	IGI		P	DNA mismatch repair protein msh2	msh2|SPBC19G7.01c|SPBC24C6.12c|MSH2_SCHPO|O42950	protein	taxon:4896	20061012	GeneDB_Spombe		
+UniProtKB	O74773	msh2		GO:0006298	PMID:9858548	IMP		P	DNA mismatch repair protein msh2	msh2|SPBC19G7.01c|SPBC24C6.12c|MSH2_SCHPO|O42950	protein	taxon:4896	20040820	GeneDB_Spombe		
+UniProtKB	O74466	SPCC1739.04c		GO:0007126	PMID:16169489	IMP		P	Uncharacterized protein C1739.04c	SPCC1739.04c|YQC4_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	O74466	SPCC1739.04c		GO:0007126	PMID:12161753	IEP		P	Uncharacterized protein C1739.04c	SPCC1739.04c|YQC4_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	O14140	dss1		GO:0016973	PMID:15990877	IGI		P	mRNA export factor dss1	dss1|SPAC3G6.02|DSS1_SCHPO	protein	taxon:4896	20050704	GeneDB_Spombe		
+UniProtKB	O14140	dss1		GO:0016973	PMID:18023413	IMP		P	mRNA export factor dss1	dss1|SPAC3G6.02|DSS1_SCHPO	protein	taxon:4896	20091124	GeneDB_Spombe		
+UniProtKB	Q9UUG8	tup12		GO:0043156	PMID:14762213	IMP		P	Transcriptional repressor tup12	tup12|tup1|SPAC630.14c|TUP12_SCHPO|O14432	protein	taxon:4896	20041204	GeneDB_Spombe		
+UniProtKB	Q9UUG8	tup12		GO:0043156	PMID:15632072	IEP		P	Transcriptional repressor tup12	tup12|tup1|SPAC630.14c|TUP12_SCHPO|O14432	protein	taxon:4896	20060104	GeneDB_Spombe		
+UniProtKB	Q1MTQ0	brl1		GO:0071894	PMID:17374714	IDA		P	E3 ubiquitin-protein ligase brl1	brl1|rfp2|SPCC1919.15|SPCC790.01|BRL1_SCHPO	protein	taxon:4896	20070716	GeneDB_Spombe		
+UniProtKB	Q1MTQ0	brl1		GO:0071894	PMID:17363370	IMP		P	E3 ubiquitin-protein ligase brl1	brl1|rfp2|SPCC1919.15|SPCC790.01|BRL1_SCHPO	protein	taxon:4896	20070716	GeneDB_Spombe		
+UniProtKB	P54280	pms1		GO:0006298	PMID:9871115	IGI		P	DNA mismatch repair protein pms1	pms1|SPAC19G12.02c|PMS1_SCHPO	protein	taxon:4896	20061012	GeneDB_Spombe		
+UniProtKB	P54280	pms1		GO:0006298	PMID:9258673	IMP		P	DNA mismatch repair protein pms1	pms1|SPAC19G12.02c|PMS1_SCHPO	protein	taxon:4896	20040820	GeneDB_Spombe		
+UniProtKB	Q9P6S4	meu25		GO:0007126	PMID:12161753	IEP		P	Meiotic expression up-regulated protein 25	meu25|SPBC27.03|MEU25_SCHPO|P78952|Q96WS0	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	Q9P6S4	meu25		GO:0007126	PMID:16169489	IMP		P	Meiotic expression up-regulated protein 25	meu25|SPBC27.03|MEU25_SCHPO|P78952|Q96WS0	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	Q10108	SPAC18G6.09c		GO:0007126	PMID:12161753	IEP		P	Uncharacterized protein C18G6.09c	SPAC18G6.09c|YAQ9_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	Q10108	SPAC18G6.09c		GO:0007126	PMID:16169489	IMP		P	Uncharacterized protein C18G6.09c	SPAC18G6.09c|YAQ9_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	O13820	erg5		GO:0006696	PMID:15797383	IEP		P	Cytochrome P450 61	erg5|cyp61|SPAC19A8.04|ERG5_SCHPO	protein	taxon:4896	20041102	GeneDB_Spombe		
+UniProtKB	O13820	erg5		GO:0006696	PMID:18310029	IMP		P	Cytochrome P450 61	erg5|cyp61|SPAC19A8.04|ERG5_SCHPO	protein	taxon:4896	20091124	GeneDB_Spombe		
+UniProtKB	O94640	sir2		GO:0030466	PMID:12867036	IMP		P	NAD-dependent histone deacetylase sir2	sir2|SPBC16D10.07c|SIR2_SCHPO|Q6H8I3	protein	taxon:4896	20040925	GeneDB_Spombe		
+UniProtKB	O94640	sir2		GO:0030466	PMID:15545655	IGI		P	NAD-dependent histone deacetylase sir2	sir2|SPBC16D10.07c|SIR2_SCHPO|Q6H8I3	protein	taxon:4896	20040925	GeneDB_Spombe		
+UniProtKB	P29458	mcm4		GO:0006270	PMID:9366552	IDA		P	DNA replication licensing factor mcm4	mcm4|cdc21|SPCC16A11.17|SPCC24B10.01|MCM4_SCHPO|Q9P7K4|Q9USM0	protein	taxon:4896	20050104	GeneDB_Spombe		
+UniProtKB	P29458	mcm4		GO:0006270	PMID:1454522	IMP		P	DNA replication licensing factor mcm4	mcm4|cdc21|SPCC16A11.17|SPCC24B10.01|MCM4_SCHPO|Q9P7K4|Q9USM0	protein	taxon:4896	20041203	GeneDB_Spombe		
+UniProtKB	Q09739	mcp7		GO:0007131	PMID:15210864	IGI		P	Meiotic coiled-coil protein 7	mcp7|SPAC13A11.03|mug32|MCP7_SCHPO	protein	taxon:4896	20040624	GeneDB_Spombe		
+UniProtKB	Q09739	mcp7		GO:0007131	PMID:16303567	IMP		P	Meiotic coiled-coil protein 7	mcp7|SPAC13A11.03|mug32|MCP7_SCHPO	protein	taxon:4896	20051007	GeneDB_Spombe		
+UniProtKB	O59790	ark1		GO:0000070	PMID:11792803	IMP		P	Serine/threonine-protein kinase ark1	ark1|SPCC320.13c|sex1|SPCC330.16|ARK1_SCHPO	protein	taxon:4896	20041203	GeneDB_Spombe		
+UniProtKB	O59790	ark1		GO:0000070	PMID:11950927	IGI		P	Serine/threonine-protein kinase ark1	ark1|SPCC320.13c|sex1|SPCC330.16|ARK1_SCHPO	protein	taxon:4896	20041203	GeneDB_Spombe		
+UniProtKB	Q10223	pof14		GO:0032443	PMID:17016471	IPI		P	F-box protein pof14	pof14|SPAC13D6.01|POF14_SCHPO	protein	taxon:4896	20061115	GeneDB_Spombe		
+UniProtKB	Q10223	pof14		GO:0032443	PMID:17016471	IDA		P	F-box protein pof14	pof14|SPAC13D6.01|POF14_SCHPO	protein	taxon:4896	20070104	UniProtKB		
+UniProtKB	O94656	SPBC405.05		GO:0007126	PMID:16169489	IMP		P	Meiotic chromosome segregation protein C405.05	SPBC405.05|YGF5_SCHPO|P78904|Q1L842	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	O94656	SPBC405.05		GO:0007126	PMID:12161753	IEP		P	Meiotic chromosome segregation protein C405.05	SPBC405.05|YGF5_SCHPO|P78904|Q1L842	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	P09988	hht1		GO:0030702	PMID:17369611	IGI		P	Histone H3.1/H3.2	hht1|SPAC1834.04|hht2|SPBC8D2.04|pi060|H31_SCHPO	protein	taxon:4896	20070823	GeneDB_Spombe		
+UniProtKB	P09988	hht1		GO:0030702	PMID:14561399	IMP		P	Histone H3.1/H3.2	hht1|SPAC1834.04|hht2|SPBC8D2.04|pi060|H31_SCHPO	protein	taxon:4896	20050415	GeneDB_Spombe		
+UniProtKB	O13826	rfp1		GO:0033234	PMID:17762865	IMP		P	E3 ubiquitin-protein ligase complex slx8-rfp subunit rfp1	rfp1|mug140|SPAC19A8.10|RFP1_SCHPO	protein	taxon:4896	20071123	GeneDB_Spombe		
+UniProtKB	O13826	rfp1		GO:0033234	PMID:17502373	IGI		P	E3 ubiquitin-protein ligase complex slx8-rfp subunit rfp1	rfp1|mug140|SPAC19A8.10|RFP1_SCHPO	protein	taxon:4896	20070716	GeneDB_Spombe		
+UniProtKB	P23566	rhp6		GO:0071894	PMID:17363370	IMP		P	Ubiquitin-conjugating enzyme E2 2	rhp6|ubc2|SPAC18B11.07c|UBC2_SCHPO	protein	taxon:4896	20070716	GeneDB_Spombe		
+UniProtKB	P23566	rhp6		GO:0071894	PMID:17374714	IDA		P	Ubiquitin-conjugating enzyme E2 2	rhp6|ubc2|SPAC18B11.07c|UBC2_SCHPO	protein	taxon:4896	20070716	GeneDB_Spombe		
+UniProtKB	O13852	poz1		GO:0032211	PMID:1853524	IGI		P	Protection of telomeres protein poz1	poz1|SPAC19G12.13c|POZ1_SCHPO|B3A005	protein	taxon:4896	20080609	GeneDB_Spombe		
+UniProtKB	O13852	poz1		GO:0032211	PMID:18535244	IMP		P	Protection of telomeres protein poz1	poz1|SPAC19G12.13c|POZ1_SCHPO|B3A005	protein	taxon:4896	20080609	GeneDB_Spombe		
+UniProtKB	Q9USX3	rad60		GO:0006302	PMID:15485909	IGI		P	DNA repair protein rad60	rad60|SPBC1921.02|RAD60_SCHPO	protein	taxon:4896	20041103	GeneDB_Spombe		
+UniProtKB	Q9USX3	rad60		GO:0006302	PMID:11971984	IMP		P	DNA repair protein rad60	rad60|SPBC1921.02|RAD60_SCHPO	protein	taxon:4896	20041103	GeneDB_Spombe		
+UniProtKB	O94585	SPCC1442.13c		GO:0007126	PMID:16169489	IMP		P	Meiotically up-regulated protein C1442.13c	SPCC1442.13c|YQ7D_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	O94585	SPCC1442.13c		GO:0007126	PMID:12161753	IEP		P	Meiotically up-regulated protein C1442.13c	SPCC1442.13c|YQ7D_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	O13995	dap1		GO:0006696	PMID:17276356	IMP		P	Cytochrome P450 regulator dap1	dap1|SPAC25B8.01|SPAC26H5.15|DAP1_SCHPO	protein	taxon:4896	20061113	GeneDB_Spombe		
+UniProtKB	O13995	dap1		GO:0006696	PMID:15797383	IEP		P	Cytochrome P450 regulator dap1	dap1|SPAC25B8.01|SPAC26H5.15|DAP1_SCHPO	protein	taxon:4896	20061113	GeneDB_Spombe		
+UniProtKB	Q9HDY2	SPAPB1A10.08		GO:0007126	PMID:12161753	IEP		P	Meiotically up-regulated protein PB1A10.08	SPAPB1A10.08|YK18_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	Q9HDY2	SPAPB1A10.08		GO:0007126	PMID:16169489	IMP		P	Meiotically up-regulated protein PB1A10.08	SPAPB1A10.08|YK18_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	O94427	mug167		GO:0007126	PMID:16169489	IMP		P	Meiotically up-regulated gene 167 protein	mug167|SPBC660.08|MU167_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	O94427	mug167		GO:0007126	PMID:12161753	IEP		P	Meiotically up-regulated gene 167 protein	mug167|SPBC660.08|MU167_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	P50582	hsk1		GO:0000076	PMID:11359920	IGI	UniProtKB:Q09170	P	Cell cycle serine/threonine-protein kinase hsk1	hsk1|SPBC776.12c|HSK1_SCHPO|O94678	protein	taxon:4896	20040506	UniProtKB		
+UniProtKB	P50582	hsk1		GO:0000076	PMID:11359920	IGI		P	Cell cycle serine/threonine-protein kinase hsk1	hsk1|SPBC776.12c|HSK1_SCHPO|O94678	protein	taxon:4896	20041110	GeneDB_Spombe		
+UniProtKB	P50582	hsk1		GO:0000076	PMID:11359920	IMP		P	Cell cycle serine/threonine-protein kinase hsk1	hsk1|SPBC776.12c|HSK1_SCHPO|O94678	protein	taxon:4896	20031021	UniProtKB		
+UniProtKB	P10651	hht3		GO:0030702	PMID:14561399	IMP		P	Histone H3.3	hht3|SPBC1105.11c|H33_SCHPO	protein	taxon:4896	20070823	GeneDB_Spombe		
+UniProtKB	P10651	hht3		GO:0030702	PMID:17369611	IGI		P	Histone H3.3	hht3|SPBC1105.11c|H33_SCHPO	protein	taxon:4896	20070823	GeneDB_Spombe		
+UniProtKB	Q09811	rqh1		GO:0000723	PMID:10373582	IMP		P	ATP-dependent DNA helicase hus2/rqh1	rqh1|SPAC2G11.12|hus2|rad12|rec9|HUS2_SCHPO	protein	taxon:4896	20071228	GeneDB_Spombe		
+UniProtKB	Q09811	rqh1		GO:0000723	PMID:17429064	IGI		P	ATP-dependent DNA helicase hus2/rqh1	rqh1|SPAC2G11.12|hus2|rad12|rec9|HUS2_SCHPO	protein	taxon:4896	20051025	GeneDB_Spombe		
+UniProtKB	Q09690	pom1		GO:0034613	PMID:19474789	IMP		P	Dual specificity protein kinase pom1	pom1|SPAC2F7.03c|POM1_SCHPO	protein	taxon:4896	20090826	GeneDB_Spombe		
+UniProtKB	Q09690	pom1		GO:0034613	PMID:18328707	IGI		P	Dual specificity protein kinase pom1	pom1|SPAC2F7.03c|POM1_SCHPO	protein	taxon:4896	20080430	GeneDB_Spombe		
+UniProtKB	Q09690	pom1		GO:0034613	PMID:9852154	IGI		P	Dual specificity protein kinase pom1	pom1|SPAC2F7.03c|POM1_SCHPO	protein	taxon:4896	20050616	GeneDB_Spombe		
+UniProtKB	Q09914	rho1		GO:0032995	PMID:11102532	IMP		P	GTP-binding protein rho1	rho1|SPAC1F7.04|RHO1_SCHPO	protein	taxon:4896	20040820	GeneDB_Spombe		
+UniProtKB	Q09914	rho1		GO:0032995	PMID:10504305	IGI		P	GTP-binding protein rho1	rho1|SPAC1F7.04|RHO1_SCHPO	protein	taxon:4896	20040820	GeneDB_Spombe		
+UniProtKB	O60094	pol5		GO:0009303	PMID:16816948	IMP		P	DNA polymerase V	pol5|SPBC14C8.14c|DPO5_SCHPO|Q9UTU3	protein	taxon:4896	20051004	GeneDB_Spombe		
+UniProtKB	O60094	pol5		GO:0009303	PMID:16816948	IDA		P	DNA polymerase V	pol5|SPBC14C8.14c|DPO5_SCHPO|Q9UTU3	protein	taxon:4896	20060914	UniProtKB		
+UniProtKB	P87320	msp1		GO:0008053	PMID:10547374	IGI		P	Protein msp1, mitochondrial	msp1|SPBC1718.06|MSP1_SCHPO|Q9P7N8	protein	taxon:4896	20040524	GeneDB_Spombe		
+UniProtKB	P87320	msp1		GO:0008053	PMID:9928955	IMP		P	Protein msp1, mitochondrial	msp1|SPBC1718.06|MSP1_SCHPO|Q9P7N8	protein	taxon:4896	20040524	GeneDB_Spombe		
+UniProtKB	Q9UT72	rfp2		GO:0033234	PMID:17502373	IGI		P	E3 ubiquitin-protein ligase complex slx8-rfp subunit rfp2	rfp2|SPAC343.18|RFP2_SCHPO	protein	taxon:4896	20070716	GeneDB_Spombe		
+UniProtKB	Q9UT72	rfp2		GO:0033234	PMID:17762865	IMP		P	E3 ubiquitin-protein ligase complex slx8-rfp subunit rfp2	rfp2|SPAC343.18|RFP2_SCHPO	protein	taxon:4896	20071123	GeneDB_Spombe		
+UniProtKB	Q10111	SPAC18G6.12c		GO:0007126	PMID:16169489	IMP		P	Uncharacterized protein C18G6.12c	SPAC18G6.12c|YAQC_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	Q10111	SPAC18G6.12c		GO:0007126	PMID:12161753	IEP		P	Uncharacterized protein C18G6.12c	SPAC18G6.12c|YAQC_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	O14273	SPAC8C9.04		GO:0007126	PMID:16169489	IMP		P	Meiotically up-regulated protein C8C9.04	SPAC8C9.04|YET4_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	O14273	SPAC8C9.04		GO:0007126	PMID:12161753	IEP		P	Meiotically up-regulated protein C8C9.04	SPAC8C9.04|YET4_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	P78794	cwf15		GO:0000398	PMID:11884590	IDA		P	Pre-mRNA-splicing factor cwc15	cwf15|SPBC337.06c|CWC15_SCHPO|O74817	protein	taxon:4896	20070615	UniProtKB		
+UniProtKB	P78794	cwf15		GO:0000398	PMID:11884590	IPI		P	Pre-mRNA-splicing factor cwc15	cwf15|SPBC337.06c|CWC15_SCHPO|O74817	protein	taxon:4896	20060918	GeneDB_Spombe		
+UniProtKB	Q9UT29	SPAC8F11.08c		GO:0007126	PMID:16169489	IMP		P	Uncharacterized protein C8F11.08c	SPAC8F11.08c|YKGC_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	Q9UT29	SPAC8F11.08c		GO:0007126	PMID:12161753	IEP		P	Uncharacterized protein C8F11.08c	SPAC8F11.08c|YKGC_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	Q02099	rad3		GO:0031573	PMID:19037101	IDA		P	Protein kinase rad3	rad3|SPBC216.05|RAD3_SCHPO|Q92391|Q9UUM1	protein	taxon:4896	20090206	GeneDB_Spombe		
+UniProtKB	Q02099	rad3		GO:0031573	PMID:12032307	IMP		P	Protein kinase rad3	rad3|SPBC216.05|RAD3_SCHPO|Q92391|Q9UUM1	protein	taxon:4896	20080104	GeneDB_Spombe		
+UniProtKB	O74983	spm2		GO:0006301	PMID:12531016	IMP		P	Ubiquitin-conjugating enzyme spm2	spm2|SPCC338.05c|MMS2_SCHPO	protein	taxon:4896	20041101	GeneDB_Spombe		
+UniProtKB	O74983	spm2		GO:0006301	PMID:16641370	IGI		P	Ubiquitin-conjugating enzyme spm2	spm2|SPCC338.05c|MMS2_SCHPO	protein	taxon:4896	20060508	GeneDB_Spombe		
+UniProtKB	P87320	msp1		GO:0000002	PMID:9928955	IMP		P	Protein msp1, mitochondrial	msp1|SPBC1718.06|MSP1_SCHPO|Q9P7N8	protein	taxon:4896	20040524	GeneDB_Spombe		
+UniProtKB	P87320	msp1		GO:0000002	PMID:10547374	IGI		P	Protein msp1, mitochondrial	msp1|SPBC1718.06|MSP1_SCHPO|Q9P7N8	protein	taxon:4896	20040524	GeneDB_Spombe		
+UniProtKB	Q12238	uvi31		GO:0034644	PMID:9258332	IEP		P	UV-induced protein uvi31	uvi31|SPBC16E9.06c|UVI31_SCHPO	protein	taxon:4896	20060825	GeneDB_Spombe		
+UniProtKB	Q12238	uvi31		GO:0034644	PMID:12521307	IMP		P	UV-induced protein uvi31	uvi31|SPBC16E9.06c|UVI31_SCHPO	protein	taxon:4896	20050415	GeneDB_Spombe		
+UniProtKB	O14356	tor1		GO:0033554	PMID:11096119	IMP		P	Phosphatidylinositol 3-kinase tor1	tor1|SPBC30D10.10c|TOR1_SCHPO	protein	taxon:4896	20071228	GeneDB_Spombe		
+UniProtKB	O14356	tor1		GO:0033554	PMID:17121544	IGI		P	Phosphatidylinositol 3-kinase tor1	tor1|SPBC30D10.10c|TOR1_SCHPO	protein	taxon:4896	20071228	GeneDB_Spombe		
+UniProtKB	P40847	sap1		GO:0031582	PMID:16195226	IMP		P	Switch-activating protein 1	sap1|SPCC1672.02c|SAP1_SCHPO|P78961	protein	taxon:4896	20050919	GeneDB_Spombe		
+UniProtKB	P40847	sap1		GO:0031582	PMID:16166653	IDA		P	Switch-activating protein 1	sap1|SPCC1672.02c|SAP1_SCHPO|P78961	protein	taxon:4896	20050919	GeneDB_Spombe		
+UniProtKB	P40903	isp6		GO:0006995	PMID:16550352	IMP		P	Sexual differentiation process putative subtilase-type proteinase isp6	isp6|SPAC4A8.04|ISP6_SCHPO	protein	taxon:4896	20060516	GeneDB_Spombe		
+UniProtKB	P40903	isp6		GO:0006995	PMID:11872168	IEP		P	Sexual differentiation process putative subtilase-type proteinase isp6	isp6|SPAC4A8.04|ISP6_SCHPO	protein	taxon:4896	20060516	GeneDB_Spombe		
+UniProtKB	P36626	rec8		GO:0045144	PMID:14532136	IDA		P	Meiotic recombination protein rec8	rec8|SPBC29A10.14|REC8_SCHPO|O60051	protein	taxon:4896	20040712	GeneDB_Spombe		
+UniProtKB	P36626	rec8		GO:0045144	PMID:8536990	IMP		P	Meiotic recombination protein rec8	rec8|SPBC29A10.14|REC8_SCHPO|O60051	protein	taxon:4896	20040712	GeneDB_Spombe		
+UniProtKB	Q10292	mek1		GO:0051598	PMID:12032093	IMP		P	Meiosis-specific serine/threonine-protein kinase mek1	mek1|SPAC14C4.03|MEK1_SCHPO	protein	taxon:4896	20040922	GeneDB_Spombe		
+UniProtKB	Q10292	mek1		GO:0051598	PMID:12482912	IGI		P	Meiosis-specific serine/threonine-protein kinase mek1	mek1|SPAC14C4.03|MEK1_SCHPO	protein	taxon:4896	20040922	GeneDB_Spombe		
+UniProtKB	O74986	ctp1		GO:0000724	PMID:18378696	IGI		P	DNA endonuclease ctp1	ctp1|SPCC338.08|mug38|nip1|slr9|COM1_SCHPO|A9LJ21	protein	taxon:4896	20080619	GeneDB_Spombe		
+UniProtKB	O74986	ctp1		GO:0000724	PMID:17936710	IDA		P	DNA endonuclease ctp1	ctp1|SPCC338.08|mug38|nip1|slr9|COM1_SCHPO|A9LJ21	protein	taxon:4896	20071109	GeneDB_Spombe		
+UniProtKB	Q12705	ppb1		GO:0071775	PMID:10950958	IGI		P	Serine/threonine-protein phosphatase 2B catalytic subunit	ppb1|SPBP4H10.04|SPBC1346.01c|PP2B_SCHPO|Q9P7E4	protein	taxon:4896	20060913	GeneDB_Spombe		
+UniProtKB	Q12705	ppb1		GO:0071775	PMID:7983142	IMP		P	Serine/threonine-protein phosphatase 2B catalytic subunit	ppb1|SPBP4H10.04|SPBC1346.01c|PP2B_SCHPO|Q9P7E4	protein	taxon:4896	20040921	GeneDB_Spombe		
+UniProtKB	O13740	mde1		GO:0007126	PMID:16169489	IMP		P	Mei4-dependent protein 1	mde1|SPAC16E8.05c|MDE1_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	O13740	mde1		GO:0007126	PMID:12161753	IEP		P	Mei4-dependent protein 1	mde1|SPAC16E8.05c|MDE1_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	Q10213	srs2		GO:0000725	PMID:11452021	IMP		P	ATP-dependent DNA helicase srs2	srs2|SPAC4H3.05|SRS2_SCHPO	protein	taxon:4896	20071228	GeneDB_Spombe		
+UniProtKB	Q10213	srs2		GO:0000725	PMID:16135799	IGI		P	ATP-dependent DNA helicase srs2	srs2|SPAC4H3.05|SRS2_SCHPO	protein	taxon:4896	20071228	GeneDB_Spombe		
+UniProtKB	O74563	brl2		GO:0071894	PMID:17363370	IMP		P	E3 ubiquitin-protein ligase brl2	brl2|SPCC970.10c|rfp1|BRL2_SCHPO	protein	taxon:4896	20070716	GeneDB_Spombe		
+UniProtKB	O74563	brl2		GO:0071894	PMID:17374714	IDA		P	E3 ubiquitin-protein ligase brl2	brl2|SPCC970.10c|rfp1|BRL2_SCHPO	protein	taxon:4896	20070716	GeneDB_Spombe		
+UniProtKB	Q09892	sty1		GO:0043557	PMID:16278445	IMP		P	Mitogen-activated protein kinase sty1	sty1|hog1|SPAC24B11.06c|phh1|spc1|HOG1_SCHPO	protein	taxon:4896	20060104	GeneDB_Spombe		
+UniProtKB	Q09892	sty1		GO:0043557	PMID:18065650	IDA		P	Mitogen-activated protein kinase sty1	sty1|hog1|SPAC24B11.06c|phh1|spc1|HOG1_SCHPO	protein	taxon:4896	20060104	GeneDB_Spombe		
+UniProtKB	O74361	SPBC28E12.04		GO:0007126	PMID:16169489	IMP		P	Uncharacterized protein C28E12.04	SPBC28E12.04|YNU4_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	O74361	SPBC28E12.04		GO:0007126	PMID:12161753	IEP		P	Uncharacterized protein C28E12.04	SPBC28E12.04|YNU4_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	Q09892	sty1		GO:0043556	PMID:18065650	IDA		P	Mitogen-activated protein kinase sty1	sty1|hog1|SPAC24B11.06c|phh1|spc1|HOG1_SCHPO	protein	taxon:4896	20060104	GeneDB_Spombe		
+UniProtKB	Q09892	sty1		GO:0043556	PMID:16278445	IMP		P	Mitogen-activated protein kinase sty1	sty1|hog1|SPAC24B11.06c|phh1|spc1|HOG1_SCHPO	protein	taxon:4896	20060104	GeneDB_Spombe		
+UniProtKB	Q92340	SPAC1F8.02c		GO:0007126	PMID:12161753	IEP		P	Uncharacterized GPI-anchored protein C1F8.02c	SPAC1F8.02c|YDI2_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	Q92340	SPAC1F8.02c		GO:0007126	PMID:16169489	IMP		P	Uncharacterized GPI-anchored protein C1F8.02c	SPAC1F8.02c|YDI2_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	P40899	isp3		GO:0007126	PMID:16169489	IMP		P	Sexual differentiation process protein isp3	isp3|meu4|SPAC1F8.05|ISP3_SCHPO|Q92343|Q96VC0	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	P40899	isp3		GO:0007126	PMID:12161753	IEP		P	Sexual differentiation process protein isp3	isp3|meu4|SPAC1F8.05|ISP3_SCHPO|Q92343|Q96VC0	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	Q01663	pap1		GO:0070301	PMID:12100563	IMP		P	AP-1-like transcription factor	pap1|caf3|SPAC1783.07c|AP1_SCHPO|Q9US23|Q9UU69	protein	taxon:4896	20100120	GeneDB_Spombe		
+UniProtKB	Q01663	pap1		GO:0070301	PMID:17409354	IMP		P	AP-1-like transcription factor	pap1|caf3|SPAC1783.07c|AP1_SCHPO|Q9US23|Q9UU69	protein	taxon:4896	20100201	GeneDB_Spombe		
+UniProtKB	Q01663	pap1		GO:0070301	PMID:16087744	IGI		P	AP-1-like transcription factor	pap1|caf3|SPAC1783.07c|AP1_SCHPO|Q9US23|Q9UU69	protein	taxon:4896	20040520	GeneDB_Spombe		
+UniProtKB	Q09170	cds1		GO:0031573	PMID:12032307	IMP		P	Serine/threonine-protein kinase cds1	cds1|SPCC18B5.11c|CDS1_SCHPO|O42642	protein	taxon:4896	20080104	GeneDB_Spombe		
+UniProtKB	Q09170	cds1		GO:0031573	PMID:19037101	IDA		P	Serine/threonine-protein kinase cds1	cds1|SPCC18B5.11c|CDS1_SCHPO|O42642	protein	taxon:4896	20090206	GeneDB_Spombe		
+UniProtKB	Q09926	pcr1		GO:0033554	PMID:10102365	IGI		P	Transcription factor pcr1	pcr1|SPAC21E11.03c|mts2|PCR1_SCHPO	protein	taxon:4896	20050722	GeneDB_Spombe		
+UniProtKB	Q09926	pcr1		GO:0033554	PMID:9819443	IMP		P	Transcription factor pcr1	pcr1|SPAC21E11.03c|mts2|PCR1_SCHPO	protein	taxon:4896	20090104	GeneDB_Spombe		
+UniProtKB	O14019	hal4		GO:0030003	PMID:16164595	IMP		P	Serine/threonine-protein kinase hal4	hal4|SPAC29A4.16|ppk10|sat4|HAL4_SCHPO	protein	taxon:4896	20050919	GeneDB_Spombe		
+UniProtKB	O14019	hal4		GO:0030003	PMID:15870269	IGI		P	Serine/threonine-protein kinase hal4	hal4|SPAC29A4.16|ppk10|sat4|HAL4_SCHPO	protein	taxon:4896	20050922	GeneDB_Spombe		
+UniProtKB	O43058	sep1		GO:0045896	PMID:10491317	IMP		P	Forkhead protein sep1	sep1|SPBC4C3.12|SEP1_SCHPO|P79006	protein	taxon:4896	20050119	GeneDB_Spombe		
+UniProtKB	O43058	sep1		GO:0045896	PMID:15509866	IGI		P	Forkhead protein sep1	sep1|SPBC4C3.12|SEP1_SCHPO|P79006	protein	taxon:4896	20050119	GeneDB_Spombe		
+UniProtKB	Q09907	nth1		GO:0006285	PMID:12675805	IMP		P	Endonuclease III homolog	nth1|SPAC30D11.07|NTH1_SCHPO|Q588X4	protein	taxon:4896	20040524	GeneDB_Spombe		
+UniProtKB	Q09907	nth1		GO:0006285	PMID:17641464	IDA		P	Endonuclease III homolog	nth1|SPAC30D11.07|NTH1_SCHPO|Q588X4	protein	taxon:4896	20040524	GeneDB_Spombe		
+UniProtKB	O74509	SPCC594.06c		GO:0007126	PMID:12161753	IEP		P	Vacuolar morphogenesis protein 7 homolog	SPCC594.06c|VAM7_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		
+UniProtKB	O74509	SPCC594.06c		GO:0007126	PMID:16169489	IMP		P	Vacuolar morphogenesis protein 7 homolog	SPCC594.06c|VAM7_SCHPO	protein	taxon:4896	20060203	GeneDB_Spombe		

@@ -1,0 +1,4 @@
+!gaf-version: 2.0
+UniProtKB	P0A9X9	cspA		GO:0016563	PMID:7748932	TAS		F	Cold shock protein CspA	cspA|b3556|cspS|JW3525|CSPA_ECOLI|P15277|P37410|Q2M7L7|Q54170	protein	taxon:83333	20060621	EcoCyc		
+UniProtKB	P69776	lpp		GO:0042834	PMID:1527082	TAS		F	Major outer membrane lipoprotein Lpp	lpp|b1677|mlpA|mulI|JW1667|LPP_ECOLI|P02937|Q53272	protein	taxon:83333	20061214	UniProtKB		
+UniProtKB	P0A9X9	cspA		GO:0006350	PMID:7748932	TAS		P	Cold shock protein CspA	cspA|b3556|cspS|JW3525|CSPA_ECOLI|P15277|P37410|Q2M7L7|Q54170	protein	taxon:83333	20060621	EcoCyc		

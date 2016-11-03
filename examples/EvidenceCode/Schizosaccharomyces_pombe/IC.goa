@@ -1,0 +1,10 @@
+!gaf-version: 2.0
+UniProtKB	P42881	gpt2		GO:0030176	PMID:17072883	IC	GO:0016021	C	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase	gpt2|SPBC15D4.04|gpt|GPT_SCHPO	protein	taxon:4896	20070628	GeneDB_Spombe		
+UniProtKB	P42881	gpt2		GO:0030176	PMID:17072883	IC	GO:0005783	C	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase	gpt2|SPBC15D4.04|gpt|GPT_SCHPO	protein	taxon:4896	20070628	GeneDB_Spombe		
+UniProtKB	O74878	alg11		GO:0000136	PMID:17072883	IC	GO:0000026	C	Alpha-1,2-mannosyltransferase alg11	alg11|gmd3|SPCC330.08|ALG11_SCHPO	protein	taxon:4896	20070207	GeneDB_Spombe		
+UniProtKB	O74113	sna41		GO:0043596	PMID:17072883	IC	GO:0005656	C	Cell division control protein 45 homolog	sna41|SPAC17D4.02|CDC45_SCHPO	protein	taxon:4896	20040906	GeneDB_Spombe		
+UniProtKB	P08096	top2		GO:0005524	PMID:17072883	IC	GO:0003918	F	DNA topoisomerase 2	top2|SPBC1A4.03c|TOP2_SCHPO|O74336	protein	taxon:4896	20061012	GeneDB_Spombe		
+UniProtKB	Q12705	ppb1		GO:0006470	PMID:17072883	IC	GO:0004721	P	Serine/threonine-protein phosphatase 2B catalytic subunit	ppb1|SPBP4H10.04|SPBC1346.01c|PP2B_SCHPO|Q9P7E4	protein	taxon:4896	20040921	GeneDB_Spombe		
+UniProtKB	Q09926	pcr1		GO:0006355	PMID:17072883	IC	GO:0000978	P	Transcription factor pcr1	pcr1|SPAC21E11.03c|mts2|PCR1_SCHPO	protein	taxon:4896	20040520	GeneDB_Spombe		
+UniProtKB	O60094	pol5		GO:0042790	PMID:17072883	IC	GO:0042790	P	DNA polymerase V	pol5|SPBC14C8.14c|DPO5_SCHPO|Q9UTU3	protein	taxon:4896	20061012	GeneDB_Spombe		
+UniProtKB	O60094	pol5		GO:0042790	PMID:17072883	IC	GO:0009303	P	DNA polymerase V	pol5|SPBC14C8.14c|DPO5_SCHPO|Q9UTU3	protein	taxon:4896	20061012	GeneDB_Spombe		
