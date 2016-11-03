@@ -24,6 +24,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 from pylab import *
 import os, csv
+import re
 
 from itertools import izip
 
@@ -235,7 +236,8 @@ def readGAF_2(fileName):
     seek=0
     GAF_OK=False
     while data[seek][0][0]=="!":
-        if data[seek][0]=="!gaf-version: 2.0":
+    	print data[seek][0]
+        if re.search("!.*gaf-version.*:.*2.0",data[seek][0]):
             GAF_OK=True
         seek=seek+1
 
