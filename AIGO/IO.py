@@ -237,7 +237,7 @@ def readGAF_2(fileName):
     GAF_OK=False
     while data[seek][0][0]=="!":
     	print data[seek][0]
-        if re.search("!.*gaf-version.*:.*2.0",data[seek][0]):
+        if re.search("!.*gaf-version.*:.*2",data[seek][0]):
             GAF_OK=True
         seek=seek+1
 
