@@ -26,7 +26,7 @@ from distutils.core import setup
 
 setup(
     name='AIGO',
-    version='0.1.0',
+    version='0.1.1',
     author='Michael Defoin-Platel',
     author_email='michael.defoinplatel@gmail.com',
     packages=['AIGO', 'AIGO.go', 'AIGO.utils', 'AIGO.gui', 'tests'],

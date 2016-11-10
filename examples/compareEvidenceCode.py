@@ -149,7 +149,7 @@ def compareEvidence(projectDir):
 
 
     total_Annotation=sum([len(contribution[ec]) for ec in ["IC", "TAS","ISS", "NAS"] ])
-    
+
     for ec in ["IC", "TAS","ISS", "NAS"]:
         logger.info("\t%.02f %% of the annotations are supported by %s" % (100. * len(contribution[ec]) / total_Annotation, ec))
 
@@ -163,12 +163,12 @@ def compareEvidence(projectDir):
     reference="EXP2"
     #plotEvidence=["AHC", "IEA"]
     plotEvidence=["ISS", "TAS", "NAS", "IC", "AHC", "IEA"]
-    
+
     evidenceMarker=dict(zip(plotEvidence, ['s', 'd', 'D', '*', 'p', 'h']))
     evidenceSize=dict(zip(plotEvidence, [8, 8, 8, 8, 15, 15]))
     aspectColor=dict(zip(allAspect, ["blue", "green", "red", "cyan"]))
-    
-    
+
+
     fig=figure(figsize=(8,8))
     for evidence in plotEvidence:
 
@@ -183,7 +183,7 @@ def compareEvidence(projectDir):
             errX  = std(allX)/sqrt(len(allX))
             meanY = mean(allY)
             errY  = std(allY)/sqrt(len(allY))
-            
+
             errorbar(meanX, meanY, xerr=errX, yerr=errY, alpha=0.9, hold=True, mfc=aspectColor[aspect], ecolor=aspectColor[aspect], marker=evidenceMarker[evidence], ms=evidenceSize[evidence])
 
     xlabel("Verspoor Hierarchical Recall")
@@ -194,7 +194,7 @@ def compareEvidence(projectDir):
     allLabel=[aspect.replace("_"," ") for aspect in allAspect if not aspect == "All_aspects_of_GO"]
     allLabel.extend(plotEvidence)
 
-    
+
     foo=[ Line2D(arange(5), arange(5), ls='-', marker=m, color=c, label=l) for m,c,l in zip(allMarker, allColor, allLabel)]
     leg=legend(foo, allLabel, loc="upper left", numpoints=1)
     leg.legendPatch.set_alpha(0.5)
@@ -209,7 +209,7 @@ def compareEvidence(projectDir):
     #-----------------------------------------------
 
 
-        
+
 
 if __name__ == '__main__':
 
@@ -223,7 +223,7 @@ if __name__ == '__main__':
 
     try:
         compareEvidence(projectDir)
-        
+
     except Exception as e:
         print "AIGO is stopping because :"
         print "\t%s" % e

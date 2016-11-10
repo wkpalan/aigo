@@ -4,7 +4,7 @@ IO.py
 AIGO is a python library for
 the Analysis and Inter-comparison of Gene Ontology functional annotations.
 see (http://code.google.com/p/aigo).
-        
+
 Created by Michael Defoin-Platel on 21/02/2010.
 Copyright (c) 2010. All rights reserved.
 
@@ -62,10 +62,10 @@ def extract_GP2GO(fileName, G, refSet=None, sep1='\t', sep2=',', comments='#', s
         if not hasRef is None and not hasRef.has_key(g):
             logger.handleWarning("gene product %s is not in the reference set, skip it " % g)
             continue
-            
+
         for term in go.split(sep2):
             term = term.strip();
-            
+
             if not term.find('GO:')==0:
                 continue
 
@@ -78,7 +78,7 @@ def extract_GP2GO(fileName, G, refSet=None, sep1='\t', sep2=',', comments='#', s
 
             GenetoGO[aspect].setdefault(g, set([])).add(term)
             GOtoGene[aspect].setdefault(term, set([])).add(g)
-            
+
     return GenetoGO, GOtoGene
 
 
@@ -126,7 +126,7 @@ def extract_GO2GP(fileName, G, refSet=None, sep1='\t', sep2=',', comments='#', s
 
             GenetoGO[aspect].setdefault(gp, set([])).add(go)
             GOtoGene[aspect].setdefault(go, set([])).add(gp)
-            
+
     return GenetoGO, GOtoGene
 
 
@@ -198,7 +198,7 @@ def extract_Affy(fileName, G, refSet=None, GO_columns=[30, 31, 32], filetype="Af
     header=row
     #rd=list(csv.reader(f))
 
-    csv.register_dialect('format', delimiter=delimiter, quoting=quoting)    
+    csv.register_dialect('format', delimiter=delimiter, quoting=quoting)
     rd=csv.reader(csvfile, dialect='format')
     for row in rd:
         #Read gene product id
@@ -228,7 +228,7 @@ def readGAF_2(fileName):
              "GO ID","DB:Reference","Evidence Code","With (or) From",
              "Aspect","DB Object Name","DB Object Synonym","DB Object Type",
              "Taxon(|taxon)","Date","Assigned By","Annotation Extension","Gene Product Form ID"]
-        
+
     #Read the entire file
     data=[row for row in csv.reader(readFile(fileName), delimiter="\t")]
 
@@ -247,7 +247,7 @@ def readGAF_2(fileName):
     return iter(data[seek:]), GAF_col
 
 def extract_GAF(fileName, G, refSet=None):
-    
+
     fileName= checkForZip(fileName)
     if (not os.path.exists(fileName)):
         raise IOError(fileName+" does not exist and is required ")
@@ -265,9 +265,9 @@ def extract_GAF(fileName, G, refSet=None):
     for row in data:
         #g=row[GAF_col.index("DB Object Symbol")]
         g=".".join([row[GAF_col.index("Taxon(|taxon)")][6:],row[GAF_col.index("DB Object Symbol")]])
-        
+
         go=row[GAF_col.index('GO ID')]
-        
+
         if not row[GAF_col.index('Qualifier')].find('NOT')==-1:
             logger.handleWarning("go term %s for gene product %s is qualified as NOT: ignored" % (go, g))
             continue
@@ -289,7 +289,7 @@ def extract_GAF(fileName, G, refSet=None):
 
     return GenetoGO, GOtoGene
 
-    
+
 
 def extract_SCOP(fileName, G, refSet=None):
     fileName= checkForZip(fileName)
@@ -330,4 +330,3 @@ def extract_SCOP(fileName, G, refSet=None):
             GOtoGene[aspect].setdefault(go,set([])).add(g)
 
     return GenetoGO, GOtoGene
-

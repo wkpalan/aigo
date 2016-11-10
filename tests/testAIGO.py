@@ -21,8 +21,10 @@ analyseFA.largestSet([FA])
 logger.info("Largest sets of annotations:")
 logger.info("\t%d for %s" % (FA['largestSet']['All_aspects_of_GO'], FA.name))
 
-batchList=["coverage",  "richness", "numberAnnot", "redundancy", "specificity", "informationContent"]
+batchList=["coverage",  "richness", "numberAnnot", "redundancy", "specificity", "informationContent","hPrecision"]
 batchExecute(batchList, analyseFA, [FA])
 
 reportFA = ReportFA(outDir=None, name="platypusProject", organism="platypus")
 reportFA.printStatistics([FA] ,batchList)
+
+    
