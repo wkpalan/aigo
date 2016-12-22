@@ -3,6 +3,8 @@ from pylab import *
 from time import strftime
 
 from AIGO import allAspect
+import pandas as pd
+import numpy as np
 
 class ReportFA():
 
@@ -14,7 +16,7 @@ class ReportFA():
 
     def printStatistics(self, allFA, exportList):
         for aspect in allAspect:
-            
+
             #Write Headers
             print "\n=========================================================================="
             print "Properties of %s Functional Annotations for %s" % (self.organism, aspect)
@@ -36,7 +38,7 @@ class ReportFA():
                     else:
                         print "\t-",
             print "\n=========================================================================="
-    
+
 
     def saveStatistics(self, allFA, exportList):
         import xlwt
@@ -58,19 +60,19 @@ class ReportFA():
 
         number_xf=xlwt.easyxf('align: vert centre, horiz center')
         number_xf.num_format_str="0.00"
-        
+
         norm_xf=xlwt.easyxf('align: vert centre, horiz center')
 
-        
+
         wb = xlwt.Workbook()
 
         for aspect in allAspect:
-            
+
             ws=wb.add_sheet(aspect)
 
-            #Write Headers        
+            #Write Headers
             tit="Properties of %s Functional Annotations for %s" % (self.organism, aspect)
-            ws.col(0).width = len(tit) * 256            
+            ws.col(0).width = len(tit) * 256
             ws.write(0,0, tit , title_xf)
             ws.write(1,0, "Measure", bold_xf)
             for i,name in enumerate([FA.name for FA in allFA]):
@@ -86,16 +88,40 @@ class ReportFA():
                     d=FA[meas][aspect]
                     if type(d)==list:
                         d=mean(d)
-                        
+
                     ws.write(offset,1+i, d, number_xf)
 
                 offset=offset+1
 
-                
+
         fileName="%s/export_%s_%s.xls" % (self.outDir, self.name, self.organism)
         wb.save(fileName)
 
-        
+    def getStatistics(self,allFA,exportList):
+        onts = {'biological_process':'BP',"molecular_function":"MF","cellular_component":"CC",'All_aspects_of_GO'
+:"All"}
+        all_stats = pd.DataFrame()
+        for aspect in allAspect:
+            #Write log
+            print "Properties of %s Functional Annotations for %s" % (self.organism, aspect)
 
+            #get measures and convert into DataFrame
+            values = []
+            for meas in exportList:
+                for FA in allFA:
+                    if FA.has_key(meas):
+                        d=FA[meas][aspect]
+                        if type(d)==list:
+                            d=mean(d)
+                        values.append(float(d))
 
+                    else:
+                        values.append(0)
 
+            tmp_aspect = pd.Series(np.repeat(onts[aspect],len(exportList)))
+            tmp_metric = pd.Series(exportList)
+            tmp_values = pd.Series(values)
+            tmp_df = pd.concat([tmp_aspect,tmp_metric,tmp_values],axis=1)
+            all_stats = all_stats.append(tmp_df,ignore_index=True)
+        all_stats.columns = ["aspect","measure","value"]
+        return(all_stats)

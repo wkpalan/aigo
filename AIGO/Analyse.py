@@ -4,7 +4,7 @@ Analysis.py
 AIGO is a python library for
 the Analysis and Inter-comparison of Gene Ontology functional annotations.
 see (http://code.google.com/p/aigo).
-        
+
 Created by Michael Defoin-Platel on 21/02/2010.
 Copyright (c) 2010. All rights reserved.
 
@@ -31,10 +31,10 @@ from AIGO.Similarity import GOSet_Similarity, GO_Similarity
 class AnalyseFA(dict):
     """
     This class provides methods to compute statistis about functional annotations.
-    """    
+    """
 
     def __init__(self, **args):
-            
+
         # set any keyword valued parameters
         for k,v in args.items():
             self[k] = v
@@ -79,14 +79,14 @@ class AnalyseFA(dict):
 
             for a in FA.G.aspect:
                 obs=sum([len(FA.GOtoGP[a][goid]) for goid in FA.GOtoGP[a] if FA.G.isObsolete(goid)])
-                total=sum([len(FA.GOtoGP[a][goid]) for goid in FA.GOtoGP[a] ])            
+                total=sum([len(FA.GOtoGP[a][goid]) for goid in FA.GOtoGP[a] ])
                 allObsAnnot[a]=100.* obs / total
 
             FA['obsolete']=allObsAnnot
 
             #Compute the percentage of obsolete GO terms
             allObsTerm=dict()
-                
+
             obs=sum([1 for a in FA.G.aspect for goid in FA.GOtoGP[a] if FA.G.isObsolete(goid)])
             total=sum([1 for a in FA.G.aspect for goid in FA.GOtoGP[a] ])
             allObsTerm['All_aspects_of_GO']  = 100.* obs / total
@@ -119,7 +119,7 @@ class AnalyseFA(dict):
 
             for a in FA.G.aspect:
                 unconnected=sum([len(FA.GOtoGP[a][goid]) for goid in FA.GOtoGP[a] if FA.G.isUnconnected(goid)])
-                total=sum([len(FA.GOtoGP[a][goid]) for goid in FA.GOtoGP[a] ])            
+                total=sum([len(FA.GOtoGP[a][goid]) for goid in FA.GOtoGP[a] ])
                 allUnconnected[a]=100.* unconnected / total
 
             FA['unconnected']=allUnconnected
@@ -132,7 +132,7 @@ class AnalyseFA(dict):
 
         for FA in allFA:
             logger.info("\t%s" % FA.name)
-            
+
             for a in FA.G.aspect:
                 lgoid=FA.GOtoGP[a].keys()
                 for goid in lgoid:
@@ -157,9 +157,9 @@ class AnalyseFA(dict):
 
         for FA in allFA:
             logger.info("\t%s" % FA.name)
-            
             for a in FA.G.aspect:
                 for g in FA.GPtoGO[a].keys():
+                	
                     redundant=FA.G.get_Redundant(FA.GPtoGO[a][g])
                     FA.GPtoGO[a][g] = FA.GPtoGO[a][g].difference(redundant)
 
@@ -177,9 +177,11 @@ class AnalyseFA(dict):
             logger.info("\t%s" % FA.name)
 
             allRedundancy=dict()
+            #for each aspect of go
             for a in FA.G.aspect:
                 nbAnnot = sum([ len(FA.GPtoGO[a][g]) for g in FA.GPtoGO[a]])
                 nbRed= 0
+            	#for each gene in the annotations for that aspect
                 for g in FA.GPtoGO[a]:
                     nbRed = nbRed + len(FA.G.get_Redundant(FA.GPtoGO[a][g]))
 
@@ -240,7 +242,7 @@ class AnalyseFA(dict):
 
         for FA in allFA:
             logger.info("\t%s" % FA.name)
-                        
+
             numberAnnot=mean([ len(FA.GPtoGO[a][g]) for a in FA.GPtoGO for g in FA.GPtoGO[a]])
             allNumberAnnot=dict()
             for a in FA.G.aspect:
@@ -255,7 +257,7 @@ class AnalyseFA(dict):
         """
         This method computes the semantic similarity between the annotations of each gene product.
         """
-        
+
         for FA in allFA:
             logger.info("\t%s" % FA.name)
 
@@ -291,13 +293,19 @@ class AnalyseFA(dict):
         This method computes mean number of ancestor annotations per annotated gene product.
         """
 
+	
         for FA in allFA:
             logger.info("\t%s" % FA.name)
 
             allSpecificity=dict()
+            #for each aspect
             for a in FA.G.aspect:
+            	#get go terms for all genes annotated in that aspect not unique, but every annotation
                 allGO=[FA.G.GOtoInt(FA.GPtoGO[a][g]) for g in FA.GPtoGO[a]]
-                allSpecificity[a] = [ mean([len(FA.G.ancestors(gsid)) for gsid in GO ]) for GO in allGO ] 
+                #get the number of ancestors for each go term in the previous step.
+                #if a term is annotated to n number of genes it will be repeated n number of times
+                #mean of number of ancestors for each annotated term is calculated as specificity for each aspect
+                allSpecificity[a] = [ mean([len(FA.G.ancestors(gsid)) for gsid in GO ]) for GO in allGO ]
 
             allSpecificity['All_aspects_of_GO'] = mean([mean(allSpecificity[a]) for a in FA.G.aspect])
             FA['specificity']=allSpecificity
